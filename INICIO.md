@@ -5,17 +5,20 @@
 
 **Atualizado em:** 2026-08-13
 **Disciplina ativa:** product-discovery (sem fontes — modo exploração)
-**Última sessão:** 2026-08-13 — product-discovery ([[2026-08-13-product-discovery]])
+**Última sessão:** 2026-08-13 — product-discovery, 2ª do dia ([[2026-08-13-product-discovery-2]])
 
 ---
 
 ## Revisões vencidas
-Nenhuma vencida ainda. [[validacao-de-problema]] revisa em **2026-08-14**.
+Nenhuma vencida ainda. [[validacao-de-problema]] e [[riscos-de-descoberta]] revisam em
+**2026-08-14**.
 
 ## Próxima ação recomendada
-Revisar [[validacao-de-problema]] em 2026-08-14: pedir exemplo novo (outro produto/mercado) e
-checar se ele lista 2-3 formas baratas de validar sem ajuda — ele errou essa parte na última
-sessão.
+Revisar os dois em 2026-08-14. Em [[validacao-de-problema]], mudar o formato — recuperação
+livre falhou 2x seguidas, tentar reconhecimento (múltipla escolha) em vez de gerar do zero.
+Depois, começar a avaliar os 5 conceitos que só foram explicados em modo passivo e nunca
+testados: [[mvp-e-tipos-de-experimento]], [[jobs-to-be-done]], [[outcome-vs-output]],
+[[continuous-discovery]], [[dual-track-agile]] — todos `nao_iniciado` apesar de "vistos".
 
 ---
 
@@ -23,7 +26,7 @@ sessão.
 
 | Disciplina | Fontes | Conceitos | Estado do aluno | Última sessão |
 |---|---|---|---|---|
-| product-discovery | sem fontes (exploração) | 4 | em_desenvolvimento (validacao-de-problema) | 2026-08-13 |
+| product-discovery | sem fontes (exploração) | 7 | em_desenvolvimento (2 de 7 avaliados) | 2026-08-13 |
 
 ---
 

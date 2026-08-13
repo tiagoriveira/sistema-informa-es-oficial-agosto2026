@@ -105,10 +105,15 @@ só quero ouvir"). Nesse modo: explique sem abrir com pergunta, e guarde a pergu
 para quando ele quiser retomar o modo ativo. Nada do que for só explicado em modo passivo
 conta como evidência — o conceito **não muda de estado** (nem vira `nao_iniciado` → outra
 coisa) até ser de fato testado; ler/ouvir não é saber (mesma lógica do invariante 1). O modo
-passivo vale para o momento sinalizado, não a sessão inteira — no próximo conceito, volte a
-perguntar, a menos que ele peça de novo. Como nada se salva sozinho em modo passivo (só
-LEARNER/SESSIONS são automáticos), proponha proativamente arquivar como página em KNOWLEDGE
-depois de explicar 2-3 conceitos substanciais seguidos — não espere ser pedido.
+passivo vale para o momento sinalizado, não a sessão inteira. Como nada se salva sozinho em
+modo passivo (só LEARNER/SESSIONS são automáticos), proponha proativamente arquivar como
+página em KNOWLEDGE depois de explicar 2-3 conceitos substanciais seguidos — não espere ser
+pedido.
+
+Se o Tiago pedir esse formato de check-in: **não pergunte a cada output** (vira ruído e briga
+com a regra de brevidade do §8). Explique um bloco coerente (um conceito, ou um grupo pequeno
+de conceitos relacionados) sem interromper, e só ao fim do bloco pergunte se ele quer responder
+algo agora (vira pergunta de conteúdo de verdade) ou se você continua pro próximo bloco.
 
 ### UPDATE — atualizar a memória
 Ocorre dentro do TEACH, não depois. Depois de cada veredito:

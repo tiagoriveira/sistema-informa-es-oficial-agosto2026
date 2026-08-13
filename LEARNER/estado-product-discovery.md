@@ -28,6 +28,48 @@ estado: em_desenvolvimento · nivel: 1 · revisar: 2026-08-14
   tentar. Contraste com a evidência anterior: reconhece a hipótese concorrente quando ela
   aparece, mas ainda não converte isso em método de validação concreto.
 
+- 2026-08-13 — errou (2ª vez): exemplo novo (app de agendamento pra salão), pedido pra listar
+  métodos de validação. De novo "não sei" na pergunta direta. A lacuna de método concreto
+  persiste — mas ver evidência em [[riscos-de-descoberta]] abaixo: nesse mesmo turno ele
+  produziu raciocínio de risco mais avançado, só que não é o que foi pedido.
+
 **Próximo passo**
-Testar retenção com um exemplo novo (outro produto/mercado): pedir para ele mesmo listar 2-3
-formas baratas de validar, sem eu explicar de novo antes.
+Terceira tentativa de listar métodos concretos sem ajuda, com um exemplo novo. Se falhar de
+novo, mudar abordagem: pedir pra classificar métodos já explicados (múltipla escolha) em vez
+de gerar do zero — a lacuna pode ser recuperação livre, não reconhecimento.
+
+## [[riscos-de-descoberta]]
+estado: em_desenvolvimento · nivel: 1 · revisar: 2026-08-14
+
+**Evidências**
+- 2026-08-13 — acertou com hesitação (espontâneo, não foi perguntado diretamente): no exemplo
+  do app de agendamento pra salão, reconheceu que mercado saturado (milhares de concorrentes)
+  já é evidência de risco de valor resolvido — raciocínio correto e não-trivial. Mas concluiu
+  "eu nem validaria", que é overclaim: o risco não desaparece, migra (de "existe dor?" pra
+  "minha diferenciação importa?" e principalmente pra risco de viabilidade de negócio — custo
+  de aquisição de cliente num mercado saturado).
+
+## [[jobs-to-be-done]]
+estado: nao_iniciado
+
+Explicado em modo passivo em 2026-08-13, nunca avaliado.
+
+## [[continuous-discovery]]
+estado: nao_iniciado
+
+Explicado em modo passivo em 2026-08-13, nunca avaliado.
+
+## [[mvp-e-tipos-de-experimento]]
+estado: nao_iniciado
+
+Explicado em modo passivo em 2026-08-13, nunca avaliado.
+
+## [[outcome-vs-output]]
+estado: nao_iniciado
+
+Explicado em modo passivo em 2026-08-13, nunca avaliado.
+
+## [[dual-track-agile]]
+estado: nao_iniciado
+
+Explicado em modo passivo em 2026-08-13, nunca avaliado.

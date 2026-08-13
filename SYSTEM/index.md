@@ -31,11 +31,14 @@ Atualizado em: 2026-08-13
 **Sem fontes em `RAW/` — modo exploração** (ver `FAQ.md`). **Mapa:**
 [[mapa-product-discovery]] · **Estado do aluno:** [[estado-product-discovery]]
 
-#### Conceitos (4)
+#### Conceitos (7)
 - [[validacao-de-problema]] — confirmar a dor antes de construir
 - [[riscos-de-descoberta]] — os quatro riscos além do valor (Cagan)
+- [[mvp-e-tipos-de-experimento]] — experimento certo pra cada risco
 - [[jobs-to-be-done]] — o "job" que o cliente contrata (concorrência real)
+- [[outcome-vs-output]] — medir mudança real, não entrega
 - [[continuous-discovery]] — descoberta como prática contínua (Torres)
+- [[dual-track-agile]] — descoberta e entrega rodando em paralelo
 
 ### Outras disciplinas
 _(vazio — próxima nasce no primeiro INGEST com fonte real)_

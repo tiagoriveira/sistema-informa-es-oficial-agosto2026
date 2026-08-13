@@ -39,3 +39,16 @@ Primeira sessão da disciplina (sem fontes em `RAW/`, modo exploração — ver 
 Avaliado [[validacao-de-problema]]: acertou com hesitação a definição, errou a aplicação
 (desenho de teste barato). Estado: nao_iniciado → em_desenvolvimento (nível 1, revisar
 2026-08-14). Detalhe em `SESSIONS/2026-08-13-product-discovery.md`.
+
+## [2026-08-13] update | product-discovery (2)
+
+Arquivadas mais 3 páginas explicadas em modo passivo: [[mvp-e-tipos-de-experimento]],
+[[outcome-vs-output]], [[dual-track-agile]]. `mapa-product-discovery.md` reordenado (7
+conceitos). Regra de check-in em modo passivo ajustada no `CLAUDE.md` — só ao fim de bloco.
+
+## [2026-08-13] study | product-discovery (2)
+
+Segunda sessão do dia. [[validacao-de-problema]] segue em_desenvolvimento — errou de novo a
+recuperação livre de métodos. [[riscos-de-descoberta]]: nao_iniciado → em_desenvolvimento
+(evidência espontânea, nível 1, revisar 2026-08-14). Detalhe em
+`SESSIONS/2026-08-13-product-discovery-2.md`.
