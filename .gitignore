@@ -1,0 +1,14 @@
+# Obsidian — estado local da interface (não é conteúdo do vault)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# RAW/ FICA versionado por padrão. Se você tiver PDFs grandes e não quiser
+# que entrem no Git, descomente a linha abaixo — mas lembre que aí o RAW
+# deixa de ter backup pelo Git (o OneDrive continua cobrindo).
+# RAW/**/*.pdf
