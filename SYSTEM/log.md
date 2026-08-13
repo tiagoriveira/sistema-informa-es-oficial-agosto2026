@@ -46,6 +46,19 @@ Arquivadas mais 3 páginas explicadas em modo passivo: [[mvp-e-tipos-de-experime
 [[outcome-vs-output]], [[dual-track-agile]]. `mapa-product-discovery.md` reordenado (7
 conceitos). Regra de check-in em modo passivo ajustada no `CLAUDE.md` — só ao fim de bloco.
 
+## [2026-08-13] system | 6 disciplinas registradas vazias
+
+A pedido do Tiago (exceção deliberada à prática de "uma disciplina por vez"): registrados
+mapa + estado vazios para gestao-conhecimento-second-brain, marketing,
+visao-estrategica-negocios, fundamentos-sistemas-gestao, financas, ingles. Todas sem fontes.
+Inglês recebeu nota de formato adaptado (não segue o modelo de conceito único).
+
+## [2026-08-13] study | colaboracao-humano-ia
+
+Disciplina nova, checada por busca na web (pedido do Tiago, evitar conceito desatualizado).
+[[operador-centauro]]: nao_iniciado → em_desenvolvimento (acertou com hesitação, nível 1,
+revisar 2026-08-14). Detalhe em `SESSIONS/2026-08-13-colaboracao-humano-ia.md`.
+
 ## [2026-08-13] study | product-discovery (2)
 
 Segunda sessão do dia. [[validacao-de-problema]] segue em_desenvolvimento — errou de novo a

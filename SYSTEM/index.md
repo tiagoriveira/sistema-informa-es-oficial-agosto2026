@@ -40,8 +40,23 @@ Atualizado em: 2026-08-13
 - [[continuous-discovery]] — descoberta como prática contínua (Torres)
 - [[dual-track-agile]] — descoberta e entrega rodando em paralelo
 
-### Outras disciplinas
-_(vazio — próxima nasce no primeiro INGEST com fonte real)_
+### Colaboração Humano-IA (Operador Centauro)
+
+**Sem fontes em `RAW/` — conteúdo checado por busca na web em 2026-08-13.** **Mapa:**
+[[mapa-colaboracao-humano-ia]] · **Estado do aluno:** [[estado-colaboracao-humano-ia]]
+
+#### Conceitos (1)
+- [[operador-centauro]] — humano planeja/decide, IA executa/organiza; distinto de uso
+  genérico (oráculo) e de centauro reverso
+
+### Outras disciplinas (registradas em 2026-08-13, ainda sem sessão)
+
+- [[mapa-gestao-conhecimento-second-brain]] — Gestão do Conhecimento & Second Brain
+- [[mapa-marketing]] — Marketing
+- [[mapa-visao-estrategica-negocios]] — Visão Estratégica em Negócios
+- [[mapa-fundamentos-sistemas-gestao]] — Fundamentos de Sistemas & Gestão
+- [[mapa-financas]] — Finanças
+- [[mapa-ingles]] — Inglês (formato adaptado, ver nota no mapa)
 
 ---
 
