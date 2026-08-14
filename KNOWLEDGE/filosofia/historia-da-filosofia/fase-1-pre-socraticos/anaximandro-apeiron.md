@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-disciplina: filosofia
+disciplina: historia-da-filosofia
 titulo: Anaximandro e o ápeiron
 criado: 2026-08-14
 atualizado: 2026-08-14

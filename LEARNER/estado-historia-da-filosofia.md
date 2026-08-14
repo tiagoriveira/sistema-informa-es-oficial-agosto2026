@@ -1,6 +1,6 @@
 ---
 tipo: estado
-disciplina: filosofia
+disciplina: historia-da-filosofia
 atualizado: 2026-08-14
 ---
 

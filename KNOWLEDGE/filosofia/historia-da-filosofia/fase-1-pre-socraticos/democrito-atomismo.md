@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-disciplina: filosofia
+disciplina: historia-da-filosofia
 titulo: Demócrito e o atomismo
 criado: 2026-08-14
 atualizado: 2026-08-14

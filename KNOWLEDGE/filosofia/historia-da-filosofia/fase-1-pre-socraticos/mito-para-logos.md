@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-disciplina: filosofia
+disciplina: historia-da-filosofia
 titulo: De mito a logos — o nascimento da filosofia
 criado: 2026-08-14
 atualizado: 2026-08-14
@@ -26,7 +26,7 @@ e única, testável pelo argumento, em vez de aceitar uma narrativa herdada.
   pergunta — isso inaugura uma tradição de debate racional, não de dogma mítico.
 
 ## Relacionado
-[[mapa-filosofia]]
+[[mapa-historia-da-filosofia]]
 
 ## Conhecimento externo (fora das suas fontes)
 > Não está em nenhuma fonte do RAW — disciplina ainda sem fontes, modo exploração.

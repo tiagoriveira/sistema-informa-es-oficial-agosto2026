@@ -1,6 +1,6 @@
 ---
 tipo: sessao
-disciplina: filosofia
+disciplina: historia-da-filosofia
 data: 2026-08-14
 duracao_aprox: —
 ---

@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-disciplina: filosofia
+disciplina: historia-da-filosofia
 titulo: Heráclito — fluxo e logos
 criado: 2026-08-14
 atualizado: 2026-08-14

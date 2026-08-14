@@ -131,3 +131,50 @@ escreve entrada `lint` no fim deste log e dá push — sem tocar em mais nada. R
 conectores MCP que vieram anexados por padrão (Meta Ads, Notion, Vercel, etc.) — a auditoria
 só precisa do repo git. CLAUDE.md §3 ganhou "git pull no início da sessão", senão o relatório
 semanal fica preso no GitHub e a sessão local nunca vê.
+
+## [2026-08-14] system | neurociencia-esportiva registrada
+
+Nova disciplina, a pedido do Tiago. Mapa + estado vazios inicialmente, sem fontes ainda.
+Aproveitado o momento para corrigir `SYSTEM/index.md`: filosofia estava listada como "sem
+sessão" dentro de "Outras disciplinas", desatualizado desde que ganhou 9 conceitos —
+promovida a seção própria, igual product-discovery.
+
+## [2026-08-14] system | trilha em partes (agrupamento tipo Ybernator)
+
+Inspirado na hierarquia de categorias do Ybernator (>3 sub-áreas → agrupa). "Ordem de estudo
+sugerida" com mais de ~5-6 itens agora agrupa em `### Parte N — tema`, numeração corrida
+(regra do ⚠️/📍 inalterada). Documentado em `schema.md` §3. Aplicado em
+`mapa-neurociencia-esportiva.md` (3 partes) e `mapa-filosofia.md` (2 partes: pré-socráticos /
+virada antropológica).
+_(Superado no mesmo dia — ver "grade curricular" abaixo: "Parte" virou "Fase", e o
+agrupamento que eu tinha inventado tinha fases de 2 itens.)_
+
+## [2026-08-14] system | reestruturação: hub → disciplina → fase
+
+Pedido do Tiago, inspirado na estrutura real do Ybernator (`EmentaFase {nome, topicos[]}` e
+hubs com `isCategory`). KNOWLEDGE saiu de plano para 3 níveis:
+`KNOWLEDGE/<hub>/<disciplina>/fase-N-<slug>/`, com o mapa sozinho no nível da disciplina.
+8 hubs criados; `filosofia` virou `historia-da-filosofia` dentro do hub `filosofia` (é uma
+das várias disciplinas de filosofia possíveis). `estado-filosofia.md` renomeado junto, e
+todas as referências aos nomes antigos (mapa e estado) atualizadas. Links não
+quebraram (invariante 6 — Obsidian resolve por nome, não por caminho). `ARQUITETURA` #8
+reescrita: registrava KNOWLEDGE plano como decisão deliberada, agora registra a mudança e
+por que a razão original enfraqueceu. `schema.md` §0 ganhou a árvore de pastas.
+
+## [2026-08-14] system | grade curricular nas 10 disciplinas
+
+Tiago recusou importar as ementas do Ybernator ("a sequência ali talvez não seja a correta e
+muitos tópicos podem ter ficado obsoletos") — grades desenhadas do zero. Formato: `### Fase N
+— <tema>`, 4-6 tópicos por fase, 3-6 fases, tópico descritivo em vez de nome solto de
+conceito (`schema.md` §3). Total: 253 tópicos em 10 disciplinas.
+
+Busca web (regra §6) nas que envelhecem: neurociência esportiva, colaboração humano-IA,
+marketing, gestão do conhecimento, finanças, sistemas/gestão — fontes citadas em `## Nota
+sobre a grade` no fim de cada mapa. Sem busca em história da filosofia (canônica), inglês
+(CEFR é padrão estável) e visão estratégica (arcabouço estável, só exemplos envelhecem).
+Product-discovery redesenhada sobre os 7 conceitos existentes: o buraco era método de coleta
+de evidência, que virou a Fase 3.
+
+`fundamentos-sistemas-gestao` ficou como uma disciplina só: o corte que o Tiago levantou
+(sistêmico / sistemas de informação / pessoas) virou Fases 1-2, 4 e 5 — a ordem importa,
+ERP sem processo é apertar botão. `financas` idem: pessoal (Fases 1-3) → corporativo (4-5).

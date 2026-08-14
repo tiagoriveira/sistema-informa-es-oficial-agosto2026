@@ -19,10 +19,10 @@ Sistema-de-estudos-tiago-agosto-2026/
 ├── RAW/                       ← fontes originais. Imutável. Só o Tiago escreve
 │   └── <disciplina>/
 │
-├── KNOWLEDGE/                 ← conhecimento sobre o assunto
-│   └── <disciplina>/
+├── KNOWLEDGE/                 ← conhecimento sobre o assunto (3 níveis, ver #8)
+│   └── <hub>/<disciplina>/
 │       ├── mapa-<disciplina>.md
-│       ├── <conceito>.md
+│       ├── fase-N-<slug>/<conceito>.md
 │       └── fontes/<fonte>.md
 │
 ├── LEARNER/                   ← modelo do aluno
@@ -262,25 +262,34 @@ principal, referência cruzada na página de fonte.
 
 ---
 
-### #8 — KNOWLEDGE plano por disciplina; fim da distinção conceito/tema
+### #8 — KNOWLEDGE em 3 níveis: hub → disciplina → fase
 
 **Briefing:** `KNOWLEDGE/{conceitos,temas,fontes}/` no topo.
 
-**Agora:** `KNOWLEDGE/<disciplina>/` com conceitos planos na raiz, `fontes/` dentro, e um
-`mapa-<disciplina>.md`. Tema virou **seção do mapa**, não pasta nem tipo de página.
+**Versão de 2026-08-12 (superada):** `KNOWLEDGE/<disciplina>/` plano, conceitos na raiz, tema
+como seção do mapa. A razão era que reordenar tema custava mover uma linha, não um arquivo.
 
-**Por quê:** disciplina-primeiro escala e agrupa o que é realmente consultado junto. E a
-fronteira conceito/tema é impossível de manter — "Elasticidade" é conceito ou tema? A dúvida
-custa tempo toda vez e não devolve nada.
+**Agora (2026-08-14):** três níveis — `KNOWLEDGE/<hub>/<disciplina>/fase-N-<slug>/`, com
+`mapa-<disciplina>.md` sozinho no nível da disciplina e `fontes/` como irmã das fases.
+Formato completo em [[schema]] §0.
 
-**Problema que resolve:** classificação ambígua e o mesmo assunto acabando em dois lugares.
+**Por quê mudou:** quando a decisão original foi tomada não existia grade curricular. Hoje
+cada disciplina tem uma grade estável em fases ([[schema]] §3), e a fase é uma divisão real e
+duradoura — não um agrupamento improvisado. Com isso o argumento "mover linha é mais barato
+que mover arquivo" perde força: fase quase não muda. Os hubs vieram do mesmo pedido —
+agrupar disciplinas irmãs (`filosofia/` conterá história, epistemologia, lógica, ética).
 
-**Benefícios:** um tipo de página a menos, uma decisão a menos por ingest. O agrupamento
-temático continua existindo, no mapa, onde é barato mudar de ideia — mover uma linha em vez
-de mover arquivos e consertar links.
+**Problema que resolve:** a pasta plana não mostrava progressão. Abrir `KNOWLEDGE/filosofia/`
+dava 9 arquivos em ordem alfabética, sem dizer o que vem antes do quê — a informação só
+existia no mapa. Agora a árvore de arquivos e a grade contam a mesma história.
 
-**Trade-off:** disciplina com 200 conceitos vira uma pasta longa. Aceitável: a navegação real
-é por `mapa`, `index` e links, não pela árvore de arquivos.
+**Benefícios:** navegação por sistema de arquivos passa a funcionar; escopo de fase visível;
+espaço para a disciplina crescer dentro do hub sem virar pasta de 200 arquivos.
+
+**Trade-off:** conceito que muda de fase agora é mover arquivo, não editar linha. E conceito
+que pertence a duas fases não tem lar óbvio — a convenção é deixar na fase onde é ensinado
+primeiro e linkar da outra. Os `[[links]]` **não** quebram com a mudança (invariante 6: o
+Obsidian resolve por nome de arquivo, não por caminho), o que tornou a migração segura.
 
 ---
 

@@ -38,4 +38,4 @@ Ainda falta fechar o mapeamento exato de símbolo↔estado com o Tiago antes de 
 **2026-08-14 — validada e implementada.** Mapeamento fechado: ✅ consolidado · ⚠️ fragil ou
 revisão vencida (primeiro item não-✅ nessa condição) · 📍 primeiro item não-✅ fora dessa
 condição (sugestão de próximo passo) · ⬜ resto. Formato em `SYSTEM/schema.md` §3, regra de
-regeneração no `CLAUDE.md` (UPDATE), primeira aplicação em `mapa-filosofia.md`.
+regeneração no `CLAUDE.md` (UPDATE), primeira aplicação em `mapa-historia-da-filosofia.md`.

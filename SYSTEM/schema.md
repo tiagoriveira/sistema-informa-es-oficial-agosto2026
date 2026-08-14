@@ -22,6 +22,21 @@ página órfã e o LINT vai reclamar.
 
 **Frontmatter:** só campos que são usados de fato. Campo que ninguém lê é dívida de manutenção.
 
+**Estrutura de pastas em KNOWLEDGE** (3 níveis, desde 2026-08-14 — ver `ARQUITETURA` #8):
+
+```
+KNOWLEDGE/
+└── <hub>/                                  ← agrupa disciplinas irmãs
+    └── <disciplina>/
+        ├── mapa-<disciplina>.md            ← o mapa fica sozinho neste nível
+        ├── fase-N-<slug-da-fase>/          ← uma pasta por fase da grade
+        │   └── <conceito>.md
+        └── fontes/<fonte>.md               ← irmã das fases
+```
+
+O caminho **não** afeta `[[links]]` (o Obsidian resolve por nome de arquivo) — mover conceito
+entre fases é seguro. `LEARNER/estado-<disciplina>.md` continua plano, sem hub no nome.
+
 ---
 
 ## 1. Página de conceito
@@ -171,6 +186,33 @@ LEARNER daquela disciplina muda (mesmo princípio do `INICIO.md`):
 - `⬜` todo o resto (nao_iniciado ou em_desenvolvimento fora do primeiro item pendente)
 
 Exatamente um item por vez fica `⚠️` ou `📍` (o primeiro não-`✅` da lista) — não os dois.
+
+### Grade curricular: fases
+
+"Ordem de estudo sugerida" é a **grade curricular** da disciplina, agrupada em `### Fase N —
+<tema>`. Numeração dos tópicos é **corrida entre as fases** (a regra do `⚠️`/`📍` acima não
+muda — ainda é o primeiro item não-`✅` de cima a baixo, ignorando os cabeçalhos de fase).
+
+- **4-6 tópicos por fase.** Fase com 1-2 itens é sinal de que o corte está errado.
+- **3-6 fases por disciplina.**
+- **Tópico é descritivo, não só nome de conceito** — "Fadiga central vs. periférica: o papel
+  do cérebro no cansaço" ensina mais que "Fadiga".
+- Tópico que já virou página leva `[[link]]`; tópico ainda não estudado é texto puro.
+
+```markdown
+## Ordem de estudo sugerida
+### Fase 1 — Fundamentos
+1. ✅ [[conceito-a]] — resumo
+2. 📍 [[conceito-b]] — resumo
+3. ⬜ Tópico ainda sem página — o que ele ensina
+4. ⬜ Outro tópico
+
+### Fase 2 — Aplicação
+5. ⬜ Primeiro tópico da fase 2
+```
+
+Toda grade termina com `## Nota sobre a grade`: quando foi desenhada, qual a lógica da ordem,
+o que envelhece mais rápido, e as fontes consultadas se houve busca web (regra `CLAUDE.md` §6).
 
 ```markdown
 ## Ordem de estudo sugerida
