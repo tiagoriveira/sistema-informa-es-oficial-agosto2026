@@ -404,7 +404,7 @@ objetivo para reavaliar em "Melhorias futuras".
 | 18 | `log.md` rotaciona por ano | append-only sem limite acaba grande demais para abrir |
 | 19 | Página de fonte tem `## Não coberto por esta fonte` | lacuna honesta: saber o que a fonte não diz |
 | 20 | Proibição de elogio automático (`CLAUDE.md` §8) | "quase isso!" em resposta errada corrompe o modelo e o aprendizado |
-| 21 | Git ativo desde 2026-08-13 | remoto: `github.com/tiagoriveira/sistema-informa-es-oficial-agosto2026`; commit manual ao fim da sessão (comando no FAQ) |
+| 21 | Git ativo desde 2026-08-13 | remoto: `github.com/tiagoriveira/sistema-informa-es-oficial-agosto2026`; commit + push automáticos ao fim da sessão desde 2026-08-14 (comando manual no FAQ, se preferir) |
 | 22 | Cinco templates em `_templates/` | funcionam com o plugin Templater, ou como copiar e colar |
 
 ---

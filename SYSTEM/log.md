@@ -105,3 +105,29 @@ bloco, ainda não testados) antes de fechar a sessão — conteúdo que só exis
 Correção: datas de todo o trabalho de filosofia estavam erradas como 2026-08-13; corrigidas
 para 2026-08-14 (data real), incluindo o revisar de [[mito-para-logos]] (2026-08-16 →
 2026-08-17). Sessão fechada em `SESSIONS/2026-08-14-filosofia.md`.
+
+## [2026-08-14] system | FAQ e ARQUITETURA desatualizados pelo protocolo novo
+
+Tiago pediu auditoria de consistência entre FAQ.md/ARQUITETURA.md e o CLAUDE.md real.
+Achados: FAQ descrevia "abre com pergunta" como padrão (virou exceção hoje), e ambos
+descreviam git commit como manual (agora é automático ao encerrar). Corrigidos os dois.
+CLAUDE.md ganhou invariante 10 (checar FAQ/ARQUITETURA sempre que uma regra mudar) e o passo
+5 do UPDATE (git push automático, que já valia por pedido do Tiago mas só estava na memória
+da IA, não no CLAUDE.md).
+
+## [2026-08-14] system | ementa visual implementada ([[ementa-mapa-status-visual]])
+
+Ideia validada e executada no mesmo dia. Status visual (✅⚠️📍⬜) na "Ordem de estudo
+sugerida" do mapa — cache derivado do LEARNER, regenerado a cada UPDATE. Formato em
+`schema.md` §3, regra no `CLAUDE.md` (UPDATE). Aplicado em `mapa-filosofia.md`: 📍 em
+[[mito-para-logos]] (único avaliado), resto ⬜.
+
+## [2026-08-14] system | auditoria semanal automática configurada
+
+Routine na nuvem (`trig_012aX6ua3PESCJ8B5Gmq1ece`), roda todo domingo 20h BRT (23h UTC).
+Audita CLAUDE.md vs FAQ/ARQUITETURA, links quebrados, páginas órfãs, conceitos sem entrada no
+LEARNER, revisões vencidas, INICIO.md/index.md fora de sincronia. Só reporta (não corrige),
+escreve entrada `lint` no fim deste log e dá push — sem tocar em mais nada. Removi os
+conectores MCP que vieram anexados por padrão (Meta Ads, Notion, Vercel, etc.) — a auditoria
+só precisa do repo git. CLAUDE.md §3 ganhou "git pull no início da sessão", senão o relatório
+semanal fica preso no GitHub e a sessão local nunca vê.

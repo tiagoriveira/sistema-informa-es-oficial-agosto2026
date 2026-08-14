@@ -157,6 +157,28 @@ atualizado: 2026-08-12
 - Como elasticidade interage com política de imposto? (não coberto pelas fontes atuais)
 ```
 
+### Status visual na "Ordem de estudo sugerida"
+
+Só se aplica quando a disciplina já tem essa seção (ordem definida). Prefixe cada item com um
+símbolo — **cache derivado do LEARNER**, nunca editado à mão, regenerado toda vez que o
+LEARNER daquela disciplina muda (mesmo princípio do `INICIO.md`):
+
+- `✅` consolidado
+- `⚠️` fragil, ou revisão vencida (varre a ordem; o primeiro item ainda não `✅` que estiver
+  nessa condição recebe este símbolo)
+- `📍` se o primeiro item ainda não `✅` **não** estiver em `⚠️`, ele recebe este símbolo —
+  é a sugestão de próximo passo
+- `⬜` todo o resto (nao_iniciado ou em_desenvolvimento fora do primeiro item pendente)
+
+Exatamente um item por vez fica `⚠️` ou `📍` (o primeiro não-`✅` da lista) — não os dois.
+
+```markdown
+## Ordem de estudo sugerida
+1. ✅ [[mito-para-logos]]
+2. ⚠️ [[anaximandro-apeiron]]
+3. ⬜ [[anaximenes-ar]]
+```
+
 ---
 
 ## 4. Estado do aluno (LEARNER)

@@ -62,17 +62,15 @@ grep "^## \[" SYSTEM/log.md | grep ingest
 
 **Como começo uma sessão?**
 "Quero estudar economia" ou só "continue". Eu leio `INICIO.md` e `LEARNER/estado-economia.md`,
-digo em uma linha o que escolhi fazer e por quê, e começo com uma pergunta.
+digo em uma linha o que escolhi fazer e por quê, e explico direto — sem pergunta de abertura.
 
-**Por que você me faz pergunta em vez de explicar?**
-Porque recuperar da memória é o que consolida — reler dá sensação de aprendizado sem o
-aprendizado. E porque eu preciso do seu erro para saber o que ensinar. Se quiser exposição
-direta, peça a qualquer momento da sessão: *"explica direto"* ou *"deixa essa pergunta pra
-depois"*. Não precisa ser a sessão inteira — pode ser só naquele conceito, porque às vezes
-você está em modo passivo mesmo (só quer consumir, não externalizar), e no próximo eu volto a
-perguntar, a menos que você peça de novo. É uma exceção consciente: nada do que for só
-explicado nesse modo conta como evidência de que você sabe — se virasse regra fixa, o modelo
-do aluno para de ter dados.
+**Por que você não me faz pergunta?**
+Por padrão, entrega vem antes de teste: friccão zero, sem pergunta de abertura, um
+micro-conceito por vez. Avaliação (a pergunta que testa se você sabe) é um momento à parte —
+só acontece quando há revisão vencida, quando você pede, ou quando você sinaliza que quer modo
+ativo. Fora desses momentos, nada do que for só explicado conta como evidência de que você
+sabe — ler/ouvir não é saber, então o conceito não muda de estado até ser de fato testado.
+Se quiser ser testado a qualquer momento, é só pedir.
 
 **Como peço para continuar de onde paramos?**
 Só "continue". Não precisa resumir a sessão passada nem lembrar de nada — é justamente esse
@@ -264,18 +262,12 @@ conceitos em KNOWLEDGE que nunca entraram no LEARNER, conceitos sem revisão age
 muito atrasadas, sessões que não mudaram estado nenhum, e `INICIO.md`/`index.md` fora de
 sincronia.
 
-**Como ligo o Git?** (recomendado)
-Uma vez:
-```bash
-git init && git add -A && git commit -m "vault inicial"
-```
-Depois, ao fim de cada sessão:
-```bash
-git add -A && git commit -m "sessao $(date +%F)"
-```
-Ganho: desfazer qualquer corrupção e ver o histórico real de mudanças. Se o vault está no
-OneDrive, você já tem versionamento de arquivo — mas sem mensagem, sem diff legível e sem
-commit atômico por sessão.
+**Como ligo o Git?** (já ligado)
+Já está ativo, com remoto no GitHub. Quando você diz que quer encerrar a sessão, eu faço
+`git add` dos arquivos do vault que mudaram, `commit` com mensagem descrevendo a sessão, e
+`push` — automático, sem precisar pedir. Ganho: desfazer qualquer corrupção e ver o histórico
+real de mudanças, sincronizado. Se quiser fazer manual em algum momento, o comando é
+`git add -A && git commit -m "sessao $(date +%F)" && git push`.
 
 **Backup?**
 O OneDrive já sincroniza. Para algo importante de verdade, Git + um remoto privado.
@@ -313,9 +305,10 @@ Gatilhos objetivos em [[ARQUITETURA]] §5: LEARNER acima de ~300 linhas → divi
 O valor do sistema está no ciclo completo — ingerir, estudar, errar, revisar. Ingerir dez
 fontes antes de estudar uma constrói uma biblioteca de resumos que você nunca leu.
 
-**2. Responda antes de pedir a resposta.** Sempre. Mesmo com certeza de que vai errar. Um erro
-diagnosticado vale mais que três explicações lidas — e é a única forma de o sistema saber o
-que ensinar.
+**2. Quando eu te testar, responda antes de pedir a resposta.** Mesmo com certeza de que vai
+errar. Um erro diagnosticado vale mais que três explicações lidas — e é a única forma de o
+sistema saber o que ensinar. (Fora do momento de teste, a entrega já vem direta — não é
+preciso pedir.)
 
 **3. Diga "não entendi" sem constrangimento.** É a informação mais valiosa que você produz.
 "Entendi" para acelerar corrompe o modelo por meses.

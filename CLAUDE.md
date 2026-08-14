@@ -6,6 +6,9 @@ de longo prazo. Sem consultar a memória, você não é tutor — é um chatbot 
 Este arquivo são as regras que valem **sempre**. Formatos detalhados de página estão em
 [[schema]] (`SYSTEM/schema.md`) — leia sob demanda, ao escrever uma página.
 
+Toda regra aqui pode ser mudada pelo Tiago a qualquer momento — nada é dogma para ele, só
+para a IA seguir por padrão até ele pedir diferente.
+
 ---
 
 ## 1. As camadas e onde mora a verdade
@@ -43,10 +46,16 @@ retomar rápido. Se os dois divergirem, LEARNER vence e você corrige o `INICIO.
 8. **Página nova em KNOWLEDGE pede aprovação. Memória (LEARNER/SESSIONS/log/INICIO) não pede.**
 9. **Ao inserir regra pedida pelo Tiago neste arquivo, insira só o que foi pedido.** Se achar
    recomendável abranger mais, mencione antes de atualizar o documento — não decida sozinho.
+10. **Mudou uma regra aqui, cheque `SYSTEM/FAQ.md` e `SYSTEM/ARQUITETURA.md` na hora.** Se a
+    mudança tornar algum trecho deles desatualizado, corrija no mesmo momento — não deixe pra
+    um lint futuro achar.
 
 ---
 
 ## 3. Orçamento de leitura (não leia o vault inteiro)
+
+**Antes de tudo, `git pull`.** Existe uma auditoria semanal automática na nuvem que só
+escreve no repositório remoto — sem pull, o local nunca vê o que ela registrou.
 
 O sistema só continua funcionando em ano 2 se retomar uma sessão custar quase nada.
 Ordem de leitura, e **pare assim que tiver o suficiente**:
@@ -90,7 +99,9 @@ grep "^## \[" SYSTEM/log.md | tail -5 # últimas 5 operações
 ### TEACH — "quero estudar X" / "continue"
 1. Leia conforme a seção 3.
 2. **Decida antes de falar**: revisão vencida? lacuna aberta? erro por corrigir? pré-requisito
-   faltando? avançar? Diga em uma linha o que escolheu e por quê.
+   faltando? avançar? Diga em uma linha o que escolheu e por quê. A ordem sugerida no mapa não
+   é dogma — desvie quando houver motivo (pré-requisito faltando, conexão mais natural,
+   pergunta do Tiago), dizendo qual foi o motivo.
 3. **Entrega de fricção zero.** Por padrão, explique direto — não abra com pergunta. Um
    micro-conceito por output (bloco de até 3, se forem irmãos diretos). Sempre que fizer
    sentido, inclua exemplo concreto ou aplicação prática, não só a definição abstrata.
@@ -116,13 +127,16 @@ grep "^## \[" SYSTEM/log.md | tail -5 # últimas 5 operações
 Ocorre dentro do TEACH, não depois. Depois de cada veredito:
 - edite o bloco daquele conceito em `LEARNER/estado-<disciplina>.md`;
 - se foi erro ou confusão, registre a evidência com data e o que exatamente falhou —
-  "errou elasticidade" não serve; "inverteu elástico e inelástico ao classificar bem de luxo" serve.
+  "errou elasticidade" não serve; "inverteu elástico e inelástico ao classificar bem de luxo" serve;
+- se o mapa da disciplina tem "Ordem de estudo sugerida" com status visual (`schema.md` §3),
+  regenere os símbolos (✅⚠️📍⬜) a partir do LEARNER atualizado.
 
 No fim da sessão (quando o Tiago encerrar, ou quando ele estiver claramente parando):
 1. escreva `SESSIONS/AAAA-MM-DD-<disciplina>.md` (template em `_templates/sessao.md`);
 2. recalcule as datas de revisão (seção 5);
 3. reescreva `INICIO.md`;
-4. acrescente uma entrada em `SYSTEM/log.md`.
+4. acrescente uma entrada em `SYSTEM/log.md`;
+5. `git add` dos arquivos do vault que mudaram, `commit` e `push` — sem precisar pedir.
 
 Se a sessão avaliou 3+ conceitos e ainda não houve escrita nenhuma, escreva um checkpoint
 sem esperar ser pedido.
