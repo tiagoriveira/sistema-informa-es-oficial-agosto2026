@@ -65,3 +65,43 @@ Segunda sessão do dia. [[validacao-de-problema]] segue em_desenvolvimento — e
 recuperação livre de métodos. [[riscos-de-descoberta]]: nao_iniciado → em_desenvolvimento
 (evidência espontânea, nível 1, revisar 2026-08-14). Detalhe em
 `SESSIONS/2026-08-13-product-discovery-2.md`.
+
+## [2026-08-14] system | filosofia registrada
+
+Nova disciplina, a pedido do Tiago (decidiu manter separada do vault-conhecimento-ia, que
+segue só para notas atômicas via skill `obsidian-filosofia`). Mapa + estado vazios, sem
+fontes ainda.
+
+## [2026-08-14] study | filosofia
+
+Primeira sessão. [[mito-para-logos]] (Tales de Mileto, virada mythos→logos): nao_iniciado →
+em_desenvolvimento, acertou sem ajuda por que Tales é o primeiro filósofo (nível 2, revisar
+2026-08-17). Página criada em KNOWLEDGE, rotulada como conhecimento externo (sem fonte RAW).
+
+## [2026-08-14] update | filosofia (modo passivo)
+
+A pedido do Tiago, TEACH passou a checar só ao fim de bloco (não a cada output) — CLAUDE.md
+§4 ajustado. Depois disso, Tiago pediu modo passivo (sem pergunta nenhuma por hora).
+Explicados em sequência: [[anaximandro-apeiron]], [[anaximenes-ar]],
+[[heraclito-fluxo-e-logos]], [[parmenides-ser-imutavel]]. Páginas criadas, todas
+`nao_iniciado` no LEARNER — nada testado ainda, conteúdo só explicado. Depois, páginas de
+[[empedocles-quatro-raizes]] e [[democrito-atomismo]] também criadas, mesmo estado.
+
+## [2026-08-14] system | protocolo de entrega reescrito (CLAUDE.md §4 e §8)
+
+Inspirado em análise do repo Ybernator (app de estudos do Tiagolink repo: https://github.com/tiagoribeiror58-debug/escola-tiago-oficial.git ) a pedido dele. TEACH: item 3
+virou "entrega de fricção zero" (explica direto, sem pergunta de abertura, exemplo/aplicação
+prática, termina bloco com menu de próximos passos, não pergunta); item 4 isola avaliação em
+momento próprio (só quando pedido, revisão vencida, ou modo ativo sinalizado) — substitui a
+exceção "modo passivo", que virou o comportamento padrão. §8 ganhou teto numérico (~120
+palavras/conceito, ~250/output) no lugar de "curto por padrão". 3 ideias maiores da mesma
+conversa (dashboard/currículo, INBOX de notas, ementa com status ✅📍⬜) foram para `ideias/`
+em vez do CLAUDE.md — são produto, não regra de tutor.
+
+## [2026-08-14] update | filosofia (2)
+
+Páginas de [[sofistas-relativismo]] e [[socrates-metodo-elenchos]] criadas (explicados em
+bloco, ainda não testados) antes de fechar a sessão — conteúdo que só existia no chat.
+Correção: datas de todo o trabalho de filosofia estavam erradas como 2026-08-13; corrigidas
+para 2026-08-14 (data real), incluindo o revisar de [[mito-para-logos]] (2026-08-16 →
+2026-08-17). Sessão fechada em `SESSIONS/2026-08-14-filosofia.md`.

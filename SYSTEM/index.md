@@ -57,6 +57,16 @@ Atualizado em: 2026-08-13
 - [[mapa-fundamentos-sistemas-gestao]] — Fundamentos de Sistemas & Gestão
 - [[mapa-financas]] — Finanças
 - [[mapa-ingles]] — Inglês (formato adaptado, ver nota no mapa)
+- [[mapa-filosofia]] — Filosofia
+  - [[mito-para-logos]] — Tales de Mileto e a virada de explicação mítica para racional
+  - [[anaximandro-apeiron]] — arché precisa ser indeterminado, não um elemento observável
+  - [[anaximenes-ar]] — ar como arché, com mecanismo de rarefação/condensação
+  - [[heraclito-fluxo-e-logos]] — tudo muda, governado por uma ordem racional
+  - [[parmenides-ser-imutavel]] — mudança é ilusão dos sentidos, o ser é uno e imóvel
+  - [[empedocles-quatro-raizes]] — quatro elementos eternos, unidos/separados por Amor e Discórdia
+  - [[democrito-atomismo]] — átomos eternos e vazio, materialismo mecanicista
+  - [[sofistas-relativismo]] — relativismo, "o homem é a medida de todas as coisas"
+  - [[socrates-metodo-elenchos]] — busca por definição universal, desmonta por contradição
 
 ---
 
