@@ -4,8 +4,9 @@
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
 **Atualizado em:** 2026-08-14
-**Disciplina ativa:** historia-da-filosofia (mais recente) / product-discovery (mais avançada)
-**Última sessão:** 2026-08-14 — filosofia ([[2026-08-14-filosofia]])
+**Disciplina ativa:** neurociencia-esportiva (mais recente) / product-discovery (mais avançada)
+**Última sessão:** 2026-08-14 — neurociencia-esportiva ([[2026-08-14-neurociencia-esportiva]])
+e historia-da-filosofia ([[2026-08-14-historia-da-filosofia]])
 
 ---
 
@@ -25,6 +26,8 @@ Depois, avaliar o que só foi explicado e nunca testado:
   [[democrito-atomismo]], [[sofistas-relativismo]], [[socrates-metodo-elenchos]]
 - product-discovery (5): [[mvp-e-tipos-de-experimento]], [[jobs-to-be-done]],
   [[outcome-vs-output]], [[continuous-discovery]], [[dual-track-agile]]
+- neurociência esportiva (2 com página + sistema motor sem página):
+  [[foco-atencional-nideffer]], [[choking-sob-pressao]]
 
 ---
 
@@ -39,7 +42,7 @@ explicados.
 | filosofia | historia-da-filosofia | 6 fases / 33 tópicos | 9 | 1 | 2026-08-14 |
 | negocios | product-discovery | 4 fases / 18 tópicos | 7 | 2 | 2026-08-13 |
 | inteligencia-artificial | colaboracao-humano-ia | 5 fases / 19 tópicos | 1 | 1 | 2026-08-13 |
-| neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 0 | 0 | — |
+| neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 2 | 0 | 2026-08-14 |
 | negocios | visao-estrategica-negocios | 5 fases / 23 tópicos | 0 | 0 | — |
 | gestao-sistemas | fundamentos-sistemas-gestao | 5 fases / 30 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-conhecimento-second-brain | 5 fases / 21 tópicos | 0 | 0 | — |
@@ -47,7 +50,7 @@ explicados.
 | financas | financas | 5 fases / 25 tópicos | 0 | 0 | — |
 | comunicacao | ingles | 5 fases / 30 tópicos | 0 | 0 | — |
 
-**Realidade:** 10 disciplinas, 253 tópicos planejados, 17 páginas escritas, **4 conceitos com
+**Realidade:** 10 disciplinas, 253 tópicos planejados, 19 páginas escritas, **4 conceitos com
 evidência real**. A grade é plano, não progresso — só o LEARNER conta o que você sabe.
 
 ---

@@ -32,7 +32,9 @@ curricular em fases no seu mapa.
 ### 🧠 neurociencia
 
 **[[mapa-neurociencia-esportiva]]** — Neurociência Esportiva · [[estado-neurociencia-esportiva]]
-Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14). Sem conceito com página ainda.
+Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14).
+- [[foco-atencional-nideffer]] — largura/direção da atenção, quatro quadrantes
+- [[choking-sob-pressao]] — reinvestimento vs. distração sob pressão
 
 ### 📐 filosofia
 

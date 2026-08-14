@@ -178,3 +178,21 @@ de evidência, que virou a Fase 3.
 `fundamentos-sistemas-gestao` ficou como uma disciplina só: o corte que o Tiago levantou
 (sistêmico / sistemas de informação / pessoas) virou Fases 1-2, 4 e 5 — a ordem importa,
 ERP sem processo é apertar botão. `financas` idem: pessoal (Fases 1-3) → corporativo (4-5).
+
+## [2026-08-14] study | neurociencia-esportiva
+
+Pergunta do Tiago sobre "O Jogo Interior do Tênis" (Gallwey) puxou os itens 14 e 20 da grade
+antes da ordem (desvio válido pelo §4.2 — motivo: pergunta espontânea conectando os dois).
+Checado na web: hipótese da ação restrita (Wulf) e teoria do reinvestimento (Masters) dão
+mecanismo científico ao que o livro descreve por metáfora (Self 1/Self 2). Páginas criadas:
+[[foco-atencional-nideffer]] (fase-3) e [[choking-sob-pressao]] (fase-4) — explicadas, ainda
+`nao_iniciado` no LEARNER, nada testado. Gallwey citado como fonte do método, não fonte
+científica — livro ainda não está em `RAW/`.
+
+## [2026-08-14] system | fecha a sessão
+
+`SESSIONS/2026-08-14-filosofia.md` renomeada para `2026-08-14-historia-da-filosofia.md`
+(acompanha o rename da disciplina) e completada com o que aconteceu depois do primeiro
+fechamento (reestruturação em hub/fase, grade de 9→33 tópicos). Criada
+`SESSIONS/2026-08-14-neurociencia-esportiva.md`. Nenhuma avaliação nova em nenhuma das duas
+— só explicação e reorganização; `INICIO.md` reescrito.

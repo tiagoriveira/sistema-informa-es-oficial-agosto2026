@@ -33,7 +33,7 @@ esta ordem não é dogma, desvie quando houver motivo)_
 11. ⬜ Tempo de reação simples vs. de escolha — o que dá pra treinar
 12. ⬜ Antecipação e leitura de pistas — o que separa expert de novato
 13. ⬜ Tomada de decisão sob pressão temporal e heurísticas motoras
-14. ⬜ Atenção: foco amplo/estreito, interno/externo
+14. ⬜ [[foco-atencional-nideffer]] — atenção: foco amplo/estreito, interno/externo
 15. ⬜ Funções executivas no esporte — inibição, flexibilidade, memória de trabalho
 
 ### Fase 4 — Fadiga, esforço e regulação
@@ -41,7 +41,7 @@ esta ordem não é dogma, desvie quando houver motivo)_
 17. ⬜ Fadiga mental e seu efeito no desempenho físico
 18. ⬜ Teoria do governador central e percepção de esforço
 19. ⬜ Efeito duradouro da fadiga sobre a aprendizagem motora
-20. ⬜ Estresse, ansiedade de desempenho e o "engasgo" (choking)
+20. ⬜ [[choking-sob-pressao]] — estresse, ansiedade de desempenho e o "engasgo"
 21. ⬜ Regulação emocional e autofala
 
 ### Fase 5 — Aplicações e fronteira
@@ -51,6 +51,10 @@ esta ordem não é dogma, desvie quando houver motivo)_
 25. ⬜ Flow: condições, neurociência e por que não se força
 26. ⬜ Concussão: fisiopatologia, protocolo de retorno e risco de longo prazo
 27. ⬜ Lesão: reorganização cortical, medo de re-lesão e reabilitação neuro-orientada
+
+## Conceitos com página
+- [[foco-atencional-nideffer]] — largura/direção da atenção, quatro quadrantes
+- [[choking-sob-pressao]] — reinvestimento vs. distração, e por que implícito resiste mais
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-14 a partir de busca na web (regra `CLAUDE.md` §6 — evitar tópico
