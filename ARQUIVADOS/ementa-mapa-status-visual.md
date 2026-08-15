@@ -39,3 +39,6 @@ Ainda falta fechar o mapeamento exato de símbolo↔estado com o Tiago antes de 
 revisão vencida (primeiro item não-✅ nessa condição) · 📍 primeiro item não-✅ fora dessa
 condição (sugestão de próximo passo) · ⬜ resto. Formato em `SYSTEM/schema.md` §3, regra de
 regeneração no `CLAUDE.md` (UPDATE), primeira aplicação em `mapa-historia-da-filosofia.md`.
+
+_(Migrada de `ideias/` para `ARQUIVADOS/` em 2026-08-15 — fusão do antigo pipeline
+ideias/backlog/roadmap com o PARA. Já implementada, por isso arquivada, não em RECURSOS.)_

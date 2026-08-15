@@ -26,9 +26,9 @@ _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. 
 esta ordem não é dogma, desvie quando houver motivo)_
 
 ### Fase 1 — Bioenergética: de onde vem a energia
-1. 📖 Os três sistemas energéticos: fosfagênio, glicolítico e oxidativo — e quando cada um domina
-2. 📖 ATP-CP: potência máxima, duração curta, recuperação rápida
-3. 📖 Glicólise anaeróbica: produção de lactato, não é "o vilão da fadiga"
+1. 📖 [[tres-sistemas-energeticos]] — fosfagênio, glicolítico e oxidativo, quando cada um domina
+2. 📖 [[atp-cp]] — potência máxima, duração curta, recuperação rápida
+3. 📖 [[mito-do-lactato]] — produção de lactato, não é "o vilão da fadiga"
 4. 📍 Sistema oxidativo: por que sustenta esforço longo e depende de oxigênio disponível
 
 ### Fase 2 — Capacidade aeróbica
@@ -36,6 +36,11 @@ esta ordem não é dogma, desvie quando houver motivo)_
 6. ⬜ Determinantes do VO2 max: débito cardíaco, capilarização, densidade mitocondrial
 7. ⬜ Quanto o VO2 max melhora com treino — teto genético e platô do treinado
 8. ⬜ VO2 max não prediz resultado sozinho: por que dois atletas com VO2 igual performam diferente
+
+**Pedido em espera (2026-08-15):** protocolo de HIIT em esteira/bike com foco em elevar VO2
+max — trazido do INBOX (`preciso de dicas de como fazer hit...md`, `Toggle notion sobre
+vo2.md`). Fica pra quando chegar aqui: aplicação prática de HIIT só faz sentido depois do
+mecanismo (itens 5-8), senão vira protocolo decorado sem entender o porquê.
 
 ### Fase 3 — Limiares e zonas de treino
 9. ⬜ Limiar de lactato / limiar anaeróbico: onde produção e remoção deixam de se equilibrar
@@ -55,6 +60,11 @@ esta ordem não é dogma, desvie quando houver motivo)_
 19. ⬜ Overtraining e a linha entre estímulo e dano — sinais objetivos e subjetivos
 20. ⬜ Recuperação: sono, nutrição de reposição e a janela real de adaptação
 21. ⬜ Monitoramento prático: o que vale medir sem virar obsessão de métrica
+
+## Conceitos com página
+- [[tres-sistemas-energeticos]] — fosfagênio/glicolítico/oxidativo, janelas de duração
+- [[atp-cp]] — mecanismo de reação única, recuperação em duas fases
+- [[mito-do-lactato]] — H+ causa a queimação, lactato é combustível, DOMS é micro-lesão
 
 ## Nota sobre a grade
 

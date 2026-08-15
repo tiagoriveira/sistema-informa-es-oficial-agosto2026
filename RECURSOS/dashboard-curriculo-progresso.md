@@ -35,3 +35,7 @@ construir antes de ter dado.
 
 ## Decisão
 _(em aberto)_
+
+_(Migrada de `ideias/` para `RECURSOS/` em 2026-08-15 — fusão do antigo pipeline
+ideias/backlog/roadmap com o PARA. Ainda maturando, sem prazo, por isso Recursos e não
+Projetos.)_

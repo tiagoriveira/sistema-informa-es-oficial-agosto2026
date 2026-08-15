@@ -4,10 +4,13 @@
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
 **Atualizado em:** 2026-08-15
-**Disciplina ativa:** performance-esportiva (3 conceitos explicados hoje, Fase 1 em
-andamento) — product-discovery continua a mais avançada
-**Última sessão:** 2026-08-15 (2) — [[2026-08-15-performance-esportiva-2]] (bioenergética:
-os três sistemas energéticos, ATP-CP, mito do lactato — todos explicados, zero avaliados)
+**Disciplina ativa:** performance-esportiva (3 conceitos explicados, Fase 1 em andamento) —
+product-discovery continua a mais avançada
+**Última sessão:** 2026-08-15 — INBOX triado (23 capturas), 8 disciplinas novas criadas
+(economia, copywriting, logica-e-epistemologia, produtividade-biohacking, gestao-de-tempo,
+psicologia, poder-e-dinamica-social, comportamento-masculino-e-realismo), camada `NOTAS/`
+corrigida pra PARA de verdade (`PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/`), pipeline
+`ideias/backlog/roadmap` fundido ao PARA. Nenhum conceito avaliado hoje nesta parte.
 
 ---
 
@@ -23,9 +26,8 @@ genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
 
 **Explicado mas não salvo** (só existe no histórico do chat — se não virar página, some):
 item 1 de neurociência esportiva (sistema motor); o pipeline de repurposing de conteúdo
-(Instagram/TikTok/YouTube Shorts/LinkedIn/Threads-X) em produção-de-conteúdo; **itens 1-3 de
-performance-esportiva** (os três sistemas energéticos, ATP-CP, mito do lactato) — devia ter
-proposto arquivar depois do 2º/3º conceito (§4.3) e não propus, fica pra próxima sessão.
+(Instagram/TikTok/YouTube Shorts/LinkedIn/Threads-X) em produção-de-conteúdo. Os itens 1-3 de
+performance-esportiva foram salvos em página em 2026-08-15.
 
 Depois, avaliar o que só foi explicado e nunca testado:
 - história da filosofia (8): [[anaximandro-apeiron]], [[anaximenes-ar]],
@@ -37,14 +39,25 @@ Depois, avaliar o que só foi explicado e nunca testado:
 - gestão do conhecimento (4): [[arquivo-morto]], [[ciclo-code]], [[captura-seletiva]],
   [[nota-efemera-vs-permanente]]
 - obsidian (1): [[comandos-e-hotkeys-obsidian]]
+- performance esportiva (3): [[tres-sistemas-energeticos]], [[atp-cp]], [[mito-do-lactato]]
 
-**Pendente fora de disciplina:** criar hub de dinâmicas sociais, hub da área da mente
-(psicologia) e a disciplina "Comportamento Masculino e Realismo" (inspirada no Nessahan) —
-pedido interrompido em 2026-08-15, ainda nada feito.
+**Pendente fora de disciplina:** resolvido em 2026-08-15 — hub `psicologia` e hub
+`dinamicas-sociais` criados, com a disciplina "Comportamento Masculino e Realismo" incluída.
 
-**NOTAS candidatas a KNOWLEDGE** (triadas em 2026-08-15, `INBOX/` agora vazio):
-[[motivacao-por-validacao-externa]] espera o hub "área da mente" nascer;
-[[marco-aurelio-validacao-externa]] espera a grade de filosofia chegar no estoicismo.
+**RECURSOS candidatas a KNOWLEDGE** (destino PARA, decidido em 2026-08-15 — substitui a antiga
+`NOTAS/`): [[motivacao-por-validacao-externa]] agora tem hub — [[mapa-psicologia]] existe,
+pode virar página quando o Tiago quiser; [[marco-aurelio-validacao-externa]] espera a grade de
+filosofia chegar no estoicismo; [[futebol-perfil-fisico-por-posicao]] é candidata natural
+quando [[mapa-performance-esportiva]] chegar em VO2 max.
+
+**INBOX reduzido a 2 itens pendentes de verdade** (os outros organizados em `RECURSOS/`,
+puro, sem conexão com disciplina nenhuma — correção de 2026-08-15 depois de eu ter conectado
+errado da primeira vez): [[Link do post do benchimol no notion]] — bloco não resolvido;
+"Mensagem que encaminhei ao psiquiatra.md" está vazia — aguardando resposta do Tiago pros dois.
+
+**Raiz do vault:** `Untitled.md` (duplicata de [[referencia-hub-ai-gravacao-servicos-manuais]]),
+`Untitled 1.md` e `Untitled 2.md` (vazios/lixo de teste) — aguardando confirmação do Tiago
+pra apagar.
 
 ---
 
@@ -60,17 +73,25 @@ explicados.
 | negocios | product-discovery | 4 fases / 18 tópicos | 7 | 2 | 2026-08-13 |
 | inteligencia-artificial | colaboracao-humano-ia | 5 fases / 19 tópicos | 1 | 1 | 2026-08-13 |
 | neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 2 | 0 | 2026-08-14 |
-| esporte | performance-esportiva | 5 fases / 21 tópicos | 0 | 0 | — |
+| esporte | performance-esportiva | 5 fases / 21 tópicos | 3 | 0 | 2026-08-15 |
 | negocios | visao-estrategica-negocios | 5 fases / 23 tópicos | 0 | 0 | — |
+| negocios | economia | 4 fases / 17 tópicos | 0 | 0 | — |
 | gestao-sistemas | fundamentos-sistemas-gestao | 5 fases / 30 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-conhecimento-second-brain | 5 fases / 21 tópicos | 4 | 0 | 2026-08-15 |
 | gestao-sistemas | obsidian | 5 fases / 27 tópicos | 1 | 0 | 2026-08-15 |
+| gestao-sistemas | produtividade-biohacking | 4 fases / 12 tópicos | 0 | 0 | — |
+| gestao-sistemas | gestao-de-tempo | 4 fases / 14 tópicos | 0 | 0 | — |
 | marketing | marketing | 5 fases / 27 tópicos | 0 | 0 | — |
 | marketing | producao-de-conteudo | 5 fases / 23 tópicos | 0 | 0 | — |
+| marketing | copywriting | 4 fases / 16 tópicos | 0 | 0 | — |
 | financas | financas | 5 fases / 25 tópicos | 0 | 0 | — |
 | comunicacao | ingles | 5 fases / 30 tópicos | 0 | 0 | — |
+| filosofia | logica-e-epistemologia | 4 fases / 16 tópicos | 0 | 0 | — |
+| psicologia | psicologia | 4 fases / 14 tópicos | 0 | 0 | — |
+| dinamicas-sociais | poder-e-dinamica-social | 4 fases / 13 tópicos | 0 | 0 | — |
+| dinamicas-sociais | comportamento-masculino-e-realismo | 4 fases / 12 tópicos | 0 | 0 | — |
 
-**Realidade:** 13 disciplinas, 324 tópicos planejados, 24 páginas escritas, **4 conceitos com
+**Realidade:** 21 disciplinas, 438 tópicos planejados, 27 páginas escritas, **4 conceitos com
 evidência real**. A grade é plano, não progresso — só o LEARNER conta o que você sabe.
 
 **Legenda do status nos mapas:** `✅` consolidado · `⚠️` frágil ou revisão vencida ·

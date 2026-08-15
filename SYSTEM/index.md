@@ -41,7 +41,9 @@ Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14).
 **[[mapa-performance-esportiva]]** — Performance Esportiva · [[estado-performance-esportiva]]
 Grade: 5 fases, 21 tópicos (checada na web em 2026-08-15). Fisiologia do esforço (VO2 max,
 limiar, força, periodização) — irmã de [[mapa-neurociencia-esportiva]], não a mesma coisa.
-Sem conceito com página ainda.
+- [[tres-sistemas-energeticos]] — fosfagênio/glicolítico/oxidativo, janelas de duração
+- [[atp-cp]] — reação única (fosfocreatina→ADP), recuperação em duas fases (~30s / 3-5min)
+- [[mito-do-lactato]] — H+ causa a queimação, lactato é combustível, DOMS é micro-lesão
 
 ### 📐 filosofia
 
@@ -61,6 +63,10 @@ Grade: 6 fases, 33 tópicos (dos pré-socráticos à filosofia da mente).
 - [[sofistas-relativismo]] — relativismo, "o homem é a medida de todas as coisas"
 - [[socrates-metodo-elenchos]] — busca por definição universal, desmonta por contradição
 
+**[[mapa-logica-e-epistemologia]]** — Lógica e Epistemologia · [[estado-logica-e-epistemologia]]
+Grade: 4 fases, 16 tópicos (checada na web em 2026-08-15). A ferramenta de avaliar argumento —
+irmã de [[mapa-historia-da-filosofia]], não a mesma coisa. Sem conceito com página ainda.
+
 ### 💼 negocios
 
 **[[mapa-product-discovery]]** — Product Discovery · [[estado-product-discovery]]
@@ -75,6 +81,10 @@ Grade: 4 fases, 18 tópicos.
 
 **[[mapa-visao-estrategica-negocios]]** — Visão Estratégica · [[estado-visao-estrategica-negocios]]
 Grade: 5 fases, 23 tópicos. Sem conceito com página ainda.
+
+**[[mapa-economia]]** — Economia · [[estado-economia]]
+Grade: 4 fases, 17 tópicos (checada na web em 2026-08-15). Micro → macro → comportamental →
+aplicação. Sem conceito com página ainda.
 
 ### 🤖 inteligencia-artificial
 
@@ -96,9 +106,17 @@ Grade: 5 fases, 21 tópicos (checada na web em 2026-08-14).
 
 **[[mapa-obsidian]]** — Obsidian · [[estado-obsidian]]
 Grade: 5 fases, 27 tópicos (checada na web em 2026-08-15). A **ferramenta**; o método fica em
-[[mapa-gestao-conhecimento-second-brain]].
+[[mapa-gestao-conhecimento-second-brain]]. Tem seção de recursos externos (cursos/vídeos).
 - [[comandos-e-hotkeys-obsidian]] — a paleta `Ctrl+P` é a porta única; atalho dedicado só pro
   que roda todo dia. Página 100% de conhecimento externo, datada — doc oficial vence.
+
+**[[mapa-produtividade-biohacking]]** — Produtividade & Biohacking · [[estado-produtividade-biohacking]]
+Grade: 4 fases, 12 tópicos (checada na web em 2026-08-15). O corpo (sono, energia) — irmã de
+[[mapa-gestao-de-tempo]]. Sem conceito com página ainda.
+
+**[[mapa-gestao-de-tempo]]** — Gestão de Tempo · [[estado-gestao-de-tempo]]
+Grade: 4 fases, 14 tópicos (checada na web em 2026-08-15). A estrutura (calendário,
+prioridade) — irmã de [[mapa-produtividade-biohacking]]. Sem conceito com página ainda.
 
 ### 📣 marketing
 
@@ -108,6 +126,27 @@ Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14). Sem conceito com pá
 **[[mapa-producao-de-conteudo]]** — Produção de Conteúdo · [[estado-producao-de-conteudo]]
 Grade: 5 fases, 23 tópicos (checada na web em 2026-08-15). O ofício de virar conceito em post
 por plataforma — irmã de [[mapa-marketing]], não a mesma coisa. Sem conceito com página ainda.
+
+**[[mapa-copywriting]]** — Copywriting · [[estado-copywriting]]
+Grade: 4 fases, 16 tópicos (checada na web em 2026-08-15). A frase que persuade — irmã de
+[[mapa-producao-de-conteudo]], não a mesma coisa. Sem conceito com página ainda.
+
+### 🧠 psicologia (hub novo, 2026-08-15)
+
+**[[mapa-psicologia]]** — Psicologia · [[estado-psicologia]]
+Grade: 4 fases, 14 tópicos (checada na web em 2026-08-15). Resolve pendência de 2026-08-15
+("hub da área da mente"). Sem conceito com página ainda.
+
+### 🤝 dinamicas-sociais (hub novo, 2026-08-15)
+
+**[[mapa-poder-e-dinamica-social]]** — Poder e Dinâmica Social · [[estado-poder-e-dinamica-social]]
+Grade: 4 fases, 13 tópicos (checada na web em 2026-08-15). Maquiavel, persuasão, poder em
+geral — irmã de [[mapa-comportamento-masculino-e-realismo]]. Sem conceito com página ainda.
+
+**[[mapa-comportamento-masculino-e-realismo]]** — Comportamento Masculino e Realismo ·
+[[estado-comportamento-masculino-e-realismo]]
+Grade: 4 fases, 12 tópicos (checada na web em 2026-08-15). Pedido explícito de 2026-08-15
+(inspirada no Ybernator/Nessahan, grade desenhada do zero). Sem conceito com página ainda.
 
 ### 💰 financas
 
@@ -126,26 +165,50 @@ Sem conceito com página ainda.
 ## INBOX — notas pessoais (efêmera)
 
 Camada crua, criada em 2026-08-15. **Não é fonte** — não citar como autoridade em KNOWLEDGE.
-Ver `INBOX/LEIA-ME.md`. Vazia agora — as duas notas de 2026-08-15 foram triadas e movidas
-pra `NOTAS/`.
+Ver `INBOX/LEIA-ME.md`. Recebeu 23 capturas diretas em 2026-08-15 (fora do fluxo de chat);
+a maioria triada no mesmo dia — ver `SYSTEM/log.md` pra o detalhe de cada uma.
 
-## NOTAS — notas pessoais (permanente)
+## PARA — destino do INBOX (`PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/`)
 
-Destino do INBOX depois de triado, criada em 2026-08-15. **Não é fonte**. Ver
-`NOTAS/LEIA-ME.md`.
+Substitui a antiga camada `NOTAS/` — decisão de 2026-08-15, método PARA (Tiago Forte), mesma
+estrutura que o Tiago já usa no Notion. Nenhum é fonte. `PROJETOS/`, `AREAS/` e `ARQUIVADOS/`
+ainda vazios — ver `LEIA-ME.md` de cada um.
 
+**RECURSOS/** (destino padrão, sem prazo/área definida) — referência externa na raiz, reflexão
+pessoal em `notas-pessoais/` (separado em 2026-08-15, nunca misturar os dois):
+- [[futebol-perfil-fisico-por-posicao]] — exigências físicas do futebol moderno por posição
+  (conversa com Grok)
+- [[metodo-llm-wiki-karpathy]] — o padrão que inspira o próprio desenho deste vault; linkado
+  em [[ARQUITETURA]]
+- [[referencia-hub-ai-gravacao-servicos-manuais]] — bookmark de startup existente (não é ideia
+  própria do Tiago)
+- [[tabela-peso-ideal-altura]] — bookmark solto (X/Twitter)
+- [[dashboard-curriculo-progresso]] — migrada de `ideias/`, ainda em maturação
+
+**RECURSOS/notas-pessoais/**:
 - [[motivacao-por-validacao-externa]] — motivar-se por likes desloca o objetivo da atividade
   para a validação, e o resultado na atividade cai
 - [[marco-aurelio-validacao-externa]] — *Meditações* 6.51: fama / prazer / entendimento, e
   onde cada um coloca o próprio bem
+- [[comecar-simples-recompensa-no-processo]] — dar o primeiro passo importa mais que começar
+  perfeito; recompensa vai no processo, não no resultado final
+- [[recompensar-processo-nao-destino-ikigai]] — mesma ideia, capturada de novo com o link pra
+  ikigai
+- [[reflexao-medicacao-e-conexao-racional]] — reflexão pessoal sobre reinterpretar aproximação
+  emocional de forma racional em vez de por estímulo (13/08/2026)
+- [[projeto-nao-estruturado-em-para]] — nota ambígua sobre PARA, arquivada sem resolução por
+  decisão do Tiago
+
+**ARQUIVADOS/** — inativo, registro de raciocínio encerrado:
+- [[ementa-mapa-status-visual]] — validada e implementada em 2026-08-14, migrada de `ideias/`
+
+**Fora da raiz, em `Videos e cursos que estou acompanhando.md`:** watch-list de cursos/vídeos
+(Obsidian ×3, Faggion) — arquivo de acesso rápido, não segue o formato PARA de propósito.
 
 ---
 
 ## Ideias e produto
 
-Área separada da tutoria — gestão de ideias, não estudo. Ver `ideias/LEIA-ME.md`,
-`backlog/LEIA-ME.md`, `roadmap/LEIA-ME.md`.
-
-- [[ementa-mapa-status-visual]] — validada e implementada em 2026-08-14
-- [[dashboard-curriculo-progresso]] — em maturação
-- [[inbox-notas-pessoais]] — em maturação
+`ideias/`, `backlog/` e `roadmap/` foram **fundidos ao PARA em 2026-08-15** (ver seção acima).
+Só resta em `ideias/`: [[inbox-notas-pessoais]] — deixado fora do PARA por decisão do Tiago,
+é mais log de decisão de arquitetura deste vault do que ideia de produto solta.

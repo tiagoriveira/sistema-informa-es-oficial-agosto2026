@@ -26,3 +26,5 @@ O que muda é a **combinação** delas, movida por duas forças opostas: **Amor*
 ## Conhecimento externo (fora das suas fontes)
 > Não está em nenhuma fonte do RAW — disciplina ainda sem fontes, modo exploração.
 - Toda esta página é conhecimento geral sobre história da filosofia.
+
+ 

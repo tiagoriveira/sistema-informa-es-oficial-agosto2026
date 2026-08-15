@@ -21,14 +21,22 @@ passada.
 - Nota do INBOX **não é fonte**. Não citar como autoridade em página de KNOWLEDGE.
 - Triagem é operação separada: virar página de conceito exige aprovação (invariante 8).
 
-## Destino, depois de triada
+## Destino, depois de triada (PARA — decidido em 2026-08-15)
 
 `INBOX/` é efêmera — não é pra ficar aqui pra sempre ([[nota-efemera-vs-permanente]]). Depois
-de triada, a nota sai daqui:
+de triada, a nota sai daqui pro método PARA (Tiago Forte), igual à estrutura que você já usa
+no Notion:
 
 - Vira **conceito citável de uma disciplina** → `KNOWLEDGE/` (pede aprovação, invariante 8).
-- Não se encaixa em disciplina nenhuma, mas fica de pé sozinha → `NOTAS/` (permanente, sem
-  precisar de aprovação — é organização, não criação de conteúdo novo).
+- Tem prazo e próxima ação clara → `PROJETOS/`.
+- Responsabilidade contínua que você já nomeou → `AREAS/<nome>/` — a IA não inventa área.
+- Referência sem compromisso ativo → `RECURSOS/`, destino padrão. Reflexão/pensamento
+  pessoal vai em `RECURSOS/notas-pessoais/`; referência externa pura fica na raiz de
+  `RECURSOS/` — nunca misturar os dois no mesmo arquivo (regra de 2026-08-15).
+- Ficou inativo → `ARQUIVADOS/`.
+
+Nenhum desses (fora KNOWLEDGE) precisa de aprovação prévia — é organização, não criação de
+conteúdo novo.
 
 ## Categoria (frontmatter `categoria:`)
 

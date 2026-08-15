@@ -6,6 +6,10 @@ relação ao briefing original e o que ficou de fora.
 Ordem de prioridade que guiou todas as decisões abaixo:
 **simplicidade → confiabilidade → qualidade do contexto da IA → manutenção → escalabilidade.**
 
+Este desenho não nasceu no vácuo — [[metodo-llm-wiki-karpathy]] é a referência externa que o
+Tiago capturou e que descreve o mesmo padrão (wiki persistente que a IA mantém, em vez de RAG
+que redescobre do zero a cada pergunta).
+
 ---
 
 ## 1. Arquitetura final
@@ -34,8 +38,11 @@ Sistema-de-estudos-tiago-agosto-2026/
 ├── INBOX/                     ← notas pessoais cruas, sem categoria (desde 2026-08-15)
 │                                 não entra na leitura automática — só lido sob pedido de triagem
 │
-├── NOTAS/                     ← notas pessoais permanentes, triadas, sem disciplina (2026-08-15)
-│                                 destino do INBOX quando não vira KNOWLEDGE — lido sob demanda
+├── PROJETOS/                  ← PARA: esforço com prazo e objetivo claro (2026-08-15)
+├── AREAS/                     ← PARA: responsabilidade contínua, nomeada pelo Tiago
+├── RECURSOS/                  ← PARA: referência sem compromisso ativo — destino padrão
+├── ARQUIVADOS/                ← PARA: inativo, registro de raciocínio encerrado
+│   (os quatro acima são destino do INBOX quando não vira KNOWLEDGE — lidos sob demanda)
 │
 ├── SYSTEM/
 │   ├── schema.md              ← formatos de página (leitura sob demanda)
@@ -79,7 +86,7 @@ central do desenho — sem ela o sistema morre por peso próprio no segundo ano.
 | o aluno | `LEARNER/` | reconstruível a partir de SESSIONS |
 | o que aconteceu | `SESSIONS/` + `log.md` | — |
 | pensamento cru do Tiago | `INBOX/` | — (não é fonte, não é KNOWLEDGE) |
-| pensamento triado do Tiago | `NOTAS/` | — (não é fonte, não é KNOWLEDGE; permanente) |
+| pensamento triado do Tiago | `PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/` | — (não é fonte, não é KNOWLEDGE; método PARA) |
 | navegação | — | `INICIO.md`, `index.md` (100% derivados) |
 
 Regra de conflito: **LEARNER vence INICIO.md**. `INICIO.md` e `index.md` são caches; se
@@ -532,3 +539,7 @@ escala), agentes múltiplos (uma conversa, um estado), automação de ingest (a 
 Perguntas da seção 22 do briefing — todas respondíveis lendo `INICIO.md` + `LEARNER/`, exceto
 "quais fontes já estudei" (`index.md` / `mapa`) e "quais conceitos estão conectados"
 (graph view do Obsidian ou seção `## Relacionado`).
+
+
+ARQUITETURA INSPIRADA NO [[llm-wiki - Copia]]
+

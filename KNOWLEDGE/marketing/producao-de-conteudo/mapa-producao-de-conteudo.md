@@ -14,6 +14,11 @@ atualizado: 2026-08-15
 **Fronteira com [[mapa-marketing]]:** lá é estratégia — posicionamento, canal, funil, CAC/LTV,
 o que uma empresa/marca decide. Aqui é o **ofício**: como um conceito que você sabe vira post
 que uma plataforma específica distribui, e como manter isso sustentável sozinho, sem equipe.
+
+**Fronteira com [[mapa-copywriting]]:** lá é a frase (o que persuade, independente de onde
+aparece); aqui é o formato e a plataforma (o que o algoritmo distribui). Um bom hook de
+copywriting ainda precisa virar carrossel ou Reels certo pra essa plataforma — as duas se
+completam.
 O tópico 13 de `marketing` (estratégia de conteúdo por estágio de consciência) é o link entre
 as duas — aqui você aprende a executar o que lá é decidido.
 

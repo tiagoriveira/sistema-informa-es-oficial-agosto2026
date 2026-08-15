@@ -391,3 +391,142 @@ Sessão encerrada a pedido, logo após o item 3, antes de eu propor arquivar os 
 explicados como página — lacuna registrada em `SESSIONS/2026-08-15-performance-esportiva-2.md`
 e no `INICIO.md`. Sem avaliação, sem revisão pra recalcular. Revisões vencidas seguem
 intocadas, 2 dias de atraso.
+
+## [2026-08-15] ingest | performance-esportiva: itens 1-3 viram página
+
+Tiago pediu pra escrever as páginas dos itens 1-3, que tinham ficado só no histórico do chat
+(lacuna registrada na sessão anterior). Criadas em `KNOWLEDGE/esporte/performance-esportiva/
+fase-1-bioenergetica/`: [[tres-sistemas-energeticos]], [[atp-cp]], [[mito-do-lactato]] — três
+páginas em vez de uma, porque cada uma tem ideia central própria e é referenciada
+separadamente na grade. Citações reais nas seções de conhecimento externo (Fiveable, Runner's
+Connect, US Army, AJP Physiology, Kemp 1993, Xendurance, Daily Burn), seguindo a regra de
+fonte-por-afirmação do §6 (adicionada mais cedo hoje). `mapa-performance-esportiva.md` ganhou
+seção "Conceitos com página" e links nos itens 1-3. `estado-performance-esportiva.md`
+reescrito no formato de bloco-por-conceito (antes era rodapé solto). `index.md` e `INICIO.md`
+atualizados (24 → 27 páginas; lacuna de itens 1-3 sem página, resolvida).
+
+## [2026-08-15] system | INBOX: 23 capturas diretas verificadas e triadas
+
+Tiago avisou "há algumas capturas no meu inbox" — 23 arquivos apareceram direto no
+filesystem (fora do fluxo de chat), incluindo conteúdo pessoal sensível (reflexão sobre
+medicação, mensagem a psiquiatra vazia). Todos lidos e categorizados antes de qualquer ação
+(ver conversa). Psiquiatra: vazio, nada a fazer. "12 sinais de atração": era teste de
+sintaxe, não o artigo do nome.
+
+## [2026-08-15] system | Notion: conteúdo real trazido (6 ponteiros)
+
+Conector de Notion usado pra trazer o conteúdo por trás de ponteiros do INBOX. Achado
+importante: o pedido original que gerou a pendência de hubs de 2026-08-14/15 estava lá,
+datado — "me traga o hub de dinamicas sociais e um hub que trata da area da mente...
+inclusive... 'Comportamento Masculino e Realismo'... quero ela também". Trazido pra
+`NOTAS/`: [[reflexao-medicacao-e-conexao-racional]] (13/08, sensível, preservada literal sem
+comentário), [[recompensar-processo-nao-destino-ikigai]] (13/08), [[futebol-perfil-fisico-por-posicao]]
+(12/08, conversa com Grok — conecta com performance-esportiva). Um ponteiro não resolvido:
+"Link do post do benchimol" — a busca por âncora de bloco retornou a página inteira, não
+isolou o trecho; não inventei conteúdo, deixei marcado como pendente.
+
+## [2026-08-15] ingest | 8 disciplinas novas + 2 hubs novos (psicologia, dinamicas-sociais)
+
+Resolve a pendência de hubs de 2026-08-14/15 e a wishlist de "Algumas Capturas de hoje
+15-08.md". Criadas: economia (hub negocios), copywriting (hub marketing),
+logica-e-epistemologia (hub filosofia), produtividade-biohacking e gestao-de-tempo (hub
+gestao-sistemas, fronteira declarada entre as duas), psicologia (hub novo `psicologia`),
+poder-e-dinamica-social e comportamento-masculino-e-realismo (hub novo `dinamicas-sociais`,
+irmãs — a segunda é pedido explícito, grade desenhada do zero, não copiada do Ybernator).
+Grades checadas na web (§6), 4 fases cada, fronteiras declaradas onde há disciplina vizinha.
+`poder-e-dinamica-social` e `comportamento-masculino-e-realismo` levam aviso ético explícito
+na Fase de aplicação — descrever poder/influência não é endossar manipulação.
+
+## [2026-08-15] system | itens restantes do INBOX resolvidos
+
+VO2/HIIT: nota adicionada na Fase 2 de [[mapa-performance-esportiva]] — fica pra quando a
+grade chegar lá, aplicação prática só faz sentido depois do mecanismo. Karpathy/LLM Wiki:
+os 3 clipados sintetizados (não copiados) em [[metodo-llm-wiki-karpathy]], linkado em
+`ARQUITETURA.md`. Startup de gravação de serviços: Tiago corrigiu — não é ideia própria,
+startup já existente, só anexar → [[referencia-hub-ai-gravacao-servicos-manuais]] em NOTAS,
+não em `ideias/`. Cursos/vídeos de Obsidian: sem ação, ficam como watch-list no INBOX.
+`index.md` e `INICIO.md` atualizados (13 → 21 disciplinas, 324 → 438 tópicos). INBOX reduzido
+de 23 para 8 arquivos (os que restam: watch-list + 2 itens genuinamente pendentes de resposta
+do Tiago).
+
+## [2026-08-15] system | INBOX: mais 5 arquivos organizados, "puxão de orelha" arquivado sem resolução
+
+Tiago pediu pra organizar os arquivos restantes do INBOX (mostrou screenshot confirmando que
+batia com o que eu já tinhaachado — nada escapou). Resolvidos: Cursos Obsidian.md e Tasks
+do.md foram pra `## Recursos externos` em [[mapa-obsidian]] (cursos/vídeos ainda não
+assistidos); o vídeo do Faggion (de Videos que estou acompanhando.md) foi pra
+[[mapa-colaboracao-humano-ia]], por conectar com a tese de expertise/confiança escassas.
+Post x (peso ideal por altura) e a nota "Projeto não estruturado com base no PARA" foram pra
+`NOTAS/` como observação/pergunta — a segunda ficou explicitamente sem resolução: Tiago
+mandou esquecer a pista do Notion (a nota não dizia qual projeto) em vez de eu investigar.
+
+INBOX agora com só 2 itens de verdade pendentes: link do benchimol (bloco não resolvido) e
+mensagem ao psiquiatra (vazia) — os dois aguardando resposta do Tiago, não decidi sozinho.
+
+Também achados (não resolvidos ainda, aguardando confirmação): `Untitled.md`,
+`Untitled 1.md`, `Untitled 2.md` soltos na raiz do vault — o primeiro é duplicata do que já
+virou [[referencia-hub-ai-gravacao-servicos-manuais]], os outros dois são lixo de teste
+(vazio / um espaço). Não apaguei sem confirmação — não são arquivos que criei.
+
+## [2026-08-15] system | correção: NOTAS/ substituída por PARA de verdade
+
+Dois erros apontados pelo Tiago na mesma mensagem. (1) Conectei Cursos Obsidian.md e o vídeo
+do Faggion às disciplinas obsidian/colaboracao-humano-ia (seções "Recursos externos" nos
+mapas) quando o pedido era só um destino fácil de achar, sem integração editorial —
+revertido, os dois viraram arquivo puro em `RECURSOS/`. (2) `NOTAS/` (camada única que eu
+inventei em 2026-08-15) não era o que o Tiago queria — ele já usa PARA (Projetos, Áreas,
+Recursos, Arquivados) no Notion e queria a mesma estrutura aqui.
+
+Criadas `PROJETOS/`, `AREAS/`, `RECURSOS/`, `ARQUIVADOS/` na raiz, cada uma com LEIA-ME.
+Todo conteúdo de `NOTAS/` (10 arquivos) migrado pra `RECURSOS/` — nenhum tinha prazo ou área
+nomeada, então caem no destino padrão. `AREAS/` e `PROJETOS/` ficam vazios: a IA não inventa
+nome de área, isso é decisão do Tiago (mesmo princípio da invariante 9).
+
+Atualizado: `CLAUDE.md` §1 (tabela de camadas) e §3 (regra de destino PARA, substitui a regra
+NOTAS), `ARQUITETURA.md` (diagrama + tabela "onde mora a verdade"), `INBOX/LEIA-ME.md`
+(destino PARA), `index.md`, `INICIO.md` (também corrigida uma pendência stale: hub de
+dinâmicas sociais/psicologia já tinha sido resolvido antes, mas o INICIO.md ainda dizia
+"nada feito"), `ideias/inbox-notas-pessoais.md`.
+
+## [2026-08-15] system | vídeos/cursos consolidados em 1 arquivo na raiz
+
+Tiago pediu: em vez de arquivos separados em RECURSOS/, um arquivo único na raiz com todos
+os links de vídeo/curso/live, pra abrir rápido e não esquecer o que está acompanhando.
+Criado "Videos e cursos que estou acompanhando.md" na raiz (4 links: 2 cursos Obsidian, 1
+live, o vídeo do Faggion). `RECURSOS/cursos-obsidian.md` e
+`RECURSOS/video-faggion-expertise-confianca.md` removidos.
+
+Durante a limpeza, `RECURSOS/projeto-nao-estruturado-em-para.md` sumiu (provável hiccup de
+sincronização do OneDrive) — recriado com o mesmo conteúdo.
+
+## [2026-08-15] system | ideias/backlog/roadmap fundidos ao PARA
+
+Tiago pediu a fusão que eu tinha recomendado: pipeline `ideias/ → backlog/ → roadmap/`
+(desenhado em 2026-08-14, mas backlog/roadmap nunca chegaram a receber item nenhum)
+substituído pelo PARA. Migrado: [[ementa-mapa-status-visual]] (validada e implementada) →
+`ARQUIVADOS/`; [[dashboard-curriculo-progresso]] (em maturação, sem prazo) → `RECURSOS/`.
+`backlog/` e `roadmap/` dissolvidas — papel absorvido por `PROJETOS/LEIA-ME.md` (ideia
+validada com próxima ação clara já entra, mesmo sem data exata).
+
+`ideias/inbox-notas-pessoais.md` fica **fora do PARA por decisão explícita do Tiago** — é
+log de decisão de arquitetura deste vault, não ideia de produto solta. Pasta `ideias/`
+continua existindo só por esse arquivo. `index.md` atualizado.
+
+## [2026-08-15] system | fecha sessão (INBOX + 8 disciplinas + PARA)
+
+Sessão encerrada a pedido. 8 SESSIONS/ gravadas (uma por disciplina nova, todas INGEST puro,
+zero avaliação). Sem revisão pra recalcular. INICIO.md reescrito com o resumo da sessão.
+Revisões vencidas seguem intocadas, 2 dias de atraso.
+
+## [2026-08-15] system | RECURSOS/notas-pessoais/ separado (pedido via INBOX/IDEIA.md)
+
+Achado um capture novo no INBOX (`IDEIA.md`) antes do commit final: "criar pasta específica
+pra notas pessoais em Recursos, nunca misturar ideias com notas pessoais". Aplicado — criada
+`RECURSOS/notas-pessoais/`, migrados os 6 arquivos que são reflexão/pensamento pessoal do
+Tiago (motivacao-por-validacao-externa, marco-aurelio-validacao-externa,
+comecar-simples-recompensa-no-processo, recompensar-processo-nao-destino-ikigai,
+reflexao-medicacao-e-conexao-racional, projeto-nao-estruturado-em-para). Ficaram na raiz de
+`RECURSOS/` só referência externa pura (futebol-perfil-fisico-por-posicao,
+metodo-llm-wiki-karpathy, referencia-hub-ai-gravacao-servicos-manuais, tabela-peso-ideal-altura,
+dashboard-curriculo-progresso). Regra documentada em `RECURSOS/LEIA-ME.md` e
+`INBOX/LEIA-ME.md`. `index.md` atualizado. `IDEIA.md` removido do INBOX (resolvido).

@@ -21,7 +21,7 @@ para a IA seguir por padrão até ele pedir diferente.
 | SESSIONS | `SESSIONS/AAAA-MM-DD-<disciplina>.md` | você (automático) | o que aconteceu |
 | SYSTEM | `SYSTEM/` + `INICIO.md` | você (automático) | navegação e histórico |
 | INBOX | `INBOX/` | você (automático) | notas pessoais cruas, ainda sem categoria |
-| NOTAS | `NOTAS/` | você (automático) | notas pessoais permanentes, triadas, sem disciplina |
+| PARA | `PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/` | você (automático) | destino do INBOX quando não vira KNOWLEDGE — método PARA (Tiago Forte) |
 
 **Fonte da verdade sobre o aluno é sempre `LEARNER/`.** `INICIO.md` é um cache derivado para
 retomar rápido. Se os dois divergirem, LEARNER vence e você corrige o `INICIO.md`.
@@ -86,8 +86,17 @@ grep "^## \[" SYSTEM/log.md | tail -5 # últimas 5 operações
 ```
 
 `INBOX/` não entra na leitura automática — é gaveta de entrada, não memória de trabalho.
-Só é lido quando você pedir para triar. `NOTAS/` é lido como qualquer outra página, sob
-demanda, quando relevante para a pergunta ou sessão.
+Só é lido quando você pedir para triar. `PROJETOS/`, `AREAS/`, `RECURSOS/` e `ARQUIVADOS/`
+são lidos como qualquer outra página, sob demanda, quando relevante para a pergunta ou sessão.
+
+**Destino de nota triada (regra PARA, decidida em 2026-08-15 — substitui NOTAS/):**
+- Tem prazo e próxima ação clara → `PROJETOS/`
+- Responsabilidade contínua e nomeada pelo Tiago → `AREAS/<nome>/` — a IA não inventa nome de
+  área sozinha
+- Referência sem compromisso ativo (curso, vídeo, bookmark, reflexão solta) → `RECURSOS/`,
+  destino padrão na dúvida
+- Virou inativo → `ARQUIVADOS/`
+- Vira conceito citável de disciplina → `KNOWLEDGE/` (continua pedindo aprovação, invariante 8)
 
 ---
 

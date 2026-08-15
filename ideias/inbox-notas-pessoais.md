@@ -42,12 +42,18 @@ empilhada lá sem destino final, exatamente o anti-padrão que [[nota-efemera-vs
 descreve ("inbox" como arquivo morto com nome bonito). Criada `NOTAS/` — camada irmã, destino
 permanente de nota triada que não vira KNOWLEDGE. As duas notas existentes migradas.
 
+**2026-08-15 (4)** — `NOTAS/` **substituída por PARA de verdade**: Tiago corrigiu que o
+destino devia seguir a estrutura PARA (Projetos/Áreas/Recursos/Arquivados), igual ao que ele
+já usa no Notion, não uma camada única inventada. Criadas `PROJETOS/`, `AREAS/`, `RECURSOS/`,
+`ARQUIVADOS/` — todo conteúdo de `NOTAS/` migrado pra `RECURSOS/` (nenhum tinha prazo/área
+definida ainda). `AREAS/` e `PROJETOS/` ficam vazios até o Tiago nomear algo — a IA não
+inventa área. Ver `RECURSOS/LEIA-ME.md`, `AREAS/LEIA-ME.md`, `PROJETOS/LEIA-ME.md`,
+`ARQUIVADOS/LEIA-ME.md`.
+
 Continua em aberto, e é decisão do Tiago (invariante 9):
 - **nome no arquivo vs. frontmatter** — a ideia original era "joga com o tipo no nome". Ficou
   no frontmatter. Reversível.
 - **quando a IA tria sozinha** — hoje não tria: marca `triada: nao` e espera. Se isso virar
   fila que não anda, o LINT precisa passar a reclamar.
-
-Pendência de consistência: `CLAUDE.md` §1 (tabela de camadas) e §3 (orçamento de leitura)
-ainda não mencionam `INBOX/`. Mudança na constituição não é decisão da IA — proposta feita ao
-Tiago em 2026-08-15, aguardando.
+- **nomear as primeiras Áreas** — `AREAS/` está vazio; sem nome definido, tudo cai em
+  `RECURSOS/` por padrão.
