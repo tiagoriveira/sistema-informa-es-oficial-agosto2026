@@ -267,3 +267,70 @@ real: `⬜` não distinguia "nunca tocado" de "já expliquei, você só não foi
 `📖` (explicado, nunca testado) em `schema.md` §3 — não pode ser `✅` porque ✅ aqui exige
 evidência de 2+ dias, e marcar concluído só por ter sido explicado seria domínio fantasma
 (invariantes 1 e 2). Legenda dos 5 símbolos adicionada ao `INICIO.md`.
+
+## [2026-08-15] system | camada INBOX criada
+
+Tiago trouxe a primeira nota pessoal e perguntou onde salvar. Criada `INBOX/` na raiz, irmã
+de KNOWLEDGE/LEARNER/SESSIONS, conforme já indicado em [[inbox-notas-pessoais]] (nota pessoal
+não pode cair em KNOWLEDGE — quebra o §3 e o LINT). Três arquivos: `LEIA-ME.md`,
+[[2026-08-15-motivacao-por-validacao-externa]] e [[marco-aurelio-validacao-externa]]. Texto
+original preservado literal; único ajuste foi normalizar o wikilink dele para kebab-case
+(schema §0). A citação foi localizada na web: *Meditações* 6.51 — e a tradução dele traz
+"sedutor" onde o original é quem ama o prazer. Nada virou página de KNOWLEDGE (invariante 8).
+Pendente e não feito por conta própria: `CLAUDE.md` §1 e §3 não citam a camada INBOX.
+
+## [2026-08-15] ingest | disciplina nova: performance-esportiva
+
+Tiago perguntou onde estudar VO2 max; nenhuma disciplina cobria fisiologia do esforço.
+Criada a 12ª disciplina, hub novo `esporte`: `KNOWLEDGE/esporte/performance-esportiva/
+mapa-performance-esportiva.md` (5 fases / 21 tópicos: bioenergética, VO2 max, limiar,
+força/potência, periodização) e `LEARNER/estado-performance-esportiva.md` vazio. Grade
+checada por busca na web (§6). Hub `esporte` separado de `neurociencia` por decisão própria:
+fisiologia do esforço não é neurociência, é disciplina vizinha — fronteira declarada nos dois
+mapas ([[mapa-performance-esportiva]] e [[mapa-neurociencia-esportiva]], cruzada nos dois
+sentidos). `index.md` e `INICIO.md` atualizados (11 → 12 disciplinas, 280 → 301 tópicos).
+
+## [2026-08-15] system | CLAUDE.md formaliza a camada INBOX
+
+Proposta de 2026-08-15 aprovada pelo Tiago ("faça o recomendado"). `CLAUDE.md` §1 ganhou
+linha `INBOX` na tabela de camadas; §3 ganhou a regra de que `INBOX/` não entra na leitura
+automática. Checado invariante 10: `ARQUITETURA.md` estava desatualizado em dois pontos — o
+diagrama de árvore não listava `INBOX/`, e a tabela "onde mora a verdade" também não. Ambos
+corrigidos no mesmo momento. `FAQ.md` revisado, nada precisou mudar.
+
+## [2026-08-15] ingest | disciplina nova: producao-de-conteudo
+
+Tiago pediu dicas de conteúdo pra Instagram e depois estendeu pra "outras redes também".
+Depois da resposta com pipeline de repurposing (Instagram, TikTok, YouTube Shorts, LinkedIn,
+Threads/X), pediu pra virar disciplina. Criada no hub `marketing`, irmã de `marketing`:
+`KNOWLEDGE/marketing/producao-de-conteudo/mapa-producao-de-conteudo.md` (5 fases / 23
+tópicos: fundamentos → pipeline de repurposing → mecânica por plataforma → sustentabilidade
+→ IA) e `LEARNER/estado-producao-de-conteudo.md` vazio. Grade checada na web (§6). Fronteira
+com `marketing` declarada nos dois mapas: lá é estratégia, aqui é o ofício de plataforma.
+`index.md` e `INICIO.md` atualizados (12 → 13 disciplinas, 301 → 324 tópicos).
+
+## [2026-08-15] system | prompt anti-alucinação incorporado ao CLAUDE.md
+
+Tiago colou um system prompt genérico (anti-alucinação, concisão, "estagiário não guia") e
+perguntou como trazer pro sistema. Duas partes conflitavam com regra já decidida: "seja
+conciso" vs. §8 "profundidade sem teto" (revogado em 2026-08-15 de propósito, pra não ensinar
+raso); e "estagiário, não guia" vs. linha 3 "você é o tutor" (decide o quê estudar, avalia
+sem ser pedido — papel ativo por design). Perguntado ao Tiago via AskUserQuestion; escolheu
+em ambos a opção recomendada: concisão só fora do TEACH, e "estagiário" vira regra de TOM
+(sem autoridade que os dados não sustentam), não mudança de papel.
+
+Aplicado: invariante 11 (§2) — não tratar estimativa como fato, "não verificado" em vez de
+lacuna preenchida. §6 — toda afirmação com número/nome exige fonte real, proibido "estudos
+mostram" sem autor/ano/título. §8 — dois parágrafos novos: concisão fora do TEACH, e postura
+de estagiário (esclarecer ambiguidade antes de responder, linguagem simples pra termo
+difícil). Checado FAQ/ARQUITETURA (invariante 10): nada desatualizado.
+
+## [2026-08-15] system | fecha sessão (obsidian + performance-esportiva + producao-de-conteudo)
+
+Sessão encerrada a pedido. Três `SESSIONS/` gravadas: [[2026-08-15-obsidian]],
+[[2026-08-15-performance-esportiva]], [[2026-08-15-producao-de-conteudo]] — todas INGEST,
+zero avaliação, zero mudança de estado. Nenhuma revisão para recalcular. `INICIO.md`
+reescrito: última sessão, revisões vencidas (2 dias de atraso agora), lacuna nova
+(pipeline de repurposing só no chat, sem página), pendência do INBOX sem triagem. Pendência
+antiga (hubs dinâmicas-sociais/área-da-mente + disciplina Comportamento Masculino e
+Realismo) segue sem tocar, carregada de novo.

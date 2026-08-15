@@ -4,14 +4,15 @@
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
 **Atualizado em:** 2026-08-15
-**Disciplina ativa:** gestao-conhecimento-second-brain (mais recente) / product-discovery (mais avançada)
-**Última sessão:** 2026-08-15 — gestao-conhecimento-second-brain
-([[2026-08-15-gestao-conhecimento-second-brain]])
+**Disciplina ativa:** obsidian / performance-esportiva / producao-de-conteudo (mais recentes,
+todas no ponto de partida) — product-discovery continua a mais avançada
+**Última sessão:** 2026-08-15 — [[2026-08-15-obsidian]] ·
+[[2026-08-15-performance-esportiva]] · [[2026-08-15-producao-de-conteudo]]
 
 ---
 
 ## Revisões vencidas
-Vencidas desde 2026-08-14, **um dia de atraso**: [[validacao-de-problema]],
+Vencidas desde 2026-08-14, **dois dias de atraso**: [[validacao-de-problema]],
 [[riscos-de-descoberta]], [[operador-centauro]].
 
 ## Próxima ação recomendada
@@ -21,8 +22,9 @@ reconhecimento em vez de gerar do zero. Em [[operador-centauro]], testar se dist
 genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
 
 **Explicado mas não salvo** (só existe no histórico do chat — se não virar página, some):
-item 1 de neurociência esportiva (sistema motor). Os 4 itens de gestão do conhecimento foram
-salvos em 2026-08-15.
+item 1 de neurociência esportiva (sistema motor); o pipeline de repurposing de conteúdo
+(Instagram/TikTok/YouTube Shorts/LinkedIn/Threads-X), que é o conteúdo mais substancial já
+entregue em produção-de-conteúdo e ainda sem página.
 
 Depois, avaliar o que só foi explicado e nunca testado:
 - história da filosofia (8): [[anaximandro-apeiron]], [[anaximenes-ar]],
@@ -33,10 +35,14 @@ Depois, avaliar o que só foi explicado e nunca testado:
 - neurociência esportiva (2): [[foco-atencional-nideffer]], [[choking-sob-pressao]]
 - gestão do conhecimento (4): [[arquivo-morto]], [[ciclo-code]], [[captura-seletiva]],
   [[nota-efemera-vs-permanente]]
+- obsidian (1): [[comandos-e-hotkeys-obsidian]]
 
 **Pendente fora de disciplina:** criar hub de dinâmicas sociais, hub da área da mente
 (psicologia) e a disciplina "Comportamento Masculino e Realismo" (inspirada no Nessahan) —
-pedido interrompido em 2026-08-15, nada feito.
+pedido interrompido em 2026-08-15, ainda nada feito.
+
+**INBOX sem triagem** (desde 2026-08-15): [[2026-08-15-motivacao-por-validacao-externa]] e
+[[marco-aurelio-validacao-externa]] — candidatas a virar página, disciplina não decidida.
 
 ---
 
@@ -52,15 +58,17 @@ explicados.
 | negocios | product-discovery | 4 fases / 18 tópicos | 7 | 2 | 2026-08-13 |
 | inteligencia-artificial | colaboracao-humano-ia | 5 fases / 19 tópicos | 1 | 1 | 2026-08-13 |
 | neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 2 | 0 | 2026-08-14 |
+| esporte | performance-esportiva | 5 fases / 21 tópicos | 0 | 0 | — |
 | negocios | visao-estrategica-negocios | 5 fases / 23 tópicos | 0 | 0 | — |
 | gestao-sistemas | fundamentos-sistemas-gestao | 5 fases / 30 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-conhecimento-second-brain | 5 fases / 21 tópicos | 4 | 0 | 2026-08-15 |
 | gestao-sistemas | obsidian | 5 fases / 27 tópicos | 1 | 0 | 2026-08-15 |
 | marketing | marketing | 5 fases / 27 tópicos | 0 | 0 | — |
+| marketing | producao-de-conteudo | 5 fases / 23 tópicos | 0 | 0 | — |
 | financas | financas | 5 fases / 25 tópicos | 0 | 0 | — |
 | comunicacao | ingles | 5 fases / 30 tópicos | 0 | 0 | — |
 
-**Realidade:** 11 disciplinas, 280 tópicos planejados, 24 páginas escritas, **4 conceitos com
+**Realidade:** 13 disciplinas, 324 tópicos planejados, 24 páginas escritas, **4 conceitos com
 evidência real**. A grade é plano, não progresso — só o LEARNER conta o que você sabe.
 
 **Legenda do status nos mapas:** `✅` consolidado · `⚠️` frágil ou revisão vencida ·

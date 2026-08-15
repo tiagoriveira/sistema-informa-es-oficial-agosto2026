@@ -23,5 +23,23 @@ KNOWLEDGE/LEARNER/SESSIONS.
 
 Vocabulário de tipos de nota ainda não definido — decisão do Tiago, não da IA (invariante 9).
 
+**2026-08-15** — Tiago chegou com a primeira nota pessoal na mão ("como e onde eu salvo").
+Implementado o mínimo viável em vez de esperar a decisão completa: pasta `INBOX/` na raiz,
+irmã de KNOWLEDGE/LEARNER/SESSIONS, com `INBOX/LEIA-ME.md` definindo o que entra, o que não
+entra, e a regra de preservar o texto original literal.
+
 ## Decisão
-_(em aberto)_
+
+**Parcial.** A camada existe e está em uso (3 arquivos, 2026-08-15).
+
+Continua em aberto, e é decisão do Tiago (invariante 9):
+- **vocabulário de tipos de nota** — `INBOX/` hoje usa `tipo: nota-pessoal` para tudo, que é
+  placeholder, não vocabulário.
+- **nome no arquivo vs. frontmatter** — a ideia original era "joga com o tipo no nome". Ficou
+  no frontmatter. Reversível.
+- **quando a IA tria sozinha** — hoje não tria: marca `triada: nao` e espera. Se isso virar
+  fila que não anda, o LINT precisa passar a reclamar.
+
+Pendência de consistência: `CLAUDE.md` §1 (tabela de camadas) e §3 (orçamento de leitura)
+ainda não mencionam `INBOX/`. Mudança na constituição não é decisão da IA — proposta feita ao
+Tiago em 2026-08-15, aguardando.

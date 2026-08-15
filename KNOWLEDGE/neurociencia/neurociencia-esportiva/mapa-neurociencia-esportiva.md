@@ -11,6 +11,10 @@ atualizado: 2026-08-14
 (ver "Nota sobre a grade"), não só memória de treino.
 **Estado do aluno:** [[estado-neurociencia-esportiva]]
 
+**Fronteira com [[mapa-performance-esportiva]]:** aqui é o **cérebro** comandando e regulando
+o movimento; lá é a **fisiologia do esforço** (VO2 max, limiar, força). Se tocam em fadiga —
+aqui pela via da percepção/regulação central, lá pela origem metabólica.
+
 ## Ordem de estudo sugerida
 _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. `CLAUDE.md` §4.2:
 esta ordem não é dogma, desvie quando houver motivo)_

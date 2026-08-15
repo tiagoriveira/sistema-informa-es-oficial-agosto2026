@@ -11,6 +11,10 @@ atualizado: 2026-08-14
 (ver "Nota sobre a grade"), não só memória de treino.
 **Estado do aluno:** [[estado-marketing]]
 
+**Fronteira com [[mapa-producao-de-conteudo]]:** aqui é estratégia (posicionamento, canal,
+funil, medição); lá é o ofício de transformar conceito em post por plataforma. Tópico 13
+("estratégia de conteúdo por estágio de consciência") é a ponte entre as duas.
+
 ## Ordem de estudo sugerida
 _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. `CLAUDE.md` §4.2:
 esta ordem não é dogma, desvie quando houver motivo)_

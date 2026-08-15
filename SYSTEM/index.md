@@ -8,7 +8,7 @@ leitura da página.
 
 Sessões **não** entram aqui — são cronológicas e ficam em [[log]].
 
-Atualizado em: 2026-08-15
+Atualizado em: 2026-08-15 (2)
 
 ---
 
@@ -35,6 +35,13 @@ curricular em fases no seu mapa.
 Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14).
 - [[foco-atencional-nideffer]] — largura/direção da atenção, quatro quadrantes
 - [[choking-sob-pressao]] — reinvestimento vs. distração sob pressão
+
+### 🏃 esporte
+
+**[[mapa-performance-esportiva]]** — Performance Esportiva · [[estado-performance-esportiva]]
+Grade: 5 fases, 21 tópicos (checada na web em 2026-08-15). Fisiologia do esforço (VO2 max,
+limiar, força, periodização) — irmã de [[mapa-neurociencia-esportiva]], não a mesma coisa.
+Sem conceito com página ainda.
 
 ### 📐 filosofia
 
@@ -98,6 +105,10 @@ Grade: 5 fases, 27 tópicos (checada na web em 2026-08-15). A **ferramenta**; o 
 **[[mapa-marketing]]** — Marketing · [[estado-marketing]]
 Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14). Sem conceito com página ainda.
 
+**[[mapa-producao-de-conteudo]]** — Produção de Conteúdo · [[estado-producao-de-conteudo]]
+Grade: 5 fases, 23 tópicos (checada na web em 2026-08-15). O ofício de virar conceito em post
+por plataforma — irmã de [[mapa-marketing]], não a mesma coisa. Sem conceito com página ainda.
+
 ### 💰 financas
 
 **[[mapa-financas]]** — Finanças · [[estado-financas]]
@@ -109,6 +120,18 @@ Grade: 5 fases, 25 tópicos, pessoal → corporativo (checada na web em 2026-08-
 **[[mapa-ingles]]** — Inglês · [[estado-ingles]]
 Grade: 5 fases, 30 tópicos, por nível CEFR (A1→C2). Formato adaptado — ver nota no mapa.
 Sem conceito com página ainda.
+
+---
+
+## INBOX — notas pessoais
+
+Camada crua, criada em 2026-08-15. **Não é fonte** — não citar como autoridade em KNOWLEDGE.
+Ver `INBOX/LEIA-ME.md`.
+
+- [[2026-08-15-motivacao-por-validacao-externa]] — motivar-se por likes desloca o objetivo da
+  atividade para a validação, e o resultado na atividade cai
+- [[marco-aurelio-validacao-externa]] — *Meditações* 6.51: fama / prazer / entendimento, e
+  onde cada um coloca o próprio bem
 
 ---
 

@@ -31,6 +31,9 @@ Sistema-de-estudos-tiago-agosto-2026/
 │
 ├── SESSIONS/                  ← AAAA-MM-DD-<disciplina>.md — arquivo, não memória de trabalho
 │
+├── INBOX/                     ← notas pessoais cruas, sem categoria (desde 2026-08-15)
+│                                 não entra na leitura automática — só lido sob pedido de triagem
+│
 ├── SYSTEM/
 │   ├── schema.md              ← formatos de página (leitura sob demanda)
 │   ├── index.md               ← catálogo com resumo de uma linha por página
@@ -72,6 +75,7 @@ central do desenho — sem ela o sistema morre por peso próprio no segundo ano.
 | o assunto | `KNOWLEDGE/` | reconstruível a partir de RAW |
 | o aluno | `LEARNER/` | reconstruível a partir de SESSIONS |
 | o que aconteceu | `SESSIONS/` + `log.md` | — |
+| pensamento cru do Tiago | `INBOX/` | — (não é fonte, não é KNOWLEDGE) |
 | navegação | — | `INICIO.md`, `index.md` (100% derivados) |
 
 Regra de conflito: **LEARNER vence INICIO.md**. `INICIO.md` e `index.md` são caches; se
