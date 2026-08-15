@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Padrões de Prosperidade</title>
+<style>
+  :root {
+    --bg: #f5f5f7;
+    --surface: #ffffff;
+    --surface-2: #fbfbfd;
+    --border: rgba(0,0,0,0.07);
+    --text-primary: #1d1d1f;
+    --text-secondary: #6e6e73;
+    --text-tertiary: #86868b;
+    --accent: #0071e3;
+    --accent-light: #e8f0fe;
+    --tag-obvious: #e3f2fd;
+    --tag-obvious-text: #1565c0;
+    --tag-hidden: #f3e5f5;
+    --tag-hidden-text: #6a1b9a;
+    --tag-rare: #fff3e0;
+    --tag-rare-text: #e65100;
+    --tag-new: #e8f5e9;
+    --tag-new-text: #1b5e20;
+    --warning-bg: #fff8e1;
+    --warning-text: #795548;
+    --radius: 18px;
+    --radius-sm: 10px;
+    --shadow: 0 4px 24px rgba(0,0,0,0.06), 0 1px 4px rgba(0,0,0,0.04);
+    --shadow-hover: 0 8px 32px rgba(0,0,0,0.10), 0 2px 8px rgba(0,0,0,0.06);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text-primary);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* HERO */
+  .hero {
+    background: linear-gradient(160deg, #1d1d1f 0%, #2d2d2f 60%, #1a1a2e 100%);
+    padding: 80px 24px 72px;
+    text-align: center;
+  }
+
+  .hero-eyebrow {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #86868b;
+    margin-bottom: 16px;
+  }
+
+  .hero-title {
+    font-size: clamp(32px, 5vw, 56px);
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    line-height: 1.08;
+    color: #f5f5f7;
+    margin-bottom: 18px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-title span {
+    background: linear-gradient(90deg, #0071e3, #34aadc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .hero-sub {
+    font-size: 17px;
+    color: #86868b;
+    max-width: 520px;
+    margin: 0 auto 32px;
+    line-height: 1.5;
+  }
+
+  .hero-meta {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+
+  .hero-stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .hero-stat-num {
+    font-size: 28px;
+    font-weight: 700;
+    color: #f5f5f7;
+    letter-spacing: -0.02em;
+  }
+
+  .hero-stat-label {
+    font-size: 12px;
+    color: #6e6e73;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  /* LAYOUT */
+  .container {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  /* SECTION HEADER */
+  .section-header {
+    padding: 56px 0 8px;
+  }
+
+  .section-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+  }
+
+  .label-obvious { background: var(--tag-obvious); color: var(--tag-obvious-text); }
+  .label-hidden  { background: var(--tag-hidden);  color: var(--tag-hidden-text); }
+  .label-rare    { background: var(--tag-rare);    color: var(--tag-rare-text); }
+  .label-new     { background: var(--tag-new);     color: var(--tag-new-text); }
+
+  .section-title {
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+    margin-bottom: 4px;
+  }
+
+  .section-desc {
+    font-size: 15px;
+    color: var(--text-secondary);
+    margin-bottom: 28px;
+  }
+
+  /* CARD GRID */
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 16px;
+    margin-bottom: 12px;
+  }
+
+  .card {
+    background: var(--surface);
+    border-radius: var(--radius);
+    padding: 28px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border);
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-hover);
+  }
+
+  .card-accent-bar {
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    border-radius: var(--radius) var(--radius) 0 0;
+  }
+
+  .bar-blue   { background: linear-gradient(90deg, #0071e3, #34aadc); }
+  .bar-purple { background: linear-gradient(90deg, #9b59b6, #6c3483); }
+  .bar-orange { background: linear-gradient(90deg, #f39c12, #e74c3c); }
+  .bar-green  { background: linear-gradient(90deg, #27ae60, #2ecc71); }
+
+  .card-icon {
+    width: 40px; height: 40px;
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px;
+    margin-bottom: 14px;
+  }
+
+  .icon-blue   { background: #e8f4fd; }
+  .icon-purple { background: #f5eef8; }
+  .icon-orange { background: #fef9e7; }
+  .icon-green  { background: #eafaf1; }
+
+  .card-number {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    margin-bottom: 6px;
+  }
+
+  .card-title {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--text-primary);
+    margin-bottom: 10px;
+  }
+
+  .card-body {
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.65;
+    margin-bottom: 14px;
+  }
+
+  /* SOURCE CHIP */
+  .source {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 11px;
+    color: var(--accent);
+    background: var(--accent-light);
+    border-radius: 20px;
+    padding: 3px 9px;
+    font-weight: 500;
+    margin-bottom: 12px;
+    text-decoration: none;
+  }
+
+  /* ANALOGY BOX */
+  .analogy {
+    background: var(--surface-2);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+    padding: 10px 14px;
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+    font-style: italic;
+  }
+
+  /* WARNING / IMPRECISION */
+  .warning {
+    background: var(--warning-bg);
+    border-radius: var(--radius-sm);
+    padding: 10px 14px;
+    font-size: 12px;
+    color: var(--warning-text);
+    display: flex;
+    gap: 7px;
+    align-items: flex-start;
+    line-height: 1.5;
+  }
+
+  .warning-icon { flex-shrink: 0; margin-top: 1px; }
+
+  /* NEW BADGE */
+  .new-badge {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: #0071e3;
+    color: white;
+    border-radius: 20px;
+    padding: 2px 7px;
+    margin-left: 8px;
+    vertical-align: middle;
+  }
+
+  /* SYNTHESIS */
+  .synthesis {
+    background: linear-gradient(135deg, #1d1d1f 0%, #2c2c2e 100%);
+    border-radius: var(--radius);
+    padding: 40px 36px;
+    margin: 48px 0 24px;
+    color: #f5f5f7;
+  }
+
+  .synthesis-title {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 8px;
+  }
+
+  .synthesis-sub {
+    font-size: 14px;
+    color: #86868b;
+    margin-bottom: 28px;
+  }
+
+  .synthesis-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    gap: 12px;
+  }
+
+  .synthesis-item {
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: var(--radius-sm);
+    padding: 14px 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #f5f5f7;
+    transition: background 0.18s;
+  }
+
+  .synthesis-item:hover {
+    background: rgba(255,255,255,0.10);
+  }
+
+  .synthesis-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  /* FOOTER */
+  footer {
+    text-align: center;
+    padding: 40px 24px 60px;
+    font-size: 12px;
+    color: var(--text-tertiary);
+    border-top: 1px solid var(--border);
+    margin-top: 48px;
+  }
+
+  /* DIVIDER */
+  .divider {
+    height: 1px;
+    background: var(--border);
+    margin: 8px 0 0;
+  }
+
+  @media (max-width: 600px) {
+    .cards { grid-template-columns: 1fr; }
+    .synthesis-grid { grid-template-columns: 1fr 1fr; }
+    .hero { padding: 56px 20px 52px; }
+    .synthesis { padding: 28px 22px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <p class="hero-eyebrow">Análise · Biografias & Estudos</p>
+  <h1 class="hero-title">Padrões de quem<br><span>prosperou de verdade</span></h1>
+  <p class="hero-sub">O que indivíduos que alcançaram prosperidade ampla — financeira, intelectual, social e pessoal — têm em comum. Óbvio, não óbvio, e raramente dito.</p>
+  <div class="hero-meta">
+    <div class="hero-stat"><span class="hero-stat-num">11</span><span class="hero-stat-label">Padrões</span></div>
+    <div class="hero-stat"><span class="hero-stat-num">12+</span><span class="hero-stat-label">Fontes</span></div>
+    <div class="hero-stat"><span class="hero-stat-num">4</span><span class="hero-stat-label">Novos pontos</span></div>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- SEÇÃO 1: ÓBVIOS -->
+  <div class="section-header">
+    <span class="section-label label-obvious">● Padrões Óbvios</span>
+    <h2 class="section-title">O que todo mundo cita — e por quê ainda importa</h2>
+    <p class="section-desc">Amplamente documentados. Difícil discordar. Fácil de ignorar na prática.</p>
+  </div>
+  <div class="divider"></div>
+
+  <div class="cards" style="margin-top:24px;">
+
+    <div class="card">
+      <div class="card-accent-bar bar-blue"></div>
+      <div class="card-icon icon-blue">⏳</div>
+      <div class="card-number">1.1</div>
+      <h3 class="card-title">Consistência de longo prazo</h3>
+      <p class="card-body">Prosperidade raramente vem de picos de esforço. É repetição disciplinada ao longo de anos. Funciona como juros compostos: pequenas ações diárias acumulam vantagem desproporcional.</p>
+      <a class="source">📖 Outliers — Malcolm Gladwell (2008)</a>
+      <div class="analogy">Analogia: uma planta que você rega todo dia vs. aquela que você encharca uma vez por mês.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>A "regra das 10 mil horas" é frequentemente mal interpretada; o próprio Gladwell e os pesquisadores originais (Ericsson et al.) indicam que qualidade e tipo de prática importam mais que quantidade bruta.</span></div>
+    </div>
+
+    <div class="card">
+      <div class="card-accent-bar bar-blue"></div>
+      <div class="card-icon icon-blue">🌐</div>
+      <div class="card-number">1.2</div>
+      <h3 class="card-title">Ambientes e redes que amplificam</h3>
+      <p class="card-body">Ideias, oportunidades e recursos circulam dentro de redes. Dois indivíduos com habilidade idêntica podem ter resultados radicalmente diferentes dependendo do ambiente ao redor.</p>
+      <a class="source">📖 The Wealth of Networks — Yochai Benkler (2006)</a>
+      <div class="analogy">Analogia: mesma semente, solos diferentes.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>Há exceções notáveis de indivíduos que prosperaram em isolamento ou em contextos de rede fraca. Rede é fator, não determinismo.</span></div>
+    </div>
+
+    <div class="card">
+      <div class="card-accent-bar bar-blue"></div>
+      <div class="card-icon icon-blue">🎯</div>
+      <div class="card-number">1.3</div>
+      <h3 class="card-title">Alta capacidade de foco profundo</h3>
+      <p class="card-body">Trabalho profundo cria vantagem em um mundo cheio de distrações. Responder mensagens é superficial; construir algo complexo requer blocos longos de atenção ininterrupta.</p>
+      <a class="source">📖 Deep Work — Cal Newport (2016)</a>
+      <div class="analogy">Analogia: você não escava um poço fazendo 50 furos rasos de 5cm.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>O livro é baseado em observação e argumento qualitativo, não em experimento controlado único. Serve como framework, não como lei.</span></div>
+    </div>
+
+  </div>
+
+  <!-- SEÇÃO 2: NÃO ÓBVIOS -->
+  <div class="section-header">
+    <span class="section-label label-hidden">● Padrões Não Óbvios</span>
+    <h2 class="section-title">O que raramente aparece nos artigos de auto-ajuda</h2>
+    <p class="section-desc">Mais difíceis de enxergar. Mais difíceis de executar.</p>
+  </div>
+  <div class="divider"></div>
+
+  <div class="cards" style="margin-top:24px;">
+
+    <div class="card">
+      <div class="card-accent-bar bar-purple"></div>
+      <div class="card-icon icon-purple">🧍</div>
+      <div class="card-number">2.1</div>
+      <h3 class="card-title">Tolerância ao isolamento social</h3>
+      <p class="card-body">Muitos indivíduos altamente produtivos passam longos períodos sem validação social. Quem depende constantemente de aprovação tende a interromper trabalhos profundos antes da maturação.</p>
+      <a class="source">📖 Never at Rest — Richard Westfall (1980) · Isaac Newton</a>
+      <div class="analogy">Analogia: você não colhe milho no dia seguinte ao plantio porque ninguém te elogiou a semente.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>O isolamento não é universal: muitos sucessos ocorrem em ambientes colaborativos intensos. É tolerância ao isolamento quando necessário, não isolamento como regra.</span></div>
+    </div>
+
+    <div class="card">
+      <div class="card-accent-bar bar-purple"></div>
+      <div class="card-icon icon-purple">🏟️</div>
+      <div class="card-number">2.2</div>
+      <h3 class="card-title">Escolha de arenas pouco competitivas</h3>
+      <p class="card-body">Entrar em campos onde poucos competem reduz rivalidade e aumenta margem. Competição intensa comprime diferenciais. Criar um novo campo — ou dominar um nicho ignorado — muda as regras do jogo.</p>
+      <a class="source">📖 Zero to One — Peter Thiel (2014)</a>
+      <div class="analogy">Analogia: correr sozinho numa trilha vs. maratona com 40 mil pessoas.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>Nem toda inovação cria monopólios duráveis. O argumento de Thiel é filosófico e estratégico, não uma garantia empírica.</span></div>
+    </div>
+
+    <div class="card">
+      <div class="card-accent-bar bar-purple"></div>
+      <div class="card-icon icon-purple">🔄</div>
+      <div class="card-number">2.3</div>
+      <h3 class="card-title">Capacidade de mudar de identidade</h3>
+      <p class="card-body">Indivíduos que prosperam frequentemente abandonam versões antigas de si mesmos sem culpa. Steve Jobs reinventou seu foco múltiplas vezes: hardware → animação → smartphones. Não se prender a uma trajetória fixa é vantagem, não fraqueza.</p>
+      <a class="source">📖 Steve Jobs — Walter Isaacson (2011)</a>
+      <div class="analogy">Analogia: a cobra não sente saudade da pele que deixou para trás.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>Biografia interpretativa; algumas motivações e cronologia de Jobs são debatidas por outros autores e fontes.</span></div>
+    </div>
+
+    <div class="card">
+      <div class="card-accent-bar bar-purple"></div>
+      <div class="card-icon icon-purple">⚖️</div>
+      <div class="card-number">2.4</div>
+      <h3 class="card-title">Relação assimétrica com risco</h3>
+      <p class="card-body">Pessoas bem-sucedidas não assumem risco aleatório. Evitam riscos que podem destruir tudo; aceitam riscos que têm potencial de retorno desproporcional. Perder 1 para ganhar 100 é interessante. Perder 100 para ganhar 1 é irracional.</p>
+      <a class="source">📖 Skin in the Game — Nassim Taleb (2018)</a>
+      <div class="analogy">Analogia: apostar o aluguel no cassino vs. investir 5% do patrimônio em algo com upside alto.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>Conceito filosófico e heurístico, não uma fórmula mensurável. Aplicação prática exige julgamento situacional.</span></div>
+    </div>
+
+  </div>
+
+  <!-- SEÇÃO 3: RARAMENTE MENCIONADO (original) -->
+  <div class="section-header">
+    <span class="section-label label-rare">● Raramente Mencionado</span>
+    <h2 class="section-title">O padrão que mais elimina concorrentes</h2>
+    <p class="section-desc">A maioria abandona antes do tempo necessário para maturação.</p>
+  </div>
+  <div class="divider"></div>
+
+  <div class="cards" style="margin-top:24px;">
+    <div class="card">
+      <div class="card-accent-bar bar-orange"></div>
+      <div class="card-icon icon-orange">👁️</div>
+      <div class="card-number">3.1</div>
+      <h3 class="card-title">Suportar longos períodos de invisibilidade</h3>
+      <p class="card-body">Muitas trajetórias de sucesso incluem anos sem reconhecimento. Van Gogh vendeu pouquíssimas obras durante a vida. O silêncio não é ausência de progresso — é a fase mais traiçoeira, porque parece fracasso.</p>
+      <a class="source">📖 Van Gogh: The Life — Naifeh & White Smith (2011)</a>
+      <div class="analogy">Analogia: bambu chinês. Passa 4 anos sem crescer visivelmente. No 5º ano, cresce 27 metros.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>O caso de Van Gogh envolve fatores psicológicos e históricos complexos que vão além do simples "persistência recompensada". Simplificação necessária, mas incompleta.</span></div>
+    </div>
+  </div>
+
+  <!-- SEÇÃO 4: NOVOS PONTOS -->
+  <div class="section-header">
+    <span class="section-label label-new">● Pontos Adicionais</span>
+    <h2 class="section-title">O que o artigo original não cobriu <span class="new-badge">Novo</span></h2>
+    <p class="section-desc">Padrões relevantes com fontes verificáveis, complementares — sem sobrepor o que já foi dito.</p>
+  </div>
+  <div class="divider"></div>
+
+  <div class="cards" style="margin-top:24px;">
+
+    <div class="card">
+      <div class="card-accent-bar bar-green"></div>
+      <div class="card-icon icon-green">🧠</div>
+      <div class="card-number">4.1</div>
+      <h3 class="card-title">Metacognição ativa — saber o que não se sabe</h3>
+      <p class="card-body">Indivíduos que prosperam têm uma habilidade rara: monitorar o próprio pensamento em tempo real. Saber que estão com viés, que têm lacuna num assunto, que estão tomando uma decisão com informação insuficiente. Isso não é humildade performática — é uma habilidade cognitiva treinável que reduz erros custosos.</p>
+      <a class="source">📖 Thinking, Fast and Slow — Daniel Kahneman (2011)</a>
+      <div class="analogy">Analogia: pilotar com GPS que avisa quando você saiu da rota, vs. só descobrir ao chegar no lugar errado.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>Metacognição é estudada em psicologia cognitiva, mas sua correlação direta com "prosperidade ampla" não é estabelecida por um único estudo definitivo. É inferência plausível a partir do campo, não dado direto.</span></div>
+    </div>
+
+    <div class="card">
+      <div class="card-accent-bar bar-green"></div>
+      <div class="card-icon icon-green">⚡</div>
+      <div class="card-number">4.2</div>
+      <h3 class="card-title">Gestão de energia, não de tempo</h3>
+      <p class="card-body">A maioria gerencia horas. Pessoas que prosperam gerenciam energia física, emocional e mental. Duas horas de foco com energia alta valem mais que oito horas de presença com esgotamento. Isso exige rituais, sono, alimentação e recuperação como prioridades estratégicas — não como concessões.</p>
+      <a class="source">📖 The Power of Full Engagement — Loehr & Schwartz (2003)</a>
+      <div class="analogy">Analogia: um carro com tanque cheio percorre o dobro da distância do mesmo carro com 20% de combustível, mesmo que você coloque mais horas ao volante.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>O livro é escrito por consultores de performance esportiva e corporativa, não pesquisadores acadêmicos puros. Os princípios são amplamente aceitos na prática, mas a base experimental direta é limitada.</span></div>
+    </div>
+
+    <div class="card">
+      <div class="card-accent-bar bar-green"></div>
+      <div class="card-icon icon-green">🔍</div>
+      <div class="card-number">4.3</div>
+      <h3 class="card-title">Assimetria de informação explorada com consistência</h3>
+      <p class="card-body">Pessoas que prosperam em nichos frequentemente sabem mais sobre aquele nicho específico do que qualquer concorrente. Não conhecimento geral — conhecimento profundo e atualizado de uma área estreita. Isso cria vantagem de decisão invisível para quem está de fora.</p>
+      <a class="source">📖 Competitive Advantage — Michael Porter (1985) · conceito complementado por Thiel (2014)</a>
+      <div class="analogy">Analogia: o médico especialista não sabe mais medicina que o clínico geral — sabe muito mais sobre um órgão específico.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>A combinação Porter + Thiel é minha síntese interpretativa, não uma fonte única. Pode haver outras leituras igualmente válidas.</span></div>
+    </div>
+
+    <div class="card">
+      <div class="card-accent-bar bar-green"></div>
+      <div class="card-icon icon-green">🌱</div>
+      <div class="card-number">4.4</div>
+      <h3 class="card-title">Relação com fracasso como dado, não como identidade</h3>
+      <p class="card-body">Indivíduos que prosperam processam o fracasso como informação útil sobre o mundo, não como julgamento sobre quem eles são. Isso não é autoestima inflada — é separação funcional entre resultado e identidade, que permite continuar tentando sem custo emocional acumulativo paralisante.</p>
+      <a class="source">📖 Mindset: The New Psychology of Success — Carol S. Dweck (2006)</a>
+      <div class="analogy">Analogia: um cientista não desiste de entender o fenômeno porque um experimento deu resultado inesperado. Ele anota e tenta de novo.</div>
+      <div class="warning"><span class="warning-icon">⚠️</span><span>O conceito de "growth mindset" de Dweck foi contestado em tentativas de replicação (Sisk et al., 2018, meta-análise). Efeito real existe mas é menor e mais contextual do que a versão popular sugere.</span></div>
+    </div>
+
+  </div>
+
+  <!-- SÍNTESE -->
+  <div class="synthesis">
+    <p style="font-size:12px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#6e6e73;margin-bottom:10px;">Síntese completa</p>
+    <h2 class="synthesis-title">Os 11 padrões em uma visão</h2>
+    <p class="synthesis-sub">Todos os elementos recorrentes identificados, incluindo os 4 novos pontos.</p>
+    <div class="synthesis-grid">
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#34aadc"></div>Consistência longa</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#34aadc"></div>Ambiente amplificador</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#34aadc"></div>Foco profundo</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#9b59b6"></div>Tolerância ao isolamento</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#9b59b6"></div>Arenas pouco competitivas</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#9b59b6"></div>Reinvenção de identidade</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#9b59b6"></div>Risco assimétrico</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#f39c12"></div>Suportar invisibilidade</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#27ae60"></div>Metacognição ativa</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#27ae60"></div>Gestão de energia</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#27ae60"></div>Assimetria de informação</div>
+      <div class="synthesis-item"><div class="synthesis-dot" style="background:#27ae60"></div>Fracasso como dado</div>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  <p>Compilado a partir de biografias, livros referenciados e análise de padrões documentados.</p>
+  <p style="margin-top:6px;">As imprecisões de cada seção estão listadas nos respectivos cards.</p>
+</footer>
+
+</body>
+</html>

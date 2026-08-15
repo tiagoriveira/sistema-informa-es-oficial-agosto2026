@@ -553,3 +553,48 @@ Tiago recuperou o arquivo pela lixeira do OneDrive e trouxe de volta pra raiz. M
 
 Sessão encerrada a pedido. Sem avaliação, sem revisão pra recalcular. Revisões vencidas
 seguem intocadas, 2 dias de atraso — prioridade da próxima sessão.
+
+## [2026-08-15] system | 8 fontes novas em RAW + 8 em RECURSOS (achadas na máquina, via Notion)
+
+Tiago pediu pra localizar na máquina os PDFs anexados na página do Notion "Sistema de gestão
+pessoal Tiago" e trazer pro vault. Exceção pontual e explícita à regra "só o Tiago escreve em
+RAW/" (`RAW/LEIA-ME.md`) — autorizada por ele nesta sessão, não é novo padrão.
+
+Cópias (arquivos originais continuam onde estavam, nada foi movido/apagado da máquina):
+
+**RAW/** (disciplina nova, ainda sem `mapa-`/`estado-`/página de fonte — só o arquivo bruto):
+- `filosofia/aristoteles-etica-a-nicomaco.pdf`
+- `filosofia-de-negocios/filosofia-negocios-rigoroso.pdf`
+- `gestao-de-projetos/sutherland-scrum-dobro-trabalho-metade-tempo.pdf`
+- `historia-aplicada-a-negocios/historia-aplicada-a-negocios-guia-completo.pdf`
+- `negocios-startups/contramao-zero-to-one-fundamentos-teoricos.pdf`
+- `negocios-startups/fitzpatrick-o-teste-da-mae.pdf`
+- `performance-esportiva/gallwey-o-jogo-interior-do-tenis.pdf`
+- `produtividade/keller-a-unica-coisa.pdf`
+
+**RECURSOS/** (autoajuda/motivacional, sem status de disciplina de estudo):
+- `FINAL - IA para o Dia a Dia - Ebook Completo.pdf`
+- `prosperidade-padroes.html`
+- `O_SOFRIMENTO_AMOROSO_DO_HOMEM_VOLUME_I (1).pdf`
+- `Poder-e-manipulacao-Jacob-Petry.pdf`
+- `Relacionamentos - Uma saída para um beco sem saída (1).pdf`
+- `Mulheresseuceueseuinferno.pdf`
+- `alem-da-ordem-mais-12-regras-para-a-vida-jorda-z-liborg.pdf`
+- `Roube Como Um Artista PDF.pdf`
+- `Les_Brown_It's_Not_Over_Until_You_Win!_(Full_Transcript) (1).pdf`
+
+Nenhuma página de `KNOWLEDGE/` foi criada — isso é INGEST de verdade (ler, listar conceitos,
+aprovação) e não foi pedido ainda. `mapa-<disciplina>.md`/`index.md` não tocados: sem página
+de fonte, não há o que indexar. Próximo passo, quando Tiago quiser: escolher uma dessas
+disciplinas e pedir ingest.
+
+## [2026-08-15] system | fecha sessão — Q&A de uso do sistema + fontes novas em RAW
+
+Sessão sem TEACH: Tiago pediu boas práticas de uso do vault (estudo/produtividade/geral),
+depois trouxe as 8 fontes de RAW + 8 de RECURSOS já registradas na entrada anterior, e por fim
+perguntou o significado de "ingest" (explicado, sem executar). Nenhum conceito avaliado,
+nenhuma revisão recalculada. `INICIO.md` atualizado com a lista de fontes em RAW aguardando
+ingest e o resumo da sessão.
+
+Sessão encerrada a pedido. Revisões vencidas seguem intocadas (validacao-de-problema,
+riscos-de-descoberta, operador-centauro) — prioridade da próxima sessão.

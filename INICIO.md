@@ -10,7 +10,11 @@ product-discovery continua a mais avançada
 (economia, copywriting, logica-e-epistemologia, produtividade-biohacking, gestao-de-tempo,
 psicologia, poder-e-dinamica-social, comportamento-masculino-e-realismo), camada `NOTAS/`
 corrigida pra PARA de verdade (`PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/`), pipeline
-`ideias/backlog/roadmap` fundido ao PARA. Nenhum conceito avaliado hoje nesta parte.
+`ideias/backlog/roadmap` fundido ao PARA. Depois: 8 fontes localizadas na máquina (via link do
+Notion) e copiadas pra `RAW/` — filosofia, filosofia-de-negocios, gestao-de-projetos,
+historia-aplicada-a-negocios, negocios-startups, performance-esportiva, produtividade — mais
+8 PDFs de autoajuda/motivacional em `RECURSOS/` (ver `SYSTEM/log.md`). Nenhum conceito
+avaliado hoje.
 
 ---
 
@@ -23,6 +27,16 @@ Revisar os três vencidos primeiro (prioridade sobre conteúdo novo). Em
 [[validacao-de-problema]], mudar o formato — recuperação livre falhou 2x, tentar
 reconhecimento em vez de gerar do zero. Em [[operador-centauro]], testar se distingue uso
 genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
+
+**Fontes em RAW aguardando ingest** (arquivo bruto só, sem `mapa-`/`estado-`/página em
+`KNOWLEDGE/` ainda — não entram na tabela de disciplinas abaixo até isso acontecer):
+`RAW/filosofia/aristoteles-etica-a-nicomaco.pdf`,
+`RAW/filosofia-de-negocios/filosofia-negocios-rigoroso.pdf`,
+`RAW/gestao-de-projetos/sutherland-scrum-dobro-trabalho-metade-tempo.pdf`,
+`RAW/historia-aplicada-a-negocios/historia-aplicada-a-negocios-guia-completo.pdf`,
+`RAW/negocios-startups/contramao-zero-to-one-fundamentos-teoricos.pdf` e
+`fitzpatrick-o-teste-da-mae.pdf`, `RAW/performance-esportiva/gallwey-o-jogo-interior-do-tenis.pdf`,
+`RAW/produtividade/keller-a-unica-coisa.pdf`.
 
 **Explicado mas não salvo** (só existe no histórico do chat — se não virar página, some):
 item 1 de neurociência esportiva (sistema motor); o pipeline de repurposing de conteúdo
