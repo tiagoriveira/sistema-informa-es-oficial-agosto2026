@@ -8,7 +8,7 @@ leitura da página.
 
 Sessões **não** entram aqui — são cronológicas e ficam em [[log]].
 
-Atualizado em: 2026-08-14
+Atualizado em: 2026-08-15
 
 ---
 
@@ -81,7 +81,17 @@ Grade: 5 fases, 19 tópicos (checada na web em 2026-08-14).
 Grade: 5 fases, 30 tópicos (checada na web em 2026-08-14). Sem conceito com página ainda.
 
 **[[mapa-gestao-conhecimento-second-brain]]** — Gestão do Conhecimento & Second Brain · [[estado-gestao-conhecimento-second-brain]]
-Grade: 5 fases, 21 tópicos (checada na web em 2026-08-14). Sem conceito com página ainda.
+Grade: 5 fases, 21 tópicos (checada na web em 2026-08-14).
+- [[arquivo-morto]] — capturar não é saber; acúmulo bloqueia até a busca
+- [[ciclo-code]] — cada etapa obriga a informação a mudar de forma
+- [[captura-seletiva]] — ressonância como filtro de entrada
+- [[nota-efemera-vs-permanente]] — a janela de 24-48h e por que ela existe
+
+**[[mapa-obsidian]]** — Obsidian · [[estado-obsidian]]
+Grade: 5 fases, 27 tópicos (checada na web em 2026-08-15). A **ferramenta**; o método fica em
+[[mapa-gestao-conhecimento-second-brain]].
+- [[comandos-e-hotkeys-obsidian]] — a paleta `Ctrl+P` é a porta única; atalho dedicado só pro
+  que roda todo dia. Página 100% de conhecimento externo, datada — doc oficial vence.
 
 ### 📣 marketing
 

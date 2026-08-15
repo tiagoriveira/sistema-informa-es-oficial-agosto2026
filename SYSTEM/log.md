@@ -255,3 +255,15 @@ Masculino e Realismo") — nada feito, anotado como pendente. Sessão em
 As duas entradas de regra acima estavam datadas 2026-08-14; a sessão virou a meia-noite e o
 trabalho é de 2026-08-15. Corrigidas aqui e no `CLAUDE.md` §8. Os commits de 08-14 estão
 certos — aquela parte da sessão foi mesmo no dia 14.
+
+## [2026-08-15] update | gestao-conhecimento + marcador 📖
+
+Os 4 itens da Fase 1 viraram página: [[arquivo-morto]], [[ciclo-code]],
+[[captura-seletiva]], [[nota-efemera-vs-permanente]] — todas `nao_iniciado`, só explicadas.
+Pendência de escrita da sessão anterior resolvida.
+
+Tiago perguntou por que aqui não existe o marcador de concluído que o Ybernator tem. Buraco
+real: `⬜` não distinguia "nunca tocado" de "já expliquei, você só não foi testado". Criado
+`📖` (explicado, nunca testado) em `schema.md` §3 — não pode ser `✅` porque ✅ aqui exige
+evidência de 2+ dias, e marcar concluído só por ter sido explicado seria domínio fantasma
+(invariantes 1 e 2). Legenda dos 5 símbolos adicionada ao `INICIO.md`.

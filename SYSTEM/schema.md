@@ -183,7 +183,15 @@ LEARNER daquela disciplina muda (mesmo princípio do `INICIO.md`):
   nessa condição recebe este símbolo)
 - `📍` se o primeiro item ainda não `✅` **não** estiver em `⚠️`, ele recebe este símbolo —
   é a sugestão de próximo passo
-- `⬜` todo o resto (nao_iniciado ou em_desenvolvimento fora do primeiro item pendente)
+- `📖` **explicado, nunca testado** — o conteúdo foi entregue numa sessão mas não houve
+  avaliação, então o estado no LEARNER continua `nao_iniciado`
+- `⬜` nunca tocado
+
+**Por que `📖` existe e por que não é `✅`.** No Ybernator, o tópico é marcado como concluído
+quando a sessão termina — ou seja, "eu cobri isso". Aqui `✅` significa outra coisa: evidência
+de que o Tiago **explicou certo, sem ajuda, em 2+ dias diferentes**. Marcar como concluído só
+por ter sido explicado seria domínio fantasma, que os invariantes 1 e 2 proíbem. `📖` fecha o
+buraco entre os dois: mostra o que já foi coberto sem fingir que foi aprendido.
 
 Exatamente um item por vez fica `⚠️` ou `📍` (o primeiro não-`✅` da lista) — não os dois.
 

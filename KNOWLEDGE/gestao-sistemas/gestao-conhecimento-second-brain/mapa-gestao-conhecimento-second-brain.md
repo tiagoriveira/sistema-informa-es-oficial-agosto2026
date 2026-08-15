@@ -16,13 +16,13 @@ _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. 
 esta ordem não é dogma, desvie quando houver motivo)_
 
 ### Fase 1 — O problema antes do método
-1. 📍 Por que acumular não é saber — o custo do arquivo morto
-2. ⬜ CODE: o ciclo Capture → Organize → Distill → Express
-3. ⬜ Captura seletiva: o critério de ressonância e o que NÃO capturar
-4. ⬜ Nota efêmera vs. nota permanente
+1. 📖 [[arquivo-morto]] — por que acumular não é saber
+2. 📖 [[ciclo-code]] — Capture → Organize → Distill → Express
+3. 📖 [[captura-seletiva]] — critério de ressonância e o que NÃO capturar
+4. 📖 [[nota-efemera-vs-permanente]] — matéria-prima com prazo de 24-48h
 
 ### Fase 2 — Organizar por ação
-5. ⬜ PARA: Projects, Areas, Resources, Archives
+5. 📍 PARA: Projects, Areas, Resources, Archives
 6. ⬜ Por que organizar por acionabilidade vence organizar por assunto
 7. ⬜ O fluxo de inbox: capturar num lugar, triar depois
 8. ⬜ Arquivar sem apagar — e por que o archive importa
@@ -45,6 +45,12 @@ esta ordem não é dogma, desvie quando houver motivo)_
 19. ⬜ IA como camada de recuperação e síntese sobre o vault
 20. ⬜ O risco da IA: terceirizar a destilação é perder o aprendizado
 21. ⬜ Manutenção: lint, órfãs, duplicatas e quando podar
+
+## Conceitos com página
+- [[arquivo-morto]] — capturar não é saber; acúmulo bloqueia até a busca
+- [[ciclo-code]] — cada etapa obriga a informação a mudar de forma
+- [[captura-seletiva]] — ressonância como filtro de entrada
+- [[nota-efemera-vs-permanente]] — a janela de 24-48h e por que ela existe
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-14 a partir de busca na web (regra `CLAUDE.md` §6). Os quatro
