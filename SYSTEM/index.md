@@ -123,13 +123,19 @@ Sem conceito com página ainda.
 
 ---
 
-## INBOX — notas pessoais
+## INBOX — notas pessoais (efêmera)
 
 Camada crua, criada em 2026-08-15. **Não é fonte** — não citar como autoridade em KNOWLEDGE.
-Ver `INBOX/LEIA-ME.md`.
+Ver `INBOX/LEIA-ME.md`. Vazia agora — as duas notas de 2026-08-15 foram triadas e movidas
+pra `NOTAS/`.
 
-- [[2026-08-15-motivacao-por-validacao-externa]] — motivar-se por likes desloca o objetivo da
-  atividade para a validação, e o resultado na atividade cai
+## NOTAS — notas pessoais (permanente)
+
+Destino do INBOX depois de triado, criada em 2026-08-15. **Não é fonte**. Ver
+`NOTAS/LEIA-ME.md`.
+
+- [[motivacao-por-validacao-externa]] — motivar-se por likes desloca o objetivo da atividade
+  para a validação, e o resultado na atividade cai
 - [[marco-aurelio-validacao-externa]] — *Meditações* 6.51: fama / prazer / entendimento, e
   onde cada um coloca o próprio bem
 

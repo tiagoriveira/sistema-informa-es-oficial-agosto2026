@@ -1,8 +1,9 @@
 ---
 tipo: nota-pessoal
+categoria: ideia
 autor: tiago
 criado: 2026-08-15
-triada: nao
+triada: sim
 ---
 
 # Motivação por validação externa corrói a motivação pela atividade
@@ -40,10 +41,5 @@ causalidade para fora, e a motivação intrínseca cai quando a recompensa some.
 - `historia-da-filosofia` — Marco Aurélio, estoicismo tardio. A grade da disciplina ainda
   está nos pré-socráticos.
 
-## Triagem — em aberto
-
-Candidata a virar página de conceito, mas **não decidido**. Duas perguntas antes:
-1. Em qual disciplina? Pode ser neurociência (mecanismo atencional) ou uma disciplina de
-   motivação/psicologia que ainda não existe.
-2. Vale checar na web antes de escrever página — o efeito de sobrejustificação tem replicação
-   contestada e não quero escrever certeza onde há debate.
+## Relacionado
+[[marco-aurelio-validacao-externa]] · [[choking-sob-pressao]]

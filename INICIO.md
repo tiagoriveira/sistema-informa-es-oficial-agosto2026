@@ -41,8 +41,9 @@ Depois, avaliar o que só foi explicado e nunca testado:
 (psicologia) e a disciplina "Comportamento Masculino e Realismo" (inspirada no Nessahan) —
 pedido interrompido em 2026-08-15, ainda nada feito.
 
-**INBOX sem triagem** (desde 2026-08-15): [[2026-08-15-motivacao-por-validacao-externa]] e
-[[marco-aurelio-validacao-externa]] — candidatas a virar página, disciplina não decidida.
+**NOTAS candidatas a KNOWLEDGE** (triadas em 2026-08-15, `INBOX/` agora vazio):
+[[motivacao-por-validacao-externa]] espera o hub "área da mente" nascer;
+[[marco-aurelio-validacao-externa]] espera a grade de filosofia chegar no estoicismo.
 
 ---
 

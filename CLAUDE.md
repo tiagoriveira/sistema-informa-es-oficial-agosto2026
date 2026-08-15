@@ -21,6 +21,7 @@ para a IA seguir por padrão até ele pedir diferente.
 | SESSIONS | `SESSIONS/AAAA-MM-DD-<disciplina>.md` | você (automático) | o que aconteceu |
 | SYSTEM | `SYSTEM/` + `INICIO.md` | você (automático) | navegação e histórico |
 | INBOX | `INBOX/` | você (automático) | notas pessoais cruas, ainda sem categoria |
+| NOTAS | `NOTAS/` | você (automático) | notas pessoais permanentes, triadas, sem disciplina |
 
 **Fonte da verdade sobre o aluno é sempre `LEARNER/`.** `INICIO.md` é um cache derivado para
 retomar rápido. Se os dois divergirem, LEARNER vence e você corrige o `INICIO.md`.
@@ -85,7 +86,8 @@ grep "^## \[" SYSTEM/log.md | tail -5 # últimas 5 operações
 ```
 
 `INBOX/` não entra na leitura automática — é gaveta de entrada, não memória de trabalho.
-Só é lido quando você pedir para triar.
+Só é lido quando você pedir para triar. `NOTAS/` é lido como qualquer outra página, sob
+demanda, quando relevante para a pergunta ou sessão.
 
 ---
 

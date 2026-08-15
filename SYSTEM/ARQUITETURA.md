@@ -34,6 +34,9 @@ Sistema-de-estudos-tiago-agosto-2026/
 ├── INBOX/                     ← notas pessoais cruas, sem categoria (desde 2026-08-15)
 │                                 não entra na leitura automática — só lido sob pedido de triagem
 │
+├── NOTAS/                     ← notas pessoais permanentes, triadas, sem disciplina (2026-08-15)
+│                                 destino do INBOX quando não vira KNOWLEDGE — lido sob demanda
+│
 ├── SYSTEM/
 │   ├── schema.md              ← formatos de página (leitura sob demanda)
 │   ├── index.md               ← catálogo com resumo de uma linha por página
@@ -76,6 +79,7 @@ central do desenho — sem ela o sistema morre por peso próprio no segundo ano.
 | o aluno | `LEARNER/` | reconstruível a partir de SESSIONS |
 | o que aconteceu | `SESSIONS/` + `log.md` | — |
 | pensamento cru do Tiago | `INBOX/` | — (não é fonte, não é KNOWLEDGE) |
+| pensamento triado do Tiago | `NOTAS/` | — (não é fonte, não é KNOWLEDGE; permanente) |
 | navegação | — | `INICIO.md`, `index.md` (100% derivados) |
 
 Regra de conflito: **LEARNER vence INICIO.md**. `INICIO.md` e `index.md` são caches; se

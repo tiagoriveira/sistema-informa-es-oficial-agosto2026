@@ -21,7 +21,20 @@ passada.
 - Nota do INBOX **não é fonte**. Não citar como autoridade em página de KNOWLEDGE.
 - Triagem é operação separada: virar página de conceito exige aprovação (invariante 8).
 
-## Em aberto
+## Destino, depois de triada
 
-Vocabulário de tipos de nota (`#ideia`, `#observacao`, `#pergunta`…) — decisão do Tiago,
-ainda não tomada. Ver [[inbox-notas-pessoais]].
+`INBOX/` é efêmera — não é pra ficar aqui pra sempre ([[nota-efemera-vs-permanente]]). Depois
+de triada, a nota sai daqui:
+
+- Vira **conceito citável de uma disciplina** → `KNOWLEDGE/` (pede aprovação, invariante 8).
+- Não se encaixa em disciplina nenhuma, mas fica de pé sozinha → `NOTAS/` (permanente, sem
+  precisar de aprovação — é organização, não criação de conteúdo novo).
+
+## Categoria (frontmatter `categoria:`)
+
+Vocabulário fechado, decidido em 2026-08-15:
+
+- `ideia` — pensamento seu, interpretação
+- `pergunta` — dúvida em aberto
+- `observacao` — algo notado, sem elaboração
+- `citacao` — trecho trazido de outra fonte

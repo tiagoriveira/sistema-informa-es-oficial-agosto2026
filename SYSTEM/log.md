@@ -334,3 +334,44 @@ reescrito: última sessão, revisões vencidas (2 dias de atraso agora), lacuna 
 (pipeline de repurposing só no chat, sem página), pendência do INBOX sem triagem. Pendência
 antiga (hubs dinâmicas-sociais/área-da-mente + disciplina Comportamento Masculino e
 Realismo) segue sem tocar, carregada de novo.
+
+## [2026-08-15] system | INBOX: vocabulário de categoria decidido + notas organizadas
+
+Tiago pediu recomendação sobre vocabulário e pra organizar as notas. Decidido: campo
+`categoria:` fechado em ideia/pergunta/observacao/citacao, documentado em `INBOX/LEIA-ME.md`
+e [[inbox-notas-pessoais]]. As duas notas existentes classificadas: motivação-por-validação
+= ideia, marco-aurélio = citacao. Nenhuma virou página de KNOWLEDGE (invariante 8 — organizar
+não é criar página, isso continua exigindo aprovação explícita). Recomendação registrada em
+cada nota: a de motivação aponta pro hub "área da mente" ainda pendente de criar; a de Marco
+Aurélio espera a grade de historia-da-filosofia chegar no estoicismo.
+
+## [2026-08-15] system | camada NOTAS criada — destino permanente do INBOX
+
+Tiago apontou que INBOX sozinho deixava nota pessoal empilhada sem destino — o próprio
+[[nota-efemera-vs-permanente]] descreve esse anti-padrão ("inbox" como arquivo morto com nome
+bonito). Criada `NOTAS/`, camada irmã de INBOX/KNOWLEDGE: destino de nota triada que não vira
+página de KNOWLEDGE (sem disciplina/fonte, mas fica de pé sozinha). As duas notas de hoje
+migradas: nomes perderam o prefixo de data (convenção passa a ser igual KNOWLEDGE — nota
+permanente é atemporal), `triada: sim`, link interno corrigido pro novo nome do arquivo.
+`INBOX/LEIA-ME.md` ganhou seção "Destino, depois de triada" explicando o critério: vira
+KNOWLEDGE (pede aprovação, invariante 8) ou vira NOTAS (não pede — é organização, não criação
+de conteúdo). `CLAUDE.md` §1 e §3, `ARQUITETURA.md` (diagrama + tabela) e `index.md`
+atualizados. FAQ checado (invariante 10): nada desatualizado.
+
+## [2026-08-15] system | correção: nota permanente não carrega pendência de processo
+
+Tiago apontou que as duas notas em `NOTAS/` tinham seção "Triagem" com recomendação de
+"espera tal coisa acontecer" — pendência de sistema misturada em conteúdo que deveria ser
+permanente/autônomo, e duplicada com o que já está no `INICIO.md`. Risco real: sessão futura
+lendo só a nota (sem o histórico desta conversa) podia achar que havia decisão em aberto
+específica daquela nota. Seção removida das duas notas, substituída por `## Relacionado`
+(cross-link simples). `INICIO.md` continua sendo o único lugar que rastreia essa pendência.
+Regra nova em `NOTAS/LEIA-ME.md`: nota permanente não carrega pendência de processo.
+
+## [2026-08-15] system | fecha sessão (INBOX/NOTAS + prompt anti-alucinação)
+
+Sessão encerrada a pedido. Sem disciplina de estudo tocada nesta parte — trabalho de sistema:
+prompt anti-alucinação incorporado ao CLAUDE.md, camada NOTAS criada e as 2 notas do INBOX
+migradas, correção de design (nota permanente não carrega pendência de processo). Sem
+avaliação, sem revisão pra recalcular. `INICIO.md` já revisado e consistente, sem mudança
+necessária nesta rodada.

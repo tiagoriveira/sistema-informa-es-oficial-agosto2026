@@ -32,9 +32,17 @@ entra, e a regra de preservar o texto original literal.
 
 **Parcial.** A camada existe e está em uso (3 arquivos, 2026-08-15).
 
+**2026-08-15 (2)** — vocabulário decidido: campo `categoria:` no frontmatter, fechado em
+`ideia` / `pergunta` / `observacao` / `citacao`. `tipo: nota-pessoal` continua sendo o campo
+estrutural (mesmo papel que `tipo` tem em conceito/fonte/mapa/estado); `categoria` é a
+natureza do conteúdo. Ver `INBOX/LEIA-ME.md`.
+
+**2026-08-15 (3)** — Tiago apontou que `INBOX/` sozinho não bastava: nota pessoal ficava
+empilhada lá sem destino final, exatamente o anti-padrão que [[nota-efemera-vs-permanente]]
+descreve ("inbox" como arquivo morto com nome bonito). Criada `NOTAS/` — camada irmã, destino
+permanente de nota triada que não vira KNOWLEDGE. As duas notas existentes migradas.
+
 Continua em aberto, e é decisão do Tiago (invariante 9):
-- **vocabulário de tipos de nota** — `INBOX/` hoje usa `tipo: nota-pessoal` para tudo, que é
-  placeholder, não vocabulário.
 - **nome no arquivo vs. frontmatter** — a ideia original era "joga com o tipo no nome". Ficou
   no frontmatter. Reversível.
 - **quando a IA tria sozinha** — hoje não tria: marca `triada: nao` e espera. Se isso virar
