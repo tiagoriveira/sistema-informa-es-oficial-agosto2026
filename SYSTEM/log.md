@@ -196,3 +196,62 @@ científica — livro ainda não está em `RAW/`.
 fechamento (reestruturação em hub/fase, grade de 9→33 tópicos). Criada
 `SESSIONS/2026-08-14-neurociencia-esportiva.md`. Nenhuma avaliação nova em nenhuma das duas
 — só explicação e reorganização; `INICIO.md` reescrito.
+
+## [2026-08-15] system | teto de tamanho revogado
+
+Tiago achou os itens rasos demais pra conteúdo teórico ("nos livros cada item é bem
+explicado, não mastigado"). §8 do CLAUDE.md: teto de ~120/250 palavras revogado, cada
+conceito agora é explicado a fundo (mecanismo, exemplo, nuance, contraponto), sem limite
+fixo. §4 item 3 ajustado pra não contradizer ("profundidade vem de iterar" → "profundidade
+vem do conceito bem explicado"). Ritmo de um conceito por vez continua igual — mudou
+profundidade, não quantidade. Checado FAQ/ARQUITETURA (invariante 10): nada desatualizado.
+
+## [2026-08-15] system | entrega fatiada em partes
+
+Ajuste no mesmo dia: bloco único longo (o item 3 de gestão-conhecimento saiu inteiro —
+mecanismo, exemplo, nuance, contraponto — de uma vez) também gerou fricção de leitura. §4
+item 3 e §8: quanto explico (sem teto) e quanto entrego por output (uma parte do conceito por
+vez — mecanismo, depois exemplo, depois nuance) são regras separadas agora.
+
+## [2026-08-15] system | disciplina nova: obsidian
+
+Tiago pediu "um curso sobre obsidian". Criada a 11ª disciplina, no hub `gestao-sistemas`:
+`KNOWLEDGE/gestao-sistemas/obsidian/mapa-obsidian.md` (grade de 5 fases / 26 tópicos) e
+`LEARNER/estado-obsidian.md` vazio. Grade checada por busca na web (§6) porque o Obsidian
+mudou entre 2025 e 2026: Bases virou core plugin e assume o lugar do Dataview como caminho
+padrão de dashboard; app gratuito inclusive para uso comercial. Fronteira declarada no mapa:
+ferramenta aqui, método em [[mapa-gestao-conhecimento-second-brain]]. `index.md` e
+`INICIO.md` atualizados (10 → 11 disciplinas, 253 → 279 tópicos).
+
+## [2026-08-15] system | obsidian: tópico de comandos/hotkeys
+
+Tiago pediu "comandos para produtividade no Obsidian". Entregue na conversa (paleta `Ctrl+P`
+como porta única + atalhos padrão do Windows, checados na doc oficial). Grade de
+[[mapa-obsidian]] passou de 26 → 27 tópicos: novo tópico 6 na Fase 1 (command palette e
+hotkeys), renumerando os seguintes — a fase pulava do modelo mental direto pra links sem
+passar por como se opera a ferramenta. `index.md` e `INICIO.md` acertados.
+
+## [2026-08-15] system | página: comandos-e-hotkeys-obsidian
+
+Tiago pediu pra salvar os comandos no vault mesmo depois de eu recomendar o contrário
+(cheatsheet envelhece e a doc oficial já é referência viva). Decisão dele, página criada:
+`KNOWLEDGE/gestao-sistemas/obsidian/fase-1-modelo-mental/comandos-e-hotkeys-obsidian.md`,
+marcada como 100% conhecimento externo e datada 2026-08-15, com aviso de que em conflito o
+app vence. Primeira página da disciplina; tópico 6 do mapa virou link. `estado-obsidian.md`
+recebeu o bloco como `nao_iniciado` (entregue, não testado). `index.md` atualizado.
+
+## [2026-08-15] study | gestao-conhecimento-second-brain
+
+Primeira sessão da disciplina. Fase 1 explicada do item 1 ao 4 (arquivo morto, CODE, captura
+seletiva, nota efêmera vs. permanente — este parcial, partes 1-2). **Nenhum virou página e
+nenhum foi testado** — dívida de escrita registrada no `INICIO.md`. Duas correções de regra
+no meio: teto de palavras revogado, depois entrega fatiada em partes (entradas acima).
+Pedido interrompido no fim (hubs de dinâmicas sociais e mente + disciplina "Comportamento
+Masculino e Realismo") — nada feito, anotado como pendente. Sessão em
+`SESSIONS/2026-08-15-gestao-conhecimento-second-brain.md`.
+
+## [2026-08-15] system | correção de data
+
+As duas entradas de regra acima estavam datadas 2026-08-14; a sessão virou a meia-noite e o
+trabalho é de 2026-08-15. Corrigidas aqui e no `CLAUDE.md` §8. Os commits de 08-14 estão
+certos — aquela parte da sessão foi mesmo no dia 14.

@@ -3,15 +3,15 @@
 > Estado atual do sistema. Reescrito pela IA ao fim de cada sessão.
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
-**Atualizado em:** 2026-08-14
-**Disciplina ativa:** neurociencia-esportiva (mais recente) / product-discovery (mais avançada)
-**Última sessão:** 2026-08-14 — neurociencia-esportiva ([[2026-08-14-neurociencia-esportiva]])
-e historia-da-filosofia ([[2026-08-14-historia-da-filosofia]])
+**Atualizado em:** 2026-08-15
+**Disciplina ativa:** gestao-conhecimento-second-brain (mais recente) / product-discovery (mais avançada)
+**Última sessão:** 2026-08-15 — gestao-conhecimento-second-brain
+([[2026-08-15-gestao-conhecimento-second-brain]])
 
 ---
 
 ## Revisões vencidas
-Venceram em 2026-08-14, ainda não revisadas: [[validacao-de-problema]],
+Vencidas desde 2026-08-14, **um dia de atraso**: [[validacao-de-problema]],
 [[riscos-de-descoberta]], [[operador-centauro]].
 
 ## Próxima ação recomendada
@@ -20,14 +20,22 @@ Revisar os três vencidos primeiro (prioridade sobre conteúdo novo). Em
 reconhecimento em vez de gerar do zero. Em [[operador-centauro]], testar se distingue uso
 genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
 
+**Dívida de escrita** (conteúdo explicado que só existe no histórico do chat — se não virar
+página, some): 4 itens da Fase 1 de gestão do conhecimento (ver
+[[2026-08-15-gestao-conhecimento-second-brain]]) e o item 1 de neurociência esportiva
+(sistema motor).
+
 Depois, avaliar o que só foi explicado e nunca testado:
 - história da filosofia (8): [[anaximandro-apeiron]], [[anaximenes-ar]],
   [[heraclito-fluxo-e-logos]], [[parmenides-ser-imutavel]], [[empedocles-quatro-raizes]],
   [[democrito-atomismo]], [[sofistas-relativismo]], [[socrates-metodo-elenchos]]
 - product-discovery (5): [[mvp-e-tipos-de-experimento]], [[jobs-to-be-done]],
   [[outcome-vs-output]], [[continuous-discovery]], [[dual-track-agile]]
-- neurociência esportiva (2 com página + sistema motor sem página):
-  [[foco-atencional-nideffer]], [[choking-sob-pressao]]
+- neurociência esportiva (2): [[foco-atencional-nideffer]], [[choking-sob-pressao]]
+
+**Pendente fora de disciplina:** criar hub de dinâmicas sociais, hub da área da mente
+(psicologia) e a disciplina "Comportamento Masculino e Realismo" (inspirada no Nessahan) —
+pedido interrompido em 2026-08-15, nada feito.
 
 ---
 
@@ -46,11 +54,12 @@ explicados.
 | negocios | visao-estrategica-negocios | 5 fases / 23 tópicos | 0 | 0 | — |
 | gestao-sistemas | fundamentos-sistemas-gestao | 5 fases / 30 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-conhecimento-second-brain | 5 fases / 21 tópicos | 0 | 0 | — |
+| gestao-sistemas | obsidian | 5 fases / 27 tópicos | 1 | 0 | 2026-08-15 |
 | marketing | marketing | 5 fases / 27 tópicos | 0 | 0 | — |
 | financas | financas | 5 fases / 25 tópicos | 0 | 0 | — |
 | comunicacao | ingles | 5 fases / 30 tópicos | 0 | 0 | — |
 
-**Realidade:** 10 disciplinas, 253 tópicos planejados, 19 páginas escritas, **4 conceitos com
+**Realidade:** 11 disciplinas, 280 tópicos planejados, 20 páginas escritas, **4 conceitos com
 evidência real**. A grade é plano, não progresso — só o LEARNER conta o que você sabe.
 
 ---
