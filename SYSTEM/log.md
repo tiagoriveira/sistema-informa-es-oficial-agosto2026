@@ -544,3 +544,12 @@ já que a pasta é sincronizada e o delete deve ter ido pra lá.
 Invariante 12 adicionada ao `CLAUDE.md` §2: nunca apagar arquivo sem permissão explícita do
 Tiago, nem quando o conteúdo parece já substituído/sintetizado em outro lugar. Checado
 FAQ/ARQUITETURA (invariante 10): nada desatualizado, o FAQ já dizia "peça pra apagar".
+
+## [2026-08-15] system | llm-wiki - Copia.md no lugar certo, fecha sessão
+
+Tiago recuperou o arquivo pela lixeira do OneDrive e trouxe de volta pra raiz. Movido pra
+`RECURSOS/`, junto da síntese `metodo-llm-wiki-karpathy.md` que já o referenciava por embed
+(`![[llm-wiki - Copia]]` — resolve por nome, independe de pasta). `index.md` atualizado.
+
+Sessão encerrada a pedido. Sem avaliação, sem revisão pra recalcular. Revisões vencidas
+seguem intocadas, 2 dias de atraso — prioridade da próxima sessão.

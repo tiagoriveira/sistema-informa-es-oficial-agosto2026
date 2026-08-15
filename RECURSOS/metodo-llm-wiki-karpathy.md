@@ -43,5 +43,6 @@ Não é teoria abstrata pra você — é o que já está rodando:
 ## Fontes originais (preservadas no INBOX)
 - Link da fonte original: [Yarchi no X](https://x.com/undefinedKi/status/2068306794116501544)
 - [Crie um Segundo Cérebro com IA — Gustluiz, Substack](https://substack.com/home/post/p-206615827)
-- Documento original do Karpathy: "LLM Wiki" (capturado como `llm-wiki - Copia.md`)
+-
+# Documento original do Karpathy: "LLM Wiki" (capturado como `llm-wiki - Copia.md`)
 ![[llm-wiki - Copia]]

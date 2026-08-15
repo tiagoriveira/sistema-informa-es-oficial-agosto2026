@@ -179,7 +179,9 @@ pessoal em `notas-pessoais/` (separado em 2026-08-15, nunca misturar os dois):
 - [[futebol-perfil-fisico-por-posicao]] — exigências físicas do futebol moderno por posição
   (conversa com Grok)
 - [[metodo-llm-wiki-karpathy]] — o padrão que inspira o próprio desenho deste vault; linkado
-  em [[ARQUITETURA]]
+  em [[ARQUITETURA]]. Embed do documento original do Karpathy (`llm-wiki - Copia.md`, também
+  em `RECURSOS/` — recuperado da lixeira do OneDrive em 2026-08-15 depois de eu ter apagado
+  sem permissão)
 - [[referencia-hub-ai-gravacao-servicos-manuais]] — bookmark de startup existente (não é ideia
   própria do Tiago)
 - [[tabela-peso-ideal-altura]] — bookmark solto (X/Twitter)
