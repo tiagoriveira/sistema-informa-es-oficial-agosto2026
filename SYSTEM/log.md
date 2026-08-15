@@ -530,3 +530,17 @@ reflexao-medicacao-e-conexao-racional, projeto-nao-estruturado-em-para). Ficaram
 metodo-llm-wiki-karpathy, referencia-hub-ai-gravacao-servicos-manuais, tabela-peso-ideal-altura,
 dashboard-curriculo-progresso). Regra documentada em `RECURSOS/LEIA-ME.md` e
 `INBOX/LEIA-ME.md`. `index.md` atualizado. `IDEIA.md` removido do INBOX (resolvido).
+
+## [2026-08-15] system | regra nova: nunca apagar sem permissão explícita
+
+Tiago apontou um erro real: eu tinha escrito na nota `metodo-llm-wiki-karpathy.md` que "os
+originais ficaram no INBOX se você quiser reler", e depois apaguei os três originais na
+mesma leva de limpeza do INBOX — contradição minha, sem permissão explícita pra deletar.
+Verificado no git: os arquivos nunca chegaram a ser commitados antes de eu apagar, então não
+são recuperáveis pelo histórico do git. Não são recuperáveis por mim de nenhuma outra forma —
+o Tiago precisa checar a lixeira do OneDrive (onedrive.com, período padrão de retenção),
+já que a pasta é sincronizada e o delete deve ter ido pra lá.
+
+Invariante 12 adicionada ao `CLAUDE.md` §2: nunca apagar arquivo sem permissão explícita do
+Tiago, nem quando o conteúdo parece já substituído/sintetizado em outro lugar. Checado
+FAQ/ARQUITETURA (invariante 10): nada desatualizado, o FAQ já dizia "peça pra apagar".

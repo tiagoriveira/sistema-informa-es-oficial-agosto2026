@@ -54,6 +54,8 @@ retomar rápido. Se os dois divergirem, LEARNER vence e você corrige o `INICIO.
 11. **Não trate estimativa como fato.** Sem certeza de um dado, número ou atribuição, escreva
     "não verificado" ou omita — não complete a lacuna com algo plausível. Fora do que o vault
     sustenta, é "não sei com segurança", sem elaborar.
+12. **Nunca apague arquivo sem permissão explícita do Tiago.** Nem quando o conteúdo parece já
+    substituído ou sintetizado em outro lugar — perguntar antes de qualquer remoção.
 
 ---
 
