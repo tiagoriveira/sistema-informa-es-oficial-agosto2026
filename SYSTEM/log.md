@@ -375,3 +375,19 @@ prompt anti-alucinação incorporado ao CLAUDE.md, camada NOTAS criada e as 2 no
 migradas, correção de design (nota permanente não carrega pendência de processo). Sem
 avaliação, sem revisão pra recalcular. `INICIO.md` já revisado e consistente, sem mudança
 necessária nesta rodada.
+
+## [2026-08-15] study | performance-esportiva: bioenergética (itens 1-3)
+
+Primeira sessão de ensino da disciplina. Itens 1-3 da Fase 1 explicados (três sistemas
+energéticos, ATP-CP a fundo, glicólise/mito do lactato), nenhum avaliado. Itens 1-2 saíram
+com termo técnico direto — Tiago apontou que ficou difícil, refeitos em estilo Feynman
+(analogia antes do jargão). Item 3 já saiu no formato novo e foi confirmado como claro.
+Ajuste salvo como memória pessoal de longo prazo (fora do vault), não como regra do CLAUDE.md
+— já existia regra equivalente no §8, o que faltou foi aplicação mais forte, não regra nova.
+
+## [2026-08-15] system | fecha sessão (performance-esportiva 2)
+
+Sessão encerrada a pedido, logo após o item 3, antes de eu propor arquivar os 3 itens
+explicados como página — lacuna registrada em `SESSIONS/2026-08-15-performance-esportiva-2.md`
+e no `INICIO.md`. Sem avaliação, sem revisão pra recalcular. Revisões vencidas seguem
+intocadas, 2 dias de atraso.

@@ -4,10 +4,10 @@
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
 **Atualizado em:** 2026-08-15
-**Disciplina ativa:** obsidian / performance-esportiva / producao-de-conteudo (mais recentes,
-todas no ponto de partida) — product-discovery continua a mais avançada
-**Última sessão:** 2026-08-15 — [[2026-08-15-obsidian]] ·
-[[2026-08-15-performance-esportiva]] · [[2026-08-15-producao-de-conteudo]]
+**Disciplina ativa:** performance-esportiva (3 conceitos explicados hoje, Fase 1 em
+andamento) — product-discovery continua a mais avançada
+**Última sessão:** 2026-08-15 (2) — [[2026-08-15-performance-esportiva-2]] (bioenergética:
+os três sistemas energéticos, ATP-CP, mito do lactato — todos explicados, zero avaliados)
 
 ---
 
@@ -23,8 +23,9 @@ genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
 
 **Explicado mas não salvo** (só existe no histórico do chat — se não virar página, some):
 item 1 de neurociência esportiva (sistema motor); o pipeline de repurposing de conteúdo
-(Instagram/TikTok/YouTube Shorts/LinkedIn/Threads-X), que é o conteúdo mais substancial já
-entregue em produção-de-conteúdo e ainda sem página.
+(Instagram/TikTok/YouTube Shorts/LinkedIn/Threads-X) em produção-de-conteúdo; **itens 1-3 de
+performance-esportiva** (os três sistemas energéticos, ATP-CP, mito do lactato) — devia ter
+proposto arquivar depois do 2º/3º conceito (§4.3) e não propus, fica pra próxima sessão.
 
 Depois, avaliar o que só foi explicado e nunca testado:
 - história da filosofia (8): [[anaximandro-apeiron]], [[anaximenes-ar]],

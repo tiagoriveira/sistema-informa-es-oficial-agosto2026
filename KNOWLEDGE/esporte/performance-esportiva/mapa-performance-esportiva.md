@@ -26,10 +26,10 @@ _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. 
 esta ordem não é dogma, desvie quando houver motivo)_
 
 ### Fase 1 — Bioenergética: de onde vem a energia
-1. 📍 Os três sistemas energéticos: fosfagênio, glicolítico e oxidativo — e quando cada um domina
-2. ⬜ ATP-CP: potência máxima, duração curta, recuperação rápida
-3. ⬜ Glicólise anaeróbica: produção de lactato, não é "o vilão da fadiga"
-4. ⬜ Sistema oxidativo: por que sustenta esforço longo e depende de oxigênio disponível
+1. 📖 Os três sistemas energéticos: fosfagênio, glicolítico e oxidativo — e quando cada um domina
+2. 📖 ATP-CP: potência máxima, duração curta, recuperação rápida
+3. 📖 Glicólise anaeróbica: produção de lactato, não é "o vilão da fadiga"
+4. 📍 Sistema oxidativo: por que sustenta esforço longo e depende de oxigênio disponível
 
 ### Fase 2 — Capacidade aeróbica
 5. ⬜ VO2 max: o que mede de fato (consumo máximo de oxigênio), e o que não mede
