@@ -733,3 +733,19 @@ primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva
   criação de grade (frameworks-de-pensamento, teoria-dos-jogos-e-estrategia) e enriquecimento
   de nota pessoal de marketing food com jobs-to-be-done.
 - `INICIO.md` reescrito; commit + push ao final.
+
+## [2026-08-16] lint | auditoria semanal automática
+- CLAUDE.md vs FAQ/ARQUITETURA: `FAQ.md` linha 68 ainda descreve "um micro-conceito por vez",
+  desatualizado pela regra de 2026-08-16 que proíbe fatiar um tópico entre outputs.
+- Links: 1 quebrado — `log.md:276` [[2026-08-15-motivacao-por-validacao-externa]] (arquivo foi
+  renomeado pra `motivacao-por-validacao-externa` na migração NOTAS→RECURSOS). O resto dos
+  `[[...]]` sem arquivo correspondente são exemplos ilustrativos em `schema.md`/`ARQUITETURA.md`,
+  não links reais. Zero páginas órfãs em `KNOWLEDGE/`.
+- LEARNER: [[o-que-e-hermeneutica]] sem bloco em `estado-hermeneutica-biblica.md` — deveria ter
+  entrado `nao_iniciado` ao ser explicado (invariante de INGEST/TEACH).
+- Revisões vencidas há 2 dias, já sinalizadas no `INICIO.md`: [[operador-centauro]],
+  [[validacao-de-problema]], [[riscos-de-descoberta]].
+- `INICIO.md`: "42 páginas escritas" não bate com a soma da própria tabela (35, conferido no
+  disco). Coluna "Última sessão" mostra "—" pra 8 disciplinas que têm sessão de grade real:
+  economia, produtividade-biohacking, gestao-de-tempo, copywriting, logica-e-epistemologia,
+  psicologia, poder-e-dinamica-social, comportamento-masculino-e-realismo.
