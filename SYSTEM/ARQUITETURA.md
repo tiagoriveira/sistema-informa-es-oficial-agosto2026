@@ -54,6 +54,11 @@ Sistema-de-estudos-tiago-agosto-2026/
 └── _templates/                ← 5 templates
 ```
 
+**Ordem dentro dos hubs:** o sistema apresenta as disciplinas de cada hub numa sequência
+pedagógica explícita — pré-requisitos, integração e aplicação. A sequência é uma recomendação
+de navegação, não uma proibição de desviar quando houver motivo; ela fica visível em
+`SYSTEM/index.md`, `INICIO.md` e na página de entrada do próprio hub.
+
 ### Fluxo de retomada ("continue de onde paramos")
 
 ```
@@ -542,4 +547,3 @@ Perguntas da seção 22 do briefing — todas respondíveis lendo `INICIO.md` + 
 
 
 ARQUITETURA INSPIRADA NO [[llm-wiki - Copia]]
-

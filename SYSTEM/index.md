@@ -27,7 +27,8 @@ Atualizado em: 2026-08-16
 ## Disciplinas
 
 Estrutura: **hub → disciplina → fase** (ver [[schema]] §0). Toda disciplina tem grade
-curricular em fases no seu mapa.
+curricular em fases no seu mapa. Dentro de cada hub, as disciplinas aparecem na sequência
+pedagógica recomendada: pré-requisito → integração → aplicação.
 
 ### 🧠 neurociencia
 
@@ -154,6 +155,26 @@ geral — irmã de [[mapa-comportamento-masculino-e-realismo]]. Sem conceito com
 [[estado-comportamento-masculino-e-realismo]]
 Grade: 4 fases, 12 tópicos (checada na web em 2026-08-15). Pedido explícito de 2026-08-15
 (inspirada no Ybernator/Nessahan, grade desenhada do zero). Sem conceito com página ainda.
+
+### ✝️ [[hub-teologia]] (hub novo, 2026-08-16)
+
+**Sequência recomendada:** hermenêutica bíblica → teologia bíblica → história da Igreja →
+teologia sistemática → apologética cristã.
+
+**1. [[mapa-hermeneutica-biblica]]** — Hermenêutica Bíblica · [[estado-hermeneutica-biblica]]
+Grade: 4 fases, 16 tópicos. Leitura contextual, literária e responsável das Escrituras. Sem conceito com página ainda.
+
+**2. [[mapa-teologia-biblica]]** — Teologia Bíblica · [[estado-teologia-biblica]]
+Grade: 4 fases, 16 tópicos. Temas e narrativa através do cânon bíblico. Sem conceito com página ainda.
+
+**3. [[mapa-historia-da-igreja]]** — História da Igreja · [[estado-historia-da-igreja]]
+Grade: 4 fases, 16 tópicos. Cristianismos do primeiro século ao mundo contemporâneo. Sem conceito com página ainda.
+
+**4. [[mapa-teologia-sistematica]]** — Teologia Sistemática · [[estado-teologia-sistematica]]
+Grade: 4 fases, 17 tópicos. Método, doutrinas cristãs e diferenças entre tradições. Sem conceito com página ainda.
+
+**5. [[mapa-apologetica-crista]]** — Apologética Cristã · [[estado-apologetica-crista]]
+Grade: 4 fases, 16 tópicos. Razões, evidências, objeções e diálogo sobre a fé cristã. Sem conceito com página ainda.
 
 ### 💰 financas
 

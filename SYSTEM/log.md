@@ -676,3 +676,19 @@ testadas. `mapa-neurociencia-esportiva.md` ganhou links e símbolo `📖`/`📍`
 tinha ficado `📍` por engano — era explicado, deveria ser `📖`; `📍` passou pro item 6, o
 primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva.md` e
 `INICIO.md` atualizados (2 → 7 páginas na disciplina, 29 → 34 no vault).
+## [2026-08-16] system | teologia
+- Criado o hub `teologia` com cinco disciplinas: teologia sistemática, teologia bíblica,
+  história da Igreja, hermenêutica bíblica e apologética cristã.
+- Cada disciplina recebeu mapa curricular de 4 fases e estado inicial vazio no LEARNER.
+- Grades são introdutórias e interdenominacionais, com fontes externas registradas nos mapas.
+## [2026-08-16] system | ordem dos hubs
+- Regra nova: disciplinas de cada hub aparecem em sequência pedagógica — pré-requisito,
+  integração e aplicação — no índice, no INÍCIO e na página de entrada do hub.
+- Hub `teologia` reordenado: hermenêutica bíblica → teologia bíblica → história da Igreja →
+  teologia sistemática → apologética cristã.
+
+## [2026-08-16] study | hermeneutica-biblica
+- Primeira sessão do hub Teologia: explicado “O que é hermenêutica”, distinguindo observação,
+  interpretação e aplicação.
+- Nenhuma avaliação; estado permanece `nao_iniciado`. Mapa atualizado: item 1 `📖`, item 2 `📍`.
+- Sessão fechada a pedido do Tiago; próxima ação é texto, autor, leitores e contexto.

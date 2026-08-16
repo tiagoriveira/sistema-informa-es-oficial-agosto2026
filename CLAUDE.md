@@ -59,6 +59,10 @@ retomar rápido. Se os dois divergirem, LEARNER vence e você corrige o `INICIO.
     teste, vazio, redundante ou já substituído — a IA não julga sozinha o que é óbvio o
     suficiente pra pular a pergunta.
 13. Não salvar arquivos no inbox sem minha permissão!
+14. **Hub em sequência pedagógica.** Em cada hub, as disciplinas devem aparecer na ordem de
+    estudo recomendada: pré-requisitos primeiro, depois compreensão integrada e, por último,
+    aplicação. A sequência é exibida no `SYSTEM/index.md`, no `INICIO.md` e na página de
+    entrada do hub; ao criar ou reorganizar uma disciplina, atualize os três.
 
 ---
 

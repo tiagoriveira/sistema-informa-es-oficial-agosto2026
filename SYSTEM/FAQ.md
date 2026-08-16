@@ -93,6 +93,12 @@ eu completo o registro.
 **Posso estudar duas disciplinas na mesma sessão?**
 Pode, mas gera duas notas de sessão e costuma render menos. Prefira alternar entre dias.
 
+**Em que ordem estudo disciplinas do mesmo hub?**
+Siga a sequência mostrada na página de entrada do hub, em `SYSTEM/index.md` e na tabela do
+`INICIO.md`: pré-requisitos primeiro, depois a disciplina que integra o assunto e, por fim,
+as aplicações. Você pode pedir um desvio, mas eu devo dizer qual pré-requisito foi adiantado
+ou deixado para depois e por quê.
+
 ---
 
 ## Corrigindo o sistema

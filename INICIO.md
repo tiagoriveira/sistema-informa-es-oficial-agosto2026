@@ -4,26 +4,12 @@
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
 **Atualizado em:** 2026-08-16
-**Disciplina ativa:** neurociencia-esportiva (Fase 1 completa nos itens 1-4, mais o item 5 da
-Fase 2 fora de ordem — 7 conceitos explicados no total, 0 avaliados) — product-discovery
-continua a mais avançada em avaliação real
-**Última sessão:** 2026-08-16 — neurociência esportiva: sistema motor, propriocepção, malha
-aberta vs. fechada e unidades motoras/recrutamento explicados a fundo (Fase 1 completa), mais
-estágios da aprendizagem motora (Fase 2 item 5, fora de ordem a pedido do Tiago). Correção de
-processo no meio da sessão: a regra de entrega "fatiada em partes por output" (de 2026-08-15)
-tinha virado desculpa pra avançar sem esgotar o tópico — `CLAUDE.md` §4 item 3 e §8 reescritos
-pra exigir mecanismo+exemplo+aplicação prática juntos, esgotando antes de avançar, com
-sinalização explícita de "concluído" e nomeação de qualquer desvio da ordem da grade. Na
-sequência, duas regras de comportamento do tutor (estilo Feynman obrigatório; sempre começar
-disciplina nova pelo item 1 do mapa) foram migradas da memória local do Claude Code pro
-`CLAUDE.md` (§8 e §4 item 2) — memória local não é lida por quem só abre o vault, regra de
-tutor pertence ao `CLAUDE.md`. Nova invariante 13 adicionada pelo Tiago diretamente no arquivo:
-não salvar arquivo no INBOX sem permissão explícita. Segundo erro no fechamento: fechei a
-sessão sem propor arquivar os 5 conceitos como página, apesar do `CLAUDE.md` §4.3 já mandar
-propor depois de 2-3 — Tiago apontou, as 5 páginas foram criadas depois
-([[sistema-motor]], [[propriocepcao-feedback-sensorial]], [[malha-aberta-vs-fechada]],
-[[unidades-motoras-e-recrutamento]], [[estagios-aprendizagem-motora]]), mapa/index/LEARNER
-atualizados. Nenhuma avaliação nesta sessão.
+**Disciplina ativa:** hermeneutica-biblica (item 1 explicado, ainda não avaliado) —
+product-discovery continua a mais avançada em avaliação real.
+**Última sessão:** 2026-08-16 — Hermenêutica Bíblica: iniciado o item 1, “O que é
+hermenêutica”. Foram distinguidas observação, interpretação e aplicação; nenhuma avaliação foi
+feita, portanto o LEARNER permanece sem evidência. O mapa marca o item como `📖` e recomenda o
+item 2: texto, autor, leitores e contexto.
 
 ---
 
@@ -48,8 +34,8 @@ genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
 `RAW/produtividade/keller-a-unica-coisa.pdf`.
 
 **Explicado mas não salvo** (só existe no histórico do chat — se não virar página, some):
-nada no momento — a dívida de neurociência esportiva (Fase 1 + item 5 da Fase 2) foi resolvida
-em 2026-08-16, todas as 5 viraram página.
+hermenêutica bíblica (1): “O que é hermenêutica” — observação, interpretação e aplicação. A
+criação de página em KNOWLEDGE ainda depende de aprovação do Tiago.
 
 Depois, avaliar o que só foi explicado e nunca testado:
 - história da filosofia (8): [[anaximandro-apeiron]], [[anaximenes-ar]],
@@ -64,6 +50,7 @@ Depois, avaliar o que só foi explicado e nunca testado:
   [[nota-efemera-vs-permanente]]
 - obsidian (1): [[comandos-e-hotkeys-obsidian]]
 - performance esportiva (3): [[tres-sistemas-energeticos]], [[atp-cp]], [[mito-do-lactato]]
+- hermenêutica bíblica (1): O que é hermenêutica
 
 **Pendente fora de disciplina:** resolvido em 2026-08-15 — hub `psicologia` e hub
 `dinamicas-sociais` criados, com a disciplina "Comportamento Masculino e Realismo" incluída.
@@ -118,8 +105,13 @@ explicados.
 | psicologia | psicologia | 4 fases / 14 tópicos | 0 | 0 | — |
 | dinamicas-sociais | poder-e-dinamica-social | 4 fases / 13 tópicos | 0 | 0 | — |
 | dinamicas-sociais | comportamento-masculino-e-realismo | 4 fases / 12 tópicos | 0 | 0 | — |
+| teologia | hermeneutica-biblica | 4 fases / 16 tópicos | 0 | 0 | — |
+| teologia | teologia-biblica | 4 fases / 16 tópicos | 0 | 0 | — |
+| teologia | historia-da-igreja | 4 fases / 16 tópicos | 0 | 0 | — |
+| teologia | teologia-sistematica | 4 fases / 17 tópicos | 0 | 0 | — |
+| teologia | apologetica-crista | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 21 disciplinas, 438 tópicos planejados, 34 páginas escritas, **4 conceitos com
+**Realidade:** 26 disciplinas, 519 tópicos planejados, 39 páginas escritas, **4 conceitos com
 evidência real**. A grade é plano, não progresso — só o LEARNER conta o que você sabe.
 
 **Legenda do status nos mapas:** `✅` consolidado · `⚠️` frágil ou revisão vencida ·
