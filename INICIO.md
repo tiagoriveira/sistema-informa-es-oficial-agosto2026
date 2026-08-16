@@ -6,10 +6,12 @@
 **Atualizado em:** 2026-08-16
 **Disciplina ativa:** hermeneutica-biblica (item 1 explicado, ainda não avaliado) —
 product-discovery continua a mais avançada em avaliação real.
-**Última sessão:** 2026-08-16 — Hermenêutica Bíblica: iniciado o item 1, “O que é
-hermenêutica”. Foram distinguidas observação, interpretação e aplicação; nenhuma avaliação foi
-feita, portanto o LEARNER permanece sem evidência. O mapa marca o item como `📖` e recomenda o
-item 2: texto, autor, leitores e contexto.
+**Última sessão:** 2026-08-16 — duas disciplinas novas criadas por pedido do Tiago:
+[[mapa-frameworks-de-pensamento]] (hub filosofia, 6 fases/36 tópicos) e
+[[mapa-teoria-dos-jogos-e-estrategia]] (hub negocios, 4 fases/22 tópicos). Nenhum conceito
+avaliado em nenhuma das duas ainda — grade só, sem sessão de estudo real. `hub-filosofia.md`
+criado com a sequência história → lógica → frameworks. Também: nota pessoal "Captura - Insight
+sobre marketing de produtos food" enriquecida com [[jobs-to-be-done]] e exemplo aplicado.
 
 ---
 
@@ -90,6 +92,7 @@ explicados.
 | esporte | performance-esportiva | 5 fases / 21 tópicos | 3 | 0 | 2026-08-15 |
 | negocios | visao-estrategica-negocios | 5 fases / 23 tópicos | 0 | 0 | — |
 | negocios | economia | 4 fases / 17 tópicos | 0 | 0 | — |
+| negocios | teoria-dos-jogos-e-estrategia | 4 fases / 22 tópicos | 0 | 0 | — |
 | gestao-sistemas | fundamentos-sistemas-gestao | 5 fases / 30 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-conhecimento-second-brain | 5 fases / 21 tópicos | 4 | 0 | 2026-08-15 |
 | gestao-sistemas | obsidian | 5 fases / 27 tópicos | 1 | 0 | 2026-08-15 |
@@ -111,7 +114,7 @@ explicados.
 | teologia | teologia-sistematica | 4 fases / 17 tópicos | 0 | 0 | — |
 | teologia | apologetica-crista | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 27 disciplinas, 555 tópicos planejados, 40 páginas escritas, **4 conceitos com
+**Realidade:** 28 disciplinas, 577 tópicos planejados, 42 páginas escritas, **4 conceitos com
 evidência real**. A grade é plano, não progresso — só o LEARNER conta o que você sabe.
 
 **Legenda do status nos mapas:** `✅` consolidado · `⚠️` frágil ou revisão vencida ·

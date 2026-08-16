@@ -719,3 +719,17 @@ primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva
   `INICIO.md` e `SYSTEM/index.md` atualizados (27 disciplinas, 555 tópicos).
 - Sequência do hub filosofia declarada no índice: história → lógica → frameworks (invariante 13).
 - Fronteiras declaradas com lógica-e-epistemologia, psicologia e fundamentos-sistemas-gestao.
+
+## [2026-08-16] system | teoria-dos-jogos-e-estrategia
+- Disciplina nova criada no hub `negocios`, por pedido do Tiago.
+- Grade de 4 fases / 22 tópicos, checada na web — Nash, dilema do prisioneiro, jogos
+  repetidos, sinalização, barganha e leilões.
+- Fronteira declarada com [[mapa-frameworks-de-pensamento]] (decisão isolada vs. decisão
+  em interação estratégica) e com [[mapa-poder-e-dinamica-social]].
+- `INICIO.md` e `SYSTEM/index.md` atualizados (28 disciplinas, 577 tópicos).
+
+## [2026-08-16] system | fechamento de sessão
+- Sessão encerrada a pedido do Tiago. Sem avaliação de conceito nesta sessão — trabalho foi
+  criação de grade (frameworks-de-pensamento, teoria-dos-jogos-e-estrategia) e enriquecimento
+  de nota pessoal de marketing food com jobs-to-be-done.
+- `INICIO.md` reescrito; commit + push ao final.

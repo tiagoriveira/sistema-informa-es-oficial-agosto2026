@@ -100,6 +100,12 @@ Grade: 5 fases, 23 tópicos. Sem conceito com página ainda.
 Grade: 4 fases, 17 tópicos (checada na web em 2026-08-15). Micro → macro → comportamental →
 aplicação. Sem conceito com página ainda.
 
+**[[mapa-teoria-dos-jogos-e-estrategia]]** — Teoria dos Jogos e Estratégia ·
+[[estado-teoria-dos-jogos-e-estrategia]]
+Grade: 4 fases, 22 tópicos (checada na web em 2026-08-16). Decisão quando o resultado depende
+da jogada de outro jogador racional — irmã de [[mapa-frameworks-de-pensamento]], não a mesma
+coisa. Sem conceito com página ainda.
+
 ### 🤖 inteligencia-artificial
 
 **[[mapa-colaboracao-humano-ia]]** — Colaboração Humano-IA · [[estado-colaboracao-humano-ia]]
