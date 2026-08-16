@@ -23,7 +23,8 @@ precede as demais.
 - Nenhuma. O conceito foi explicado, mas não avaliado; o LEARNER permanece `nao_iniciado`.
 
 ## Lacunas abertas
-- Ainda não há página de conceito em KNOWLEDGE; a criação depende de aprovação do Tiago.
+- A disciplina continua sem fonte em `RAW/`; a página criada depois do fechamento usa apenas
+  conhecimento externo e precisa ser confirmada ou corrigida por uma fonte futura.
 
 ## Próxima sessão
 Começar por “Texto, autor, leitores e contexto”, usando uma passagem curta para separar as

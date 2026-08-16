@@ -63,14 +63,6 @@
       "key": "B"
     }
   ],
-  "file-explorer:duplicate-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "V"
-    }
-  ],
   "file-explorer:move-file": [
     {
       "modifiers": [
@@ -78,6 +70,29 @@
         "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "file-explorer:duplicate-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "editor:open-link-in-new-split": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "Enter"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
     }
   ]
 }

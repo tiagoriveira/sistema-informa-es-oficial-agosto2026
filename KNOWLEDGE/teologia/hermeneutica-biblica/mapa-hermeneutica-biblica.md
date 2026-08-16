@@ -14,7 +14,7 @@ atualizado: 2026-08-16
 _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. A ordem não é dogma: desvie quando houver motivo.)_
 
 ### Fase 1 — Antes de interpretar
-1. 📖 O que é hermenêutica — observar, interpretar e aplicar sem confundir as três tarefas
+1. 📖 [[o-que-e-hermeneutica]] — observar, interpretar e aplicar sem confundir as três tarefas
 2. 📍 Texto, autor, leitores e contexto — quais perguntas uma leitura responsável precisa fazer
 3. ⬜ Cânon, tradução e manuscritos — o que muda e o que não muda ao ler uma tradução
 4. ⬜ Palavra, frase e argumento — por que contexto imediato vem antes de dicionário

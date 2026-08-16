@@ -692,3 +692,30 @@ primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva
   interpretação e aplicação.
 - Nenhuma avaliação; estado permanece `nao_iniciado`. Mapa atualizado: item 1 `📖`, item 2 `📍`.
 - Sessão fechada a pedido do Tiago; próxima ação é texto, autor, leitores e contexto.
+
+## [2026-08-16] update | hermeneutica-biblica
+- Tiago aprovou arquivar o primeiro tópico como [[o-que-e-hermeneutica]].
+- Mapa, índice, sessão e INÍCIO atualizados; conteúdo marcado como externo por não haver fonte
+  em `RAW/`.
+
+## [2026-08-16] system | criação de páginas
+- Removida a exigência de aprovação prévia para criar páginas em `KNOWLEDGE/`.
+- Páginas agora são criadas automaticamente quando atendem aos critérios de nome próprio,
+  reutilização e ideia central em uma frase; FAQ e arquitetura foram atualizados.
+
+## [2026-08-16] update | recursos
+- Registrada a ideia [[operacao-prestacao-servicos-multiempresa]] em `RECURSOS/notas-pessoais/`.
+- A proposta preserva o vault agnóstico e prevê uma futura área com contexto isolado por cliente.
+
+## [2026-08-16] system | ideias
+- Tiago definiu `ideias/` como destino obrigatório para ideias em maturação.
+- [[operacao-prestacao-servicos-multiempresa]] e [[dashboard-curriculo-progresso]] foram
+  movidas de `RECURSOS/` para `ideias/`; regras, FAQ, arquitetura e índice foram atualizados.
+
+## [2026-08-16] system | frameworks-de-pensamento
+- Disciplina nova criada no hub `filosofia`, por pedido do Tiago (cobertura máxima).
+- Grade de 6 fases / 36 tópicos — a maior do vault, no teto do `schema.md` §3.
+- Criados `mapa-frameworks-de-pensamento.md` e `estado-frameworks-de-pensamento.md`;
+  `INICIO.md` e `SYSTEM/index.md` atualizados (27 disciplinas, 555 tópicos).
+- Sequência do hub filosofia declarada no índice: história → lógica → frameworks (invariante 13).
+- Fronteiras declaradas com lógica-e-epistemologia, psicologia e fundamentos-sistemas-gestao.

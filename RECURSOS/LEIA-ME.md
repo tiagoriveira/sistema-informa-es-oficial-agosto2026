@@ -16,8 +16,8 @@ nome e padrão explícito que só o Tiago define, não é suposição da IA.
 
 ## Subpasta `notas-pessoais/` (decidido em 2026-08-15)
 
-Reflexão/pensamento pessoal do Tiago (categoria `ideia`, `pergunta`, ou `citacao` ligada a uma
-reflexão dele) fica em `RECURSOS/notas-pessoais/`, nunca solta na raiz de `RECURSOS/`.
+Reflexão, pergunta ou citação pessoal do Tiago fica em `RECURSOS/notas-pessoais/`, nunca solta
+na raiz de `RECURSOS/`. Ideia própria, de produto ou de operação fica em `ideias/`, não aqui.
 Referência externa pura (bookmark, curso, síntese de artigo, categoria `observacao` sem
 reflexão pessoal por trás) fica na raiz de `RECURSOS/`. Nunca misturar os dois tipos no mesmo
 arquivo. Pasta específica pra cada tipo — estrutura mais granular é melhor que uma pasta

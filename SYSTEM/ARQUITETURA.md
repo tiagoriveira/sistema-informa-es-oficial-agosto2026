@@ -38,6 +38,8 @@ Sistema-de-estudos-tiago-agosto-2026/
 ├── INBOX/                     ← notas pessoais cruas, sem categoria (desde 2026-08-15)
 │                                 não entra na leitura automática — só lido sob pedido de triagem
 │
+├── ideias/                     ← ideias pessoais, de produto ou de operação em maturação
+│
 ├── PROJETOS/                  ← PARA: esforço com prazo e objetivo claro (2026-08-15)
 ├── AREAS/                     ← PARA: responsabilidade contínua, nomeada pelo Tiago
 ├── RECURSOS/                  ← PARA: referência sem compromisso ativo — destino padrão
@@ -91,6 +93,7 @@ central do desenho — sem ela o sistema morre por peso próprio no segundo ano.
 | o aluno | `LEARNER/` | reconstruível a partir de SESSIONS |
 | o que aconteceu | `SESSIONS/` + `log.md` | — |
 | pensamento cru do Tiago | `INBOX/` | — (não é fonte, não é KNOWLEDGE) |
+| ideias em maturação | `ideias/` | — (não são projeto nem referência externa) |
 | pensamento triado do Tiago | `PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/` | — (não é fonte, não é KNOWLEDGE; método PARA) |
 | navegação | — | `INICIO.md`, `index.md` (100% derivados) |
 
@@ -355,26 +358,26 @@ disse, é preciso o histórico do chat.
 
 ---
 
-### #11 — Aprovação assimétrica: KNOWLEDGE pede, memória não
+### #11 — Criação automática com critérios
 
 **Briefing:** não separa; sugere automação em ambos.
 
-**Agora:** página nova em `KNOWLEDGE/` exige sua aprovação explícita. Atualizações de
-`LEARNER/`, `SESSIONS/`, `log.md` e `INICIO.md` são automáticas.
+**Agora:** páginas em `KNOWLEDGE/` e atualizações de `LEARNER/`, `SESSIONS/`, `log.md` e
+`INICIO.md` são automáticas. Uma página de conhecimento só é criada quando atende aos critérios
+do `CLAUDE.md` §7: conceito nomeável, reutilizável e resumível em uma frase.
 
-**Por quê:** os dois têm perfis de risco opostos. Página ruim em KNOWLEDGE polui o vault
-permanentemente e é você quem sabe se o conceito merece existir. Já pedir permissão para
-registrar "errou elasticidade" quebra o fluxo da sessão a cada 3 minutos — e o custo de um
-registro errado é baixo, porque é corrigível em uma frase.
+**Por quê:** interromper uma sessão para aprovar uma página quebra o acúmulo de conhecimento e
+deixa explicações úteis presas no histórico do chat. O risco de poluição é contido pelos
+critérios explícitos de criação, nomes únicos e pelo LINT.
 
-**Problema que resolve:** os dois modos de falha extremos — vault poluído por criação
-automática, e memória vazia por atrito de aprovação.
+**Problema que resolve:** conhecimento explicado, mas não arquivado, que desaparece do sistema
+quando a conversa termina.
 
-**Benefícios:** você controla o que é permanente; a IA cuida do que é volátil. Alinhado com a
-convenção que você já usa no `vault-conhecimento-ia`.
+**Benefícios:** a conversa acumula em páginas reutilizáveis sem adicionar uma etapa manual ao
+fluxo de estudo.
 
-**Trade-off:** o LEARNER pode acumular registro impreciso sem você perceber. Mitigado por
-revisão periódica no LINT e pela facilidade de correção.
+**Trade-off:** uma página pode ser criada para um conceito que depois se revele pouco útil.
+Mitigado pelos critérios de criação, LINT e pela possibilidade de pedir remoção ou fusão.
 
 ---
 

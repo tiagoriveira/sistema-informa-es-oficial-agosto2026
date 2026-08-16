@@ -51,9 +51,12 @@ limiar, força, periodização) — irmã de [[mapa-neurociencia-esportiva]], n�
 - [[atp-cp]] — reação única (fosfocreatina→ADP), recuperação em duas fases (~30s / 3-5min)
 - [[mito-do-lactato]] — H+ causa a queimação, lactato é combustível, DOMS é micro-lesão
 
-### 📐 filosofia
+### 📐 [[hub-filosofia]]
 
-**[[mapa-historia-da-filosofia]]** — História da Filosofia · [[estado-historia-da-filosofia]]
+**Sequência recomendada:** história da filosofia → lógica e epistemologia → frameworks de
+pensamento (contexto → ferramenta de avaliar argumento → aplicação em decisão).
+
+**1. [[mapa-historia-da-filosofia]]** — História da Filosofia · [[estado-historia-da-filosofia]]
 Grade: 6 fases, 33 tópicos (dos pré-socráticos à filosofia da mente).
 
 *Fase 1 — Pré-socráticos*
@@ -69,9 +72,14 @@ Grade: 6 fases, 33 tópicos (dos pré-socráticos à filosofia da mente).
 - [[sofistas-relativismo]] — relativismo, "o homem é a medida de todas as coisas"
 - [[socrates-metodo-elenchos]] — busca por definição universal, desmonta por contradição
 
-**[[mapa-logica-e-epistemologia]]** — Lógica e Epistemologia · [[estado-logica-e-epistemologia]]
+**2. [[mapa-logica-e-epistemologia]]** — Lógica e Epistemologia · [[estado-logica-e-epistemologia]]
 Grade: 4 fases, 16 tópicos (checada na web em 2026-08-15). A ferramenta de avaliar argumento —
 irmã de [[mapa-historia-da-filosofia]], não a mesma coisa. Sem conceito com página ainda.
+
+**3. [[mapa-frameworks-de-pensamento]]** — Frameworks de Pensamento · [[estado-frameworks-de-pensamento]]
+Grade: 6 fases, 36 tópicos (checada na web em 2026-08-16). Modelos mentais e decisão sob
+incerteza — lógica avalia argumento pronto, aqui escolhe-se a lente pra atacar problema novo.
+Maior grade do vault, por pedido explícito de cobertura máxima. Sem conceito com página ainda.
 
 ### 💼 negocios
 
@@ -162,7 +170,8 @@ Grade: 4 fases, 12 tópicos (checada na web em 2026-08-15). Pedido explícito de
 teologia sistemática → apologética cristã.
 
 **1. [[mapa-hermeneutica-biblica]]** — Hermenêutica Bíblica · [[estado-hermeneutica-biblica]]
-Grade: 4 fases, 16 tópicos. Leitura contextual, literária e responsável das Escrituras. Sem conceito com página ainda.
+Grade: 4 fases, 16 tópicos. Leitura contextual, literária e responsável das Escrituras.
+- [[o-que-e-hermeneutica]] — observar, interpretar e aplicar sem confundir as três tarefas
 
 **2. [[mapa-teologia-biblica]]** — Teologia Bíblica · [[estado-teologia-biblica]]
 Grade: 4 fases, 16 tópicos. Temas e narrativa através do cânon bíblico. Sem conceito com página ainda.
@@ -213,7 +222,6 @@ pessoal em `notas-pessoais/` (separado em 2026-08-15, nunca misturar os dois):
 - [[referencia-hub-ai-gravacao-servicos-manuais]] — bookmark de startup existente (não é ideia
   própria do Tiago)
 - [[tabela-peso-ideal-altura]] — bookmark solto (X/Twitter)
-- [[dashboard-curriculo-progresso]] — migrada de `ideias/`, ainda em maturação
 
 **RECURSOS/notas-pessoais/**:
 - [[motivacao-por-validacao-externa]] — motivar-se por likes desloca o objetivo da atividade
@@ -239,6 +247,11 @@ pessoal em `notas-pessoais/` (separado em 2026-08-15, nunca misturar os dois):
 
 ## Ideias e produto
 
-`ideias/`, `backlog/` e `roadmap/` foram **fundidos ao PARA em 2026-08-15** (ver seção acima).
-Só resta em `ideias/`: [[inbox-notas-pessoais]] — deixado fora do PARA por decisão do Tiago,
-é mais log de decisão de arquitetura deste vault do que ideia de produto solta.
+`ideias/` é a pasta ativa para ideias pessoais, de produto ou de operação em maturação. Quando
+uma ideia ganhar compromisso, ela vai para o destino adequado do PARA.
+
+- [[operacao-prestacao-servicos-multiempresa]] — manter o vault agnóstico e isolar cada cliente
+  dentro de uma futura área de prestação de serviços
+- [[dashboard-curriculo-progresso]] — currículo e painel visual derivados do LEARNER, ainda em
+  maturação
+- [[inbox-notas-pessoais]] — registro histórico da decisão que criou a camada de INBOX e PARA

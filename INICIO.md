@@ -34,8 +34,7 @@ genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
 `RAW/produtividade/keller-a-unica-coisa.pdf`.
 
 **Explicado mas não salvo** (só existe no histórico do chat — se não virar página, some):
-hermenêutica bíblica (1): “O que é hermenêutica” — observação, interpretação e aplicação. A
-criação de página em KNOWLEDGE ainda depende de aprovação do Tiago.
+nada no momento.
 
 Depois, avaliar o que só foi explicado e nunca testado:
 - história da filosofia (8): [[anaximandro-apeiron]], [[anaximenes-ar]],
@@ -50,7 +49,7 @@ Depois, avaliar o que só foi explicado e nunca testado:
   [[nota-efemera-vs-permanente]]
 - obsidian (1): [[comandos-e-hotkeys-obsidian]]
 - performance esportiva (3): [[tres-sistemas-energeticos]], [[atp-cp]], [[mito-do-lactato]]
-- hermenêutica bíblica (1): O que é hermenêutica
+- hermenêutica bíblica (1): [[o-que-e-hermeneutica]]
 
 **Pendente fora de disciplina:** resolvido em 2026-08-15 — hub `psicologia` e hub
 `dinamicas-sociais` criados, com a disciplina "Comportamento Masculino e Realismo" incluída.
@@ -102,16 +101,17 @@ explicados.
 | financas | financas | 5 fases / 25 tópicos | 0 | 0 | — |
 | comunicacao | ingles | 5 fases / 30 tópicos | 0 | 0 | — |
 | filosofia | logica-e-epistemologia | 4 fases / 16 tópicos | 0 | 0 | — |
+| filosofia | frameworks-de-pensamento | 6 fases / 36 tópicos | 0 | 0 | — |
 | psicologia | psicologia | 4 fases / 14 tópicos | 0 | 0 | — |
 | dinamicas-sociais | poder-e-dinamica-social | 4 fases / 13 tópicos | 0 | 0 | — |
 | dinamicas-sociais | comportamento-masculino-e-realismo | 4 fases / 12 tópicos | 0 | 0 | — |
-| teologia | hermeneutica-biblica | 4 fases / 16 tópicos | 0 | 0 | — |
+| teologia | hermeneutica-biblica | 4 fases / 16 tópicos | 1 | 0 | 2026-08-16 |
 | teologia | teologia-biblica | 4 fases / 16 tópicos | 0 | 0 | — |
 | teologia | historia-da-igreja | 4 fases / 16 tópicos | 0 | 0 | — |
 | teologia | teologia-sistematica | 4 fases / 17 tópicos | 0 | 0 | — |
 | teologia | apologetica-crista | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 26 disciplinas, 519 tópicos planejados, 39 páginas escritas, **4 conceitos com
+**Realidade:** 27 disciplinas, 555 tópicos planejados, 40 páginas escritas, **4 conceitos com
 evidência real**. A grade é plano, não progresso — só o LEARNER conta o que você sabe.
 
 **Legenda do status nos mapas:** `✅` consolidado · `⚠️` frágil ou revisão vencida ·

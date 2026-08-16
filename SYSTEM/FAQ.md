@@ -166,13 +166,19 @@ em uma frase. Os três, não dois.
 Na dúvida, não criar. É mais fácil criar depois do que perceber, seis meses adiante, que três
 páginas dizem a mesma coisa com nomes diferentes.
 
+**Onde salvo uma ideia?**
+Em `ideias/`. Ela fica ali enquanto estiver em maturação, sem compromisso ativo. Quando ganhar
+prazo e objetivo, vira `PROJETOS/`; se se tornar responsabilidade contínua, `AREAS/`;
+referência externa é `RECURSOS/`.
+
 **Posso arquivar uma resposta boa como página?**
 Deve. Uma comparação, uma síntese, uma conexão que apareceu na conversa — se é reutilizável,
 peça para virar página. É o mecanismo que faz suas perguntas acumularem, não só suas fontes.
 
 **Preciso aprovar toda escrita?**
-Só página nova em `KNOWLEDGE/`. Memória (LEARNER, sessões, log, INICIO) é automática — pedir
-permissão a cada registro quebraria a sessão, e esses registros são baratos de corrigir.
+Não. Páginas em `KNOWLEDGE/` e memória (LEARNER, sessões, log, INICIO) são criadas ou
+atualizadas automaticamente quando atenderem aos critérios do sistema. Você continua podendo
+pedir para revisar, mover ou remover uma página depois.
 
 ---
 

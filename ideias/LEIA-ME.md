@@ -1,18 +1,17 @@
 # IDEIAS
 
-**Pipeline substituído pelo PARA em 2026-08-15** (`PROJETOS/`, `AREAS/`, `RECURSOS/`,
-`ARQUIVADOS/` na raiz — ver `LEIA-ME.md` de cada um). `ementa-mapa-status-visual.md` migrou
-pra `ARQUIVADOS/`; `dashboard-curriculo-progresso.md` migrou pra `RECURSOS/`; `backlog/` e
-`roadmap/` foram dissolvidas (o papel delas foi absorvido por `PROJETOS/`).
+Pasta ativa para ideias pessoais, de produto ou de operação em maturação. Ideia não é projeto:
+ela ainda não tem compromisso, prazo ou próxima ação obrigatória.
 
-Esta pasta continua existindo só por `inbox-notas-pessoais.md` — deixado **fora do PARA por
-decisão do Tiago**, por enquanto: é mais log de decisão de arquitetura deste vault (parecido
-com `SYSTEM/ARQUITETURA.md`) do que ideia de produto solta.
+Quando ganhar prazo e objetivo claro, vira `PROJETOS/`; quando se tornar responsabilidade
+contínua, vira `AREAS/`; referência externa fica em `RECURSOS/`; material inativo vai para
+`ARQUIVADOS/`.
 
 ---
 
-_(Resto deste arquivo é o pipeline antigo, mantido como registro histórico — não é mais o
-fluxo ativo.)_
+## Histórico do pipeline anterior
+
+O texto abaixo registra a convenção anterior e não é o fluxo ativo.
 
 Onde toda ideia nova entra, sem filtro, antes de qualquer avaliação. Não é lugar de decisão —
 é lugar de não perder o pensamento. Separado do fluxo de estudo (`RAW`/`KNOWLEDGE`/`LEARNER`);

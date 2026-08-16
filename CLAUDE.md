@@ -16,11 +16,12 @@ para a IA seguir por padrão até ele pedir diferente.
 | Camada | Caminho | Quem escreve | Verdade sobre |
 |---|---|---|---|
 | RAW | `RAW/<disciplina>/` | **só o Tiago** | as fontes originais |
-| KNOWLEDGE | `KNOWLEDGE/<disciplina>/` | você (com aprovação) | o assunto |
+| KNOWLEDGE | `KNOWLEDGE/<disciplina>/` | você (automático) | o assunto |
 | LEARNER | `LEARNER/estado-<disciplina>.md` | você (automático) | o que o Tiago sabe |
 | SESSIONS | `SESSIONS/AAAA-MM-DD-<disciplina>.md` | você (automático) | o que aconteceu |
 | SYSTEM | `SYSTEM/` + `INICIO.md` | você (automático) | navegação e histórico |
 | INBOX | `INBOX/` | você (automático) | notas pessoais cruas, ainda sem categoria |
+| IDEIAS | `ideias/` | você (automático) | ideias pessoais, de produto ou de operação em maturação |
 | PARA | `PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/` | você (automático) | destino do INBOX quando não vira KNOWLEDGE — método PARA (Tiago Forte) |
 
 **Fonte da verdade sobre o aluno é sempre `LEARNER/`.** `INICIO.md` é um cache derivado para
@@ -45,21 +46,20 @@ retomar rápido. Se os dois divergirem, LEARNER vence e você corrige o `INICIO.
 6. **Nome de arquivo é único no vault inteiro** (o `[[link]]` do Obsidian resolve por nome).
    Colidiu? Desambigue: `elasticidade-economia.md`.
 7. **Escreva a memória durante a sessão, não só no fim.** Ver seção 4.
-8. **Página nova em KNOWLEDGE pede aprovação. Memória (LEARNER/SESSIONS/log/INICIO) não pede.**
-9. **Ao inserir regra pedida pelo Tiago neste arquivo, insira só o que foi pedido.** Se achar
+8. **Ao inserir regra pedida pelo Tiago neste arquivo, insira só o que foi pedido.** Se achar
    recomendável abranger mais, mencione antes de atualizar o documento — não decida sozinho.
-10. **Mudou uma regra aqui, cheque `SYSTEM/FAQ.md` e `SYSTEM/ARQUITETURA.md` na hora.** Se a
+9. **Mudou uma regra aqui, cheque `SYSTEM/FAQ.md` e `SYSTEM/ARQUITETURA.md` na hora.** Se a
     mudança tornar algum trecho deles desatualizado, corrija no mesmo momento — não deixe pra
     um lint futuro achar.
-11. **Não trate estimativa como fato.** Sem certeza de um dado, número ou atribuição, escreva
+10. **Não trate estimativa como fato.** Sem certeza de um dado, número ou atribuição, escreva
     "não verificado" ou omita — não complete a lacuna com algo plausível. Fora do que o vault
     sustenta, é "não sei com segurança", sem elaborar.
-12. **Nenhuma ação irreversível sobre arquivo do Tiago sem permissão explícita** — apagar,
+11. **Nenhuma ação irreversível sobre arquivo do Tiago sem permissão explícita** — apagar,
     sobrescrever, truncar, ou mover de um jeito que destrói o original. Não importa se parece
     teste, vazio, redundante ou já substituído — a IA não julga sozinha o que é óbvio o
     suficiente pra pular a pergunta.
-13. Não salvar arquivos no inbox sem minha permissão!
-14. **Hub em sequência pedagógica.** Em cada hub, as disciplinas devem aparecer na ordem de
+12. Não salvar arquivos no inbox sem minha permissão!
+13. **Hub em sequência pedagógica.** Em cada hub, as disciplinas devem aparecer na ordem de
     estudo recomendada: pré-requisitos primeiro, depois compreensão integrada e, por último,
     aplicação. A sequência é exibida no `SYSTEM/index.md`, no `INICIO.md` e na página de
     entrada do hub; ao criar ou reorganizar uma disciplina, atualize os três.
@@ -95,17 +95,18 @@ grep "^## \[" SYSTEM/log.md | tail -5 # últimas 5 operações
 ```
 
 `INBOX/` não entra na leitura automática — é gaveta de entrada, não memória de trabalho.
-Só é lido quando você pedir para triar. `PROJETOS/`, `AREAS/`, `RECURSOS/` e `ARQUIVADOS/`
+Só é lido quando você pedir para triar. `ideias/`, `PROJETOS/`, `AREAS/`, `RECURSOS/` e `ARQUIVADOS/`
 são lidos como qualquer outra página, sob demanda, quando relevante para a pergunta ou sessão.
 
 **Destino de nota triada (regra PARA, decidida em 2026-08-15 — substitui NOTAS/):**
+- Ideia própria, sem compromisso ativo → `ideias/`
 - Tem prazo e próxima ação clara → `PROJETOS/`
 - Responsabilidade contínua e nomeada pelo Tiago → `AREAS/<nome>/` — a IA não inventa nome de
   área sozinha
-- Referência sem compromisso ativo (curso, vídeo, bookmark, reflexão solta) → `RECURSOS/`,
-  destino padrão na dúvida
+- Referência externa sem compromisso ativo (curso, vídeo, bookmark) → `RECURSOS/`, destino
+  padrão na dúvida entre referência e os destinos PARA
 - Virou inativo → `ARQUIVADOS/`
-- Vira conceito citável de disciplina → `KNOWLEDGE/` (continua pedindo aprovação, invariante 8)
+- Vira conceito citável de disciplina → `KNOWLEDGE/` (crie conforme os critérios da seção 7)
 
 ---
 
@@ -115,7 +116,7 @@ são lidos como qualquer outra página, sob demanda, quando relevante para a per
 1. Leia a fonte. Se for livro/PDF grande, **um capítulo por vez** — nunca resuma 300 páginas
    numa passada, o resultado é raso e inutilizável.
 2. Crie a página de fonte em `KNOWLEDGE/<disciplina>/fontes/`.
-3. Liste os conceitos que a fonte ensina. Mostre a lista ao Tiago antes de criar páginas.
+3. Liste os conceitos que a fonte ensina e crie as páginas que atenderem aos critérios da seção 7.
 4. Para cada conceito: página nova se ainda não existe; se existe, **atualize** e some as
    fontes, não crie duplicata.
 5. Compare com o que já está no vault. Contradição com fonte anterior → seção
