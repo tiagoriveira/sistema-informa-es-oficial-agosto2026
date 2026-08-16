@@ -34,18 +34,18 @@ esta ordem não é dogma, desvie quando houver motivo)_
 5. ⬜ Batching: produzir em lote sem viver refém do algoritmo do dia
 
 ### Fase 2 — Da anotação ao post: o pipeline de repurposing
-6. ⬜ Um conceito, três formatos: carrossel, vídeo curto falado, thread — sem repetir pesquisa
-7. ⬜ Estrutura da página de conceito como estrutura de post (ideia central → hook; erros comuns → contraste)
+6. 📖 [[pipeline-de-repurposing]] — um conceito, três formatos, sem repetir pesquisa
+7. 📖 Estrutura da página de conceito como estrutura de post — coberto em [[pipeline-de-repurposing]]
 8. ⬜ Roteiro de vídeo curto (30-60s): abertura em 3s, uma ideia, um fechamento
 9. ⬜ Carrossel didático: 8-12 slides, regra de um slide por ponto
 10. ⬜ Thread: 5-10 posts encadeados, cada um sustenta o próximo
 
 ### Fase 3 — Mecânica por plataforma
-11. ⬜ Instagram: saves como sinal-chave em carrossel, watch time em Reels
-12. ⬜ TikTok: teste a frio (200-500 pessoas) antes de escalar — o que isso implica pro ritmo de postagem
-13. ⬜ YouTube Shorts: distribuição por tópico, maior vida útil — o formato certo pra conteúdo evergreen
-14. ⬜ LinkedIn: carrossel como sinal de dwell time, framework como formato que mais gera save
-15. ⬜ Threads e X: voz pessoal vs. notícia/debate — quando cada rede é a certa
+11. 📖 Instagram — coberto em [[mecanica-por-plataforma]]
+12. 📖 TikTok — coberto em [[mecanica-por-plataforma]]
+13. 📖 YouTube Shorts — coberto em [[mecanica-por-plataforma]]
+14. 📖 LinkedIn — coberto em [[mecanica-por-plataforma]]
+15. 📖 Threads e X — coberto em [[mecanica-por-plataforma]]
 16. ⬜ Onde NÃO postar: escolher rede por audiência real, não por medo de ficar de fora
 
 ### Fase 4 — Sustentar sem esgotar
@@ -58,6 +58,10 @@ esta ordem não é dogma, desvie quando houver motivo)_
 21. ⬜ Onde IA ajuda de verdade: roteiro, corte, legenda — e onde degrada (conecta com [[mapa-marketing]] tópico 25)
 22. ⬜ Por que conteúdo genérico "perfeito demais" é penalizado em 2026 — a vantagem do cru e específico
 23. ⬜ Ética e transparência: quando dizer que teve IA no processo
+
+## Conceitos com página
+- [[pipeline-de-repurposing]] — um conceito, três formatos, sem repetir pesquisa
+- [[mecanica-por-plataforma]] — o sinal-chave de cada rede, tabela comparativa
 
 ## Nota sobre a grade
 

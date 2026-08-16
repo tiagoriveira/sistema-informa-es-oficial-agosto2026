@@ -598,3 +598,43 @@ ingest e o resumo da sessão.
 
 Sessão encerrada a pedido. Revisões vencidas seguem intocadas (validacao-de-problema,
 riscos-de-descoberta, operador-centauro) — prioridade da próxima sessão.
+
+## [2026-08-15] ingest | produção-de-conteúdo: pipeline e mecânica por plataforma viram página
+
+Tiago pediu pra salvar os outputs de produção de conteúdo pra redes sociais (dados no chat
+mais cedo, respondendo pedido de dicas pra Instagram e depois estendido a outras redes) —
+lacuna já registrada no INICIO.md. Criadas duas páginas: `KNOWLEDGE/marketing/
+producao-de-conteudo/fase-2-pipeline-de-repurposing/pipeline-de-repurposing.md` (tópicos 6-7
+— um conceito, três formatos, mapeamento direto de página de conceito pra post) e
+`fase-3-mecanica-por-plataforma/mecanica-por-plataforma.md` (tópicos 11-15 — tabela
+comparativa Instagram/TikTok/Shorts/LinkedIn/Threads-X, mesmo nível de visão geral que
+[[tres-sistemas-energeticos]] deu pros três sistemas). Citações reais nas duas (regra do §6).
+Mapa, `estado-producao-de-conteudo.md`, `index.md` e `INICIO.md` atualizados (27 → 29
+páginas). Nenhuma avaliação — ler/ouvir não é saber (invariante 1).
+
+## [2026-08-15] system | invariante 12 generalizada + busca pelos artigos de segundo cérebro
+
+Tiago apontou que a limpeza do INBOX (antes mesmo do incidente do llm-wiki) já tinha apagado
+sem permissão os dois artigos completos sobre "Segundo Cérebro" (Karpathy) e a imagem
+embutida num deles — perda real, não só o llm-wiki. Busquei os dois no vault inteiro e
+tentei a Lixeira do Windows (sem sucesso — `rm` do bash não passa pela Lixeira, e o vault é
+sincronizado via OneDrive, não local). Não encontrados. Único caminho de recuperação: Lixeira
+do OneDrive (onedrive.com), que exige o Tiago logado, fora do meu acesso.
+
+Sobre o arquivo "12 SINAIS...": confirmado que quando eu li (duas vezes, por desconfiança),
+já era só tabela vazia + checkbox de teste — não o artigo. Não posso confirmar se o artigo
+chegou a existir ali antes de eu tocar no arquivo.
+
+Invariante 12 do `CLAUDE.md` generalizada: não é mais só "apagar", cobre qualquer ação
+irreversível (apagar/sobrescrever/truncar/mover destruindo o original), e proíbe
+explicitamente a IA julgar sozinha que algo é "óbvio o suficiente" pra pular a pergunta.
+Checado FAQ/ARQUITETURA (invariante 10): nada desatualizado.
+
+## [2026-08-15] system | fecha sessão
+
+Sessão encerrada a pedido. Achado antes de fechar: Tiago criou `_templates/braindump 1.md`
+(dump mental antes de dormir, efeito Zeigarnik) e `_templates/inbox-nota.md` (formaliza nota
+de INBOX com destino PARA) por conta própria, e já usou o braindump em `INBOX/Brain Dump
+15-08-26.md`. Nada disso foi tocado/triado — fica pra próxima sessão, registrado no
+INICIO.md. Sem avaliação, sem revisão pra recalcular. Revisões vencidas seguem intocadas, 2
+dias de atraso — prioridade da próxima sessão.

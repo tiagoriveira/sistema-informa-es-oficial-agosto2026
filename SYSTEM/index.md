@@ -125,7 +125,9 @@ Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14). Sem conceito com pá
 
 **[[mapa-producao-de-conteudo]]** — Produção de Conteúdo · [[estado-producao-de-conteudo]]
 Grade: 5 fases, 23 tópicos (checada na web em 2026-08-15). O ofício de virar conceito em post
-por plataforma — irmã de [[mapa-marketing]], não a mesma coisa. Sem conceito com página ainda.
+por plataforma — irmã de [[mapa-marketing]], não a mesma coisa.
+- [[pipeline-de-repurposing]] — um conceito, três formatos, sem repetir pesquisa
+- [[mecanica-por-plataforma]] — sinal-chave de cada rede (Instagram/TikTok/Shorts/LinkedIn/Threads-X)
 
 **[[mapa-copywriting]]** — Copywriting · [[estado-copywriting]]
 Grade: 4 fases, 16 tópicos (checada na web em 2026-08-15). A frase que persuade — irmã de
