@@ -9,16 +9,21 @@ Fase 2 fora de ordem — 7 conceitos explicados no total, 0 avaliados) — produ
 continua a mais avançada em avaliação real
 **Última sessão:** 2026-08-16 — neurociência esportiva: sistema motor, propriocepção, malha
 aberta vs. fechada e unidades motoras/recrutamento explicados a fundo (Fase 1 completa), mais
-estágios da aprendizagem motora (Fase 2 item 5, fora de ordem a pedido do Tiago). Nenhuma
-página criada, nenhuma avaliação. Correção de processo no meio da sessão: a regra de entrega
-"fatiada em partes por output" (de 2026-08-15) tinha virado desculpa pra avançar sem esgotar o
-tópico — `CLAUDE.md` §4 item 3 e §8 reescritos pra exigir mecanismo+exemplo+aplicação prática
-juntos, esgotando antes de avançar, com sinalização explícita de "concluído" e nomeação de
-qualquer desvio da ordem da grade. Na sequência, duas regras de comportamento do tutor (estilo
-Feynman obrigatório; sempre começar disciplina nova pelo item 1 do mapa) foram migradas da
-memória local do Claude Code pro `CLAUDE.md` (§8 e §4 item 2) — memória local não é lida por
-quem só abre o vault, regra de tutor pertence ao `CLAUDE.md`. Nova invariante 13 adicionada
-pelo Tiago diretamente no arquivo: não salvar arquivo no INBOX sem permissão explícita.
+estágios da aprendizagem motora (Fase 2 item 5, fora de ordem a pedido do Tiago). Correção de
+processo no meio da sessão: a regra de entrega "fatiada em partes por output" (de 2026-08-15)
+tinha virado desculpa pra avançar sem esgotar o tópico — `CLAUDE.md` §4 item 3 e §8 reescritos
+pra exigir mecanismo+exemplo+aplicação prática juntos, esgotando antes de avançar, com
+sinalização explícita de "concluído" e nomeação de qualquer desvio da ordem da grade. Na
+sequência, duas regras de comportamento do tutor (estilo Feynman obrigatório; sempre começar
+disciplina nova pelo item 1 do mapa) foram migradas da memória local do Claude Code pro
+`CLAUDE.md` (§8 e §4 item 2) — memória local não é lida por quem só abre o vault, regra de
+tutor pertence ao `CLAUDE.md`. Nova invariante 13 adicionada pelo Tiago diretamente no arquivo:
+não salvar arquivo no INBOX sem permissão explícita. Segundo erro no fechamento: fechei a
+sessão sem propor arquivar os 5 conceitos como página, apesar do `CLAUDE.md` §4.3 já mandar
+propor depois de 2-3 — Tiago apontou, as 5 páginas foram criadas depois
+([[sistema-motor]], [[propriocepcao-feedback-sensorial]], [[malha-aberta-vs-fechada]],
+[[unidades-motoras-e-recrutamento]], [[estagios-aprendizagem-motora]]), mapa/index/LEARNER
+atualizados. Nenhuma avaliação nesta sessão.
 
 ---
 
@@ -43,11 +48,8 @@ genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
 `RAW/produtividade/keller-a-unica-coisa.pdf`.
 
 **Explicado mas não salvo** (só existe no histórico do chat — se não virar página, some):
-Fase 1 inteira (itens 1-4: sistema motor, propriocepção, malha aberta vs. fechada, unidades
-motoras/recrutamento) e Fase 2 item 5 (estágios da aprendizagem motora) de neurociência
-esportiva, explicados a fundo em 2026-08-16. Os itens 1-3 de performance-esportiva e o
-pipeline de repurposing + mecânica por plataforma de produção-de-conteúdo foram salvos em
-página em 2026-08-15.
+nada no momento — a dívida de neurociência esportiva (Fase 1 + item 5 da Fase 2) foi resolvida
+em 2026-08-16, todas as 5 viraram página.
 
 Depois, avaliar o que só foi explicado e nunca testado:
 - história da filosofia (8): [[anaximandro-apeiron]], [[anaximenes-ar]],
@@ -55,8 +57,9 @@ Depois, avaliar o que só foi explicado e nunca testado:
   [[democrito-atomismo]], [[sofistas-relativismo]], [[socrates-metodo-elenchos]]
 - product-discovery (5): [[mvp-e-tipos-de-experimento]], [[jobs-to-be-done]],
   [[outcome-vs-output]], [[continuous-discovery]], [[dual-track-agile]]
-- neurociência esportiva, com página (2): [[foco-atencional-nideffer]],
-  [[choking-sob-pressao]]
+- neurociência esportiva (7): [[sistema-motor]], [[propriocepcao-feedback-sensorial]],
+  [[malha-aberta-vs-fechada]], [[unidades-motoras-e-recrutamento]],
+  [[estagios-aprendizagem-motora]], [[foco-atencional-nideffer]], [[choking-sob-pressao]]
 - gestão do conhecimento (4): [[arquivo-morto]], [[ciclo-code]], [[captura-seletiva]],
   [[nota-efemera-vs-permanente]]
 - obsidian (1): [[comandos-e-hotkeys-obsidian]]
@@ -97,7 +100,7 @@ explicados.
 | filosofia | historia-da-filosofia | 6 fases / 33 tópicos | 9 | 1 | 2026-08-14 |
 | negocios | product-discovery | 4 fases / 18 tópicos | 7 | 2 | 2026-08-13 |
 | inteligencia-artificial | colaboracao-humano-ia | 5 fases / 19 tópicos | 1 | 1 | 2026-08-13 |
-| neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 2 | 0 | 2026-08-16 |
+| neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 7 | 0 | 2026-08-16 |
 | esporte | performance-esportiva | 5 fases / 21 tópicos | 3 | 0 | 2026-08-15 |
 | negocios | visao-estrategica-negocios | 5 fases / 23 tópicos | 0 | 0 | — |
 | negocios | economia | 4 fases / 17 tópicos | 0 | 0 | — |
@@ -116,7 +119,7 @@ explicados.
 | dinamicas-sociais | poder-e-dinamica-social | 4 fases / 13 tópicos | 0 | 0 | — |
 | dinamicas-sociais | comportamento-masculino-e-realismo | 4 fases / 12 tópicos | 0 | 0 | — |
 
-**Realidade:** 21 disciplinas, 438 tópicos planejados, 29 páginas escritas, **4 conceitos com
+**Realidade:** 21 disciplinas, 438 tópicos planejados, 34 páginas escritas, **4 conceitos com
 evidência real**. A grade é plano, não progresso — só o LEARNER conta o que você sabe.
 
 **Legenda do status nos mapas:** `✅` consolidado · `⚠️` frágil ou revisão vencida ·

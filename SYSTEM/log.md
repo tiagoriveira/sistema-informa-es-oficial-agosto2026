@@ -664,3 +664,15 @@ Migradas para `CLAUDE.md` (§8 e §4 item 2) e apagadas da memória local — me
 descrevem regra de comportamento do tutor devem morar no `CLAUDE.md`, não na memória da IA
 (regra que já existia, mas não tinha sido aplicada a essas duas). Checado invariante 10:
 FAQ/ARQUITETURA sem menção às regras antigas, nada a corrigir.
+
+## [2026-08-16] ingest | neurociencia-esportiva: Fase 1 completa + item 5 viram página
+
+Tiago pegou um segundo erro no fechamento: `CLAUDE.md` §4.3 já manda propor arquivar como
+página depois de 2-3 conceitos substanciais entregues, e isso não foi feito nos 5 tópicos da
+sessão. Criadas: [[sistema-motor]], [[propriocepcao-feedback-sensorial]],
+[[malha-aberta-vs-fechada]], [[unidades-motoras-e-recrutamento]] (fase-1) e
+[[estagios-aprendizagem-motora]] (fase-2), todas `nao_iniciado` no LEARNER — explicadas, não
+testadas. `mapa-neurociencia-esportiva.md` ganhou links e símbolo `📖`/`📍` corrigido (item 4
+tinha ficado `📍` por engano — era explicado, deveria ser `📖`; `📍` passou pro item 6, o
+primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva.md` e
+`INICIO.md` atualizados (2 → 7 páginas na disciplina, 29 → 34 no vault).

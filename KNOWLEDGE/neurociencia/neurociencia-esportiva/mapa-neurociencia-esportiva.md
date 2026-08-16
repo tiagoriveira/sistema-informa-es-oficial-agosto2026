@@ -20,14 +20,14 @@ _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. 
 esta ordem não é dogma, desvie quando houver motivo)_
 
 ### Fase 1 — Como o cérebro produz movimento
-1. 📍 Sistema motor: córtex motor, via corticoespinhal, cerebelo e gânglios da base
-2. ⬜ Propriocepção e feedback sensorial — como o corpo sabe onde está
-3. ⬜ Malha aberta vs. malha fechada — quando há tempo de corrigir e quando não há
-4. ⬜ Unidades motoras e recrutamento — da intenção à contração
+1. 📖 [[sistema-motor]] — córtex motor, via corticoespinhal, cerebelo e gânglios da base
+2. 📖 [[propriocepcao-feedback-sensorial]] — como o corpo sabe onde está
+3. 📖 [[malha-aberta-vs-fechada]] — quando há tempo de corrigir e quando não há
+4. 📖 [[unidades-motoras-e-recrutamento]] — da intenção à contração
 
 ### Fase 2 — Aprendizagem motora e neuroplasticidade
-5. ⬜ Estágios da aprendizagem motora (cognitivo → associativo → autônomo)
-6. ⬜ Neuroplasticidade dependente de uso — como a prática muda o cérebro
+5. 📖 [[estagios-aprendizagem-motora]] (cognitivo → associativo → autônomo)
+6. 📍 Neuroplasticidade dependente de uso — como a prática muda o cérebro
 7. ⬜ Prática variável vs. em blocos, e o paradoxo da dificuldade desejável
 8. ⬜ Consolidação e o papel do sono na fixação motora
 9. ⬜ Feedback extrínseco: frequência, timing e o risco de dependência
@@ -57,6 +57,11 @@ esta ordem não é dogma, desvie quando houver motivo)_
 27. ⬜ Lesão: reorganização cortical, medo de re-lesão e reabilitação neuro-orientada
 
 ## Conceitos com página
+- [[sistema-motor]] — córtex, via corticoespinhal, cerebelo e gânglios da base cooperando
+- [[propriocepcao-feedback-sensorial]] — os três proprioceptores e o feedback pro cerebelo
+- [[malha-aberta-vs-fechada]] — o atraso sensório-motor que decide se dá pra corrigir
+- [[unidades-motoras-e-recrutamento]] — princípio do tamanho de Henneman
+- [[estagios-aprendizagem-motora]] — cognitivo → associativo → autônomo (Fitts & Posner)
 - [[foco-atencional-nideffer]] — largura/direção da atenção, quatro quadrantes
 - [[choking-sob-pressao]] — reinvestimento vs. distração, e por que implícito resiste mais
 

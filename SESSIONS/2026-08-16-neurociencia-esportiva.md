@@ -26,7 +26,10 @@ identificado no meio da sessão.
   (embaixadinha) + aplicação (por que excesso de instrução atrapalha skill já automático,
   conexão com [[choking-sob-pressao]]).
 
-Nenhuma página em `KNOWLEDGE/` foi criada para nenhum dos cinco — dívida de escrita.
+Nenhuma página em `KNOWLEDGE/` foi criada durante a explicação — dívida de escrita registrada
+e resolvida antes do fechamento definitivo (ver abaixo): as 5 páginas foram criadas
+([[sistema-motor]], [[propriocepcao-feedback-sensorial]], [[malha-aberta-vs-fechada]],
+[[unidades-motoras-e-recrutamento]], [[estagios-aprendizagem-motora]]).
 
 ## O que aconteceu
 Nenhuma avaliação — sessão inteira de entrega/explicação, sem pergunta de sondagem (invariante
@@ -50,11 +53,18 @@ respectivamente) e apagadas da memória local.
 Nenhuma — nada avaliado hoje.
 
 ## Lacunas abertas
-- Fase 1 (itens 1-4) e Fase 2 item 5 explicados a fundo, sem página em `KNOWLEDGE/` e sem
-  teste — mesma dívida que já existia pros itens 14 e 20 ([[foco-atencional-nideffer]],
-  [[choking-sob-pressao]]), agora maior (5 tópicos a mais acumulados sem checagem).
+- Fase 1 (itens 1-4) e Fase 2 item 5 têm página, mas seguem sem teste — mesma dívida de
+  evidência que já existia pros itens 14 e 20 ([[foco-atencional-nideffer]],
+  [[choking-sob-pressao]]), agora maior (7 conceitos da disciplina sem checagem nenhuma).
 - Revisões vencidas de outras disciplinas seguem intocadas: [[validacao-de-problema]],
   [[riscos-de-descoberta]], [[operador-centauro]] — 2 dias de atraso.
+
+## Correção de processo (fim de sessão)
+Tiago apontou dois erros na hora de fechar: (1) o `CLAUDE.md` §4.3 já manda propor arquivar
+como página depois de 2-3 conceitos substanciais entregues, e isso não foi feito nos 5 tópicos
+de hoje — corrigido, páginas criadas depois do fechamento inicial. (2) reforço explícito de que
+a criação de página, uma vez proposta e aceita, não deve ficar pendente de pergunta repetida —
+mapa, `estado-neurociencia-esportiva.md` e `SYSTEM/index.md` atualizados junto.
 
 ## Próxima sessão
 Ou (a) testar os 5 tópicos acumulados antes de avançar mais — o volume sem checagem já é alto

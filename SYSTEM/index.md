@@ -8,7 +8,7 @@ leitura da página.
 
 Sessões **não** entram aqui — são cronológicas e ficam em [[log]].
 
-Atualizado em: 2026-08-15 (2)
+Atualizado em: 2026-08-16
 
 ---
 
@@ -33,6 +33,11 @@ curricular em fases no seu mapa.
 
 **[[mapa-neurociencia-esportiva]]** — Neurociência Esportiva · [[estado-neurociencia-esportiva]]
 Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14).
+- [[sistema-motor]] — córtex, via corticoespinhal, cerebelo e gânglios da base cooperando
+- [[propriocepcao-feedback-sensorial]] — os três proprioceptores e o feedback pro cerebelo
+- [[malha-aberta-vs-fechada]] — o atraso sensório-motor que decide se dá pra corrigir
+- [[unidades-motoras-e-recrutamento]] — princípio do tamanho de Henneman
+- [[estagios-aprendizagem-motora]] — cognitivo → associativo → autônomo (Fitts & Posner)
 - [[foco-atencional-nideffer]] — largura/direção da atenção, quatro quadrantes
 - [[choking-sob-pressao]] — reinvestimento vs. distração sob pressão
 
