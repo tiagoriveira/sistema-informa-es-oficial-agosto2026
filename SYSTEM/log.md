@@ -638,3 +638,29 @@ de INBOX com destino PARA) por conta própria, e já usou o braindump em `INBOX/
 15-08-26.md`. Nada disso foi tocado/triado — fica pra próxima sessão, registrado no
 INICIO.md. Sem avaliação, sem revisão pra recalcular. Revisões vencidas seguem intocadas, 2
 dias de atraso — prioridade da próxima sessão.
+
+## [2026-08-16] study | neurociencia-esportiva: Fase 1 (itens 1-4) + Fase 2 item 5
+
+Sistema motor, propriocepção, malha aberta vs. fechada e unidades motoras/recrutamento
+explicados a fundo (mecanismo+exemplo+aplicação prática cada). Item 5 da Fase 2 (estágios da
+aprendizagem motora, Fitts & Posner) também explicado, fora de ordem a pedido explícito do
+Tiago. Nenhuma página criada, nenhuma avaliação — só entrega. Detalhe em
+`SESSIONS/2026-08-16-neurociencia-esportiva.md`.
+
+## [2026-08-16] system | correção de entrega fatiada + duas regras migradas da memória do Claude pro CLAUDE.md
+
+Tiago pegou um erro real no meio do ensino: depois do item 1, o item 3 foi entregue rotulado
+de "nuance" em vez de nomeado como item próprio da grade, sem sinalizar "item 1 concluído"
+antes de avançar. Causa raiz: `CLAUDE.md` §4 item 3 e §8 ainda mandavam fatiar entrega em
+partes soltas por output (regra de 2026-08-15), o que virou desculpa pra avançar sem esgotar o
+tópico. Reescrito: cada tópico entrega mecanismo+exemplo+aplicação prática juntos, esgota antes
+de avançar, sinaliza conclusão explícita, e todo desvio de ordem da grade precisa ser nomeado
+(não disfarçado de "nuance" de outro item).
+
+Na sequência, Tiago apontou que duas regras de comportamento do tutor — estilo Feynman
+obrigatório e "sempre começar disciplina nova pelo item 1 do mapa" — estavam paradas só na
+memória local do Claude Code (não lida por quem abre só o vault), em vez de no `CLAUDE.md`.
+Migradas para `CLAUDE.md` (§8 e §4 item 2) e apagadas da memória local — memórias que
+descrevem regra de comportamento do tutor devem morar no `CLAUDE.md`, não na memória da IA
+(regra que já existia, mas não tinha sido aplicada a essas duas). Checado invariante 10:
+FAQ/ARQUITETURA sem menção às regras antigas, nada a corrigir.

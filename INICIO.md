@@ -3,24 +3,22 @@
 > Estado atual do sistema. Reescrito pela IA ao fim de cada sessão.
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
-**Atualizado em:** 2026-08-15
-**Disciplina ativa:** performance-esportiva (3 conceitos explicados, Fase 1 em andamento) —
-product-discovery continua a mais avançada
-**Última sessão:** 2026-08-15 — INBOX triado (23 capturas), 8 disciplinas novas criadas
-(economia, copywriting, logica-e-epistemologia, produtividade-biohacking, gestao-de-tempo,
-psicologia, poder-e-dinamica-social, comportamento-masculino-e-realismo), camada `NOTAS/`
-corrigida pra PARA de verdade (`PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/`), pipeline
-`ideias/backlog/roadmap` fundido ao PARA. Depois: 8 fontes localizadas na máquina (via link do
-Notion) e copiadas pra `RAW/` — filosofia, filosofia-de-negocios, gestao-de-projetos,
-historia-aplicada-a-negocios, negocios-startups, performance-esportiva, produtividade — mais
-8 PDFs de autoajuda/motivacional em `RECURSOS/` (ver `SYSTEM/log.md`). Pipeline de
-repurposing e mecânica por plataforma viraram página em produção-de-conteúdo. **Incidente
-sério:** apaguei sem permissão vários arquivos do INBOX, incluindo 2 artigos completos sobre
-"Segundo Cérebro" (não recuperados — só a lixeira do OneDrive pode trazer de volta).
-Invariante 12 do `CLAUDE.md` generalizada (nenhuma ação irreversível sem permissão explícita)
-depois disso. Memória pessoal da IA copiada pra
-`OneDrive/Desktop/PROJETOS GITHUB/claude-memoria/` (backup manual, decisão de virar repo git
-de verdade fica em aberto). Nenhum conceito avaliado hoje.
+**Atualizado em:** 2026-08-16
+**Disciplina ativa:** neurociencia-esportiva (Fase 1 completa nos itens 1-4, mais o item 5 da
+Fase 2 fora de ordem — 7 conceitos explicados no total, 0 avaliados) — product-discovery
+continua a mais avançada em avaliação real
+**Última sessão:** 2026-08-16 — neurociência esportiva: sistema motor, propriocepção, malha
+aberta vs. fechada e unidades motoras/recrutamento explicados a fundo (Fase 1 completa), mais
+estágios da aprendizagem motora (Fase 2 item 5, fora de ordem a pedido do Tiago). Nenhuma
+página criada, nenhuma avaliação. Correção de processo no meio da sessão: a regra de entrega
+"fatiada em partes por output" (de 2026-08-15) tinha virado desculpa pra avançar sem esgotar o
+tópico — `CLAUDE.md` §4 item 3 e §8 reescritos pra exigir mecanismo+exemplo+aplicação prática
+juntos, esgotando antes de avançar, com sinalização explícita de "concluído" e nomeação de
+qualquer desvio da ordem da grade. Na sequência, duas regras de comportamento do tutor (estilo
+Feynman obrigatório; sempre começar disciplina nova pelo item 1 do mapa) foram migradas da
+memória local do Claude Code pro `CLAUDE.md` (§8 e §4 item 2) — memória local não é lida por
+quem só abre o vault, regra de tutor pertence ao `CLAUDE.md`. Nova invariante 13 adicionada
+pelo Tiago diretamente no arquivo: não salvar arquivo no INBOX sem permissão explícita.
 
 ---
 
@@ -45,7 +43,9 @@ genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
 `RAW/produtividade/keller-a-unica-coisa.pdf`.
 
 **Explicado mas não salvo** (só existe no histórico do chat — se não virar página, some):
-item 1 de neurociência esportiva (sistema motor). Os itens 1-3 de performance-esportiva e o
+Fase 1 inteira (itens 1-4: sistema motor, propriocepção, malha aberta vs. fechada, unidades
+motoras/recrutamento) e Fase 2 item 5 (estágios da aprendizagem motora) de neurociência
+esportiva, explicados a fundo em 2026-08-16. Os itens 1-3 de performance-esportiva e o
 pipeline de repurposing + mecânica por plataforma de produção-de-conteúdo foram salvos em
 página em 2026-08-15.
 
@@ -55,7 +55,8 @@ Depois, avaliar o que só foi explicado e nunca testado:
   [[democrito-atomismo]], [[sofistas-relativismo]], [[socrates-metodo-elenchos]]
 - product-discovery (5): [[mvp-e-tipos-de-experimento]], [[jobs-to-be-done]],
   [[outcome-vs-output]], [[continuous-discovery]], [[dual-track-agile]]
-- neurociência esportiva (2): [[foco-atencional-nideffer]], [[choking-sob-pressao]]
+- neurociência esportiva, com página (2): [[foco-atencional-nideffer]],
+  [[choking-sob-pressao]]
 - gestão do conhecimento (4): [[arquivo-morto]], [[ciclo-code]], [[captura-seletiva]],
   [[nota-efemera-vs-permanente]]
 - obsidian (1): [[comandos-e-hotkeys-obsidian]]
@@ -96,7 +97,7 @@ explicados.
 | filosofia | historia-da-filosofia | 6 fases / 33 tópicos | 9 | 1 | 2026-08-14 |
 | negocios | product-discovery | 4 fases / 18 tópicos | 7 | 2 | 2026-08-13 |
 | inteligencia-artificial | colaboracao-humano-ia | 5 fases / 19 tópicos | 1 | 1 | 2026-08-13 |
-| neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 2 | 0 | 2026-08-14 |
+| neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 2 | 0 | 2026-08-16 |
 | esporte | performance-esportiva | 5 fases / 21 tópicos | 3 | 0 | 2026-08-15 |
 | negocios | visao-estrategica-negocios | 5 fases / 23 tópicos | 0 | 0 | — |
 | negocios | economia | 4 fases / 17 tópicos | 0 | 0 | — |
