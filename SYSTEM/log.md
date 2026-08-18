@@ -749,3 +749,52 @@ primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva
   disco). Coluna "Última sessão" mostra "—" pra 8 disciplinas que têm sessão de grade real:
   economia, produtividade-biohacking, gestao-de-tempo, copywriting, logica-e-epistemologia,
   psicologia, poder-e-dinamica-social, comportamento-masculino-e-realismo.
+
+## [2026-08-17] system | hub tecnologia criado
+- 4 disciplinas novas a pedido do Tiago, escopo definido por pergunta de esclarecimento
+  (programação, engenharia de software, dados/IA-ML, tecnologia pra fundador — "tudo"):
+  [[mapa-fundamentos-de-programacao]] (5 fases/24), [[mapa-engenharia-de-software]] (5/20),
+  [[mapa-dados-estatistica-e-ia-ml]] (5/22), [[mapa-tecnologia-para-fundadores]] (4/16).
+  Grades checadas por busca na web em 2026-08-17 (regra `CLAUDE.md` §6), sem fonte em `RAW/`.
+- Sequência pedagógica (invariante 13): fundamentos → engenharia de software → dados/IA-ML →
+  fundador, do pré-requisito à aplicação de negócio. `hub-tecnologia.md` criado; `INICIO.md` e
+  `SYSTEM/index.md` atualizados no mesmo momento.
+- Nenhum conceito avaliado ainda — grade só, sem sessão de estudo real.
+
+## [2026-08-17] system | disciplina seducao-e-comunidade-pua criada
+- Pedido explícito do Tiago, esclarecido por pergunta: não é continuação de
+  [[mapa-comportamento-masculino-e-realismo]], é disciplina distinta sobre a literatura
+  específica da comunidade PUA (Mystery Method, Neil Strauss/"The Game"), com avaliação
+  crítica de evidência — não curso de técnica.
+- Grade: 4 fases/16 tópicos, checada por busca na web em 2026-08-17. Terceira disciplina do
+  hub `dinamicas-sociais`, posicionada depois de poder-e-dinamica-social e
+  comportamento-masculino-e-realismo (precisa da base de evidência antes da crítica).
+- Fase 4 documenta caso real de assédio (Julien Blanc, 2014) sem eufemismo — aviso ético
+  explícito no mapa. `INICIO.md` e `SYSTEM/index.md` atualizados no mesmo momento.
+
+## [2026-08-17] system | disciplina identidade-atraente criada
+- Pedido explícito do Tiago, esclarecido por pergunta: atração como consequência de identidade
+  real (não performance/tática), quando técnica é usada funciona de forma congruente. Tiago
+  apontou paralelo de nome com matéria do Ybernator — sem fonte real dele neste vault, grade
+  desenhada do zero a partir de pesquisa (mesma situação de
+  [[mapa-comportamento-masculino-e-realismo]]), não copiada nem atribuída ao Ybernator.
+- Grade: 4 fases/16 tópicos, checada por busca na web em 2026-08-17 (autenticidade psicológica,
+  identity-based motivation — Sedikides & Schlegel 2024, Nature Reviews Psychology).
+- Quarta disciplina do hub `dinamicas-sociais`, posicionada como capstone — fecha
+  explicitamente a sobreposição com comportamento-masculino-e-realismo e
+  seducao-e-comunidade-pua em vez de deixar implícita. `INICIO.md` e `SYSTEM/index.md`
+  atualizados no mesmo momento.
+
+## [2026-08-17] update | fechamento de sessão (marketing, seducao-e-comunidade-pua, identidade-atraente)
+- Marketing: Fase 1 (itens 1-2) e Fase 5/IA aplicada (itens 24-27) explicados, 5 páginas
+  arquivadas. [[operador-centauro]] avaliado via item 27 — revisão vencida resolvida, mantém
+  em_desenvolvimento nível 1, revisar 2026-08-18.
+- seducao-e-comunidade-pua e identidade-atraente: primeira sessão de estudo real depois de
+  criadas hoje — itens 1/2/5 e item 1 respectivamente, tudo explicado, nada avaliado ainda.
+- `INICIO.md` reescrito por completo: revisões vencidas recalculadas (2 restantes, 3 dias de
+  atraso), tabela de disciplinas sincronizada, contador "páginas escritas" corrigido por
+  contagem real em disco (40, resolve débito sinalizado pelo lint de 2026-08-16).
+- Sessões gravadas: `SESSIONS/2026-08-17-marketing.md`,
+  `SESSIONS/2026-08-17-seducao-e-comunidade-pua.md`,
+  `SESSIONS/2026-08-17-identidade-atraente.md`.
+- Commit + push ao final.

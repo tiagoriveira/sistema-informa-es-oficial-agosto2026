@@ -28,7 +28,8 @@ para esse job é o contador. Nessa lente, o contador é concorrente por resolver
 por parecer com o produto.
 
 ## Relacionado
-[[validacao-de-problema]] · [[riscos-de-descoberta]]
+[[validacao-de-problema]] · [[riscos-de-descoberta]] · [[criacao-e-captura-de-demanda]] — usa
+JTBD como insumo pra reformular o job em mensagem
 
 ## Conhecimento externo (fora das suas fontes)
 > Esta disciplina ainda não tem fontes em `RAW/`. Todo o conteúdo desta página é conhecimento

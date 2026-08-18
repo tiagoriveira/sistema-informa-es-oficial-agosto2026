@@ -20,8 +20,8 @@ _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. 
 esta ordem não é dogma, desvie quando houver motivo)_
 
 ### Fase 1 — Fundamentos e posicionamento
-1. 📍 O que marketing resolve — demanda, não propaganda
-2. ⬜ Segmentação e ICP — para quem você não vende
+1. 📖 [[criacao-e-captura-de-demanda]] — o que marketing resolve, demanda não propaganda
+2. 📍 Segmentação e ICP — para quem você não vende
 3. ⬜ Posicionamento — a categoria em que você compete e por que vence
 4. ⬜ Proposta de valor e mensagem central
 5. ⬜ Pesquisa de mercado e escuta do cliente (conecta com [[jobs-to-be-done]])
@@ -51,10 +51,21 @@ esta ordem não é dogma, desvie quando houver motivo)_
 23. ⬜ Dashboard: o que olhar diário, semanal e mensal
 
 ### Fase 5 — IA aplicada a marketing
-24. ⬜ IA em pesquisa, posicionamento e análise de concorrência
-25. ⬜ IA na produção de conteúdo e criativo — onde ajuda e onde degrada
-26. ⬜ Automação de campanha e otimização autônoma de verba
-27. ⬜ Onde o julgamento humano continua obrigatório (conecta com [[operador-centauro]])
+24. 📖 [[ia-pesquisa-posicionamento-concorrencia]] — pesquisa e concorrência viram monitoramento contínuo
+25. 📖 [[ia-producao-de-conteudo-e-criativo]] — onde ajuda e onde degrada
+26. 📖 [[automacao-de-campanha-e-verba]] — humano define régua, IA aloca em tempo real
+27. 📖 [[julgamento-humano-obrigatorio-marketing]] — a aplicação de [[operador-centauro]] a marketing
+
+## Conceitos com página
+- [[criacao-e-captura-de-demanda]] — marketing cria e captura demanda a partir do job real,
+  propaganda é só uma ferramenta dentro disso
+- [[ia-pesquisa-posicionamento-concorrencia]] — pesquisa e concorrência viram monitoramento
+  contínuo com IA
+- [[ia-producao-de-conteudo-e-criativo]] — onde a IA ajuda (volume/adaptação) e onde degrada
+  (genérico)
+- [[automacao-de-campanha-e-verba]] — humano define métrica-alvo e teto, IA aloca verba em
+  tempo real
+- [[julgamento-humano-obrigatorio-marketing]] — aplica [[operador-centauro]] às três anteriores
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-14 a partir de busca na web (regra `CLAUDE.md` §6). Marketing é

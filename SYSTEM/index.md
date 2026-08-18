@@ -141,7 +141,17 @@ prioridade) — irmã de [[mapa-produtividade-biohacking]]. Sem conceito com pá
 ### 📣 marketing
 
 **[[mapa-marketing]]** — Marketing · [[estado-marketing]]
-Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14). Sem conceito com página ainda.
+Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14).
+- [[criacao-e-captura-de-demanda]] — marketing cria e captura demanda a partir do job real do
+  cliente; propaganda é só uma ferramenta dentro disso, conecta com [[jobs-to-be-done]]
+- [[ia-pesquisa-posicionamento-concorrencia]] — IA transforma pesquisa de concorrência em
+  monitoramento contínuo, do preço ao criativo ao briefing de vendas
+- [[ia-producao-de-conteudo-e-criativo]] — escala volume/adaptação, mas tende ao genérico;
+  ângulo criativo e aprovação final continuam humanos
+- [[automacao-de-campanha-e-verba]] — humano define métrica-alvo e teto, IA aloca verba em
+  tempo real
+- [[julgamento-humano-obrigatorio-marketing]] — aplica [[operador-centauro]] às três anteriores;
+  distingue oráculo (falta de critério) de centauro reverso (desconfiança do critério)
 
 **[[mapa-producao-de-conteudo]]** — Produção de Conteúdo · [[estado-producao-de-conteudo]]
 Grade: 5 fases, 23 tópicos (checada na web em 2026-08-15). O ofício de virar conceito em post
@@ -169,6 +179,17 @@ geral — irmã de [[mapa-comportamento-masculino-e-realismo]]. Sem conceito com
 [[estado-comportamento-masculino-e-realismo]]
 Grade: 4 fases, 12 tópicos (checada na web em 2026-08-15). Pedido explícito de 2026-08-15
 (inspirada no Ybernator/Nessahan, grade desenhada do zero). Sem conceito com página ainda.
+
+**[[mapa-seducao-e-comunidade-pua]]** — Sedução e a Comunidade PUA · [[estado-seducao-e-comunidade-pua]]
+Grade: 4 fases, 16 tópicos (checada na web em 2026-08-17). Pedido explícito de 2026-08-17 —
+análise crítica da literatura PUA (Mystery, Neil Strauss), não curso de técnica. Inclui caso
+documentado de assédio (Julien Blanc). Sem conceito com página ainda.
+
+**[[mapa-identidade-atraente]]** — Identidade Atraente · [[estado-identidade-atraente]]
+Grade: 4 fases, 16 tópicos (checada na web em 2026-08-17). Capstone do hub — atração como
+subproduto de identidade real (autenticidade, valores, hábito identitário), não de tática.
+Fecha a sobreposição com [[mapa-comportamento-masculino-e-realismo]] e
+[[mapa-seducao-e-comunidade-pua]] de forma explícita. Sem conceito com página ainda.
 
 ### ✝️ [[hub-teologia]] (hub novo, 2026-08-16)
 
@@ -202,6 +223,29 @@ Grade: 5 fases, 25 tópicos, pessoal → corporativo (checada na web em 2026-08-
 **[[mapa-ingles]]** — Inglês · [[estado-ingles]]
 Grade: 5 fases, 30 tópicos, por nível CEFR (A1→C2). Formato adaptado — ver nota no mapa.
 Sem conceito com página ainda.
+
+### 💻 [[hub-tecnologia]] (hub novo, 2026-08-17)
+
+**Sequência recomendada:** fundamentos de programação → engenharia de software → dados/IA-ML →
+tecnologia para fundadores. Sem fonte em `RAW/` em nenhuma — todas checadas via busca na web
+em 2026-08-17, área que envelhece rápido (ver aviso em cada mapa).
+
+**1. [[mapa-fundamentos-de-programacao]]** — Fundamentos de Programação · [[estado-fundamentos-de-programacao]]
+Grade: 5 fases, 24 tópicos. Lógica, estrutura de dado e algoritmo — pré-requisito do hub.
+Sem conceito com página ainda.
+
+**2. [[mapa-engenharia-de-software]]** — Engenharia de Software · [[estado-engenharia-de-software]]
+Grade: 5 fases, 20 tópicos. Arquitetura, dado, API e design de sistema em escala.
+Sem conceito com página ainda.
+
+**3. [[mapa-dados-estatistica-e-ia-ml]]** — Dados, Estatística e IA/ML · [[estado-dados-estatistica-e-ia-ml]]
+Grade: 5 fases, 22 tópicos. Estatística → ML clássico → deep learning/LLM → IA agêntica.
+Fronteira com [[mapa-colaboracao-humano-ia]] (hub inteligencia-artificial) — ver nota no mapa.
+Sem conceito com página ainda.
+
+**4. [[mapa-tecnologia-para-fundadores]]** — Tecnologia para Fundadores · [[estado-tecnologia-para-fundadores]]
+Grade: 4 fases, 16 tópicos. Decisão técnica e gestão de time técnico sem programar — capstone
+do hub. Sem conceito com página ainda.
 
 ---
 

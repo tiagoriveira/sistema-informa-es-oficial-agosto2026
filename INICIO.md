@@ -3,27 +3,32 @@
 > Estado atual do sistema. Reescrito pela IA ao fim de cada sessão.
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
-**Atualizado em:** 2026-08-16
-**Disciplina ativa:** hermeneutica-biblica (item 1 explicado, ainda não avaliado) —
-product-discovery continua a mais avançada em avaliação real.
-**Última sessão:** 2026-08-16 — duas disciplinas novas criadas por pedido do Tiago:
-[[mapa-frameworks-de-pensamento]] (hub filosofia, 6 fases/36 tópicos) e
-[[mapa-teoria-dos-jogos-e-estrategia]] (hub negocios, 4 fases/22 tópicos). Nenhum conceito
-avaliado em nenhuma das duas ainda — grade só, sem sessão de estudo real. `hub-filosofia.md`
-criado com a sequência história → lógica → frameworks. Também: nota pessoal "Captura - Insight
-sobre marketing de produtos food" enriquecida com [[jobs-to-be-done]] e exemplo aplicado.
+**Atualizado em:** 2026-08-17
+**Disciplina ativa:** marketing (Fase 1 nos itens 1-2, Fase 5 nos itens 24-27 — pulou pra IA
+aplicada a pedido do Tiago, itens 3-23 pendentes) — product-discovery continua a mais avançada
+em avaliação real.
+**Última sessão:** 2026-08-17 — sessão longa, multi-disciplina. Marketing: itens 1-2 (Fase 1) e
+24-27 (Fase 5, IA aplicada) explicados, 5 páginas arquivadas; item 27 puxou avaliação de
+[[operador-centauro]] (revisão vencida, acertou com hesitação). Três disciplinas novas criadas
+por pedido do Tiago, todas esclarecidas por pergunta antes de criar: hub `tecnologia` inteiro
+(4 disciplinas — fundamentos-de-programacao, engenharia-de-software, dados-estatistica-e-ia-ml,
+tecnologia-para-fundadores — só grade, sem sessão de estudo real) e mais duas no hub
+`dinamicas-sociais` — [[mapa-seducao-e-comunidade-pua]] (análise crítica da literatura PUA,
+itens 1/2/5 já explicados) e [[mapa-identidade-atraente]] (capstone do hub, item 1 explicado).
 
 ---
 
 ## Revisões vencidas
-Vencidas desde 2026-08-14, **dois dias de atraso**: [[validacao-de-problema]],
-[[riscos-de-descoberta]], [[operador-centauro]].
+Vencidas desde 2026-08-14, **três dias de atraso**: [[validacao-de-problema]],
+[[riscos-de-descoberta]]. [[operador-centauro]] foi revisado nesta sessão — não está mais
+vencido (revisar: 2026-08-18).
 
 ## Próxima ação recomendada
-Revisar os três vencidos primeiro (prioridade sobre conteúdo novo). Em
+Revisar os dois vencidos primeiro (prioridade sobre conteúdo novo). Em
 [[validacao-de-problema]], mudar o formato — recuperação livre falhou 2x, tentar
-reconhecimento em vez de gerar do zero. Em [[operador-centauro]], testar se distingue uso
-genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
+reconhecimento em vez de gerar do zero. Em [[operador-centauro]], ainda falta testar se
+reconhece **centauro reverso isolado** (sem oráculo no mesmo cenário) sem precisar de dica —
+ele articulou bem contra oráculo nesta sessão, mas não sozinho contra reverso.
 
 **Fontes em RAW aguardando ingest** (arquivo bruto só, sem `mapa-`/`estado-`/página em
 `KNOWLEDGE/` ainda — não entram na tabela de disciplinas abaixo até isso acontecer):
@@ -36,7 +41,9 @@ genérico/oráculo de centauro reverso (tratou como igual na 1ª tentativa).
 `RAW/produtividade/keller-a-unica-coisa.pdf`.
 
 **Explicado mas não salvo** (só existe no histórico do chat — se não virar página, some):
-nada no momento.
+- marketing item 2 (Segmentação e ICP) — explicado, sem página
+- seducao-e-comunidade-pua itens 1, 2, 5 — explicados, sem página
+- identidade-atraente item 1 — explicado, sem página
 
 Depois, avaliar o que só foi explicado e nunca testado:
 - história da filosofia (8): [[anaximandro-apeiron]], [[anaximenes-ar]],
@@ -52,6 +59,10 @@ Depois, avaliar o que só foi explicado e nunca testado:
 - obsidian (1): [[comandos-e-hotkeys-obsidian]]
 - performance esportiva (3): [[tres-sistemas-energeticos]], [[atp-cp]], [[mito-do-lactato]]
 - hermenêutica bíblica (1): [[o-que-e-hermeneutica]]
+- marketing (5): [[criacao-e-captura-de-demanda]], [[ia-pesquisa-posicionamento-concorrencia]],
+  [[ia-producao-de-conteudo-e-criativo]], [[automacao-de-campanha-e-verba]],
+  [[julgamento-humano-obrigatorio-marketing]] (este último já tem 1 evidência via
+  [[operador-centauro]], mas nenhum conceito *de marketing* propriamente avaliado ainda)
 
 **Pendente fora de disciplina:** resolvido em 2026-08-15 — hub `psicologia` e hub
 `dinamicas-sociais` criados, com a disciplina "Comportamento Masculino e Realismo" incluída.
@@ -64,8 +75,10 @@ quando [[mapa-performance-esportiva]] chegar em VO2 max.
 
 **INBOX pendente de triagem:** [[Link do post do benchimol no notion]] — bloco não resolvido;
 "Mensagem que encaminhei ao psiquiatra.md" está vazia — aguardando resposta do Tiago pros
-dois. Novo: "Brain Dump 15-08-26.md" — dump mental de verdade, ainda não lido/triado (tem uma
-linha de tarefa: recuperar capturas do X e ver a live/aula de Obsidian).
+dois. "Brain Dump 15-08-26.md" — dump mental de verdade, ainda não lido/triado (tem uma linha
+de tarefa: recuperar capturas do X e ver a live/aula de Obsidian). Novo: arquivo solto na raiz
+do vault "Transcrição video - Construindo Uma Empresa do Zero Para o Poderosíssimo Ninja
+Alfredo soares e Ninja.md" (analisado em sessão anterior, nunca triado pra INBOX/RECURSOS).
 
 **Templates novos, criados pelo Tiago em 2026-08-15** (não pela IA): `_templates/braindump
 1.md` (dump mental antes de dormir, efeito Zeigarnik) e `_templates/inbox-nota.md` (formato
@@ -74,6 +87,11 @@ não integrados ao `INBOX/LEIA-ME.md` nem ao `CLAUDE.md` — próxima sessão po
 
 **Raiz do vault:** `Untitled.md` e `Untitled.base` (vazios/teste) — aguardando confirmação do
 Tiago pra apagar (regra nova: nunca apago sem pedir).
+
+**Débito de LINT conhecido (sinalizado em 2026-08-16, ainda não corrigido antes de hoje):**
+contador "páginas escritas" estava dessincronizado da tabela real. Corrigido nesta sessão por
+contagem real em disco (40, não 42) — mas a causa raiz (processo que gera esse número) não foi
+auditada, pode voltar a dessincronizar.
 
 ---
 
@@ -87,7 +105,7 @@ explicados.
 |---|---|---|---|---|---|
 | filosofia | historia-da-filosofia | 6 fases / 33 tópicos | 9 | 1 | 2026-08-14 |
 | negocios | product-discovery | 4 fases / 18 tópicos | 7 | 2 | 2026-08-13 |
-| inteligencia-artificial | colaboracao-humano-ia | 5 fases / 19 tópicos | 1 | 1 | 2026-08-13 |
+| inteligencia-artificial | colaboracao-humano-ia | 5 fases / 19 tópicos | 1 | 1 | 2026-08-17 |
 | neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 7 | 0 | 2026-08-16 |
 | esporte | performance-esportiva | 5 fases / 21 tópicos | 3 | 0 | 2026-08-15 |
 | negocios | visao-estrategica-negocios | 5 fases / 23 tópicos | 0 | 0 | — |
@@ -98,7 +116,7 @@ explicados.
 | gestao-sistemas | obsidian | 5 fases / 27 tópicos | 1 | 0 | 2026-08-15 |
 | gestao-sistemas | produtividade-biohacking | 4 fases / 12 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-de-tempo | 4 fases / 14 tópicos | 0 | 0 | — |
-| marketing | marketing | 5 fases / 27 tópicos | 0 | 0 | — |
+| marketing | marketing | 5 fases / 27 tópicos | 5 | 0 | 2026-08-17 |
 | marketing | producao-de-conteudo | 5 fases / 23 tópicos | 2 | 0 | 2026-08-15 |
 | marketing | copywriting | 4 fases / 16 tópicos | 0 | 0 | — |
 | financas | financas | 5 fases / 25 tópicos | 0 | 0 | — |
@@ -108,14 +126,21 @@ explicados.
 | psicologia | psicologia | 4 fases / 14 tópicos | 0 | 0 | — |
 | dinamicas-sociais | poder-e-dinamica-social | 4 fases / 13 tópicos | 0 | 0 | — |
 | dinamicas-sociais | comportamento-masculino-e-realismo | 4 fases / 12 tópicos | 0 | 0 | — |
+| dinamicas-sociais | seducao-e-comunidade-pua | 4 fases / 16 tópicos | 0 | 0 | 2026-08-17 |
+| dinamicas-sociais | identidade-atraente | 4 fases / 16 tópicos | 0 | 0 | 2026-08-17 |
 | teologia | hermeneutica-biblica | 4 fases / 16 tópicos | 1 | 0 | 2026-08-16 |
 | teologia | teologia-biblica | 4 fases / 16 tópicos | 0 | 0 | — |
 | teologia | historia-da-igreja | 4 fases / 16 tópicos | 0 | 0 | — |
 | teologia | teologia-sistematica | 4 fases / 17 tópicos | 0 | 0 | — |
 | teologia | apologetica-crista | 4 fases / 16 tópicos | 0 | 0 | — |
+| tecnologia | fundamentos-de-programacao | 5 fases / 24 tópicos | 0 | 0 | — |
+| tecnologia | engenharia-de-software | 5 fases / 20 tópicos | 0 | 0 | — |
+| tecnologia | dados-estatistica-e-ia-ml | 5 fases / 22 tópicos | 0 | 0 | — |
+| tecnologia | tecnologia-para-fundadores | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 28 disciplinas, 577 tópicos planejados, 42 páginas escritas, **4 conceitos com
-evidência real**. A grade é plano, não progresso — só o LEARNER conta o que você sabe.
+**Realidade:** 34 disciplinas, 691 tópicos planejados, 40 páginas escritas (contagem real em
+disco, corrigida nesta sessão), **4 conceitos com evidência real**. A grade é plano, não
+progresso — só o LEARNER conta o que você sabe.
 
 **Legenda do status nos mapas:** `✅` consolidado · `⚠️` frágil ou revisão vencida ·
 `📍` próximo sugerido · `📖` explicado mas nunca testado · `⬜` nunca tocado.

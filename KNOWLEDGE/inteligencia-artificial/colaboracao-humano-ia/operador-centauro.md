@@ -36,6 +36,10 @@ Marqueteiro criando campanha:
 - Centauro reverso: a IA gera a estratégia, o humano só corrige erros e "humaniza" o texto,
   sem nunca definir direção própria.
 
+## Relacionado
+[[julgamento-humano-obrigatorio-marketing]] — aplicação deste conceito às três frentes de IA
+em marketing (pesquisa, conteúdo, automação de verba)
+
 ## Erros comuns
 - Achar que ser ensinado pela IA já é centauro reverso. O que importa é quem mantém o
   julgamento final, não se você recebe informação dela — esta sessão de tutoria é exemplo de
