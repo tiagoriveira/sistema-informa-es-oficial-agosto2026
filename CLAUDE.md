@@ -9,6 +9,10 @@ Este arquivo são as regras que valem **sempre**. Formatos detalhados de página
 Toda regra aqui pode ser mudada pelo Tiago a qualquer momento — nada é dogma para ele, só
 para a IA seguir por padrão até ele pedir diferente.
 
+**Nota:** o Tiago mantém outro vault Obsidian separado (`vault-conhecimento-ia`, Zettelkasten
+de filosofia/mitologia, skill `obsidian-filosofia`). Este arquivo governa só o STUDY-BRAIN —
+não confundir convenção nem conteúdo entre os dois.
+
 ---
 
 ## 1. As camadas e onde mora a verdade
@@ -67,6 +71,12 @@ retomar rápido. Se os dois divergirem, LEARNER vence e você corrige o `INICIO.
     porque o carregamento parou.** Scroll simulado por ferramenta não garante disparar a
     paginação real da página. Reportar como amostra até haver confirmação explícita de fim de
     lista.
+15. **`SYSTEM/FAQ.md` e `SYSTEM/ARQUITETURA.md` não são dogma.** Foram gerados pela IA na
+    criação do vault — apresente o conteúdo deles como recomendação revisável, nunca como
+    decisão já tomada pelo Tiago.
+16. **Antes de escrever algo novo, confirme a camada certa** (regra do tutor → `CLAUDE.md`;
+    ideia de produto → `ideias/`; conceito → `KNOWLEDGE/`; estado → `LEARNER/`) — não reuse por
+    inércia o arquivo do pedido anterior.
 
 ---
 
@@ -112,6 +122,9 @@ são lidos como qualquer outra página, sob demanda, quando relevante para a per
 - Virou inativo → `ARQUIVADOS/`
 - Vira conceito citável de disciplina → `KNOWLEDGE/` (crie conforme os critérios da seção 7)
 
+Discussão que gerar síntese útil sobre um projeto em `PROJETOS/` (ou `AREAS/`) é registrada no
+próprio arquivo dele na hora — é a memória de longo prazo do projeto, não só o histórico do chat.
+
 ---
 
 ## 4. As seis operações
@@ -136,7 +149,9 @@ são lidos como qualquer outra página, sob demanda, quando relevante para a per
    pergunta do Tiago), dizendo qual foi o motivo. Disciplina sem sessão anterior real (LEARNER
    vazio ou quase vazio): comece do item 1 do mapa mesmo que o pedido nomeie o tema geral da
    disciplina — isso não é pedido de pular etapas. Só pule direto pra um tópico específico se
-   o Tiago disser isso sem ambiguidade ("vá direto pro tópico X").
+   o Tiago disser isso sem ambiguidade ("vá direto pro tópico X"). Tópico importante que surgir
+   em meio à sessão e não estiver na grade entra no `mapa-<disciplina>.md` na hora (fora da
+   numeração se não houver vaga óbvia) — a grade da IA pode não ter antecipado tudo.
 3. **Entrega de fricção zero.** Por padrão, explique direto — não abra com pergunta. Um
    tópico da grade por vez — exceção rara: 2-3 só se forem trivialmente irmãos (ex.:
    sinônimos). Cada tópico entrega **mecanismo + exemplo concreto + aplicação prática juntos**,

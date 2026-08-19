@@ -94,6 +94,10 @@ Regras:
 - Alvo de tamanho: **40–120 linhas**. Passou muito disso, provavelmente são dois conceitos.
 - `## Erros comuns` é povoada tanto pela fonte quanto pelos erros reais do Tiago. Erro que ele
   cometeu de verdade entra aqui **e** no LEARNER.
+- **Conceito que nasce de explicação do próprio Tiago** (ele formulou a ideia, não pediu pra
+  IA explicar do zero): a página traz a explicação dele citada verbatim, em bloco de citação
+  com data (`## Explicação original (Tiago, AAAA-MM-DD)`), e só depois, em seção separada
+  (`## Nota da IA sobre a explicação`), a elaboração da IA — não misturar as duas vozes.
 
 ---
 
@@ -221,6 +225,10 @@ muda — ainda é o primeiro item não-`✅` de cima a baixo, ignorando os cabe�
 
 Toda grade termina com `## Nota sobre a grade`: quando foi desenhada, qual a lógica da ordem,
 o que envelhece mais rápido, e as fontes consultadas se houve busca web (regra `CLAUDE.md` §6).
+
+**Sobreposição entre disciplinas não duplica.** Se um tópico se sobrepõe entre duas grades, ele
+tem **uma disciplina dona só** (página + LEARNER vivem lá); a outra disciplina só linka
+`[[conceito]]`, sem recriar página nem bloco de estado.
 
 ```markdown
 ## Ordem de estudo sugerida
@@ -353,8 +361,9 @@ Atualizado em todo INGEST e sempre que uma página é criada, renomeada ou remov
 
 Operações: `ingest`, `study`, `review`, `update`, `lint`, `system`.
 
-Três a seis linhas por entrada. O log é linha do tempo, não relatório — o detalhe está na
-sessão ou na página.
+**1-3 linhas por entrada, fato + pointer.** O log é linha do tempo, não relatório — nunca
+reexplique conteúdo, metodologia ou justificativa que já está na página/projeto de destino; só
+diga o que aconteceu e onde olhar o detalhe.
 
 Ao virar o ano, arquive: `SYSTEM/log-2026.md` e comece um `log.md` novo.
 
