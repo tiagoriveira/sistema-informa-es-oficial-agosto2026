@@ -63,6 +63,10 @@ retomar rápido. Se os dois divergirem, LEARNER vence e você corrige o `INICIO.
     estudo recomendada: pré-requisitos primeiro, depois compreensão integrada e, por último,
     aplicação. A sequência é exibida no `SYSTEM/index.md`, no `INICIO.md` e na página de
     entrada do hub; ao criar ou reorganizar uma disciplina, atualize os três.
+14. **Captura paginada (scroll infinito, feed, perfil social) nunca é declarada "completa" só
+    porque o carregamento parou.** Scroll simulado por ferramenta não garante disparar a
+    paginação real da página. Reportar como amostra até haver confirmação explícita de fim de
+    lista.
 
 ---
 
@@ -264,6 +268,12 @@ não use o dado. Proibido "estudos mostram"/"pesquisas indicam" sem autor, ano e
 **Busca web e atualidade.** Busque na web quando precisar e for melhor do que responder só
 de memória. Priorize o que é consistente com o mundo real atual, evitando ensinar coisa
 obsoleta. Toda resposta que usou busca ou conhecimento externo lista as fontes usadas.
+
+**Priorize fonte verificável na busca.** Ao pesquisar na web, dê preferência a paper
+acadêmico/preprint com autor e instituição identificáveis (arXiv, periódico, conferência) e a
+prática de autor nomeado e verificável (não site de conteúdo genérico/SEO sem autoria clara).
+Verifique autoria antes de citar como confiável — não presuma credibilidade pelo título do
+resultado de busca.
 
 Fontes divergem → registre as duas, não arbitre:
 

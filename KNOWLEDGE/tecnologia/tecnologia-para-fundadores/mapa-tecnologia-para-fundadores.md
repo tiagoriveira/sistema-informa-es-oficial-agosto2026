@@ -43,6 +43,10 @@ esta ordem não é dogma, desvie quando houver motivo)_
 15. ⬜ Como ler roadmap técnico e cobrar prazo com realismo
 16. ⬜ Quando trazer um CTO/head técnico — o gatilho certo, não o modismo
 
+## Conceitos com página (fora da numeração da grade)
+- [[beneficios-obsidian-founder-solo]] — não mapeia um tópico específico; apoio próximo aos
+  itens 5-6 (escolha de stack, custo oculto de ferramenta "de graça")
+
 ## Nota sobre a grade
 Grade desenhada em 2026-08-17 a partir de busca na web (regra `CLAUDE.md` §6). Foco declarado:
 tomar decisão técnica boa sem virar programador. Fase 1-2 são estáveis; Fase 3 (LGPD/segurança)

@@ -42,6 +42,10 @@ esta ordem não é dogma, desvie quando houver motivo)_
 15. ⬜ Ler em voz alta: o teste mais barato pra achar frase que trava
 16. ⬜ Cortar: por que o segundo rascunho é sempre menor que o primeiro
 
+## Conceitos com página (fora da numeração da grade)
+- [[fud-competitivo]] — medo real + categoria concorrente desqualificada + autoridade própria
+  como contraste; apoio ao tópico 10 (hooks) e 12 (objeção)
+
 ## Nota sobre a grade
 Grade desenhada em 2026-08-15 a partir de busca na web (regra `CLAUDE.md` §6). Ordem:
 fundamentos que não mudam (clareza, prova, especificidade) → frameworks estruturais →

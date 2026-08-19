@@ -8,7 +8,7 @@ leitura da página.
 
 Sessões **não** entram aqui — são cronológicas e ficam em [[log]].
 
-Atualizado em: 2026-08-16
+Atualizado em: 2026-08-18
 
 ---
 
@@ -92,6 +92,8 @@ Grade: 4 fases, 18 tópicos.
 - [[outcome-vs-output]] — medir mudança real, não entrega
 - [[continuous-discovery]] — descoberta como prática contínua (Torres)
 - [[dual-track-agile]] — descoberta e entrega rodando em paralelo
+- [[over-serving-e-job-mal-atendido]] — produto que atende demais uma dimensão, mal atende a
+  que decide a contratação (fora da grade)
 
 **[[mapa-visao-estrategica-negocios]]** — Visão Estratégica · [[estado-visao-estrategica-negocios]]
 Grade: 5 fases, 23 tópicos. Sem conceito com página ainda.
@@ -126,9 +128,12 @@ Grade: 5 fases, 21 tópicos (checada na web em 2026-08-14).
 
 **[[mapa-obsidian]]** — Obsidian · [[estado-obsidian]]
 Grade: 5 fases, 27 tópicos (checada na web em 2026-08-15). A **ferramenta**; o método fica em
-[[mapa-gestao-conhecimento-second-brain]]. Tem seção de recursos externos (cursos/vídeos).
+[[mapa-gestao-conhecimento-second-brain]]. Primeiras fontes próprias em `RAW/obsidian/` desde
+2026-08-18 (2 papers + 1 artigo prático), sem página de fonte dedicada.
 - [[comandos-e-hotkeys-obsidian]] — a paleta `Ctrl+P` é a porta única; atalho dedicado só pro
   que roda todo dia. Página 100% de conhecimento externo, datada — doc oficial vence.
+- [[principios-duraveis-pkm-ia]] — 6 princípios de PKM+IA que não dependem de modelo,
+  benchmark ou ferramenta específicos
 
 **[[mapa-produtividade-biohacking]]** — Produtividade & Biohacking · [[estado-produtividade-biohacking]]
 Grade: 4 fases, 12 tópicos (checada na web em 2026-08-15). O corpo (sono, energia) — irmã de
@@ -161,7 +166,8 @@ por plataforma — irmã de [[mapa-marketing]], não a mesma coisa.
 
 **[[mapa-copywriting]]** — Copywriting · [[estado-copywriting]]
 Grade: 4 fases, 16 tópicos (checada na web em 2026-08-15). A frase que persuade — irmã de
-[[mapa-producao-de-conteudo]], não a mesma coisa. Sem conceito com página ainda.
+[[mapa-producao-de-conteudo]], não a mesma coisa.
+- [[fud-competitivo]] — medo real + categoria concorrente desqualificada + autoridade própria
 
 ### 🧠 psicologia (hub novo, 2026-08-15)
 
@@ -245,9 +251,20 @@ Sem conceito com página ainda.
 
 **4. [[mapa-tecnologia-para-fundadores]]** — Tecnologia para Fundadores · [[estado-tecnologia-para-fundadores]]
 Grade: 4 fases, 16 tópicos. Decisão técnica e gestão de time técnico sem programar — capstone
-do hub. Sem conceito com página ainda.
+do hub. [[beneficios-obsidian-founder-solo]] — conceito de apoio, fora da numeração da grade.
 
 ---
+
+
+---
+
+## Ybernator — arquivado (2026-08-18)
+
+123 disciplinas foram importadas do Ybernator em 2026-08-18 e arquivadas no mesmo dia, a
+pedido do Tiago (desconfiança da curadoria original — ver `ARQUIVADOS/ybernator/LEIA-ME.md`
+para o achado real e o critério). Não aparecem nas listas de disciplina abaixo. Estão em
+`ARQUIVADOS/ybernator/`, com procedimento definido para promover disciplina individual de
+volta pro sistema ativo quando pedido.
 
 ## INBOX — notas pessoais (efêmera)
 

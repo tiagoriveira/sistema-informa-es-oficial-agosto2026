@@ -3,10 +3,17 @@
 > Estado atual do sistema. Reescrito pela IA ao fim de cada sessão.
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
-**Atualizado em:** 2026-08-17
+**Atualizado em:** 2026-08-18
 **Disciplina ativa:** marketing (Fase 1 nos itens 1-2, Fase 5 nos itens 24-27 — pulou pra IA
 aplicada a pedido do Tiago, itens 3-23 pendentes) — product-discovery continua a mais avançada
 em avaliação real.
+
+> 📦 **Ybernator arquivado, 2026-08-18:** 123 disciplinas foram importadas do Ybernator e, no
+> mesmo dia, arquivadas por decisão do Tiago (desconfiava da curadoria original — amostra
+> checada confirmou grade sem poda nem checagem web, embora não "burra" na lógica). O vault
+> continua com as 34 disciplinas de sempre. Material fica em `ARQUIVADOS/ybernator/`, com
+> procedimento de promoção definido em `ARQUIVADOS/ybernator/LEIA-ME.md` para quando o Tiago
+> pedir uma disciplina de volta.
 **Última sessão:** 2026-08-17 — sessão longa, multi-disciplina. Marketing: itens 1-2 (Fase 1) e
 24-27 (Fase 5, IA aplicada) explicados, 5 páginas arquivadas; item 27 puxou avaliação de
 [[operador-centauro]] (revisão vencida, acertou com hesitação). Três disciplinas novas criadas

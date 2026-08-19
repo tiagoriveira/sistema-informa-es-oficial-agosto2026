@@ -798,3 +798,105 @@ primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva
   `SESSIONS/2026-08-17-seducao-e-comunidade-pua.md`,
   `SESSIONS/2026-08-17-identidade-atraente.md`.
 - Commit + push ao final.
+
+## [2026-08-18] update | tecnologia-para-fundadores
+- [[beneficios-obsidian-founder-solo]] promovido de `RECURSOS/` para KNOWLEDGE a pedido do
+  Tiago — vira conceito citável, fora da numeração da grade (apoio aos itens 5-6).
+- Entra no LEARNER como `nao_iniciado` (invariante 7 — página arquivada não é evidência).
+- `mapa-tecnologia-para-fundadores.md` e `SYSTEM/index.md` atualizados no mesmo momento.
+
+## [2026-08-18] ingest | obsidian
+- Primeiras fontes reais da disciplina em `RAW/obsidian/`: 2 papers acadêmicos ([[xu-et-al-a-mem]],
+  NeurIPS 2025; [[wisoff-et-al-notebar]], arXiv 2509.03610) + 1 artigo prático de autor
+  verificável ([[ma-mastering-pkm-obsidian-ai]], Eric J. Ma). Autoria checada antes de citar
+  (regra nova do `CLAUDE.md` §6).
+- A pedido do Tiago, `RAW/` foi escrito pela IA nesta sessão — desvio pontual autorizado da
+  regra "só o Tiago escreve em RAW", não virou padrão novo.
+- 3 conceitos criados: [[memoria-agentica-zettelkasten]], [[condicionamento-por-persona-notas]],
+  [[varredura-manutencao-vault-ia]] — todos fora da numeração da grade (apoio a tópicos
+  existentes), todos `nao_iniciado` no LEARNER (invariante 7).
+- Cada fonte também foi traduzida integralmente para PT-BR e salva como arquivo irmão em
+  `RAW/obsidian/` (sufixo `-pt-br`), a pedido do Tiago — original em inglês preservado
+  intocado ao lado.
+- `mapa-obsidian.md`, `LEARNER/estado-obsidian.md` e `SYSTEM/index.md` atualizados no mesmo
+  momento.
+
+## [2026-08-18] update | obsidian (consolidação)
+- A pedido do Tiago, desfeita a ingestão de 3 páginas de fonte + 3 conceitos separados sobre
+  A-MEM/NoteBar/Eric Ma — ele queria só o que não envelhece, não o benchmark/ferramenta
+  específicos de cada paper.
+- Substituído por 1 página única, [[principios-duraveis-pkm-ia]]: 6 princípios destilados das
+  3 fontes, cada um citado à fonte de origem, sem número/modelo/ferramenta específicos.
+- As 3 fontes continuam em `RAW/obsidian/` (2 PDFs + 1 md, cada um com tradução PT-BR irmã) —
+  arquivadas como referência bruta, sem página de fonte dedicada em KNOWLEDGE.
+- `mapa-obsidian.md`, `LEARNER/estado-obsidian.md` e `SYSTEM/index.md` atualizados no mesmo
+  momento.
+
+## [2026-08-18] ingest | copywriting + recursos
+- [[fud-competitivo]] criado em `KNOWLEDGE/marketing/copywriting/` — padrão de 3 passos (medo
+  real → categoria concorrente desqualificada → autoridade própria como contraste), nomeado
+  pela IA a partir de exemplo real analisado na conversa. `nao_iniciado` no LEARNER.
+- [[exemplo-fud-competitivo-nathan-lopes]] criado em `RECURSOS/` — Reel do Instagram
+  transcrito via Apify (Actor apple_yang/instagram-transcripts-scraper), desmontado passo a
+  passo. Transcrição resumida/parafraseada, não reproduzida na íntegra (direito autoral).
+- [[praticas-apify-com-ia]] criado em `RECURSOS/` — registro de quando/como usar Apify,
+  primeira vez usado nesta sessão.
+- `mapa-copywriting.md`, `LEARNER/estado-copywriting.md` e `SYSTEM/index.md` atualizados no
+  mesmo momento.
+
+## [2026-08-18] update | product-discovery
+- [[jobs-to-be-done]] ampliado em duas rodadas: camadas funcional/emocional/social (extensão
+  Christensen/Moesta) + exemplo jet ski; depois seção "Padrão: mesmo produto ≠ mesmo
+  concorrente" com 6 casos reais do Brasil (raciocínio ilustrativo, não dado verificado).
+- [[over-serving-e-job-mal-atendido]] criado — extensão da teoria da disrupção de Christensen
+  sobre JTBD, conectando com [[ia-pesquisa-posicionamento-concorrencia]] (marketing) como
+  método de pesquisa. Exemplo: software financeiro pra produtor rural. `nao_iniciado` no
+  LEARNER — só conteúdo entregue, nenhuma avaliação real ocorreu.
+- `mapa-product-discovery.md` e `SYSTEM/index.md` atualizados no mesmo momento. LEARNER não
+  mudou (nenhum conceito foi avaliado nesta sessão).
+
+## [2026-08-18] ingest | importacao em massa do Ybernator
+- Importadas **123 disciplinas** e **3.221 tópicos** do repositório `escola-tiago-oficial`
+  (Ybernator), a pedido explícito do Tiago: "não quero por hora deixar nada fora, quero trazer
+  tudo — depois eu excluo o que eu não quiser". Vault vai de 34 → 157 disciplinas.
+- Método: extração programática das grades reais do Ybernator (`src/lib/materias/*.ts`,
+  23 arquivos parseados) e conversão para o formato de mapa do vault. Não foi redigitação —
+  os tópicos são os originais de lá.
+- **5 hubs novos:** `artes`, `ciencias-exatas-e-naturais`, `ciencias-humanas`, `geopolitica`,
+  `habilitacao-transito` — cada um com página de entrada `hub-*.md` escrita à mão (sequência
+  pedagógica + fronteiras + avisos), conforme invariante 13.
+- **2 colisões puladas** (invariante 6, nome único): `ingles` e `economia` já existiam no
+  vault. Nada foi sobrescrito. Fusão com o conteúdo do Ybernator fica pendente.
+- Operação puramente aditiva: nenhum arquivo pré-existente foi apagado ou sobrescrito.
+- **Dívidas assumidas conscientemente nesta importação** (registradas em cada mapa):
+  1. Nenhuma grade passou por checagem web (quebra o padrão de `CLAUDE.md` §6 — aceito por ser
+     importação, não curadoria).
+  2. Ordem dos tópicos é a do Ybernator, não sequência pedagógica revisada.
+  3. Sem poda: tópicos obsoletos ou redundantes vieram junto, por decisão do Tiago.
+  4. 37 disciplinas com nome de fase em inglês (tradução incompleta herdada do Ybernator).
+- Todas entraram no LEARNER como disciplina sem conceito avaliado, e no `SYSTEM/index.md` em
+  seção própria ("Importadas do Ybernator").
+
+## [2026-08-18] update | arquivamento do Ybernator
+- As 123 disciplinas importadas do Ybernator mais cedo hoje foram **movidas para
+  `ARQUIVADOS/ybernator/`**, a pedido do Tiago — ele desconfiou da curadoria original ("a IA
+  que organizou os tópicos do Ybernator é burra").
+- Antes de arquivar, uma amostra real (matemática, deep-learning, founder-vendas-receita) foi
+  checada: a lógica de sequência não se confirmou "burra", mas nenhuma grade tinha passado por
+  checagem web nem poda — achado registrado em `ARQUIVADOS/ybernator/LEIA-ME.md`.
+- Estrutura preservada por hub/disciplina dentro do arquivo (não jogado solto na raiz de
+  `ARQUIVADOS/`, por pedido explícito). 5 hubs 100% novos (`artes`,
+  `ciencias-exatas-e-naturais`, `ciencias-humanas`, `geopolitica`, `habilitacao-transito`)
+  saíram inteiros de `KNOWLEDGE/`, incluindo a `hub-*.md` de cada um. 11 hubs que já existiam
+  no vault só perderam as disciplinas importadas — o hub em si continua ativo.
+- `LEARNER/` voltou a 34 estados (os 123 `estado-*.md` da importação foram junto pro arquivo,
+  ao lado do mapa correspondente).
+- `ARQUIVADOS/ybernator/LEIA-ME.md` documenta, a pedido do Tiago, o **procedimento que a IA
+  deve seguir quando ele pedir pra trazer uma disciplina específica de volta**: busca web,
+  poda de tópico obsoleto, revisão de ordem, tradução de fase em inglês, decisão de fusão com
+  disciplina existente, e só então promoção pra `KNOWLEDGE/`+`LEARNER/`.
+- `SYSTEM/index.md` e `INICIO.md` atualizados no mesmo momento — a seção "Importadas do
+  Ybernator" virou "Ybernator — arquivado", sem listar as 123 disciplinas (elas não estão mais
+  em `KNOWLEDGE/`).
+- Vault volta a 34 disciplinas, 13 hubs — mesmo estado de antes da importação, mais o arquivo
+  documentado.

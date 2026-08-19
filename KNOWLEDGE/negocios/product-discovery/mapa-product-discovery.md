@@ -49,6 +49,10 @@ esta ordem não é dogma, desvie quando houver motivo)_
 - [[continuous-discovery]] — descoberta como prática contínua
 - [[dual-track-agile]] — descoberta e entrega rodando em paralelo
 
+## Conceitos com página (fora da numeração da grade)
+- [[over-serving-e-job-mal-atendido]] — extensão de [[jobs-to-be-done]]: produto que atende
+  demais uma dimensão e mal atende a que decide a contratação; cliente usa por resignação
+
 ## Perguntas em aberto
 - Desenhar um teste barato na hora ainda é lacuna do aluno (ver LEARNER) — lacuna de
   aplicação, não da disciplina. Virou o item 4 da Fase 1.

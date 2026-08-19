@@ -2,13 +2,15 @@
 tipo: mapa
 disciplina: obsidian
 hub: gestao-sistemas
-atualizado: 2026-08-15
+atualizado: 2026-08-18
 ---
 
 # Mapa — Obsidian
 
-**Fontes desta disciplina:** nenhuma em `RAW/` — grade checada por busca na web em 2026-08-15
-(ver "Nota sobre a grade"), não só memória de treino.
+**Fontes desta disciplina:** 2 papers acadêmicos + 1 artigo prático arquivados em
+`RAW/obsidian/` desde 2026-08-18 (sem página de fonte dedicada — só o que sobreviveu como
+princípio durável virou página, ver [[principios-duraveis-pkm-ia]]). Grade em si foi checada
+por busca na web em 2026-08-15 (ver "Nota sobre a grade").
 **Estado do aluno:** [[estado-obsidian]]
 
 **Fronteira com [[mapa-gestao-conhecimento-second-brain]]:** aqui é a **ferramenta** (como o
@@ -56,6 +58,10 @@ esta ordem não é dogma, desvie quando houver motivo)_
 25. ⬜ Git como backup e histórico — versionar conhecimento, não só código
 26. ⬜ Manutenção: links quebrados, notas órfãs, duplicatas, quando podar
 27. ⬜ Obsidian + IA: o vault como contexto de longo prazo, e onde terceirizar destrói o aprendizado
+
+## Conceitos com página (fora da numeração da grade)
+- [[principios-duraveis-pkm-ia]] — os 6 princípios que sobram depois de tirar benchmark, nome
+  de modelo e número específico das 3 fontes de 2026-08-18; apoio ao tópico 27 (Obsidian + IA)
 
 ## Nota sobre a grade
 
