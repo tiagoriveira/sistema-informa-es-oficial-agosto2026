@@ -995,3 +995,16 @@ bifurcação de ICP). [[consistencia-job-narrativa-produto]] criado. Reel resumi
 Sem avaliação de conceito. Páginas recontadas: 45. Revisões seguem vencidas
 ([[validacao-de-problema]], [[riscos-de-descoberta]], [[operador-centauro]]). `INICIO.md`
 reescrito, commit + push.
+
+## [2026-08-19] system | migração memória local pro vault
+Tiago pediu pra não depender de memória local do dispositivo. Regras migradas pro
+`CLAUDE.md`/`schema.md` (dois vaults, camada certa, docs não são dogma, grade cresce em sessão,
+memória de projeto, formato de página com explicação do Tiago, sobreposição entre disciplinas,
+log enxuto); memória local do Claude limpa depois.
+
+## [2026-08-19] study | estatistica-para-decisao-marketing
+Item 1 (média, mediana, outlier) explicado com exemplo de CAC — ver
+[[2026-08-19-estatistica-para-decisao-marketing]]. Sem avaliação, estado continua `nao_iniciado`.
+
+## [2026-08-19] system | fechamento de sessão (2)
+`INICIO.md` reescrito de novo (disciplina ativa, última sessão, tabela). Commit + push.

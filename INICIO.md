@@ -4,10 +4,8 @@
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
 **Atualizado em:** 2026-08-19
-**Disciplina ativa:** nenhuma em estudo formal hoje — sessão foi trabalho de projeto real
-([[parceria-marketing-mvp-saas-financeiro]]) + criação de disciplina nova
-([[mapa-estatistica-para-decisao-marketing]]). product-discovery continua a mais avançada em
-avaliação real (LEARNER).
+**Disciplina ativa:** estatistica-para-decisao-marketing (item 1 explicado, 📍 no item 2) —
+product-discovery continua a mais avançada em avaliação real (LEARNER).
 
 > 📦 **Ybernator arquivado, 2026-08-18:** 123 disciplinas foram importadas do Ybernator e, no
 > mesmo dia, arquivadas por decisão do Tiago (desconfiava da curadoria original — amostra
@@ -15,19 +13,14 @@ avaliação real (LEARNER).
 > continua com as 34 disciplinas de sempre. Material fica em `ARQUIVADOS/ybernator/`, com
 > procedimento de promoção definido em `ARQUIVADOS/ybernator/LEIA-ME.md` para quando o Tiago
 > pedir uma disciplina de volta.
-**Última sessão:** 2026-08-19 — sessão de projeto real, não de estudo de disciplina. Discussão
-estratégica sobre [[parceria-marketing-mvp-saas-financeiro]] (ainda pré-início): timing de
-growth, founder-led vs. product-led, inbound/outbound, ferramenta vs. serviço (disparado por um
-Reel resumido em [[sequoia-services-the-new-software-matheus-beirao]], RECURSOS), e uma
-bifurcação de ICP ainda não validada (empresário direto vs. contador/consultor) — tudo
-registrado no arquivo do projeto, não só no chat. Tiago formulou princípio próprio
-([[consistencia-job-narrativa-produto]], página nova em product-discovery, com a explicação
-dele citada verbatim + nota da IA separada — novo padrão de formato). Autoavaliação do Tiago
-("número em marketing é meu ponto fraco") motivou criar
-[[mapa-estatistica-para-decisao-marketing]] (hub `marketing`, 4 fases/16 tópicos) — itens de
-estatística conceitual que estavam soltos em [[mapa-dados-estatistica-e-ia-ml]] foram migrados
-pra lá, sem duplicar página nem LEARNER (novo padrão: sobreposição entre disciplinas não
-duplica, tem uma disciplina dona só).
+**Última sessão:** 2026-08-19 — sessão longa, mista. Síntese estratégica de
+[[parceria-marketing-mvp-saas-financeiro]] (growth, ferramenta vs. serviço, bifurcação de ICP)
+registrada no arquivo do projeto. [[consistencia-job-narrativa-produto]] criado (formato novo:
+explicação do Tiago verbatim + nota da IA). [[mapa-estatistica-para-decisao-marketing]] criado
+(hub `marketing`) a partir de autoavaliação do Tiago, item 1 (média/mediana/outlier)
+explicado — ver [[2026-08-19-estatistica-para-decisao-marketing]]. Regras que estavam só na
+memória local do Claude foram migradas pro `CLAUDE.md`/`schema.md` (memória local não sobrevive
+a perda de dispositivo, git sim); memória local limpa.
 
 ---
 
@@ -131,7 +124,7 @@ explicados.
 | gestao-sistemas | produtividade-biohacking | 4 fases / 12 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-de-tempo | 4 fases / 14 tópicos | 0 | 0 | — |
 | marketing | marketing | 5 fases / 27 tópicos | 5 | 0 | 2026-08-17 |
-| marketing | estatistica-para-decisao-marketing | 4 fases / 16 tópicos | 0 | 0 | — |
+| marketing | estatistica-para-decisao-marketing | 4 fases / 16 tópicos | 0 | 0 | 2026-08-19 |
 | marketing | producao-de-conteudo | 5 fases / 23 tópicos | 2 | 0 | 2026-08-15 |
 | marketing | copywriting | 4 fases / 16 tópicos | 0 | 0 | — |
 | financas | financas | 5 fases / 25 tópicos | 0 | 0 | — |

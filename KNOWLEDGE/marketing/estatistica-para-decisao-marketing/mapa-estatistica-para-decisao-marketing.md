@@ -28,8 +28,8 @@ _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. 
 esta ordem não é dogma, desvie quando houver motivo)_
 
 ### Fase 1 — Estatística descritiva pra ler número de marketing
-1. ⬜ Média, mediana e o que cada uma esconde — outlier distorcendo a média
-2. ⬜ Desvio padrão e variabilidade — por que "CAC médio" sozinho engana
+1. 📖 Média, mediana e o que cada uma esconde — outlier distorcendo a média
+2. 📍 Desvio padrão e variabilidade — por que "CAC médio" sozinho engana
 3. ⬜ Distribuição — a forma dos dados, não só o resumo
 4. ⬜ Taxa vs. número absoluto — ler percentual sem se perder
 
