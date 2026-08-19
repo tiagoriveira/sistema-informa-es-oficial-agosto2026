@@ -982,49 +982,16 @@ primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva
 - `SYSTEM/index.md` atualizado.
 
 ## [2026-08-19] system | disciplina nova: estatistica-para-decisao-marketing
-- Tiago se autoavaliou: estratégia em marketing é ponto forte, ler/interpretar dado e número é
-  o ponto fraco declarado. Primeira sugestão (Fase 1 de [[mapa-dados-estatistica-e-ia-ml]])
-  puxava o assunto pro lado errado — disciplina técnica de ciência de dados/ML, não leitura de
-  número aplicada a decisão de marketing. Tiago apontou o problema e propôs disciplina nova,
-  com regra explícita de não duplicar conceito nem estado entre disciplinas.
-- Criada [[mapa-estatistica-para-decisao-marketing]] no hub `marketing` (confirmado pelo
-  Tiago), 4 fases/16 tópicos, grade checada por busca na web. Itens de estatística conceitual
-  (descritiva, probabilidade, inferência) que estavam na Fase 1 de
-  [[mapa-dados-estatistica-e-ia-ml]] foram migrados pra cá — marcados como "movido" na origem,
-  sem duplicar página nem LEARNER.
-- `mapa-marketing.md` e `mapa-dados-estatistica-e-ia-ml.md`: notas de fronteira corrigidas pra
-  apontar pra disciplina certa. `perfil.md`, `SYSTEM/index.md` e `INICIO.md` atualizados (37
-  disciplinas, 743 tópicos).
-- Débito registrado: Fase 1 de `mapa-dados-estatistica-e-ia-ml.md` ficou com 1 item só depois
-  da migração (abaixo do mínimo do schema) — não renumerada agora, fica pro próximo `LINT`.
+Criada no hub `marketing` a partir de autoavaliação do Tiago; itens de estatística migrados de
+[[mapa-dados-estatistica-e-ia-ml]] sem duplicar página nem LEARNER. Débito: Fase 1 de lá ficou
+com 1 item só, pendente de LINT.
 
-## [2026-08-19] update | parceria-marketing-mvp-saas-financeiro (síntese estratégica)
-- Discussão longa sobre o projeto ainda pré-início, tudo registrado direto no arquivo do
-  projeto (não só no chat, a pedido do Tiago — memória de projeto vive em `PROJETOS/`):
-  timing de growth (outcome vs. output antes de escalar), founder-led vs. product-led vs.
-  marca de terceiro, inbound/outbound, e o que falta antes do GTM.
-- [[consistencia-job-narrativa-produto]] criado em `KNOWLEDGE/negocios/product-discovery/` —
-  princípio original do Tiago (job definido pelo resultado vira régua pra narrativa,
-  posicionamento e produto), com formato novo: explicação dele citada verbatim no topo, nota
-  da IA separada abaixo.
-- Reel de @matheusbeirao transcrito via Apify, resumido em
-  [[sequoia-services-the-new-software-matheus-beirao]] (`RECURSOS/`) — disparou discussão de
-  ferramenta vs. serviço (analogia aspirador/diarista) e uma bifurcação de ICP ainda não
-  validada (empresário direto vs. contador/consultor), ambas registradas no arquivo do projeto.
-- `estado-product-discovery.md`: [[over-serving-e-job-mal-atendido]] e
-  [[consistencia-job-narrativa-produto]] entraram como `nao_iniciado` (explicados, não
-  avaliados). `perfil.md` ganhou nota de autoavaliação do Tiago sobre ponto fraco em número.
+## [2026-08-19] update | parceria-marketing-mvp-saas-financeiro
+Síntese estratégica registrada no arquivo do projeto (growth, ferramenta vs. serviço,
+bifurcação de ICP). [[consistencia-job-narrativa-produto]] criado. Reel resumido em
+[[sequoia-services-the-new-software-matheus-beirao]].
 
 ## [2026-08-19] system | fechamento de sessão
-- Sessão sem avaliação de conceito — trabalho foi discussão estratégica de projeto, criação de
-  1 página de conceito, 1 disciplina nova e 1 nota em `RECURSOS/`.
-- Recontagem real de "páginas escritas" via `Glob KNOWLEDGE/**/*.md` (excluindo mapas, hubs e
-  `LEIA-ME.md`): 45, não os 41 estimados no meio da sessão anterior — débito de contagem
-  sinalizado em 2026-08-16 segue parcialmente sem causa raiz auditada, mas o número em si foi
-  corrigido agora.
-- Revisões vencidas recalculadas por data: [[validacao-de-problema]] e [[riscos-de-descoberta]]
-  passaram de 3 pra 5 dias de atraso; [[operador-centauro]] venceu de novo (1 dia) — nenhuma
-  revisada nesta sessão, prioridade da próxima.
-- `INICIO.md` reescrito por completo (disciplina ativa, última sessão, revisões vencidas,
-  tabela de disciplinas, realidade). Commit + push ao final, sem precisar pedir (regra do
-  Tiago).
+Sem avaliação de conceito. Páginas recontadas: 45. Revisões seguem vencidas
+([[validacao-de-problema]], [[riscos-de-descoberta]], [[operador-centauro]]). `INICIO.md`
+reescrito, commit + push.
