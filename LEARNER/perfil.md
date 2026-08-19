@@ -14,6 +14,11 @@ confirmar, não na primeira ocorrência.
 ## Objetivos
 _(a preencher na primeira sessão — por que você está estudando, prazo, para quê)_
 
+- Marketing (autoavaliação do Tiago, 2026-08-19): estratégia é ponto forte, ler e interpretar
+  dado/número é o ponto fraco declarado ("números pra mim é o complicado"). Motivou a criação
+  de [[mapa-estatistica-para-decisao-marketing]] (hub `marketing`) — começar pela Fase 1 dela,
+  em paralelo/antes da Fase 4 de [[mapa-marketing]] (dados, medição e decisão).
+
 ## Ritmo e disponibilidade
 _(quantos dias por semana, quanto tempo por sessão, melhor horário)_
 

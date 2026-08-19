@@ -73,3 +73,14 @@ Explicado em modo passivo em 2026-08-13, nunca avaliado.
 estado: nao_iniciado
 
 Explicado em modo passivo em 2026-08-13, nunca avaliado.
+
+## [[over-serving-e-job-mal-atendido]]
+estado: nao_iniciado
+
+Explicado em modo passivo em 2026-08-19, nunca avaliado.
+
+## [[consistencia-job-narrativa-produto]]
+estado: nao_iniciado
+
+Explicado em modo passivo em 2026-08-19 (conceito original do Tiago, não da IA), nunca
+avaliado.

@@ -15,6 +15,12 @@ atualizado: 2026-08-14
 funil, medição); lá é o ofício de transformar conceito em post por plataforma. Tópico 13
 ("estratégia de conteúdo por estágio de consciência") é a ponte entre as duas.
 
+**Fronteira com [[mapa-estatistica-para-decisao-marketing]]:** a Fase 4 aqui (dados, medição e
+decisão) é onde a estatística vira decisão de marketing; aquele mapa é a ferramenta em si (por
+que o número funciona — média, distribuição, probabilidade, inferência), criado em 2026-08-19 a
+partir de autoavaliação do Tiago (ver [[perfil]]). Itens 18-23 daqui e itens 13-16 de lá são a
+mesma aplicação vista de dois ângulos, não conteúdo duplicado.
+
 ## Ordem de estudo sugerida
 _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. `CLAUDE.md` §4.2:
 esta ordem não é dogma, desvie quando houver motivo)_

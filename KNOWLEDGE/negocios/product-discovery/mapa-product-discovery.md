@@ -52,6 +52,9 @@ esta ordem não é dogma, desvie quando houver motivo)_
 ## Conceitos com página (fora da numeração da grade)
 - [[over-serving-e-job-mal-atendido]] — extensão de [[jobs-to-be-done]]: produto que atende
   demais uma dimensão e mal atende a que decide a contratação; cliente usa por resignação
+- [[consistencia-job-narrativa-produto]] — princípio original do Tiago (2026-08-19): job
+  definido pelo resultado vira régua pra narrativa, posicionamento e produto — qualquer peça
+  que contradiz o job quebra a promessa, não só o produto
 
 ## Perguntas em aberto
 - Desenhar um teste barato na hora ainda é lacuna do aluno (ver LEARNER) — lacuna de

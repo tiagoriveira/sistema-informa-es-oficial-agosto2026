@@ -855,6 +855,19 @@ primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva
 - `mapa-product-discovery.md` e `SYSTEM/index.md` atualizados no mesmo momento. LEARNER não
   mudou (nenhum conceito foi avaliado nesta sessão).
 
+## [2026-08-18] system | hub consultoria (novo) + PROJETOS
+- `PROJETOS/parceria-marketing-mvp-saas-financeiro.md` criado — parceria real de marketing pra
+  MVP SaaS financeiro, ainda pré-início. Documenta plano de execução, base no vault, gaps,
+  alinhamento com founder e pricing recomendado.
+- Hub `consultoria` criado (esclarecido por pergunta antes — hub e escopo confirmados pelo
+  Tiago), com [[mapa-marketing-para-saas-b2b]] — 4 fases, 16 tópicos, escopo geral
+  (reutilizável pra qualquer parceria futura, não só esse projeto). Grade não checada via
+  busca na web nesta sessão — vocabulário de métrica SaaS é estável, tática de canal (Fase 4)
+  merece recheck antes de aplicar.
+- [[estado-marketing-para-saas-b2b]] criado, vazio — nenhum conceito avaliado.
+- `INICIO.md` (tabela de disciplinas + contagem 35/707) e `SYSTEM/index.md` atualizados no
+  mesmo momento.
+
 ## [2026-08-18] ingest | importacao em massa do Ybernator
 - Importadas **123 disciplinas** e **3.221 tópicos** do repositório `escola-tiago-oficial`
   (Ybernator), a pedido explícito do Tiago: "não quero por hora deixar nada fora, quero trazer
@@ -900,3 +913,118 @@ primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva
   em `KNOWLEDGE/`).
 - Vault volta a 34 disciplinas, 13 hubs — mesmo estado de antes da importação, mais o arquivo
   documentado.
+
+## [2026-08-19] system | disciplina nova: arquitetura-de-agentes-e-contexto
+- Tiago pediu avaliação de qual disciplina cobriria "orquestração de agentes + estruturação de
+  pastas/arquivos de contexto (CLAUDE.md, skills, RAW, ingest, lint) + IA atuando dentro de um
+  second brain", baseado no curso "Ratos OS" e numa resposta do Grok que sugeria criar
+  disciplina nova.
+- Checagem no vault antes de aceitar a sugestão: o tema já aparecia, superficialmente, em três
+  disciplinas (`colaboracao-humano-ia`, `dados-estatistica-e-ia-ml`,
+  `gestao-conhecimento-second-brain`). Em vez de aceitar a sugestão do Grok sem checar, a IA
+  reportou a sobreposição a Tiago antes de criar (regra "esclareça por pergunta antes de
+  criar").
+- Tiago decidiu por criar disciplina nova mesmo assim, com escopo definido por pergunta
+  explícita: hub `inteligencia-artificial` (irmã de `colaboracao-humano-ia`), escopo
+  "arquitetura aplicada e agnóstica de domínio" — fusão ou independência das outras três fica
+  pra decidir depois.
+- **Criada:** [[mapa-arquitetura-de-agentes-e-contexto]] (5 fases, 20 tópicos, checada na web
+  em 2026-08-19) + [[estado-arquitetura-de-agentes-e-contexto]]. Seção "Fronteiras" no mapa
+  documenta a divisão de escopo com as três disciplinas vizinhas; as três receberam nota
+  cruzada apontando pra ela. `SYSTEM/index.md` e `INICIO.md` atualizados no mesmo momento
+  (36 disciplinas, 727 tópicos).
+
+## [2026-08-19] system | ideia nova: serviço PKM+IA (Obsidian+Claude) + importação do Notion
+- Tiago trouxe uma ideia de produto: usar a stack Obsidian+Claude como braço de prestação de
+  serviço pra PME (processo + marketing), resolvendo "sempre ter dado, oferecer melhoria e
+  clareza". GTM proposto: MVP de conteúdo em carrossel no Instagram (grade em
+  [[mapa-producao-de-conteudo]]), medir engajamento antes de escalar produção.
+- Pediu pra trazer uma nota antiga do Notion ("NOTA IA CLAUDE COMO FOUNDER SOLO EM 2026",
+  capturada 2026-06-14) como princípio-base, avisando explicitamente que é antiga e não é pra
+  seguir como dogma.
+- **Criado:** [[nota-founder-solo-claude-notion-2026]] em `RECURSOS/` (referência externa,
+  frameworks citados: BHAG, OODA, GTD/PARA, JTBD, Zettelkasten light, Profit First, Ikigai —
+  todos marcados como conceito público da nota original, com as ressalvas que a própria nota
+  já registrava).
+- **Criado:** [[servico-pkm-ia-processos-e-marketing]] em `ideias/` — a oferta em si, distinta
+  de [[operacao-prestacao-servicos-multiempresa]] (que é só a arquitetura de pasta
+  multi-cliente). Linka [[mapa-arquitetura-de-agentes-e-contexto]] (criada mais cedo hoje)
+  como a competência técnica que o serviço vende.
+- `SYSTEM/index.md` atualizado (seções RECURSOS e Ideias e produto). Nenhuma decisão tomada —
+  ambas as notas marcadas como maturação, sem cliente real ainda.
+
+## [2026-08-19] system | correção: remove síntese de ideia, mantém só referência do Notion
+- Tiago corrigiu a entrada anterior: não queria ideia de serviço sintetizada agora — só as
+  notas do Notion trazidas como referência crua pra consulta futura, sem inferência.
+- **Apagado:** `ideias/servico-pkm-ia-processos-e-marketing.md` (a pedido explícito).
+- **Reescrito:** [[nota-founder-solo-claude-notion-2026]] em `RECURSOS/` — removida a moldura
+  de "princípio-base pra desenhar o serviço", conteúdo mantido fiel à nota original.
+- **Criado:** [[nota-founder-solo-gpt-operador-centauro]] em `RECURSOS/` — segunda nota do
+  Notion, conectada à primeira pelo campo "CONECTA COM" da página original (a "outra nota" que
+  o Tiago mencionou sem link direto). Cita o mesmo termo já usado no vault em
+  [[operador-centauro]], mas sem fundir os dois agora — só registrado como referência externa.
+- `SYSTEM/index.md` corrigido: entrada de ideia removida, entrada de RECURSOS ajustada pra
+  neutra (sem menção a síntese).
+
+## [2026-08-19] system | fusão das duas notas do Notion + atualização com busca web
+- Tiago pediu pra fundir as duas notas importadas em uma só, aprimorando o documento e
+  deixando consistente com práticas atuais.
+- Busca na web feita antes de editar (regra `CLAUDE.md` §6): confirmado que o modelo "um GPT
+  por projeto" das notas originais (jun/2026) já foi superado pelo padrão de orquestrador
+  central + memória em camada separada/recuperação semântica, consolidado por volta de
+  ago/2026.
+- **Criado:** [[founder-solo-ia-operador-centauro]] em `RECURSOS/` — fusão das duas notas,
+  com seção própria "O que foi atualizado nesta revisão" separando claramente o que veio das
+  notas originais do que foi corrigido agora (regra de não misturar conhecimento externo
+  silenciosamente).
+- **Apagados:** `nota-founder-solo-claude-notion-2026.md` e
+  `nota-founder-solo-gpt-operador-centauro.md` (conteúdo migrado, nada perdido).
+- `SYSTEM/index.md` atualizado.
+
+## [2026-08-19] system | disciplina nova: estatistica-para-decisao-marketing
+- Tiago se autoavaliou: estratégia em marketing é ponto forte, ler/interpretar dado e número é
+  o ponto fraco declarado. Primeira sugestão (Fase 1 de [[mapa-dados-estatistica-e-ia-ml]])
+  puxava o assunto pro lado errado — disciplina técnica de ciência de dados/ML, não leitura de
+  número aplicada a decisão de marketing. Tiago apontou o problema e propôs disciplina nova,
+  com regra explícita de não duplicar conceito nem estado entre disciplinas.
+- Criada [[mapa-estatistica-para-decisao-marketing]] no hub `marketing` (confirmado pelo
+  Tiago), 4 fases/16 tópicos, grade checada por busca na web. Itens de estatística conceitual
+  (descritiva, probabilidade, inferência) que estavam na Fase 1 de
+  [[mapa-dados-estatistica-e-ia-ml]] foram migrados pra cá — marcados como "movido" na origem,
+  sem duplicar página nem LEARNER.
+- `mapa-marketing.md` e `mapa-dados-estatistica-e-ia-ml.md`: notas de fronteira corrigidas pra
+  apontar pra disciplina certa. `perfil.md`, `SYSTEM/index.md` e `INICIO.md` atualizados (37
+  disciplinas, 743 tópicos).
+- Débito registrado: Fase 1 de `mapa-dados-estatistica-e-ia-ml.md` ficou com 1 item só depois
+  da migração (abaixo do mínimo do schema) — não renumerada agora, fica pro próximo `LINT`.
+
+## [2026-08-19] update | parceria-marketing-mvp-saas-financeiro (síntese estratégica)
+- Discussão longa sobre o projeto ainda pré-início, tudo registrado direto no arquivo do
+  projeto (não só no chat, a pedido do Tiago — memória de projeto vive em `PROJETOS/`):
+  timing de growth (outcome vs. output antes de escalar), founder-led vs. product-led vs.
+  marca de terceiro, inbound/outbound, e o que falta antes do GTM.
+- [[consistencia-job-narrativa-produto]] criado em `KNOWLEDGE/negocios/product-discovery/` —
+  princípio original do Tiago (job definido pelo resultado vira régua pra narrativa,
+  posicionamento e produto), com formato novo: explicação dele citada verbatim no topo, nota
+  da IA separada abaixo.
+- Reel de @matheusbeirao transcrito via Apify, resumido em
+  [[sequoia-services-the-new-software-matheus-beirao]] (`RECURSOS/`) — disparou discussão de
+  ferramenta vs. serviço (analogia aspirador/diarista) e uma bifurcação de ICP ainda não
+  validada (empresário direto vs. contador/consultor), ambas registradas no arquivo do projeto.
+- `estado-product-discovery.md`: [[over-serving-e-job-mal-atendido]] e
+  [[consistencia-job-narrativa-produto]] entraram como `nao_iniciado` (explicados, não
+  avaliados). `perfil.md` ganhou nota de autoavaliação do Tiago sobre ponto fraco em número.
+
+## [2026-08-19] system | fechamento de sessão
+- Sessão sem avaliação de conceito — trabalho foi discussão estratégica de projeto, criação de
+  1 página de conceito, 1 disciplina nova e 1 nota em `RECURSOS/`.
+- Recontagem real de "páginas escritas" via `Glob KNOWLEDGE/**/*.md` (excluindo mapas, hubs e
+  `LEIA-ME.md`): 45, não os 41 estimados no meio da sessão anterior — débito de contagem
+  sinalizado em 2026-08-16 segue parcialmente sem causa raiz auditada, mas o número em si foi
+  corrigido agora.
+- Revisões vencidas recalculadas por data: [[validacao-de-problema]] e [[riscos-de-descoberta]]
+  passaram de 3 pra 5 dias de atraso; [[operador-centauro]] venceu de novo (1 dia) — nenhuma
+  revisada nesta sessão, prioridade da próxima.
+- `INICIO.md` reescrito por completo (disciplina ativa, última sessão, revisões vencidas,
+  tabela de disciplinas, realidade). Commit + push ao final, sem precisar pedir (regra do
+  Tiago).

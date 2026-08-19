@@ -3,10 +3,11 @@
 > Estado atual do sistema. Reescrito pela IA ao fim de cada sessão.
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
-**Atualizado em:** 2026-08-18
-**Disciplina ativa:** marketing (Fase 1 nos itens 1-2, Fase 5 nos itens 24-27 — pulou pra IA
-aplicada a pedido do Tiago, itens 3-23 pendentes) — product-discovery continua a mais avançada
-em avaliação real.
+**Atualizado em:** 2026-08-19
+**Disciplina ativa:** nenhuma em estudo formal hoje — sessão foi trabalho de projeto real
+([[parceria-marketing-mvp-saas-financeiro]]) + criação de disciplina nova
+([[mapa-estatistica-para-decisao-marketing]]). product-discovery continua a mais avançada em
+avaliação real (LEARNER).
 
 > 📦 **Ybernator arquivado, 2026-08-18:** 123 disciplinas foram importadas do Ybernator e, no
 > mesmo dia, arquivadas por decisão do Tiago (desconfiava da curadoria original — amostra
@@ -14,28 +15,33 @@ em avaliação real.
 > continua com as 34 disciplinas de sempre. Material fica em `ARQUIVADOS/ybernator/`, com
 > procedimento de promoção definido em `ARQUIVADOS/ybernator/LEIA-ME.md` para quando o Tiago
 > pedir uma disciplina de volta.
-**Última sessão:** 2026-08-17 — sessão longa, multi-disciplina. Marketing: itens 1-2 (Fase 1) e
-24-27 (Fase 5, IA aplicada) explicados, 5 páginas arquivadas; item 27 puxou avaliação de
-[[operador-centauro]] (revisão vencida, acertou com hesitação). Três disciplinas novas criadas
-por pedido do Tiago, todas esclarecidas por pergunta antes de criar: hub `tecnologia` inteiro
-(4 disciplinas — fundamentos-de-programacao, engenharia-de-software, dados-estatistica-e-ia-ml,
-tecnologia-para-fundadores — só grade, sem sessão de estudo real) e mais duas no hub
-`dinamicas-sociais` — [[mapa-seducao-e-comunidade-pua]] (análise crítica da literatura PUA,
-itens 1/2/5 já explicados) e [[mapa-identidade-atraente]] (capstone do hub, item 1 explicado).
+**Última sessão:** 2026-08-19 — sessão de projeto real, não de estudo de disciplina. Discussão
+estratégica sobre [[parceria-marketing-mvp-saas-financeiro]] (ainda pré-início): timing de
+growth, founder-led vs. product-led, inbound/outbound, ferramenta vs. serviço (disparado por um
+Reel resumido em [[sequoia-services-the-new-software-matheus-beirao]], RECURSOS), e uma
+bifurcação de ICP ainda não validada (empresário direto vs. contador/consultor) — tudo
+registrado no arquivo do projeto, não só no chat. Tiago formulou princípio próprio
+([[consistencia-job-narrativa-produto]], página nova em product-discovery, com a explicação
+dele citada verbatim + nota da IA separada — novo padrão de formato). Autoavaliação do Tiago
+("número em marketing é meu ponto fraco") motivou criar
+[[mapa-estatistica-para-decisao-marketing]] (hub `marketing`, 4 fases/16 tópicos) — itens de
+estatística conceitual que estavam soltos em [[mapa-dados-estatistica-e-ia-ml]] foram migrados
+pra lá, sem duplicar página nem LEARNER (novo padrão: sobreposição entre disciplinas não
+duplica, tem uma disciplina dona só).
 
 ---
 
 ## Revisões vencidas
-Vencidas desde 2026-08-14, **três dias de atraso**: [[validacao-de-problema]],
-[[riscos-de-descoberta]]. [[operador-centauro]] foi revisado nesta sessão — não está mais
-vencido (revisar: 2026-08-18).
+Vencidas desde 2026-08-14, **cinco dias de atraso**: [[validacao-de-problema]],
+[[riscos-de-descoberta]]. Novo atraso: [[operador-centauro]] vencido desde 2026-08-18, **um
+dia de atraso** (`LEARNER/estado-colaboracao-humano-ia.md`).
 
 ## Próxima ação recomendada
-Revisar os dois vencidos primeiro (prioridade sobre conteúdo novo). Em
+Revisar os vencidos primeiro (prioridade sobre conteúdo novo, `CLAUDE.md` §4 REVIEW). Em
 [[validacao-de-problema]], mudar o formato — recuperação livre falhou 2x, tentar
 reconhecimento em vez de gerar do zero. Em [[operador-centauro]], ainda falta testar se
 reconhece **centauro reverso isolado** (sem oráculo no mesmo cenário) sem precisar de dica —
-ele articulou bem contra oráculo nesta sessão, mas não sozinho contra reverso.
+articulou bem contra oráculo na última avaliação (2026-08-17), mas não sozinho contra reverso.
 
 **Fontes em RAW aguardando ingest** (arquivo bruto só, sem `mapa-`/`estado-`/página em
 `KNOWLEDGE/` ainda — não entram na tabela de disciplinas abaixo até isso acontecer):
@@ -111,8 +117,9 @@ explicados.
 | Hub | Disciplina | Grade | Páginas | Avaliados | Última sessão |
 |---|---|---|---|---|---|
 | filosofia | historia-da-filosofia | 6 fases / 33 tópicos | 9 | 1 | 2026-08-14 |
-| negocios | product-discovery | 4 fases / 18 tópicos | 7 | 2 | 2026-08-13 |
+| negocios | product-discovery | 4 fases / 18 tópicos | 9 | 2 | 2026-08-19 |
 | inteligencia-artificial | colaboracao-humano-ia | 5 fases / 19 tópicos | 1 | 1 | 2026-08-17 |
+| inteligencia-artificial | arquitetura-de-agentes-e-contexto | 5 fases / 20 tópicos | 0 | 0 | — |
 | neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 7 | 0 | 2026-08-16 |
 | esporte | performance-esportiva | 5 fases / 21 tópicos | 3 | 0 | 2026-08-15 |
 | negocios | visao-estrategica-negocios | 5 fases / 23 tópicos | 0 | 0 | — |
@@ -124,6 +131,7 @@ explicados.
 | gestao-sistemas | produtividade-biohacking | 4 fases / 12 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-de-tempo | 4 fases / 14 tópicos | 0 | 0 | — |
 | marketing | marketing | 5 fases / 27 tópicos | 5 | 0 | 2026-08-17 |
+| marketing | estatistica-para-decisao-marketing | 4 fases / 16 tópicos | 0 | 0 | — |
 | marketing | producao-de-conteudo | 5 fases / 23 tópicos | 2 | 0 | 2026-08-15 |
 | marketing | copywriting | 4 fases / 16 tópicos | 0 | 0 | — |
 | financas | financas | 5 fases / 25 tópicos | 0 | 0 | — |
@@ -144,9 +152,11 @@ explicados.
 | tecnologia | engenharia-de-software | 5 fases / 20 tópicos | 0 | 0 | — |
 | tecnologia | dados-estatistica-e-ia-ml | 5 fases / 22 tópicos | 0 | 0 | — |
 | tecnologia | tecnologia-para-fundadores | 4 fases / 16 tópicos | 0 | 0 | — |
+| consultoria | marketing-para-saas-b2b | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 34 disciplinas, 691 tópicos planejados, 40 páginas escritas (contagem real em
-disco, corrigida nesta sessão), **4 conceitos com evidência real**. A grade é plano, não
+**Realidade:** 37 disciplinas, 743 tópicos planejados, 45 páginas escritas (recontagem real em
+disco em 2026-08-19, via `Glob KNOWLEDGE/**/*.md` excluindo mapas/hubs/LEIA-ME — corrige o "41"
+estimado no meio da sessão anterior), **4 conceitos com evidência real**. A grade é plano, não
 progresso — só o LEARNER conta o que você sabe.
 
 **Legenda do status nos mapas:** `✅` consolidado · `⚠️` frágil ou revisão vencida ·

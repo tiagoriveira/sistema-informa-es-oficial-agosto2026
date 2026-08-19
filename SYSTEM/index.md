@@ -94,6 +94,8 @@ Grade: 4 fases, 18 tópicos.
 - [[dual-track-agile]] — descoberta e entrega rodando em paralelo
 - [[over-serving-e-job-mal-atendido]] — produto que atende demais uma dimensão, mal atende a
   que decide a contratação (fora da grade)
+- [[consistencia-job-narrativa-produto]] — job definido pelo resultado vira régua pra
+  narrativa, posicionamento e produto; princípio original do Tiago (fora da grade)
 
 **[[mapa-visao-estrategica-negocios]]** — Visão Estratégica · [[estado-visao-estrategica-negocios]]
 Grade: 5 fases, 23 tópicos. Sem conceito com página ainda.
@@ -110,9 +112,22 @@ coisa. Sem conceito com página ainda.
 
 ### 🤖 inteligencia-artificial
 
-**[[mapa-colaboracao-humano-ia]]** — Colaboração Humano-IA · [[estado-colaboracao-humano-ia]]
+**Sequência recomendada:** colaboração humano-IA → arquitetura de agentes e contexto (a
+camada conceitual/decisão vem antes da camada de arquitetura aplicada que a implementa).
+
+**1. [[mapa-colaboracao-humano-ia]]** — Colaboração Humano-IA · [[estado-colaboracao-humano-ia]]
 Grade: 5 fases, 19 tópicos (checada na web em 2026-08-14).
 - [[operador-centauro]] — humano planeja/decide, IA executa; vs. oráculo e centauro reverso
+
+**2. [[mapa-arquitetura-de-agentes-e-contexto]]** — Arquitetura de Agentes e Contexto ·
+[[estado-arquitetura-de-agentes-e-contexto]]
+Grade: 5 fases, 20 tópicos (checada na web em 2026-08-19). Como estruturar arquivo de
+contexto (CLAUDE.md/AGENTS.md), skills, pipeline de ingestão e orquestração multi-agente —
+camada aplicada e agnóstica de domínio (serve pra negócio, second brain ou qualquer sistema).
+Criada a pedido do Tiago em 2026-08-19, a partir do curso "Ratos OS" + resposta do Grok — ver
+"Fronteiras" no mapa pra não confundir com [[mapa-colaboracao-humano-ia]],
+[[mapa-dados-estatistica-e-ia-ml]] e [[mapa-gestao-conhecimento-second-brain]]. Sem conceito
+com página ainda.
 
 ### ⚙️ gestao-sistemas
 
@@ -157,6 +172,13 @@ Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14).
   tempo real
 - [[julgamento-humano-obrigatorio-marketing]] — aplica [[operador-centauro]] às três anteriores;
   distingue oráculo (falta de critério) de centauro reverso (desconfiança do critério)
+
+**[[mapa-estatistica-para-decisao-marketing]]** — Estatística para Decisão em Marketing ·
+[[estado-estatistica-para-decisao-marketing]]
+Grade: 4 fases, 16 tópicos (checada na web em 2026-08-19). Criada a partir de autoavaliação do
+Tiago — ler/interpretar dado é o ponto fraco declarado em marketing. Separada de
+[[mapa-dados-estatistica-e-ia-ml]] (aquela é técnica/ML, esta é decisão de negócio). Sem
+conceito com página ainda.
 
 **[[mapa-producao-de-conteudo]]** — Produção de Conteúdo · [[estado-producao-de-conteudo]]
 Grade: 5 fases, 23 tópicos (checada na web em 2026-08-15). O ofício de virar conceito em post
@@ -255,6 +277,21 @@ do hub. [[beneficios-obsidian-founder-solo]] — conceito de apoio, fora da nume
 
 ---
 
+### 🧭 consultoria (hub novo, 2026-08-18)
+
+Hub separado de `negocios`/`marketing`: conhecimento de como prestar consultoria de marketing
+pra um cliente específico (diagnóstico, pricing do serviço, métrica de SaaS, distribuição
+early-stage) — a camada de cima que aplica [[mapa-marketing]] e [[mapa-product-discovery]]
+quando você é o prestador de serviço, não o founder. Sem fonte em `RAW/` — modo exploração.
+
+**1. [[mapa-marketing-para-saas-b2b]]** — Marketing para SaaS B2B (consultoria) ·
+[[estado-marketing-para-saas-b2b]]
+Grade: 4 fases, 16 tópicos. Origem: parceria real (MVP SaaS financeiro) disparou a
+necessidade, mas escopo geral, reutilizável pra qualquer parceria de consultoria futura. Sem
+conceito com página ainda.
+
+---
+
 
 ---
 
@@ -286,9 +323,15 @@ pessoal em `notas-pessoais/` (separado em 2026-08-15, nunca misturar os dois):
   em [[ARQUITETURA]]. Embed do documento original do Karpathy (`llm-wiki - Copia.md`, também
   em `RECURSOS/` — recuperado da lixeira do OneDrive em 2026-08-15 depois de eu ter apagado
   sem permissão)
+- [[founder-solo-ia-operador-centauro]] — fusão de duas notas do Notion (jun/2026),
+  atualizada em 2026-08-19 com checagem web (memória de agente como camada separada,
+  orquestrador central) — ver seção "O que foi atualizado" no próprio arquivo
 - [[referencia-hub-ai-gravacao-servicos-manuais]] — bookmark de startup existente (não é ideia
   própria do Tiago)
 - [[tabela-peso-ideal-altura]] — bookmark solto (X/Twitter)
+- [[sequoia-services-the-new-software-matheus-beirao]] — Reel transcrito via Apify: tese de que
+  IA passa a entregar o trabalho pronto (não só ferramenta), citando relatório da Sequoia
+  Capital não verificado nesta sessão
 
 **RECURSOS/notas-pessoais/**:
 - [[motivacao-por-validacao-externa]] — motivar-se por likes desloca o objetivo da atividade
