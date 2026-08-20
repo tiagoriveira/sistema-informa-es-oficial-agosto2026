@@ -1026,3 +1026,12 @@ no remoto ficam com a data errada — histórico não reescrito.
 
 ## [2026-08-20] system | fechamento de sessão (2)
 `INICIO.md` reescrito de novo (disciplina ativa, última sessão, tabela). Commit + push.
+
+## [2026-08-20] ingest | acervo "Cursos CLAUDE" do Notion
+21 materiais da página Notion "Cursos CLAUDE" catalogados e ligados às disciplinas. Criado
+[[acervo-cursos-notion]] em `RECURSOS/` (catálogo, camadas de confiabilidade, destino de cada
+material). Seção "Material complementar (externo — acervo Notion)" inserida em 13 mapas.
+Disciplinas novas: [[mapa-product-management]] (negocios), [[mapa-escrita-e-pensamento-estruturado]]
+e [[mapa-influencia-persuasao-oratoria]] (comunicacao), com LEARNER vazio. Sequência pedagógica
+declarada nos hubs `negocios` e `comunicacao` (invariante 13). Nenhuma página de conceito e
+nenhuma avaliação — material catalogado não é conhecimento.

@@ -2,7 +2,7 @@
 tipo: mapa
 disciplina: neurociencia-esportiva
 hub: neurociencia
-atualizado: 2026-08-14
+atualizado: 2026-08-20
 ---
 
 # Mapa — Neurociência Esportiva
@@ -64,6 +64,48 @@ esta ordem não é dogma, desvie quando houver motivo)_
 - [[estagios-aprendizagem-motora]] — cognitivo → associativo → autônomo (Fitts & Posner)
 - [[foco-atencional-nideffer]] — largura/direção da atenção, quatro quadrantes
 - [[choking-sob-pressao]] — reinvestimento vs. distração, e por que implícito resiste mais
+
+## Material complementar (externo — acervo Notion)
+
+> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
+> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
+> Catálogo completo do acervo: [[acervo-cursos-notion]].
+
+**[Livro — Neurociência do Esporte: o sistema nervoso como limite da performance](https://app.notion.com/p/3baa16ed6e5f81c5b8f3c2cafef1fbdc)** — 31 módulos em 7 partes.
+
+Encaixe quase termo a termo com esta grade — é o material do acervo mais alinhado a uma
+disciplina já existente. Os módulos 0 e 1 são a régua: **mecanismo não é protocolo**, e **por que
+a evidência deste campo é tão frágil**.
+
+| Módulos do livro | Tópicos desta grade |
+|---|---|
+| M3–M4 — da intenção à contração, a unidade motora | 1–4 ([[sistema-motor]], [[unidades-motoras-e-recrutamento]]) |
+| M5–M8 — três fases do aprendizado motor, **prática variável**, prática mental, o cérebro do expert | 5–8, 24 ([[estagios-aprendizagem-motora]]) |
+| M2, M9–M13 — **fadiga central × periférica**, o que termina um esforço, **Governador Central**, esforço percebido, combustível, calor e altitude | Fase 4 (16–19) |
+| M14–M18 — decisão em fração de segundo, tempo de reação, **Quiet Eye**, antecipação, memória de trabalho | Fase 3 (11–15) |
+| M19–M23 — ativação e o U invertido, **travar sob pressão**, flow, rituais pré-performance, ansiedade de competição | 20 ([[choking-sob-pressao]]), 21, 25 |
+| M24–M27 — **sono**, suplementos, recuperação e colapso do SNC, aquecimento e alongamento | 8 (consolidação no sono) e Fase 5 |
+| M28 — concussão e CTE | 26 |
+
+**O que o livro coloca como achado mais forte de todos:** **sono**. Não treino invisível, não
+suplemento, não neurofeedback — sono e carga acumulada. Isso reforça o tópico 8 desta grade
+(consolidação e o papel do sono na fixação motora), que hoje está no meio da Fase 2 como se
+fosse detalhe.
+
+**Quatro correções que o livro faz e que tocam tópicos desta grade:**
+- **O U invertido (Yerkes-Dodson)**, base do tópico 20, vem de um estudo de **1908 com
+  camundongos e choque elétrico**. O desenho que aparece nos livros é ilustração, não dado (M19).
+  O tópico continua útil como modelo mental; não como curva medida.
+- **Ácido lático** não causa a dor de dois dias depois: é lactato, ele é combustível, e sai em
+  até cerca de uma hora — a cronologia sozinha refuta (M2). Já registrado no vault em
+  [[mito-do-lactato]], o que confirma a página.
+- **Alongamento estático antes** não previne lesão e **reduz força agudamente** (M27).
+- **Estatísticas de CTE** em ex-atletas vêm de cérebros doados por famílias de quem teve
+  sintomas. **Não há denominador** — não são taxas populacionais (M28). Relevante para o tópico
+  26, que hoje está escrito como "risco de longo prazo" sem essa ressalva.
+
+**Sobreposição com [[mapa-performance-esportiva]]:** o M12 (combustível) e o M13 (calor,
+altitude, hidratação) são fisiologia do esforço, dona é a disciplina irmã. Aqui só se linka.
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-14 a partir de busca na web (regra `CLAUDE.md` §6 — evitar tópico

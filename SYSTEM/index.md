@@ -8,7 +8,7 @@ leitura da página.
 
 Sessões **não** entram aqui — são cronológicas e ficam em [[log]].
 
-Atualizado em: 2026-08-18
+Atualizado em: 2026-08-20
 
 ---
 
@@ -83,7 +83,25 @@ Maior grade do vault, por pedido explícito de cobertura máxima. Sem conceito c
 
 ### 💼 negocios
 
-**[[mapa-product-discovery]]** — Product Discovery · [[estado-product-discovery]]
+**Sequência recomendada** (definida em 2026-08-20, ao criar product-management): mecanismo
+econômico → onde competir → decisão estratégica com outro jogador → o que construir → como se
+faz o ofício de produto.
+
+**1. [[mapa-economia]]** — Economia · [[estado-economia]]
+Grade: 4 fases, 17 tópicos (checada na web em 2026-08-15). Micro → macro → comportamental →
+aplicação. Sem conceito com página ainda. Material complementar externo no mapa.
+
+**2. [[mapa-visao-estrategica-negocios]]** — Visão Estratégica · [[estado-visao-estrategica-negocios]]
+Grade: 5 fases, 23 tópicos. Sem conceito com página ainda. Material complementar externo no
+mapa (fossos, modelos de negócio, análise de concorrência).
+
+**3. [[mapa-teoria-dos-jogos-e-estrategia]]** — Teoria dos Jogos e Estratégia ·
+[[estado-teoria-dos-jogos-e-estrategia]]
+Grade: 4 fases, 22 tópicos (checada na web em 2026-08-16). Decisão quando o resultado depende
+da jogada de outro jogador racional — irmã de [[mapa-frameworks-de-pensamento]], não a mesma
+coisa. Sem conceito com página ainda.
+
+**4. [[mapa-product-discovery]]** — Product Discovery · [[estado-product-discovery]]
 Grade: 4 fases, 18 tópicos.
 - [[validacao-de-problema]] — confirmar a dor antes de construir
 - [[riscos-de-descoberta]] — os quatro riscos além do valor (Cagan)
@@ -97,18 +115,11 @@ Grade: 4 fases, 18 tópicos.
 - [[consistencia-job-narrativa-produto]] — job definido pelo resultado vira régua pra
   narrativa, posicionamento e produto; princípio original do Tiago (fora da grade)
 
-**[[mapa-visao-estrategica-negocios]]** — Visão Estratégica · [[estado-visao-estrategica-negocios]]
-Grade: 5 fases, 23 tópicos. Sem conceito com página ainda.
-
-**[[mapa-economia]]** — Economia · [[estado-economia]]
-Grade: 4 fases, 17 tópicos (checada na web em 2026-08-15). Micro → macro → comportamental →
-aplicação. Sem conceito com página ainda.
-
-**[[mapa-teoria-dos-jogos-e-estrategia]]** — Teoria dos Jogos e Estratégia ·
-[[estado-teoria-dos-jogos-e-estrategia]]
-Grade: 4 fases, 22 tópicos (checada na web em 2026-08-16). Decisão quando o resultado depende
-da jogada de outro jogador racional — irmã de [[mapa-frameworks-de-pensamento]], não a mesma
-coisa. Sem conceito com página ainda.
+**5. [[mapa-product-management]]** — Product Management · [[estado-product-management]]
+_(disciplina nova, 2026-08-20)_ Grade: 4 fases, 17 tópicos. O **ofício** de produto — cargo,
+time empoderado × time de funcionalidade, priorização, roadmap, estratégia, métricas e
+influência sem autoridade. Descoberta continua sendo de [[mapa-product-discovery]]. Grade
+derivada do acervo Notion, não de fonte em `RAW/` — ver nota no mapa. Sem conceito com página.
 
 ### 🤖 inteligencia-artificial
 
@@ -252,9 +263,28 @@ Grade: 5 fases, 25 tópicos, pessoal → corporativo (checada na web em 2026-08-
 
 ### 🗣️ comunicacao
 
-**[[mapa-ingles]]** — Inglês · [[estado-ingles]]
+**Sequência recomendada** (definida em 2026-08-20, ao criar as duas disciplinas novas):
+estruturar o pensamento por escrito → levar o argumento a alguém que resiste → outra língua,
+que é percurso independente. O acervo Notion sugere [[mapa-logica-e-epistemologia]] (hub
+filosofia) **antes** das duas primeiras — é a gramática das outras.
+
+**1. [[mapa-escrita-e-pensamento-estruturado]]** — Escrita e Pensamento Estruturado ·
+[[estado-escrita-e-pensamento-estruturado]]
+_(disciplina nova, 2026-08-20)_ Grade: 5 fases, 24 tópicos. Pirâmide, MECE, SCQA, a frase, o
+parágrafo, os formatos, o processo. Texto que **decide** — não texto que vende
+([[mapa-copywriting]]) nem formato de plataforma ([[mapa-producao-de-conteudo]]). Grade
+derivada do acervo Notion, não de fonte em `RAW/`. Sem conceito com página.
+
+**2. [[mapa-influencia-persuasao-oratoria]]** — Influência, Persuasão e Oratória ·
+[[estado-influencia-persuasao-oratoria]]
+_(disciplina nova, 2026-08-20)_ Grade: 5 fases, 22 tópicos. Retórica, negociação (interesses ×
+posições, BATNA, ZOPA) e oratória. Falácias continuam sendo de
+[[mapa-logica-e-epistemologia]]; Cialdini, de [[mapa-poder-e-dinamica-social]]. Grade derivada
+do acervo Notion, não de fonte em `RAW/`. Sem conceito com página.
+
+**3. [[mapa-ingles]]** — Inglês · [[estado-ingles]]
 Grade: 5 fases, 30 tópicos, por nível CEFR (A1→C2). Formato adaptado — ver nota no mapa.
-Sem conceito com página ainda.
+Material complementar externo no mapa. Sem conceito com página ainda.
 
 ### 💻 [[hub-tecnologia]] (hub novo, 2026-08-17)
 
@@ -328,6 +358,9 @@ nomeia uma área) — ver `LEIA-ME.md` de cada um.
 
 **RECURSOS/** (destino padrão, sem prazo/área definida) — referência externa na raiz, reflexão
 pessoal em `notas-pessoais/` (separado em 2026-08-15, nunca misturar os dois):
+- [[acervo-cursos-notion]] — **catálogo dos 21 materiais do acervo "Cursos CLAUDE" do Notion**,
+  importado em 2026-08-20: o que cada um cobre, quanto dá pra confiar em cada camada, e a qual
+  disciplina do vault ele foi ligado. Os mapas apontam para ele; ele aponta para os mapas
 - [[futebol-perfil-fisico-por-posicao]] — exigências físicas do futebol moderno por posição
   (conversa com Grok)
 - [[metodo-llm-wiki-karpathy]] — o padrão que inspira o próprio desenho deste vault; linkado

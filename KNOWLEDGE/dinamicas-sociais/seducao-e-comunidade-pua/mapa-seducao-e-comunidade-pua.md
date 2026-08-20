@@ -2,7 +2,7 @@
 tipo: mapa
 disciplina: seducao-e-comunidade-pua
 hub: dinamicas-sociais
-atualizado: 2026-08-17
+atualizado: 2026-08-20
 ---
 
 # Mapa — Sedução e a Comunidade PUA
@@ -53,6 +53,45 @@ esta ordem não é dogma, desvie quando houver motivo)_
 14. ⬜ RSD e outros grupos — o padrão de escalada de tática conforme a comunidade cresceu
 15. ⬜ Por que o discurso de "outer game" perdeu espaço — o que ocupou esse lugar depois
 16. ⬜ Sedução vs. conexão — por que esta disciplina termina de volta em [[mapa-comportamento-masculino-e-realismo]]
+
+## Material complementar (externo — acervo Notion)
+
+> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
+> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
+> Catálogo completo do acervo: [[acervo-cursos-notion]].
+
+**[Livro — Dinâmicas Sociais e Sedução: atração, vínculo e o que o campo inventa](https://app.notion.com/p/3b9a16ed6e5f8155859edf4e49f63694)** — 31 módulos em 7 partes.
+
+Complemento importante porque **esta grade é histórica e crítica** (o que a comunidade PUA foi,
+o que ensinou, onde deu errado) e o livro é o oposto: é o que **sobra de sustentável** quando se
+tira a indústria de cima. Os dois se encaixam sem se sobrepor.
+
+| Módulos do livro | Relação com esta grade |
+|---|---|
+| M0–M2 — atrair, seduzir e manipular; as três camadas do campo; interesse e ambiguidade | Fase 3 (9–12) — a régua que a grade pede |
+| M3–M8 — **proximidade, familiaridade e semelhança**, reciprocidade e vulnerabilidade, **o mito do alfa**, primeiras impressões, linguagem corporal, conversa | Fase 3 (9) — e M5 corrige diretamente o vocabulário da Fase 1 |
+| M9–M14 — atração inicial, aparência, humor e competência, **escassez e desinteresse**, contexto | Fase 2 (5–8) e Fase 3 (10) |
+| M15–M19 — abordagem honesta, ler interesse sem inventar sinal, ritmo e **a pergunta explícita**, rejeição, flerte digital | Fase 2 (8) — o contraponto direto a "escalada kino" |
+| M20–M24 — vínculo, apego, conflito, manutenção, término | **sem tópico na grade** |
+| M25–M27 — amizade adulta, **laços fracos**, timidez e ansiedade social | Fase 3 (9) e ponte com [[mapa-comportamento-masculino-e-realismo]] |
+| M28 — **a indústria da sedução: como funciona e o que vende** | Fase 4 (14–15) |
+
+**Quatro correções que o livro faz e que atingem o vocabulário da Fase 1 desta grade:**
+- **Macho alfa** vem de estudo com lobos **em cativeiro**. O pesquisador que popularizou o termo
+  passou a argumentar contra — alcateias são famílias (M5).
+- **Ler pessoas pela linguagem corporal**: não existe dicionário de gestos. Em detecção de
+  mentira o desempenho fica pouco acima do acaso, **inclusive entre treinados** (M7).
+- **"Opostos se atraem"**: a evidência aponta consistentemente para **semelhança** (M10).
+- **"Prever divórcio com 90% de acerto"**: o modelo foi ajustado sobre a mesma amostra que depois
+  "previu". Isso é descrição, não previsão (M22).
+
+**O que o livro sustenta e a grade já antecipava** (tópico 9): a parte com apoio real é
+logística e confiança social treinável — proximidade, repetição, contexto. "Esteja onde as
+pessoas se repetem" vence técnica de abordagem, e **o contexto faz mais que a técnica** (M14).
+
+**Lacuna:** vínculo, apego, conflito e término (M20–M24) não têm tópico em nenhuma disciplina do
+hub. Candidato natural a entrar aqui ou em [[mapa-comportamento-masculino-e-realismo]] — decisão
+do Tiago.
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-17 a partir de busca na web (regra `CLAUDE.md` §6), a pedido

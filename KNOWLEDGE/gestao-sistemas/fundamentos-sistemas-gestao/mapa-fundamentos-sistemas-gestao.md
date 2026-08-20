@@ -2,7 +2,7 @@
 tipo: mapa
 disciplina: fundamentos-sistemas-gestao
 hub: gestao-sistemas
-atualizado: 2026-08-14
+atualizado: 2026-08-20
 ---
 
 # Mapa — Fundamentos de Sistemas & Gestão
@@ -54,6 +54,41 @@ esta ordem não é dogma, desvie quando houver motivo)_
 28. ⬜ Delegação: tarefa, responsabilidade e autonomia
 29. ⬜ Feedback e conversa difícil
 30. ⬜ Sistema vs. pessoa — quando o erro é do processo, não de quem executou
+
+## Material complementar (externo — acervo Notion)
+
+> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
+> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
+> Catálogo completo do acervo: [[acervo-cursos-notion]].
+
+**[Curso — Fundamentos de Sistemas & Gestão](https://app.notion.com/p/3b5a16ed6e5f8129a242ec4ee013293a)** — 15 módulos em 4 partes.
+
+| Módulos do curso | Tópicos desta grade |
+|---|---|
+| M0–M3 — o que é um sistema, estoques e fluxos, o atraso que engana, realimentação, emergência e não-linearidade | Fase 1 (1–4, 6) |
+| M4–M5 — arquétipos de sistema, pontos de alavancagem | Fase 1 (5) |
+| M6 — cibernética e variedade requisitada (lei de Ashby) | **sem tópico na grade** |
+| M7 — a restrição manda: o gargalo define o sistema | Fase 2 (9) |
+| M8–M11 — Taylor, Fayol, Mayo; **Drucker × Deming**; variação e PDCA; Lean | Fase 2 (11, 13) e Fase 5 |
+| M12 — medir sem destruir o que se mede (Lei de Goodhart, métrica de vaidade) | Fase 1 (7) e Fase 5 (26) |
+| M13 — Cynefin: nem todo problema é do mesmo tipo | **sem tópico na grade** |
+| M14 — onde o pensamento sistêmico erra | fecho |
+
+**Duas lacunas que o material expõe:**
+- **Cynefin.** Classificar o problema (claro, complicado, complexo, caótico) antes de escolher o
+  método. É pré-requisito prático da Fase 3 desta grade — usar gestão preditiva em problema
+  complexo é o erro que o tópico 16 tenta evitar, e Cynefin é o nome do critério.
+- **Variedade requisitada.** O limite de todo controle: um sistema de controle precisa ter
+  variedade compatível com a do sistema controlado. Explica por que processo simples demais não
+  segura operação complexa.
+
+**A disputa que o curso preserva em vez de arbitrar:** **Drucker × Deming**. Drucker defende
+gestão por objetivos; Deming ataca metas numéricas frontalmente, argumentando que o desempenho
+vem do sistema e não da pessoa, e que meta sem método produz distorção. Os dois estão no vault
+como base implícita da Fase 5 — vale saber que eles não concordam.
+
+**O que o curso não entrega:** nada da Fase 4 desta grade (ERP, CRM, modelagem de dados, API,
+process mining, automação com IA). Essa metade continua sem material complementar.
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-14 a partir de busca na web (regra `CLAUDE.md` §6). O corte que

@@ -2,7 +2,7 @@
 tipo: mapa
 disciplina: copywriting
 hub: marketing
-atualizado: 2026-08-15
+atualizado: 2026-08-20
 ---
 
 # Mapa — Copywriting
@@ -45,6 +45,48 @@ esta ordem não é dogma, desvie quando houver motivo)_
 ## Conceitos com página (fora da numeração da grade)
 - [[fud-competitivo]] — medo real + categoria concorrente desqualificada + autoridade própria
   como contraste; apoio ao tópico 10 (hooks) e 12 (objeção)
+
+## Material complementar (externo — acervo Notion)
+
+> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
+> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
+> Catálogo completo do acervo: [[acervo-cursos-notion]].
+
+**[Curso — Copywriting + IA aplicada à copy](https://app.notion.com/p/3b5a16ed6e5f81ab9a4fed8924f14ddf)** — 21 módulos em 3 partes.
+
+| Módulos do curso | Tópicos desta grade |
+|---|---|
+| M0–M1 — o que copy é, hierarquia de impacto, pesquisa e voz literal do cliente | Fase 1 (1–2) |
+| M3–M4 — oferta, anatomia da peça (headline, lead, corpo, mecanismo, prova, objeção, CTA) | Fase 1 (3–4) e Fase 3 (11–12) |
+| M7 — AIDA, PAS, BAB, 4 Ps, StoryBrand, e quando não usar nenhum | Fase 2 (5–8) |
+| M5 — headlines: as quatro funções, ingredientes, padrões, método das 20–30 | Fase 3 (9–10) |
+| M8–M9 — clareza, ritmo, protocolo de edição, o que medir por etapa, teste A/B | Fase 4 (13–16) |
+| M10–M13 — copy por canal: anúncio, página e VSL, e-mail e WhatsApp, B2B e serviço local | **sem tópico na grade** |
+| M14–M20 — **a Parte 3 inteira: IA aplicada a copy** | **sem tópico na grade** — ver abaixo |
+
+**Duas lacunas que o material expõe.**
+
+1. **Níveis de consciência e sofisticação de mercado (Eugene Schwartz).** O curso chama isso de
+   "o conceito mais importante do curso inteiro", e a grade não tem nenhum tópico sobre ele.
+   Cinco níveis (inconsciente → totalmente consciente) e cinco estágios de sofisticação — é o
+   que decide qual copy serve a qual público. O tópico 13 de [[mapa-marketing]] toca no assunto
+   ("estratégia de conteúdo ligada a estágio de consciência"), mas o dono natural é aqui.
+
+2. **IA aplicada a copy.** Sete módulos sobre workflow (IA nas pontas — análise e crítica —,
+   você no meio), engenharia de prompt, sistema de contexto persistente (dossiê de marca, de
+   público, banco de provas), como matar texto com cara de IA, escala sem virar spam, e riscos
+   legais. A grade não prevê nada disso, e [[mapa-marketing]] tem a Fase 5 de IA mas voltada a
+   campanha, não a texto.
+
+Ambas ficam registradas como candidatas a tópico — decisão do Tiago.
+
+**A regra que o curso repete e que combina com o vault:** IA multiplica competência, não
+substitui. Quem sabe copy usa IA e produz cinco vezes mais; quem não sabe produz cinco vezes
+mais texto ruim com mais confiança. É a mesma tese de [[operador-centauro]].
+
+**O que o curso não entrega:** nenhum benchmark de CTR, conversão ou custo por lead, nenhuma
+especificação de plataforma, nenhum template pronto — "template pronto já está saturado no seu
+mercado por definição".
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-15 a partir de busca na web (regra `CLAUDE.md` §6). Ordem:

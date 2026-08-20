@@ -2,7 +2,7 @@
 tipo: mapa
 disciplina: logica-e-epistemologia
 hub: filosofia
-atualizado: 2026-08-15
+atualizado: 2026-08-20
 ---
 
 # Mapa — Lógica e Epistemologia
@@ -43,6 +43,50 @@ esta ordem não é dogma, desvie quando houver motivo)_
 14. ⬜ Avaliar uma fonte: viés, incentivo, e o que ela não está dizendo
 15. ⬜ Argumentar por escrito sem cair na própria falácia que você identifica nos outros
 16. ⬜ Onde IA generativa cria um problema epistemológico novo (fluência sem garantia de verdade)
+
+## Material complementar (externo — acervo Notion)
+
+> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
+> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
+> Catálogo completo do acervo: [[acervo-cursos-notion]].
+
+**[Livro — Lógica e Epistemologia: argumento, evidência e os limites do que dá para saber](https://app.notion.com/p/3b9a16ed6e5f814aa2cde99d3d2ad795)** — 31 módulos em 7 partes.
+
+O acervo recomenda este como o primeiro dos cinco livros: "se for ler um só, Lógica — é o único
+que muda como você lê os outros".
+
+| Módulos do livro | Tópicos desta grade |
+|---|---|
+| M0–M2 — o que é saber, graus de crença, ônus da prova e o truque de invertê-lo | Fase 3 (9) e Fase 4 (14) |
+| M3–M8 — anatomia, validade × verdade × solidez, dedução, indução, **abdução**, **analogia** | Fase 1 (1–4) |
+| M9–M13 — falácias formais, de relevância, de ambiguidade, **estatísticas**, e por que apontar falácia quase nunca ganha a discussão | Fase 2 (5–8) |
+| M14–M19 — correlação e causa, hierarquia de evidência, **Popper**, como a ciência muda de ideia, crise de replicação, **p-valor** | Fase 3 (10–12) e Fase 4 (14) |
+| M20–M24 — confirmação, disponibilidade e representatividade, ancoragem e enquadramento, raciocínio motivado, **por que conhecer os vieses não protege** | **sem tópico na grade** |
+| M25–M28 — taxa-base, atualizar crença com evidência, calibração, valor esperado | **sem tópico na grade** |
+
+**Duas lacunas grandes que o material expõe.** A grade tem 16 tópicos e nenhum sobre **vieses
+cognitivos** nem sobre **probabilidade e decisão** — duas das seis partes do livro. Isso importa
+porque:
+- Vieses são onde a epistemologia encosta no comportamento real. O M23 (**raciocínio motivado:
+  quando ser mais inteligente piora**) e o M24 (conhecer viés dá vocabulário para diagnosticar
+  os outros e quase nenhuma proteção própria) são contraintuitivos e não estão em lugar nenhum
+  do vault.
+- **Taxa-base e calibração** são o que transforma "pensar bem" em algo verificável. Calibração é
+  a única forma de saber se você sabe — e conecta direto com a lógica do `LEARNER/`.
+
+Ficam registradas como candidatas a tópico — decisão do Tiago.
+
+**Três correções que o livro faz e que valem numa sessão:**
+- **Falseabilidade** não funciona como critério limpo: você nunca testa uma hipótese sozinha
+  (Duhem-Quine), então nenhum experimento refuta uma teoria de forma isolada (M16).
+- **p < 0,05 não é "5% de chance de eu estar errado"** — é a probabilidade inversa. E 0,05 é
+  convenção, não fato da natureza (M19). Ponte com
+  [[mapa-estatistica-para-decisao-marketing]].
+- **A lista de vieses mistura camadas**: priming social, esgotamento do autocontrole e feedback
+  facial forte **não replicaram**, e continuam circulando ao lado de achados sólidos (M24).
+
+**Ponte com [[mapa-frameworks-de-pensamento]]:** o tópico 13 desta grade (primeiros princípios)
+não aparece no livro. São complementares, não redundantes.
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-15 a partir de busca na web (regra `CLAUDE.md` §6). Ordem:

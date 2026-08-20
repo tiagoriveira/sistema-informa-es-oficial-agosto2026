@@ -2,7 +2,7 @@
 tipo: mapa
 disciplina: produtividade-biohacking
 hub: gestao-sistemas
-atualizado: 2026-08-15
+atualizado: 2026-08-20
 ---
 
 # Mapa — Produtividade & Biohacking
@@ -39,6 +39,42 @@ esta ordem não é dogma, desvie quando houver motivo)_
 10. ⬜ Rotina de fundador solo: onde a falta de estrutura externa mais custa
 11. ⬜ Recuperação como parte do trabalho, não interrupção dele
 12. ⬜ Separar biohack com evidência real de tendência sem sustentação — antes de adotar algo novo
+
+## Material complementar (externo — acervo Notion)
+
+> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
+> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
+> Catálogo completo do acervo: [[acervo-cursos-notion]].
+
+**[Livro — Produtividade e Biohacking: o corpo como infraestrutura do trabalho](https://app.notion.com/p/3b6a16ed6e5f81d5868ee160aacf0056)** — 25 módulos em 7 partes.
+
+É o material com mais módulos por tópico desta grade: 25 módulos para 12 tópicos. O Módulo 0 é
+exatamente o que o tópico 1 pede — **uma régua para julgar qualquer alegação da área**.
+
+| Módulos do livro | Tópicos desta grade |
+|---|---|
+| M0 — a régua: como julgar qualquer alegação | 1 e 12 |
+| M1–M4 — adenosina e cafeína, arquitetura do sono, circadiano e luz, cronotipo | Fase 2 (4–6) |
+| M5–M8 — dopamina, controle de estímulo, o coquetel do foco e a curva em U, flow | Fase 3 (7–8) |
+| M9–M13 — glicose e a queda da tarde, mTOR/AMPK/autofagia, jejum, eixo intestino-cérebro, suplementos por camada de evidência | **sem tópico na grade** |
+| M14–M16 — movimento (o item mais bem evidenciado), hormese, frio/calor/luz | 2 (as cinco alavancas) |
+| M17–M20 — ciclos de trabalho, **resíduo de atenção**, fadiga de decisão, gestão de inputs | Fase 3 (7–9) |
+| M21–M23 — Pareto, Eisenhower, trabalho profundo, timeboxing, Parkinson, batching, segundo cérebro e delegação a IA | Fase 4 (10) e ponte com [[mapa-gestao-de-tempo]] |
+| M24 — o protocolo mínimo | Fase 4 (11–12) |
+
+**Uma correção que muda o tópico 7 desta grade.** O tópico está escrito como "fadiga de decisão:
+por que a mesma decisão fica mais difícil ao longo do dia" — e o Módulo 19 do livro é
+literalmente **"Fadiga de decisão: o caso que caiu na replicação"**. O efeito de esgotamento do
+autocontrole (ego depletion) é um dos achados que não sobreviveram a replicações maiores. O
+tópico não deveria ser ensinado como fato estabelecido; vale reescrever para tratar a disputa.
+Registrado como pendência — decisão do Tiago.
+
+**O que o livro trata como mais bem sustentado:** movimento e sono. O resto vem com a camada de
+evidência declarada módulo a módulo, e os suplementos são ordenados por força de evidência em
+vez de listados como iguais.
+
+**Lacuna:** metabolismo, jejum e suplementação (M9–M13) não têm nenhum tópico nesta grade — e o
+tópico 2 lista "alimentação" como uma das cinco alavancas sem desdobrar.
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-15 a partir de busca na web (regra `CLAUDE.md` §6). A área mistura

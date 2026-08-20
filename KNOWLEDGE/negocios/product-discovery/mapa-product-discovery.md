@@ -2,7 +2,7 @@
 tipo: mapa
 disciplina: product-discovery
 hub: negocios
-atualizado: 2026-08-14
+atualizado: 2026-08-20
 ---
 
 # Mapa — Product Discovery
@@ -59,6 +59,35 @@ esta ordem não é dogma, desvie quando houver motivo)_
 ## Perguntas em aberto
 - Desenhar um teste barato na hora ainda é lacuna do aluno (ver LEARNER) — lacuna de
   aplicação, não da disciplina. Virou o item 4 da Fase 1.
+
+## Material complementar (externo — acervo Notion)
+
+> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
+> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
+> Catálogo completo do acervo: [[acervo-cursos-notion]].
+
+**[Curso — Product Manager](https://app.notion.com/p/3b5a16ed6e5f81afa110dcc5ff55e7e7)** — 18
+módulos. O material foi catalogado em [[mapa-product-management]] (disciplina criada em
+2026-08-20), porque a maior parte dele é sobre o ofício, não sobre descoberta. Mas **seis
+módulos servem diretamente a esta grade**:
+
+| Módulos do curso | Tópicos desta grade |
+|---|---|
+| M2 — os quatro riscos: valor, usabilidade, viabilidade técnica, viabilidade de negócio | 2 ([[riscos-de-descoberta]]) |
+| M4 — os dois trilhos: descoberta e entrega andam juntos | 14–15 ([[continuous-discovery]], [[dual-track-agile]]) |
+| M5 — **entrevistar sem induzir a resposta que você quer ouvir** | Fase 3 (9–10) |
+| M6 — **JTBD: a ideia boa e as duas escolas que brigam** | 5 ([[jobs-to-be-done]]) |
+| M7 — da oportunidade à solução, sem pular etapa | 7 (Opportunity Solution Tree) |
+| M8 — experimento: o que um teste pode e não pode provar | 3 ([[mvp-e-tipos-de-experimento]]) |
+
+**Duas coisas que o curso acrescenta ao que já está aqui:**
+- **JTBD tem duas escolas que discordam** (M6) — a página [[jobs-to-be-done]] trata o conceito
+  como unificado. Vale registrar a divergência quando a página for revisitada.
+- **Priorização por framework de nota vira teatro** (M9) — coincide com o tópico 17 desta grade,
+  que já diz isso. Reforço, não novidade.
+
+O tópico 4 desta grade (desenhar o teste mais barato que responde à pergunta) é exatamente a
+lacuna aberta do Tiago no LEARNER, e o M8 do curso é o material mais direto sobre isso no acervo.
 
 ## Nota sobre a grade
 Grade redesenhada em 2026-08-14 a partir dos 7 conceitos que já existiam, expandida com o que

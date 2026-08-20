@@ -2,7 +2,7 @@
 tipo: mapa
 disciplina: marketing
 hub: marketing
-atualizado: 2026-08-14
+atualizado: 2026-08-20
 ---
 
 # Mapa — Marketing
@@ -77,6 +77,39 @@ esta ordem não é dogma, desvie quando houver motivo)_
 - [[problema-de-distribuicao-vs-demanda]] — recompra alta + crescimento travado aponta gargalo
   de canal, não de demanda; remédio é abrir canal, não subir verba. Apoia os itens 7-12 da
   Fase 2 e nasceu de captura do Tiago em 2026-08-20, fora do desenho original da grade
+
+## Material complementar (externo — acervo Notion)
+
+> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
+> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
+> Catálogo completo do acervo: [[acervo-cursos-notion]].
+
+Dois materiais do acervo tocam esta grade, e nenhum é "de marketing" no nome — por isso ficam
+registrados aqui explicitamente.
+
+**[Curso — Precificação Psicológica e Elasticidade](https://app.notion.com/p/3ada16ed6e5f816a88aee456b07085da)** — 10 módulos.
+Está catalogado em [[mapa-financas]], mas metade dele é marketing: preço de referência
+(interna, externa, contextual), **âncora**, efeito do dígito à esquerda, **chamariz (decoy)**,
+combo, dor de pagamento e **visibilidade de preço** — a ideia de ser competitivo no item cujo
+preço o cliente sabe de cor e ter margem no item que ele nunca comparou.
+
+**Preço não está na grade de marketing.** Nem posicionamento de preço, nem promoção, nem
+desconto. É uma lacuna real: o tópico 4 (proposta de valor) encosta no assunto e para. Fica
+registrado como candidato — decisão do Tiago.
+
+**A conta que o material entrega e que serve direto ao tópico 19 (CAC, LTV, payback):** com
+margem de contribuição baixa, desconto é veneno aritmético. Em 18% de margem, 10% de desconto
+exige quase dobrar o volume só para empatar; a margem zera em 20,7% de desconto. E a assimetria
+é o achado prático: subir o preço 10% permite perder um terço dos clientes sem piorar o
+resultado do mês.
+
+**[Curso — Copywriting + IA aplicada à copy](https://app.notion.com/p/3b5a16ed6e5f81ab9a4fed8924f14ddf)**
+— dono é [[mapa-copywriting]], mas os módulos 2 (níveis de consciência), 10 (anúncios: ângulo
+antes de texto, copy por temperatura, fadiga de criativo) e 9 (o que medir por etapa do funil)
+servem aos tópicos 13–16 e 18 desta grade.
+
+> Nenhum dos dois é fonte do `RAW/`. Sobre a Fase 5 (IA aplicada a marketing), o curso de copy
+> avisa o que este vault já registra: tática de plataforma envelhece em semanas.
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-14 a partir de busca na web (regra `CLAUDE.md` §6). Marketing é
