@@ -47,6 +47,12 @@ esta ordem não é dogma, desvie quando houver motivo)_
 ## Conceitos com página
 - [[operador-centauro]] — humano planeja/decide, IA executa/organiza
 
+## Conceitos com página (fora da numeração da grade)
+- [[complementaridade-homem-maquina]] — a razão estratégica por trás de [[operador-centauro]]:
+  humano e máquina não competem pelo mesmo trabalho, e é a combinação que gera vantagem difícil
+  de copiar (Thiel, cap. 12 de *Zero to One*). Apoia os itens 2-3 da Fase 1; nasceu de nota de
+  leitura do Tiago em 2026-08-20, fora do desenho original da grade
+
 ## Nota sobre a grade
 Grade desenhada em 2026-08-14 a partir de busca na web (regra `CLAUDE.md` §6). Esta é a
 disciplina que mais envelhece do vault — o consenso atual é que o gargalo deixou de ser a

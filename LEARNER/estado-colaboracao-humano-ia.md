@@ -29,3 +29,11 @@ estado: em_desenvolvimento · nivel: 1 · revisar: 2026-08-18
 Ainda testar centauro reverso isolado (sem oráculo no mesmo cenário) — dar um exemplo onde o
 humano *desconfia* e volta a fazer trabalho manual mesmo com critério bem definido, e ver se
 ele nomeia isso como reverso sem precisar de dica.
+
+## [[complementaridade-homem-maquina]]
+estado: nao_iniciado
+
+Página criada em 2026-08-20 a partir de nota de leitura do próprio Tiago (cap. 12 de *Zero to
+One*). Ele escreveu o resumo, mas não houve avaliação — invariante 1: escrever sobre não é
+evidência de domínio. Candidato natural a avaliação comparativa com [[operador-centauro]],
+já que um é a razão estratégica do outro.

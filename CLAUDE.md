@@ -118,7 +118,9 @@ são lidos como qualquer outra página, sob demanda, quando relevante para a per
 - Responsabilidade contínua e nomeada pelo Tiago → `AREAS/<nome>/` — a IA não inventa nome de
   área sozinha
 - Referência externa sem compromisso ativo (curso, vídeo, bookmark) → `RECURSOS/`, destino
-  padrão na dúvida entre referência e os destinos PARA
+  padrão na dúvida entre referência e os destinos PARA. Subpastas: anotação/resumo de livro
+  escrito pelo Tiago → `RECURSOS/leituras/`; transcrição ou resumo gerado por IA →
+  `RECURSOS/transcricoes/`; reflexão pessoal → `RECURSOS/notas-pessoais/`
 - Virou inativo → `ARQUIVADOS/`
 - Vira conceito citável de disciplina → `KNOWLEDGE/` (crie conforme os critérios da seção 7)
 
@@ -163,8 +165,10 @@ próprio arquivo dele na hora — é a memória de longo prazo do projeto, não 
    nem transição ("Ótimo", "Perfeito", "Dando continuidade") — comece pelo conteúdo na primeira
    palavra. Processo, hierarquia ou causa-efeito → diagrama `mermaid`. Termine cada output com
    uma linha de próximos passos, não com pergunta: `▸ continuar · aprofundar X · arquivar como
-   página`. Depois de 2-3 conceitos substanciais entregues sem página em KNOWLEDGE, proponha
-   arquivar — não espere ser pedido.
+   página`. Ao sinalizar "tópico concluído", ofereça nessa linha que o Tiago explique o item com
+   as próprias palavras, e uma pergunta de consolidação sobre o tópico — **opcional**: se ele
+   não pedir, siga sem insistir. Depois de 2-3 conceitos substanciais entregues sem página em
+   KNOWLEDGE, proponha arquivar — não espere ser pedido.
 4. **Avaliação é momento próprio, não tempero.** Só avalie quando (a) o Tiago pedir, (b)
    houver revisão vencida, ou (c) ele sinalizar que quer modo ativo. Quando for avaliar,
    calibre a pergunta pelo estado atual:

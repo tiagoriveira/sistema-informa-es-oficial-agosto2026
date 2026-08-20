@@ -1,11 +1,11 @@
 ---
 tipo: sessao
 disciplina: estatistica-para-decisao-marketing
-data: 2026-08-19
+data: 2026-08-20
 duracao_aprox: curta
 ---
 
-# 2026-08-19 — Estatística para Decisão em Marketing
+# 2026-08-20 — Estatística para Decisão em Marketing
 
 **Objetivo:** primeira sessão da disciplina, criada hoje a partir de autoavaliação do Tiago
 (número em marketing é ponto fraco declarado).

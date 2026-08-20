@@ -1,15 +1,15 @@
 ---
 tipo: estado
 disciplina: estatistica-para-decisao-marketing
-atualizado: 2026-08-19
+atualizado: 2026-08-20
 ---
 
 # Estado — Estatística para Decisão em Marketing
 
-> Disciplina criada em 2026-08-19 a partir de autoavaliação do Tiago (ver [[perfil]]) — sem
+> Disciplina criada em 2026-08-20 a partir de autoavaliação do Tiago (ver [[perfil]]) — sem
 > fontes em `RAW/`, modo exploração.
 
 ## Média, mediana e o que cada uma esconde
 estado: nao_iniciado
 
-Explicado em 2026-08-19 (exemplo de CAC distorcido por outlier), nunca avaliado.
+Explicado em 2026-08-20 (exemplo de CAC distorcido por outlier), nunca avaliado.

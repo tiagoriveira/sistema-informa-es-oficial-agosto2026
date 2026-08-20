@@ -23,3 +23,11 @@
 [Andrômeda: Como Funciona o Algoritmo de Anúncios da Meta em 2026](https://www.youtube.com/watch?v=hthAuOOeRRY)
 
 [(292) Como construir segundo cérebro de IA definitivo para Agências de Marketing (Obsidian + Claude Code) - YouTube](https://www.youtube.com/watch?v=JSBRceZSM_8)
+
+
+[(27) LOJA DE ROUPAS MIRA R$45 MILHÕES (Mas trava num GRANDE problema) | Plano Perfeito #12 - YouTube](https://www.youtube.com/watch?v=fa6QqIXrMGE&t=426s) começado 18/08/26
+
+[transformei o Claude Code no SISTEMA OPERACIONAL da minha empresa (e mostrei como criar o teu) - YouTube](https://www.youtube.com/watch?v=7btZsF-9UDA) - começado dia 19-08-26 - min 16:57
+
+
+[(1) Curso completo de Marketing Digital com Dener Lippert (Gratuito) - YouTube](https://www.youtube.com/watch?v=5VHJDpsuCMU)

@@ -981,30 +981,48 @@ primeiro de verdade intocado). `SYSTEM/index.md`, `estado-neurociencia-esportiva
   `nota-founder-solo-gpt-operador-centauro.md` (conteúdo migrado, nada perdido).
 - `SYSTEM/index.md` atualizado.
 
-## [2026-08-19] system | disciplina nova: estatistica-para-decisao-marketing
+## [2026-08-20] system | disciplina nova: estatistica-para-decisao-marketing
 Criada no hub `marketing` a partir de autoavaliação do Tiago; itens de estatística migrados de
 [[mapa-dados-estatistica-e-ia-ml]] sem duplicar página nem LEARNER. Débito: Fase 1 de lá ficou
 com 1 item só, pendente de LINT.
 
-## [2026-08-19] update | parceria-marketing-mvp-saas-financeiro
+## [2026-08-20] update | parceria-marketing-mvp-saas-financeiro
 Síntese estratégica registrada no arquivo do projeto (growth, ferramenta vs. serviço,
 bifurcação de ICP). [[consistencia-job-narrativa-produto]] criado. Reel resumido em
 [[sequoia-services-the-new-software-matheus-beirao]].
 
-## [2026-08-19] system | fechamento de sessão
+## [2026-08-20] system | fechamento de sessão
 Sem avaliação de conceito. Páginas recontadas: 45. Revisões seguem vencidas
 ([[validacao-de-problema]], [[riscos-de-descoberta]], [[operador-centauro]]). `INICIO.md`
 reescrito, commit + push.
 
-## [2026-08-19] system | migração memória local pro vault
+## [2026-08-20] system | migração memória local pro vault
 Tiago pediu pra não depender de memória local do dispositivo. Regras migradas pro
 `CLAUDE.md`/`schema.md` (dois vaults, camada certa, docs não são dogma, grade cresce em sessão,
 memória de projeto, formato de página com explicação do Tiago, sobreposição entre disciplinas,
 log enxuto); memória local do Claude limpa depois.
 
-## [2026-08-19] study | estatistica-para-decisao-marketing
+## [2026-08-20] study | estatistica-para-decisao-marketing
 Item 1 (média, mediana, outlier) explicado com exemplo de CAC — ver
-[[2026-08-19-estatistica-para-decisao-marketing]]. Sem avaliação, estado continua `nao_iniciado`.
+[[2026-08-20-estatistica-para-decisao-marketing]]. Sem avaliação, estado continua `nao_iniciado`.
 
-## [2026-08-19] system | fechamento de sessão (2)
+## [2026-08-20] ingest | triagem do INBOX
+14 capturas triadas. Criados [[parceria-agencia-marketing-bruno-gasquez]] (`PROJETOS/`),
+[[crm-integrado-ia-para-comercial]] (`ideias/`), [[complementaridade-homem-maquina]],
+[[problema-de-distribuicao-vs-demanda]] e 3 páginas em `RECURSOS/`. INBOX: 40 → 17 arquivos.
+
+## [2026-08-20] system | RECURSOS/leituras e RECURSOS/transcricoes
+Criadas a pedido do Tiago (captura de 18/08), com `LEIA-ME.md` próprio. Registradas no
+`CLAUDE.md` §3 e no `RECURSOS/LEIA-ME.md`.
+
+## [2026-08-20] system | regra de tutoria — consolidação opcional
+`CLAUDE.md` §4: ao concluir um tópico, ofereço que o Tiago explique com as próprias palavras +
+pergunta de consolidação. Opcional por decisão dele — não trava a sessão.
+
+## [2026-08-20] system | correção de data — sessão datada como 19/08
+Datei a sessão inteira como 2026-08-19 sendo 2026-08-20; corrigido em 12 arquivos + rename do
+arquivo em `SESSIONS/`. As 4 entradas de 19/08 acima são de ontem, legítimas. Commits antigos
+no remoto ficam com a data errada — histórico não reescrito.
+
+## [2026-08-20] system | fechamento de sessão (2)
 `INICIO.md` reescrito de novo (disciplina ativa, última sessão, tabela). Commit + push.

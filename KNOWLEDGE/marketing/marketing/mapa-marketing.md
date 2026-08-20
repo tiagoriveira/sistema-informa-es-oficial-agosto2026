@@ -17,7 +17,7 @@ funil, medição); lá é o ofício de transformar conceito em post por platafor
 
 **Fronteira com [[mapa-estatistica-para-decisao-marketing]]:** a Fase 4 aqui (dados, medição e
 decisão) é onde a estatística vira decisão de marketing; aquele mapa é a ferramenta em si (por
-que o número funciona — média, distribuição, probabilidade, inferência), criado em 2026-08-19 a
+que o número funciona — média, distribuição, probabilidade, inferência), criado em 2026-08-20 a
 partir de autoavaliação do Tiago (ver [[perfil]]). Itens 18-23 daqui e itens 13-16 de lá são a
 mesma aplicação vista de dois ângulos, não conteúdo duplicado.
 
@@ -72,6 +72,11 @@ esta ordem não é dogma, desvie quando houver motivo)_
 - [[automacao-de-campanha-e-verba]] — humano define métrica-alvo e teto, IA aloca verba em
   tempo real
 - [[julgamento-humano-obrigatorio-marketing]] — aplica [[operador-centauro]] às três anteriores
+
+## Conceitos com página (fora da numeração da grade)
+- [[problema-de-distribuicao-vs-demanda]] — recompra alta + crescimento travado aponta gargalo
+  de canal, não de demanda; remédio é abrir canal, não subir verba. Apoia os itens 7-12 da
+  Fase 2 e nasceu de captura do Tiago em 2026-08-20, fora do desenho original da grade
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-14 a partir de busca na web (regra `CLAUDE.md` §6). Marketing é

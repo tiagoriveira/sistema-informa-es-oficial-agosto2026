@@ -11,6 +11,11 @@ atualizado: 2026-08-14
 (ver "Nota sobre a grade"), não só memória de treino.
 **Estado do aluno:** [[estado-gestao-conhecimento-second-brain]]
 
+**Fronteira com [[mapa-arquitetura-de-agentes-e-contexto]]** (hub inteligencia-artificial): a
+Fase 5 aqui (item 19, "IA como camada de recuperação e síntese sobre o vault") é a aplicação
+específica de PKM; aquele mapa trata do padrão de arquitetura em si (CLAUDE.md, skills,
+ingest, orquestração), que serve pra second brain ou qualquer outro sistema.
+
 ## Ordem de estudo sugerida
 _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. `CLAUDE.md` §4.2:
 esta ordem não é dogma, desvie quando houver motivo)_

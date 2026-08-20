@@ -2,19 +2,19 @@
 tipo: mapa
 disciplina: estatistica-para-decisao-marketing
 hub: marketing
-atualizado: 2026-08-19
+atualizado: 2026-08-20
 ---
 
 # Mapa — Estatística para Decisão em Marketing
 
-**Fontes desta disciplina:** nenhuma em `RAW/` — grade checada por busca na web em 2026-08-19
+**Fontes desta disciplina:** nenhuma em `RAW/` — grade checada por busca na web em 2026-08-20
 (ver "Nota sobre a grade").
 **Estado do aluno:** [[estado-estatistica-para-decisao-marketing]]
 
 **Por que existe separada de [[mapa-dados-estatistica-e-ia-ml]]:** aquela disciplina é técnica
 (SQL, ML, deep learning, pré-requisito de programação) — resolve "como construir um modelo".
 Esta aqui resolve "como ler e confiar num número de marketing sem ser enganado por ele" —
-disparada por autoavaliação do Tiago em 2026-08-19 (ver [[perfil]]): estratégia é ponto forte,
+disparada por autoavaliação do Tiago em 2026-08-20 (ver [[perfil]]): estratégia é ponto forte,
 número é o ponto fraco declarado. Sem sobreposição: os itens de estatística conceitual que
 estavam na Fase 1 de [[mapa-dados-estatistica-e-ia-ml]] foram movidos pra cá — nenhum conceito
 tem página duplicada nem estado rastreado duas vezes.
@@ -52,7 +52,7 @@ esta ordem não é dogma, desvie quando houver motivo)_
 16. ⬜ Dashboard: o que olhar e o que ignorar, e com que frequência
 
 ## Nota sobre a grade
-Grade desenhada em 2026-08-19, disparada por autoavaliação do Tiago (ler/interpretar dado é o
+Grade desenhada em 2026-08-20, disparada por autoavaliação do Tiago (ler/interpretar dado é o
 ponto fraco declarado em marketing, estratégia é ponto forte) e pela constatação de que apontar
 pra [[mapa-dados-estatistica-e-ia-ml]] puxava o assunto pro lado errado (programação/ML) quando
 o pedido era leitura de número aplicada a decisão de marketing. Fases 1-3 são vocabulário

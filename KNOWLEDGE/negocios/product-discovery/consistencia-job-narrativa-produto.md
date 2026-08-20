@@ -3,8 +3,8 @@ tipo: conceito
 disciplina: product-discovery
 titulo: Consistência entre job, narrativa e produto
 fontes: []
-criado: 2026-08-19
-atualizado: 2026-08-19
+criado: 2026-08-20
+atualizado: 2026-08-20
 ---
 
 # Consistência entre job, narrativa e produto
@@ -14,7 +14,7 @@ categoria do produto — toda peça que toca o cliente (narrativa, posicionament
 o produto em si) precisa expressar esse mesmo resultado; qualquer peça que contradiz o job
 quebra a promessa, mesmo que as outras estejam certas.
 
-## Explicação original (Tiago, 2026-08-19)
+## Explicação original (Tiago, 2026-08-20)
 > "um dos princípios é tornar consistente jobs, comunicação/marketing, produto antes de
 > escalar."
 >

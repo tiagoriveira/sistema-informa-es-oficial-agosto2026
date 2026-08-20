@@ -1,0 +1,1 @@
+Ideia de criar post linkedin a partir de alguma de nossa base de informação

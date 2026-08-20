@@ -2,13 +2,13 @@
 tipo: nota-pessoal
 categoria: observacao
 autor: ia
-criado: 2026-08-19
+criado: 2026-08-20
 triada: sim
 ---
 
 # Resumo — "Services: The New Software" (Sequoia Capital), via Reel de @matheusbeirao
 
-> Capturado e transcrito via Apify em 2026-08-19, a pedido do Tiago. Não é reprodução literal
+> Capturado e transcrito via Apify em 2026-08-20, a pedido do Tiago. Não é reprodução literal
 > do áudio — resumo/paráfrase do argumento, com no máximo um trecho curto entre aspas, por
 > respeito a direito autoral do criador. Post original:
 > [instagram.com/p/DcOk_-0REI7](https://www.instagram.com/p/DcOk_-0REI7/)

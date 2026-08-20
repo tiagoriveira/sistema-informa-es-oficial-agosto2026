@@ -103,7 +103,7 @@ retainer fixo alto pesa demais no caixa de founder pré-receita:
 - Evitar equity puro como única forma de pagamento — due diligence foge do escopo de uma
   parceria de marketing.
 
-## Reflexão — timing de growth e distribuição (2026-08-19)
+## Reflexão — timing de growth e distribuição (2026-08-20)
 Discussão disparada por pergunta do Tiago: quando fazer growth, que motion de distribuição
 usar, inbound vs. outbound, posicionamento em rede social, o que falta antes do GTM. Conteúdo
 abaixo é conhecimento externo (não vem de fonte em `RAW/`), exceto onde citado `[[...]]`.
@@ -142,7 +142,7 @@ B2B financeiro, mas é só palpite sem ICP confirmado.
 - Existe uso real hoje (mesmo poucos usuários ativos) ou o MVP está vazio?
 - O founder tem audiência/credibilidade prévia no nicho, ou parte do zero?
 
-## Princípio do Tiago — consistência job/narrativa/produto (2026-08-19)
+## Princípio do Tiago — consistência job/narrativa/produto (2026-08-20)
 Formalizado como conceito próprio: [[consistencia-job-narrativa-produto]]. Resumo: job
 definido pelo resultado ("menos dor de cabeça na gestão financeira", não "produto financeiro
 que faz X") vira régua de checagem pra narrativa, posicionamento e produto juntos — se o job é
@@ -150,7 +150,7 @@ simplificar, o produto não pode ser complexo de usar, sob pena de quebrar a pr�
 Conecta com [[over-serving-e-job-mal-atendido]] (o sintoma quando produto e job especificamente
 divergem) e é critério concreto pra fase 1 do plano acima, antes de aceitar verba de mídia.
 
-## Ferramenta vs. serviço — pergunta pro founder (2026-08-19)
+## Ferramenta vs. serviço — pergunta pro founder (2026-08-20)
 Disparado por um Reel resumido em [[sequoia-services-the-new-software-matheus-beirao]]
 (RECURSOS/, conteúdo de terceiro não verificado na fonte primária — tratar como provocação,
 não conclusão). Analogia: **ferramenta** é vender um aspirador de pó (cliente ainda limpa a
@@ -166,7 +166,7 @@ isso é serviço (Forma 2), mais alinhado ao job.
 **Pergunta concreta pro founder:** o produto é aspirador ou diarista? Isso também abre pergunta
 de pricing — serviço entregue tende a sustentar preço mais alto que ferramenta de autoatendimento.
 
-**Precisão importante (2026-08-19):** no modelo "diarista", o humano que orquestra
+**Precisão importante (2026-08-20):** no modelo "diarista", o humano que orquestra
 ([[operador-centauro]] — IA executa, humano decide) é **do lado de quem presta o serviço** (o
 founder/equipe dele), não do lado do cliente final. O cliente não orquestra nada, só recebe o
 resultado — é isso que faz virar serviço, não só "ferramenta com IA por dentro".
@@ -182,7 +182,7 @@ resultado — é isso que faz virar serviço, não só "ferramenta com IA por de
 O que muda não é a tela — é **o que está sendo vendido**: acesso a uma ferramenta que o cliente
 usa, vs. o resultado entregue sem o cliente precisar fazer nada.
 
-## Bifurcação de ICP — empresário ou contador/consultor? (2026-08-19)
+## Bifurcação de ICP — empresário ou contador/consultor? (2026-08-20)
 Hipótese do Tiago, ainda não validada: o ICP pode não ser o empresário comum, e sim o
 contador/consultor que atende PMEs. Isso não é variação pequena — muda o produto inteiro.
 

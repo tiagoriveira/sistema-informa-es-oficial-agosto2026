@@ -20,7 +20,7 @@ colaboracao-humano-ia): a Fase 5 aqui (orquestração, IA agêntica) é onde est
 aquele mapa aprofunda o assunto na camada de arquitetura de arquivo/pasta/skill, agnóstica de
 framework específico.
 
-**Fronteira com [[mapa-estatistica-para-decisao-marketing]]:** em 2026-08-19, os fundamentos de
+**Fronteira com [[mapa-estatistica-para-decisao-marketing]]:** em 2026-08-20, os fundamentos de
 estatística conceitual (descritiva, probabilidade, inferência — sem SQL nem código) foram
 separados pra essa disciplina nova, com sabor de decisão de negócio/marketing, não de
 ciência de dados. Esta disciplina aqui fica só com o que é genuinamente técnico: manipulação de
@@ -32,7 +32,7 @@ _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. 
 esta ordem não é dogma, desvie quando houver motivo)_
 
 ### Fase 1 — Estatística e matemática aplicada
-1. _(movido para [[mapa-estatistica-para-decisao-marketing]] em 2026-08-19 — ver item 1 de lá)_
+1. _(movido para [[mapa-estatistica-para-decisao-marketing]] em 2026-08-20 — ver item 1 de lá)_
 2. _(movido para [[mapa-estatistica-para-decisao-marketing]] — ver item 5 de lá)_
 3. _(movido para [[mapa-estatistica-para-decisao-marketing]] — ver itens 9-12 de lá)_
 4. ⬜ Álgebra linear e cálculo aplicados — o que o ML usa de verdade (fica aqui: é matemática de
@@ -69,7 +69,7 @@ Grade desenhada em 2026-08-17 a partir de busca na web (regra `CLAUDE.md` §6). 
 envelhece rápido — Fases 4 e 5 (IA generativa, agentes) são as que mais mudam e precisam de
 recheck antes de estudar, não assunção. Fases 1-3 (estatística, dado, ML clássico) são estáveis.
 
-**Débito conhecido (2026-08-19):** Fase 1 ficou com só 1 item ativo depois da migração pra
+**Débito conhecido (2026-08-20):** Fase 1 ficou com só 1 item ativo depois da migração pra
 [[mapa-estatistica-para-decisao-marketing]] — abaixo do mínimo de 4-6 do `schema.md` §3. Não
 fundida com a Fase 2 agora pra evitar renumerar a grade inteira sem necessidade real (nada
 avaliado ainda, risco baixo de deixar como está). Fica como item de `LINT` futuro.

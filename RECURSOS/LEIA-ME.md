@@ -22,3 +22,11 @@ Referência externa pura (bookmark, curso, síntese de artigo, categoria `observ
 reflexão pessoal por trás) fica na raiz de `RECURSOS/`. Nunca misturar os dois tipos no mesmo
 arquivo. Pasta específica pra cada tipo — estrutura mais granular é melhor que uma pasta
 genérica só.
+
+## Subpastas `leituras/` e `transcricoes/` (decidido em 2026-08-20)
+
+- `RECURSOS/leituras/` — anotação e resumo de livro **escritos pelo Tiago**.
+- `RECURSOS/transcricoes/` — transcrição e resumo gerados por IA (vídeo, podcast, reel).
+
+Cada uma tem `LEIA-ME.md` próprio com o critério detalhado. Raiz de `RECURSOS/` continua sendo
+o destino de referência externa curta e destilada.

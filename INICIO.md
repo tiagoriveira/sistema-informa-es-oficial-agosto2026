@@ -3,7 +3,7 @@
 > Estado atual do sistema. Reescrito pela IA ao fim de cada sessão.
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
-**Atualizado em:** 2026-08-19
+**Atualizado em:** 2026-08-20
 **Disciplina ativa:** estatistica-para-decisao-marketing (item 1 explicado, 📍 no item 2) —
 product-discovery continua a mais avançada em avaliação real (LEARNER).
 
@@ -13,21 +13,23 @@ product-discovery continua a mais avançada em avaliação real (LEARNER).
 > continua com as 34 disciplinas de sempre. Material fica em `ARQUIVADOS/ybernator/`, com
 > procedimento de promoção definido em `ARQUIVADOS/ybernator/LEIA-ME.md` para quando o Tiago
 > pedir uma disciplina de volta.
-**Última sessão:** 2026-08-19 — sessão longa, mista. Síntese estratégica de
+**Última sessão:** 2026-08-20 — sessão longa, mista. Síntese estratégica de
 [[parceria-marketing-mvp-saas-financeiro]] (growth, ferramenta vs. serviço, bifurcação de ICP)
 registrada no arquivo do projeto. [[consistencia-job-narrativa-produto]] criado (formato novo:
 explicação do Tiago verbatim + nota da IA). [[mapa-estatistica-para-decisao-marketing]] criado
 (hub `marketing`) a partir de autoavaliação do Tiago, item 1 (média/mediana/outlier)
-explicado — ver [[2026-08-19-estatistica-para-decisao-marketing]]. Regras que estavam só na
+explicado — ver [[2026-08-20-estatistica-para-decisao-marketing]]. Regras que estavam só na
 memória local do Claude foram migradas pro `CLAUDE.md`/`schema.md` (memória local não sobrevive
-a perda de dispositivo, git sim); memória local limpa.
+a perda de dispositivo, git sim); memória local limpa. **Triagem do INBOX** ao final: 14
+capturas processadas, INBOX de 40 → 17 arquivos, 6 páginas novas, `RECURSOS/leituras/` e
+`RECURSOS/transcricoes/` criadas.
 
 ---
 
 ## Revisões vencidas
-Vencidas desde 2026-08-14, **cinco dias de atraso**: [[validacao-de-problema]],
-[[riscos-de-descoberta]]. Novo atraso: [[operador-centauro]] vencido desde 2026-08-18, **um
-dia de atraso** (`LEARNER/estado-colaboracao-humano-ia.md`).
+Vencidas desde 2026-08-14, **seis dias de atraso**: [[validacao-de-problema]],
+[[riscos-de-descoberta]]. Também vencido: [[operador-centauro]] desde 2026-08-18, **dois dias
+de atraso** (`LEARNER/estado-colaboracao-humano-ia.md`).
 
 ## Próxima ação recomendada
 Revisar os vencidos primeiro (prioridade sobre conteúdo novo, `CLAUDE.md` §4 REVIEW). Em
@@ -79,12 +81,28 @@ pode virar página quando o Tiago quiser; [[marco-aurelio-validacao-externa]] es
 filosofia chegar no estoicismo; [[futebol-perfil-fisico-por-posicao]] é candidata natural
 quando [[mapa-performance-esportiva]] chegar em VO2 max.
 
-**INBOX pendente de triagem:** [[Link do post do benchimol no notion]] — bloco não resolvido;
-"Mensagem que encaminhei ao psiquiatra.md" está vazia — aguardando resposta do Tiago pros
-dois. "Brain Dump 15-08-26.md" — dump mental de verdade, ainda não lido/triado (tem uma linha
-de tarefa: recuperar capturas do X e ver a live/aula de Obsidian). Novo: arquivo solto na raiz
-do vault "Transcrição video - Construindo Uma Empresa do Zero Para o Poderosíssimo Ninja
-Alfredo soares e Ninja.md" (analisado em sessão anterior, nunca triado pra INBOX/RECURSOS).
+**INBOX depois da triagem de 2026-08-20** (17 arquivos; 40 antes). O que ficou e por quê:
+- `Captura 18-08-26.md` — as **metas pessoais** dele (10k líquido/mês, financiar carro,
+  cirurgia, morar só) não têm destino decidido; ele mesmo escreveu "preciso elaborar essa meta".
+- `CAPTURA 19-08-26.md` — contém o material pronto do doc "como falar com as IAs com símbolos",
+  que ele pediu e ainda não foi criado.
+- `oq é util desse post…` — pergunta dele sobre o Obsidian Skills oficial, sem resposta ainda.
+- `Mensagem … psiquiatra` — saúde pessoal, não processo sem ordem explícita.
+- `Brain Dump 15-08-26.md` e `Brain dump 20-08-26.md` — efêmeros por design (Zeigarnik).
+- Esboços de 1 linha: `Nota sobre … primeiros principios`, `Ideia de criar post linkedin…`
+- Capturas antigas ainda não triadas: `Captura 17-18-26.md`, `Ideias - 16-08.md`, `Task.md`,
+  `Claude obsidian como segundo cérebro.md`, `Perfil referencia … segundo cérebro.md`,
+  `Como lembrar de tudo que você lê — DAN KOE`, `Trazer essas notas desse toggle…`,
+  `Template Capturas…`
+
+**Tarefas que apareceram nas capturas** (registradas, não executadas):
+- Criar o doc de símbolos para conversar com IA (conteúdo pronto em `CAPTURA 19-08-26.md`)
+- Disciplinas pedidas: escrita, oratória, hub de sedução, founder, product manager, Elon Musk
+- Cursos: growth com Fernando Miranda; marketing digital com Dener Lippert
+- Cap. 6 do *Segundo Cérebro*; posts do Reddit sobre Obsidian; vídeo do Elon sobre simplificar
+- Ikigai + perfil psicológico + diagnóstico terapêutico, "jogar no vault"
+- **Evento no Sympla** — tem prazo, some se ninguém olhar
+- Responder o que adotar (ou não) do Obsidian Skills oficial no vault
 
 **Templates novos, criados pelo Tiago em 2026-08-15** (não pela IA): `_templates/braindump
 1.md` (dump mental antes de dormir, efeito Zeigarnik) e `_templates/inbox-nota.md` (formato
@@ -110,7 +128,7 @@ explicados.
 | Hub | Disciplina | Grade | Páginas | Avaliados | Última sessão |
 |---|---|---|---|---|---|
 | filosofia | historia-da-filosofia | 6 fases / 33 tópicos | 9 | 1 | 2026-08-14 |
-| negocios | product-discovery | 4 fases / 18 tópicos | 9 | 2 | 2026-08-19 |
+| negocios | product-discovery | 4 fases / 18 tópicos | 9 | 2 | 2026-08-20 |
 | inteligencia-artificial | colaboracao-humano-ia | 5 fases / 19 tópicos | 1 | 1 | 2026-08-17 |
 | inteligencia-artificial | arquitetura-de-agentes-e-contexto | 5 fases / 20 tópicos | 0 | 0 | — |
 | neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 7 | 0 | 2026-08-16 |
@@ -124,7 +142,7 @@ explicados.
 | gestao-sistemas | produtividade-biohacking | 4 fases / 12 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-de-tempo | 4 fases / 14 tópicos | 0 | 0 | — |
 | marketing | marketing | 5 fases / 27 tópicos | 5 | 0 | 2026-08-17 |
-| marketing | estatistica-para-decisao-marketing | 4 fases / 16 tópicos | 0 | 0 | 2026-08-19 |
+| marketing | estatistica-para-decisao-marketing | 4 fases / 16 tópicos | 0 | 0 | 2026-08-20 |
 | marketing | producao-de-conteudo | 5 fases / 23 tópicos | 2 | 0 | 2026-08-15 |
 | marketing | copywriting | 4 fases / 16 tópicos | 0 | 0 | — |
 | financas | financas | 5 fases / 25 tópicos | 0 | 0 | — |
@@ -147,10 +165,13 @@ explicados.
 | tecnologia | tecnologia-para-fundadores | 4 fases / 16 tópicos | 0 | 0 | — |
 | consultoria | marketing-para-saas-b2b | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 37 disciplinas, 743 tópicos planejados, 45 páginas escritas (recontagem real em
-disco em 2026-08-19, via `Glob KNOWLEDGE/**/*.md` excluindo mapas/hubs/LEIA-ME — corrige o "41"
-estimado no meio da sessão anterior), **4 conceitos com evidência real**. A grade é plano, não
-progresso — só o LEARNER conta o que você sabe.
+**Realidade:** 37 disciplinas, 743 tópicos planejados, 47 páginas escritas (contagem real em
+disco em 2026-08-20, `find KNOWLEDGE -name "*.md"` excluindo mapas/hubs/LEIA-ME),
+**4 conceitos com evidência real**. A grade é plano, não progresso — só o LEARNER conta o que
+você sabe.
+
+**Débito de LINT aberto (2026-08-20):** cinco conceitos de marketing com página em `KNOWLEDGE/`
+nunca entraram no `LEARNER/estado-marketing.md` — detalhe registrado no topo daquele arquivo.
 
 **Legenda do status nos mapas:** `✅` consolidado · `⚠️` frágil ou revisão vencida ·
 `📍` próximo sugerido · `📖` explicado mas nunca testado · `⬜` nunca tocado.

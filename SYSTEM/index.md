@@ -118,6 +118,8 @@ camada conceitual/decisão vem antes da camada de arquitetura aplicada que a imp
 **1. [[mapa-colaboracao-humano-ia]]** — Colaboração Humano-IA · [[estado-colaboracao-humano-ia]]
 Grade: 5 fases, 19 tópicos (checada na web em 2026-08-14).
 - [[operador-centauro]] — humano planeja/decide, IA executa; vs. oráculo e centauro reverso
+- [[complementaridade-homem-maquina]] — humano e máquina não competem pelo mesmo trabalho, e é
+  a combinação que gera vantagem difícil de copiar (Thiel, *Zero to One* cap. 12); fora da grade
 
 **2. [[mapa-arquitetura-de-agentes-e-contexto]]** — Arquitetura de Agentes e Contexto ·
 [[estado-arquitetura-de-agentes-e-contexto]]
@@ -172,10 +174,12 @@ Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14).
   tempo real
 - [[julgamento-humano-obrigatorio-marketing]] — aplica [[operador-centauro]] às três anteriores;
   distingue oráculo (falta de critério) de centauro reverso (desconfiança do critério)
+- [[problema-de-distribuicao-vs-demanda]] — recompra alta com crescimento travado é gargalo de
+  canal, não de demanda; remédio é abrir canal, não subir verba (fora da grade)
 
 **[[mapa-estatistica-para-decisao-marketing]]** — Estatística para Decisão em Marketing ·
 [[estado-estatistica-para-decisao-marketing]]
-Grade: 4 fases, 16 tópicos (checada na web em 2026-08-19). Criada a partir de autoavaliação do
+Grade: 4 fases, 16 tópicos (checada na web em 2026-08-20). Criada a partir de autoavaliação do
 Tiago — ler/interpretar dado é o ponto fraco declarado em marketing. Separada de
 [[mapa-dados-estatistica-e-ia-ml]] (aquela é técnica/ML, esta é decisão de negócio). Sem
 conceito com página ainda.
@@ -312,8 +316,15 @@ a maioria triada no mesmo dia — ver `SYSTEM/log.md` pra o detalhe de cada uma.
 ## PARA — destino do INBOX (`PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/`)
 
 Substitui a antiga camada `NOTAS/` — decisão de 2026-08-15, método PARA (Tiago Forte), mesma
-estrutura que o Tiago já usa no Notion. Nenhum é fonte. `PROJETOS/`, `AREAS/` e `ARQUIVADOS/`
-ainda vazios — ver `LEIA-ME.md` de cada um.
+estrutura que o Tiago já usa no Notion. Nenhum é fonte. `AREAS/` continua vazia (só o Tiago
+nomeia uma área) — ver `LEIA-ME.md` de cada um.
+
+**PROJETOS/** — compromisso ativo, com próxima ação clara:
+- [[parceria-marketing-mvp-saas-financeiro]] — serviço de marketing para um MVP SaaS
+  financeiro, em parceria; pré-início, aguardando alinhamento com o founder
+- [[parceria-agencia-marketing-bruno-gasquez]] — liderança estratégica numa agência de
+  marketing, tirando o sócio do operacional; pré-início, meta de R$ 25k/mês sem custos ainda
+  calculados
 
 **RECURSOS/** (destino padrão, sem prazo/área definida) — referência externa na raiz, reflexão
 pessoal em `notas-pessoais/` (separado em 2026-08-15, nunca misturar os dois):
@@ -332,6 +343,26 @@ pessoal em `notas-pessoais/` (separado em 2026-08-15, nunca misturar os dois):
 - [[sequoia-services-the-new-software-matheus-beirao]] — Reel transcrito via Apify: tese de que
   IA passa a entregar o trabalho pronto (não só ferramenta), citando relatório da Sequoia
   Capital não verificado nesta sessão
+- [[plano-perfeito-army-diagnostico-distribuicao]] — diagnóstico ao vivo de marca de roupa
+  fitness: gargalo de distribuição, não de demanda; origem de
+  [[problema-de-distribuicao-vs-demanda]]
+- [[linkedin-joao-branco-erros-com-agencia]] — cinco pedidos que um ex-CMO não repetiria; o
+  padrão é terceirizar à agência o que é responsabilidade intransferível do cliente
+- `Comandos e Atalhos Windows.md` — atalhos de Windows, Explorer, PowerShell, git, Claude Code
+  e Obsidian (formato de tabela, não segue o padrão PARA)
+- `product requirements document - pra q serve.md` — o que é um PRD e o que ele precisa conter
+  (com a imagem `Pasted image 20260819105424.png`, que o arquivo referencia)
+- `Videos e cursos que estou acompanhando.md` — watch-list viva de cursos e vídeos; movida do
+  INBOX em 2026-08-20, continua sendo atualizada pelo Tiago
+
+**RECURSOS/leituras/** (criada em 2026-08-20) — anotação e resumo de livro escritos pelo Tiago:
+- `Cap 12 - livro zero to one.md` — nota dele sobre homem-máquina; origem de
+  [[complementaridade-homem-maquina]]
+- `Livro -- Segundo cérebro Tiago forte … Cap 10 - Página 203.md`
+
+**RECURSOS/transcricoes/** (criada em 2026-08-20) — transcrição e resumo gerados por IA:
+- `LOJA DE ROUPAS MIRA R$45 MILHÕES…` (Plano Perfeito #12) · `Transcrição video - Construindo
+  Uma Empresa do Zero… Alfredo Soares` · `Video Youtube Bruno Faggion - o que continua valioso…`
 
 **RECURSOS/notas-pessoais/**:
 - [[motivacao-por-validacao-externa]] — motivar-se por likes desloca o objetivo da atividade
@@ -346,12 +377,14 @@ pessoal em `notas-pessoais/` (separado em 2026-08-15, nunca misturar os dois):
   emocional de forma racional em vez de por estímulo (13/08/2026)
 - [[projeto-nao-estruturado-em-para]] — nota ambígua sobre PARA, arquivada sem resolução por
   decisão do Tiago
+- [[observacoes-founders-vale-do-silicio]] — três observações próprias: ficção científica como
+  viés produtivo, accountability por meta pública, e skin in the game
 
 **ARQUIVADOS/** — inativo, registro de raciocínio encerrado:
 - [[ementa-mapa-status-visual]] — validada e implementada em 2026-08-14, migrada de `ideias/`
-
-**Fora da raiz, em `Videos e cursos que estou acompanhando.md`:** watch-list de cursos/vídeos
-(Obsidian ×3, Faggion) — arquivo de acesso rápido, não segue o formato PARA de propósito.
+- `inbox-triado-2026-08/` — capturas cujo conteúdo já foi inteiramente absorvido por páginas do
+  vault, guardadas como lastro; tabela de origem→destino no `LEIA-ME.md` da pasta
+- `ybernator/` — 123 disciplinas importadas e arquivadas em 2026-08-18
 
 ---
 
@@ -365,3 +398,5 @@ uma ideia ganhar compromisso, ela vai para o destino adequado do PARA.
 - [[dashboard-curriculo-progresso]] — currículo e painel visual derivados do LEARNER, ainda em
   maturação
 - [[inbox-notas-pessoais]] — registro histórico da decisão que criou a camada de INBOX e PARA
+- [[crm-integrado-ia-para-comercial]] — IA lendo o CRM pra extrair objeção recorrente e virar
+  pauta de conteúdo; serve aos dois projetos de parceria, ainda sem validação
