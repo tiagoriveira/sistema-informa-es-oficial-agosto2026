@@ -33,7 +33,7 @@ pedagógica recomendada: pré-requisito → integração → aplicação.
 ### 🧠 neurociencia
 
 **[[mapa-neurociencia-esportiva]]** — Neurociência Esportiva · [[estado-neurociencia-esportiva]]
-Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14).
+Grade: 6 fases, 41 tópicos.
 - [[sistema-motor]] — córtex, via corticoespinhal, cerebelo e gânglios da base cooperando
 - [[propriocepcao-feedback-sensorial]] — os três proprioceptores e o feedback pro cerebelo
 - [[malha-aberta-vs-fechada]] — o atraso sensório-motor que decide se dá pra corrigir
@@ -73,7 +73,7 @@ Grade: 6 fases, 33 tópicos (dos pré-socráticos à filosofia da mente).
 - [[socrates-metodo-elenchos]] — busca por definição universal, desmonta por contradição
 
 **2. [[mapa-logica-e-epistemologia]]** — Lógica e Epistemologia · [[estado-logica-e-epistemologia]]
-Grade: 4 fases, 16 tópicos (checada na web em 2026-08-15). A ferramenta de avaliar argumento —
+Grade: 7 fases, 39 tópicos. A ferramenta de avaliar argumento —
 irmã de [[mapa-historia-da-filosofia]], não a mesma coisa. Sem conceito com página ainda.
 
 **3. [[mapa-frameworks-de-pensamento]]** — Frameworks de Pensamento · [[estado-frameworks-de-pensamento]]
@@ -88,12 +88,12 @@ econômico → onde competir → decisão estratégica com outro jogador → o q
 faz o ofício de produto.
 
 **1. [[mapa-economia]]** — Economia · [[estado-economia]]
-Grade: 4 fases, 17 tópicos (checada na web em 2026-08-15). Micro → macro → comportamental →
-aplicação. Sem conceito com página ainda. Material complementar externo no mapa.
+Grade: 6 fases, 38 tópicos. Como a economia pensa → preço → consumidor e firma → estruturas e
+falhas → macro → as escolas em disputa, comportamental e aplicação. Sem conceito com página.
 
 **2. [[mapa-visao-estrategica-negocios]]** — Visão Estratégica · [[estado-visao-estrategica-negocios]]
-Grade: 5 fases, 23 tópicos. Sem conceito com página ainda. Material complementar externo no
-mapa (fossos, modelos de negócio, análise de concorrência).
+Grade: 6 fases, 47 tópicos. O que é estratégia → existe negócio aqui → onde competir → fossos
+e as sete potências → modelo de negócio e capital → decidir e executar. Sem conceito com página.
 
 **3. [[mapa-teoria-dos-jogos-e-estrategia]]** — Teoria dos Jogos e Estratégia ·
 [[estado-teoria-dos-jogos-e-estrategia]]
@@ -102,7 +102,7 @@ da jogada de outro jogador racional — irmã de [[mapa-frameworks-de-pensamento
 coisa. Sem conceito com página ainda.
 
 **4. [[mapa-product-discovery]]** — Product Discovery · [[estado-product-discovery]]
-Grade: 4 fases, 18 tópicos.
+Grade: 4 fases, 22 tópicos.
 - [[validacao-de-problema]] — confirmar a dor antes de construir
 - [[riscos-de-descoberta]] — os quatro riscos além do valor (Cagan)
 - [[mvp-e-tipos-de-experimento]] — experimento certo pra cada risco
@@ -116,10 +116,10 @@ Grade: 4 fases, 18 tópicos.
   narrativa, posicionamento e produto; princípio original do Tiago (fora da grade)
 
 **5. [[mapa-product-management]]** — Product Management · [[estado-product-management]]
-_(disciplina nova, 2026-08-20)_ Grade: 4 fases, 17 tópicos. O **ofício** de produto — cargo,
+_(disciplina nova, 2026-08-20)_ Grade: 4 fases, 21 tópicos. O **ofício** de produto — cargo,
 time empoderado × time de funcionalidade, priorização, roadmap, estratégia, métricas e
-influência sem autoridade. Descoberta continua sendo de [[mapa-product-discovery]]. Grade
-derivada do acervo Notion, não de fonte em `RAW/` — ver nota no mapa. Sem conceito com página.
+influência sem autoridade. Descoberta continua sendo de [[mapa-product-discovery]]. Sem
+conceito com página ainda.
 
 ### 🤖 inteligencia-artificial
 
@@ -145,7 +145,7 @@ com página ainda.
 ### ⚙️ gestao-sistemas
 
 **[[mapa-fundamentos-sistemas-gestao]]** — Fundamentos de Sistemas & Gestão · [[estado-fundamentos-sistemas-gestao]]
-Grade: 5 fases, 30 tópicos (checada na web em 2026-08-14). Sem conceito com página ainda.
+Grade: 7 fases, 40 tópicos. Sem conceito com página ainda.
 
 **[[mapa-gestao-conhecimento-second-brain]]** — Gestão do Conhecimento & Second Brain · [[estado-gestao-conhecimento-second-brain]]
 Grade: 5 fases, 21 tópicos (checada na web em 2026-08-14).
@@ -164,7 +164,7 @@ Grade: 5 fases, 27 tópicos (checada na web em 2026-08-15). A **ferramenta**; o 
   benchmark ou ferramenta específicos
 
 **[[mapa-produtividade-biohacking]]** — Produtividade & Biohacking · [[estado-produtividade-biohacking]]
-Grade: 4 fases, 12 tópicos (checada na web em 2026-08-15). O corpo (sono, energia) — irmã de
+Grade: 7 fases, 34 tópicos. O corpo (sono, energia) — irmã de
 [[mapa-gestao-de-tempo]]. Sem conceito com página ainda.
 
 **[[mapa-gestao-de-tempo]]** — Gestão de Tempo · [[estado-gestao-de-tempo]]
@@ -174,7 +174,7 @@ prioridade) — irmã de [[mapa-produtividade-biohacking]]. Sem conceito com pá
 ### 📣 marketing
 
 **[[mapa-marketing]]** — Marketing · [[estado-marketing]]
-Grade: 5 fases, 27 tópicos (checada na web em 2026-08-14).
+Grade: 6 fases, 38 tópicos.
 - [[criacao-e-captura-de-demanda]] — marketing cria e captura demanda a partir do job real do
   cliente; propaganda é só uma ferramenta dentro disso, conecta com [[jobs-to-be-done]]
 - [[ia-pesquisa-posicionamento-concorrencia]] — IA transforma pesquisa de concorrência em
@@ -202,7 +202,7 @@ por plataforma — irmã de [[mapa-marketing]], não a mesma coisa.
 - [[mecanica-por-plataforma]] — sinal-chave de cada rede (Instagram/TikTok/Shorts/LinkedIn/Threads-X)
 
 **[[mapa-copywriting]]** — Copywriting · [[estado-copywriting]]
-Grade: 4 fases, 16 tópicos (checada na web em 2026-08-15). A frase que persuade — irmã de
+Grade: 5 fases, 33 tópicos. A frase que persuade — irmã de
 [[mapa-producao-de-conteudo]], não a mesma coisa.
 - [[fud-competitivo]] — medo real + categoria concorrente desqualificada + autoridade própria
 
@@ -215,7 +215,7 @@ Grade: 4 fases, 14 tópicos (checada na web em 2026-08-15). Resolve pendência d
 ### 🤝 dinamicas-sociais (hub novo, 2026-08-15)
 
 **[[mapa-poder-e-dinamica-social]]** — Poder e Dinâmica Social · [[estado-poder-e-dinamica-social]]
-Grade: 4 fases, 13 tópicos (checada na web em 2026-08-15). Maquiavel, persuasão, poder em
+Grade: 6 fases, 33 tópicos. Maquiavel, capital social, desejo mimético, poder em
 geral — irmã de [[mapa-comportamento-masculino-e-realismo]]. Sem conceito com página ainda.
 
 **[[mapa-comportamento-masculino-e-realismo]]** — Comportamento Masculino e Realismo ·
@@ -229,7 +229,7 @@ análise crítica da literatura PUA (Mystery, Neil Strauss), não curso de técn
 documentado de assédio (Julien Blanc). Sem conceito com página ainda.
 
 **[[mapa-identidade-atraente]]** — Identidade Atraente · [[estado-identidade-atraente]]
-Grade: 4 fases, 16 tópicos (checada na web em 2026-08-17). Capstone do hub — atração como
+Grade: 6 fases, 36 tópicos. Capstone do hub — atração como
 subproduto de identidade real (autenticidade, valores, hábito identitário), não de tática.
 Fecha a sobreposição com [[mapa-comportamento-masculino-e-realismo]] e
 [[mapa-seducao-e-comunidade-pua]] de forma explícita. Sem conceito com página ainda.
@@ -258,33 +258,33 @@ Grade: 4 fases, 16 tópicos. Razões, evidências, objeções e diálogo sobre a
 ### 💰 financas
 
 **[[mapa-financas]]** — Finanças · [[estado-financas]]
-Grade: 5 fases, 25 tópicos, pessoal → corporativo (checada na web em 2026-08-14).
+Grade: 6 fases, 45 tópicos, pessoal → margem e preço → caixa e estoque → ler o negócio inteiro.
 Área sensível a fonte errada — ver aviso no mapa. Sem conceito com página ainda.
 
 ### 🗣️ comunicacao
 
 **Sequência recomendada** (definida em 2026-08-20, ao criar as duas disciplinas novas):
 estruturar o pensamento por escrito → levar o argumento a alguém que resiste → outra língua,
-que é percurso independente. O acervo Notion sugere [[mapa-logica-e-epistemologia]] (hub
-filosofia) **antes** das duas primeiras — é a gramática das outras.
+que é percurso independente. [[mapa-logica-e-epistemologia]] (hub filosofia) é pré-requisito
+natural das duas primeiras — é a gramática de ambas.
 
 **1. [[mapa-escrita-e-pensamento-estruturado]]** — Escrita e Pensamento Estruturado ·
 [[estado-escrita-e-pensamento-estruturado]]
-_(disciplina nova, 2026-08-20)_ Grade: 5 fases, 24 tópicos. Pirâmide, MECE, SCQA, a frase, o
-parágrafo, os formatos, o processo. Texto que **decide** — não texto que vende
-([[mapa-copywriting]]) nem formato de plataforma ([[mapa-producao-de-conteudo]]). Grade
-derivada do acervo Notion, não de fonte em `RAW/`. Sem conceito com página.
+_(disciplina nova, 2026-08-20)_ Grade: 6 fases, 29 tópicos. Pirâmide, decomposição, SCQA, a
+frase, o parágrafo, os formatos, o processo. Texto que **decide** — não texto que vende
+([[mapa-copywriting]]) nem formato de plataforma ([[mapa-producao-de-conteudo]]). Sem conceito
+com página ainda.
 
 **2. [[mapa-influencia-persuasao-oratoria]]** — Influência, Persuasão e Oratória ·
 [[estado-influencia-persuasao-oratoria]]
-_(disciplina nova, 2026-08-20)_ Grade: 5 fases, 22 tópicos. Retórica, negociação (interesses ×
+_(disciplina nova, 2026-08-20)_ Grade: 5 fases, 24 tópicos. Retórica, negociação (interesses ×
 posições, BATNA, ZOPA) e oratória. Falácias continuam sendo de
-[[mapa-logica-e-epistemologia]]; Cialdini, de [[mapa-poder-e-dinamica-social]]. Grade derivada
-do acervo Notion, não de fonte em `RAW/`. Sem conceito com página.
+[[mapa-logica-e-epistemologia]]; capital social e poder informal, de
+[[mapa-poder-e-dinamica-social]]. Sem conceito com página ainda.
 
 **3. [[mapa-ingles]]** — Inglês · [[estado-ingles]]
-Grade: 5 fases, 30 tópicos, por nível CEFR (A1→C2). Formato adaptado — ver nota no mapa.
-Material complementar externo no mapa. Sem conceito com página ainda.
+Grade: 6 fases, 42 tópicos, por nível CEFR (A1→C2) com uma fase de método na frente. Formato
+adaptado — ver nota no mapa. Sem conceito com página ainda.
 
 ### 💻 [[hub-tecnologia]] (hub novo, 2026-08-17)
 
@@ -358,9 +358,6 @@ nomeia uma área) — ver `LEIA-ME.md` de cada um.
 
 **RECURSOS/** (destino padrão, sem prazo/área definida) — referência externa na raiz, reflexão
 pessoal em `notas-pessoais/` (separado em 2026-08-15, nunca misturar os dois):
-- [[acervo-cursos-notion]] — **catálogo dos 21 materiais do acervo "Cursos CLAUDE" do Notion**,
-  importado em 2026-08-20: o que cada um cobre, quanto dá pra confiar em cada camada, e a qual
-  disciplina do vault ele foi ligado. Os mapas apontam para ele; ele aponta para os mapas
 - [[futebol-perfil-fisico-por-posicao]] — exigências físicas do futebol moderno por posição
   (conversa com Grok)
 - [[metodo-llm-wiki-karpathy]] — o padrão que inspira o próprio desenho deste vault; linkado

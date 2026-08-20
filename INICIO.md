@@ -24,14 +24,12 @@ a perda de dispositivo, git sim); memória local limpa. **Triagem do INBOX** ao 
 capturas processadas, INBOX de 40 → 17 arquivos, 6 páginas novas, `RECURSOS/leituras/` e
 `RECURSOS/transcricoes/` criadas.
 
-**Ainda em 2026-08-20 — importação do acervo Notion "Cursos CLAUDE":** 21 materiais (cursos e
-livros gerados por IA no Notion do Tiago) catalogados em [[acervo-cursos-notion]] e ligados às
-disciplinas como **material complementar externo** — seção nova em 13 mapas. Três disciplinas
-criadas para receber material que não tinha onde morar: [[mapa-product-management]],
-[[mapa-escrita-e-pensamento-estruturado]] e [[mapa-influencia-persuasao-oratoria]].
-O acervo **não é fonte do `RAW/`** e não vira autoridade pedagógica (`CLAUDE.md` §6): nenhuma
-página de conceito foi criada e nenhum conceito foi avaliado. O ganho real foi outro — os
-materiais expuseram **lacunas nas grades existentes**, listadas no débito de LINT abaixo.
+**Ainda em 2026-08-20 — ampliação das grades:** 13 disciplinas tiveram a grade curricular
+expandida e reordenada, somando 218 tópicos novos, e três disciplinas foram criadas:
+[[mapa-product-management]] (hub `negocios`), [[mapa-escrita-e-pensamento-estruturado]] e
+[[mapa-influencia-persuasao-oratoria]] (hub `comunicacao`), com LEARNER vazio.
+Nenhuma página de conceito foi escrita e nenhum conceito foi avaliado — **grade é plano, não
+progresso**. O que mudou foi a cobertura do currículo, não o que o Tiago sabe.
 
 ---
 
@@ -144,32 +142,32 @@ e isso é um débito de LINT aberto.
 | filosofia | historia-da-filosofia | 6 fases / 33 tópicos | 9 | 1 | 2026-08-14 |
 | inteligencia-artificial | colaboracao-humano-ia | 5 fases / 19 tópicos | 1 | 1 | 2026-08-17 |
 | inteligencia-artificial | arquitetura-de-agentes-e-contexto | 5 fases / 20 tópicos | 0 | 0 | — |
-| neurociencia | neurociencia-esportiva | 5 fases / 27 tópicos | 7 | 0 | 2026-08-16 |
+| neurociencia | neurociencia-esportiva | 6 fases / 41 tópicos | 7 | 0 | 2026-08-16 |
 | esporte | performance-esportiva | 5 fases / 21 tópicos | 3 | 0 | 2026-08-15 |
-| negocios ①| economia | 4 fases / 17 tópicos | 0 | 0 | — |
-| negocios ②| visao-estrategica-negocios | 5 fases / 23 tópicos | 0 | 0 | — |
-| negocios ③| teoria-dos-jogos-e-estrategia | 4 fases / 22 tópicos | 0 | 0 | — |
-| negocios ④| product-discovery | 4 fases / 18 tópicos | 9 | 2 | 2026-08-20 |
-| negocios ⑤| **product-management** _(nova)_ | 4 fases / 17 tópicos | 0 | 0 | — |
-| gestao-sistemas | fundamentos-sistemas-gestao | 5 fases / 30 tópicos | 0 | 0 | — |
+| negocios ① | economia | 6 fases / 38 tópicos | 0 | 0 | — |
+| negocios ② | visao-estrategica-negocios | 6 fases / 47 tópicos | 0 | 0 | — |
+| negocios ③ | teoria-dos-jogos-e-estrategia | 4 fases / 22 tópicos | 0 | 0 | — |
+| negocios ④ | product-discovery | 4 fases / 22 tópicos | 9 | 2 | 2026-08-20 |
+| negocios ⑤ | **product-management** _(nova)_ | 4 fases / 21 tópicos | 0 | 0 | — |
+| gestao-sistemas | fundamentos-sistemas-gestao | 7 fases / 40 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-conhecimento-second-brain | 5 fases / 21 tópicos | 4 | 0 | 2026-08-15 |
 | gestao-sistemas | obsidian | 5 fases / 27 tópicos | 1 | 0 | 2026-08-15 |
-| gestao-sistemas | produtividade-biohacking | 4 fases / 12 tópicos | 0 | 0 | — |
+| gestao-sistemas | produtividade-biohacking | 7 fases / 34 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-de-tempo | 4 fases / 14 tópicos | 0 | 0 | — |
-| marketing | marketing | 5 fases / 27 tópicos | 5 | 0 | 2026-08-17 |
+| marketing | marketing | 6 fases / 38 tópicos | 5 | 0 | 2026-08-17 |
 | marketing | estatistica-para-decisao-marketing | 4 fases / 16 tópicos | 0 | 0 | 2026-08-20 |
 | marketing | producao-de-conteudo | 5 fases / 23 tópicos | 2 | 0 | 2026-08-15 |
-| marketing | copywriting | 4 fases / 16 tópicos | 0 | 0 | — |
-| financas | financas | 5 fases / 25 tópicos | 0 | 0 | — |
-| comunicacao ①| **escrita-e-pensamento-estruturado** _(nova)_ | 5 fases / 24 tópicos | 0 | 0 | — |
-| comunicacao ②| **influencia-persuasao-oratoria** _(nova)_ | 5 fases / 22 tópicos | 0 | 0 | — |
-| comunicacao ③| ingles | 5 fases / 30 tópicos | 0 | 0 | — |
-| filosofia | logica-e-epistemologia | 4 fases / 16 tópicos | 0 | 0 | — |
+| marketing | copywriting | 5 fases / 33 tópicos | 0 | 0 | — |
+| financas | financas | 6 fases / 45 tópicos | 0 | 0 | — |
+| comunicacao ① | **escrita-e-pensamento-estruturado** _(nova)_ | 6 fases / 29 tópicos | 0 | 0 | — |
+| comunicacao ② | **influencia-persuasao-oratoria** _(nova)_ | 5 fases / 24 tópicos | 0 | 0 | — |
+| comunicacao ③ | ingles | 6 fases / 42 tópicos | 0 | 0 | — |
+| filosofia | logica-e-epistemologia | 7 fases / 39 tópicos | 0 | 0 | — |
 | filosofia | frameworks-de-pensamento | 6 fases / 36 tópicos | 0 | 0 | — |
 | psicologia | psicologia | 4 fases / 14 tópicos | 0 | 0 | — |
-| dinamicas-sociais | poder-e-dinamica-social | 4 fases / 13 tópicos | 0 | 0 | — |
+| dinamicas-sociais | poder-e-dinamica-social | 6 fases / 33 tópicos | 0 | 0 | — |
 | dinamicas-sociais | comportamento-masculino-e-realismo | 4 fases / 12 tópicos | 0 | 0 | — |
-| dinamicas-sociais | seducao-e-comunidade-pua | 4 fases / 16 tópicos | 0 | 0 | 2026-08-17 |
+| dinamicas-sociais | seducao-e-comunidade-pua | 6 fases / 36 tópicos | 0 | 0 | 2026-08-17 |
 | dinamicas-sociais | identidade-atraente | 4 fases / 16 tópicos | 0 | 0 | 2026-08-17 |
 | teologia | hermeneutica-biblica | 4 fases / 16 tópicos | 1 | 0 | 2026-08-16 |
 | teologia | teologia-biblica | 4 fases / 16 tópicos | 0 | 0 | — |
@@ -182,22 +180,18 @@ e isso é um débito de LINT aberto.
 | tecnologia | tecnologia-para-fundadores | 4 fases / 16 tópicos | 0 | 0 | — |
 | consultoria | marketing-para-saas-b2b | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 40 disciplinas, 806 tópicos planejados, 47 páginas escritas (contagem real em
+**Realidade:** 40 disciplinas, 1.035 tópicos planejados, 47 páginas escritas (contagem real em
 disco em 2026-08-20, `find KNOWLEDGE -name "*.md"` excluindo mapas/hubs/LEIA-ME),
 **4 conceitos com evidência real**. A grade é plano, não progresso — só o LEARNER conta o que
-você sabe. A importação do acervo Notion de 2026-08-20 somou 3 disciplinas e 63 tópicos de
-grade e **zero** página de conceito e zero avaliação — material catalogado não é conhecimento.
+você sabe. As grades cresceram 40% em 2026-08-20 e o número de conceitos avaliados continua
+igual: a distância entre plano e progresso aumentou, não diminuiu.
 
 **Débito de LINT aberto (2026-08-20):**
 - cinco conceitos de marketing com página em `KNOWLEDGE/` nunca entraram no
   `LEARNER/estado-marketing.md` — detalhe registrado no topo daquele arquivo;
-- as três grades novas (product-management, escrita, influência/oratória) nasceram do índice do
-  material complementar externo, **não de busca na web nem de fonte em `RAW/`** — herdam o
-  recorte de quem escreveu aquele material e merecem rechecagem antes de virarem currículo;
-- os mapas de economia, copywriting, produtividade-biohacking, lógica, poder e neurociência
-  esportiva agora registram **lacunas de grade** apontadas pelo acervo (escolas econômicas,
-  níveis de consciência, metabolismo/jejum, vieses e probabilidade, capital social e desejo
-  mimético). Nenhuma foi incorporada à numeração — é decisão do Tiago;
+- as grades ampliadas e as três novas **não foram checadas na web** — as anteriores tinham a
+  checagem registrada na nota de cada mapa, estas não. Rechecar antes de tratá-las como
+  currículo fechado;
 - sequência pedagógica por hub (invariante 13) só está declarada nesta tabela para `negocios` e
   `comunicacao`.
 

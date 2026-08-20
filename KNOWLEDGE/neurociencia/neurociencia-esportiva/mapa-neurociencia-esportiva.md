@@ -24,37 +24,53 @@ esta ordem não é dogma, desvie quando houver motivo)_
 2. 📖 [[propriocepcao-feedback-sensorial]] — como o corpo sabe onde está
 3. 📖 [[malha-aberta-vs-fechada]] — quando há tempo de corrigir e quando não há
 4. 📖 [[unidades-motoras-e-recrutamento]] — da intenção à contração
+5. ⬜ Força é primeiro um fenômeno neural: o que ganha antes do músculo crescer
 
 ### Fase 2 — Aprendizagem motora e neuroplasticidade
-5. 📖 [[estagios-aprendizagem-motora]] (cognitivo → associativo → autônomo)
-6. 📍 Neuroplasticidade dependente de uso — como a prática muda o cérebro
-7. ⬜ Prática variável vs. em blocos, e o paradoxo da dificuldade desejável
-8. ⬜ Consolidação e o papel do sono na fixação motora
-9. ⬜ Feedback extrínseco: frequência, timing e o risco de dependência
-10. ⬜ Recompensa e autonomia como aceleradores da aquisição
+6. 📖 [[estagios-aprendizagem-motora]] (cognitivo → associativo → autônomo)
+7. 📍 Neuroplasticidade dependente de uso — como a prática muda o cérebro
+8. ⬜ Prática variável vs. em blocos, e o paradoxo da dificuldade desejável
+9. ⬜ Consolidação e o papel do sono na fixação motora
+10. ⬜ Feedback extrínseco: frequência, timing e o risco de dependência
+11. ⬜ Recompensa e autonomia como aceleradores da aquisição
+12. ⬜ O cérebro do expert: o que anos de treino de fato mudam — e o que a regra das 10 mil horas não sustenta
 
 ### Fase 3 — Habilidades perceptivo-cognitivas
-11. ⬜ Tempo de reação simples vs. de escolha — o que dá pra treinar
-12. ⬜ Antecipação e leitura de pistas — o que separa expert de novato
-13. ⬜ Tomada de decisão sob pressão temporal e heurísticas motoras
-14. ⬜ [[foco-atencional-nideffer]] — atenção: foco amplo/estreito, interno/externo
-15. ⬜ Funções executivas no esporte — inibição, flexibilidade, memória de trabalho
+13. ⬜ Tempo de reação simples vs. de escolha — o que treina e o que é vendido
+14. ⬜ Antecipação e leitura de pistas — o expert não reage mais rápido, ele lê antes
+15. ⬜ Quiet Eye: a fixação final antes do movimento
+16. ⬜ Tomada de decisão sob pressão temporal e heurísticas motoras
+17. ⬜ [[foco-atencional-nideffer]] — atenção: foco amplo/estreito, interno/externo
+18. ⬜ Memória de trabalho: o gargalo do esporte coletivo
+19. ⬜ Funções executivas no esporte — inibição, flexibilidade, atualização
 
 ### Fase 4 — Fadiga, esforço e regulação
-16. ⬜ Fadiga central vs. periférica — o papel do cérebro no cansaço
-17. ⬜ Fadiga mental e seu efeito no desempenho físico
-18. ⬜ Teoria do governador central e percepção de esforço
-19. ⬜ Efeito duradouro da fadiga sobre a aprendizagem motora
-20. ⬜ [[choking-sob-pressao]] — estresse, ansiedade de desempenho e o "engasgo"
-21. ⬜ Regulação emocional e autofala
+20. ⬜ Fadiga central vs. periférica — a distinção que organiza o resto
+21. ⬜ O que de fato termina um esforço máximo
+22. ⬜ Teoria do governador central: a hipótese, a disputa e o que sobra dela
+23. ⬜ Esforço percebido: a variável mais útil e a mais mal usada
+24. ⬜ O sistema nervoso tem uma conta de combustível própria
+25. ⬜ Calor e altitude — e a correção sobre hidratação
+26. ⬜ Fadiga mental e seu efeito no desempenho físico
+27. ⬜ Efeito duradouro da fadiga sobre a aprendizagem motora
 
-### Fase 5 — Aplicações e fronteira
-22. ⬜ Treino cognitivo e perceptivo — o que transfere e o que não transfere
-23. ⬜ Neurofeedback no esporte — evidência atual e limites
-24. ⬜ Prática mental e imagética motora
-25. ⬜ Flow: condições, neurociência e por que não se força
-26. ⬜ Concussão: fisiopatologia, protocolo de retorno e risco de longo prazo
-27. ⬜ Lesão: reorganização cortical, medo de re-lesão e reabilitação neuro-orientada
+### Fase 5 — Emoção e pressão
+28. ⬜ Ativação e o U invertido — de onde a curva veio, e o que ela esconde
+29. ⬜ [[choking-sob-pressao]] — quando a consciência sabota o movimento automático
+30. ⬜ Ansiedade de competição: dois componentes, duas soluções diferentes
+31. ⬜ Rituais pré-performance: o que eles de fato fazem
+32. ⬜ Flow: descrição sólida, explicação especulativa — e por que não se força
+33. ⬜ Regulação emocional e autofala
+
+### Fase 6 — Substrato, recuperação e custo
+34. ⬜ Sono: o achado mais forte de toda a área
+35. ⬜ Recuperação: o que se vende, o que sustenta, e quando o sistema nervoso entra em colapso
+36. ⬜ Aquecimento e alongamento: o que previne lesão, e o que reduz força agudamente
+37. ⬜ Prática mental e imagética motora — o que a visualização faz e o que não substitui
+38. ⬜ Treino cognitivo e perceptivo — o que transfere e o que não transfere
+39. ⬜ Neurofeedback no esporte — evidência atual e limites
+40. ⬜ Concussão e CTE: fisiopatologia, protocolo de retorno, e por que as estatísticas de ex-atletas não são taxas populacionais
+41. ⬜ Lesão: reorganização cortical, medo de re-lesão e reabilitação neuro-orientada
 
 ## Conceitos com página
 - [[sistema-motor]] — córtex, via corticoespinhal, cerebelo e gânglios da base cooperando
@@ -65,49 +81,15 @@ esta ordem não é dogma, desvie quando houver motivo)_
 - [[foco-atencional-nideffer]] — largura/direção da atenção, quatro quadrantes
 - [[choking-sob-pressao]] — reinvestimento vs. distração, e por que implícito resiste mais
 
-## Material complementar (externo — acervo Notion)
-
-> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
-> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
-> Catálogo completo do acervo: [[acervo-cursos-notion]].
-
-**[Livro — Neurociência do Esporte: o sistema nervoso como limite da performance](https://app.notion.com/p/3baa16ed6e5f81c5b8f3c2cafef1fbdc)** — 31 módulos em 7 partes.
-
-Encaixe quase termo a termo com esta grade — é o material do acervo mais alinhado a uma
-disciplina já existente. Os módulos 0 e 1 são a régua: **mecanismo não é protocolo**, e **por que
-a evidência deste campo é tão frágil**.
-
-| Módulos do livro | Tópicos desta grade |
-|---|---|
-| M3–M4 — da intenção à contração, a unidade motora | 1–4 ([[sistema-motor]], [[unidades-motoras-e-recrutamento]]) |
-| M5–M8 — três fases do aprendizado motor, **prática variável**, prática mental, o cérebro do expert | 5–8, 24 ([[estagios-aprendizagem-motora]]) |
-| M2, M9–M13 — **fadiga central × periférica**, o que termina um esforço, **Governador Central**, esforço percebido, combustível, calor e altitude | Fase 4 (16–19) |
-| M14–M18 — decisão em fração de segundo, tempo de reação, **Quiet Eye**, antecipação, memória de trabalho | Fase 3 (11–15) |
-| M19–M23 — ativação e o U invertido, **travar sob pressão**, flow, rituais pré-performance, ansiedade de competição | 20 ([[choking-sob-pressao]]), 21, 25 |
-| M24–M27 — **sono**, suplementos, recuperação e colapso do SNC, aquecimento e alongamento | 8 (consolidação no sono) e Fase 5 |
-| M28 — concussão e CTE | 26 |
-
-**O que o livro coloca como achado mais forte de todos:** **sono**. Não treino invisível, não
-suplemento, não neurofeedback — sono e carga acumulada. Isso reforça o tópico 8 desta grade
-(consolidação e o papel do sono na fixação motora), que hoje está no meio da Fase 2 como se
-fosse detalhe.
-
-**Quatro correções que o livro faz e que tocam tópicos desta grade:**
-- **O U invertido (Yerkes-Dodson)**, base do tópico 20, vem de um estudo de **1908 com
-  camundongos e choque elétrico**. O desenho que aparece nos livros é ilustração, não dado (M19).
-  O tópico continua útil como modelo mental; não como curva medida.
-- **Ácido lático** não causa a dor de dois dias depois: é lactato, ele é combustível, e sai em
-  até cerca de uma hora — a cronologia sozinha refuta (M2). Já registrado no vault em
-  [[mito-do-lactato]], o que confirma a página.
-- **Alongamento estático antes** não previne lesão e **reduz força agudamente** (M27).
-- **Estatísticas de CTE** em ex-atletas vêm de cérebros doados por famílias de quem teve
-  sintomas. **Não há denominador** — não são taxas populacionais (M28). Relevante para o tópico
-  26, que hoje está escrito como "risco de longo prazo" sem essa ressalva.
-
-**Sobreposição com [[mapa-performance-esportiva]]:** o M12 (combustível) e o M13 (calor,
-altitude, hidratação) são fisiologia do esforço, dona é a disciplina irmã. Aqui só se linka.
-
 ## Nota sobre a grade
+
+**Ampliada em 2026-08-20.** Entraram Quiet Eye, o cérebro do expert, esforço percebido, a
+conta de combustível do sistema nervoso, calor e altitude, rituais pré-performance, e uma fase
+final de substrato e recuperação — com **sono** em primeiro lugar, que é o achado mais forte da
+área e estava perdido no meio da Fase 2. Três tópicos foram reescritos para carregar a ressalva
+junto: a origem do U invertido, o que aquecimento e alongamento fazem, e por que as
+estatísticas de CTE em ex-atletas não são taxas populacionais.
+
 Grade desenhada em 2026-08-14 a partir de busca na web (regra `CLAUDE.md` §6 — evitar tópico
 obsoleto). Ordem: mecanismo → aprendizagem → cognição aplicada → limites → aplicação, que é a
 progressão usada em programas da área. Fases 3-5 são as que mais mudam; a Fase 5 em especial

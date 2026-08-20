@@ -19,76 +19,60 @@ _(status derivado do LEARNER — não editar à mão, regenerado a cada UPDATE. 
 esta ordem não é dogma, desvie quando houver motivo)_
 
 ### Fase 1 — Fundamentos
-1. 📍 Clareza e especificidade antes de persuasão — copy confuso não converte, por mais criativo que seja
-2. ⬜ Para quem você escreve: uma pessoa específica, não "todo mundo"
-3. ⬜ Benefício vs. característica — o que o produto faz por quem lê, não o que ele é
-4. ⬜ Prova: dado, depoimento, demonstração — por que afirmação sem prova soa vazia
+1. 📍 O que copy é: venda por escrito — e as três confusões que travam iniciante
+2. ⬜ A hierarquia de impacto: oferta → público → consciência → mecanismo → texto
+3. ⬜ Copy não cria desejo, canaliza desejo que já existe
+4. ⬜ Clareza e especificidade antes de persuasão
+5. ⬜ Benefício vs. característica, e o teste do "e daí?"
+6. ⬜ Prova: a hierarquia do mais forte ao mais fraco, e por que depoimento vago é ruído
 
-### Fase 2 — Frameworks clássicos
-5. ⬜ AIDA (Atenção, Interesse, Desejo, Ação) — o mapa mais usado da jornada do leitor
-6. ⬜ PAS (Problema, Agitação, Solução) — quando o leitor já sabe que tem o problema
-7. ⬜ PASTOR e 4Ps — variações pra contextos de venda mais longos
-8. ⬜ Storytelling como framework — por que narrativa converte mais que argumento puro
+### Fase 2 — Pesquisa, consciência e oferta
+7. ⬜ Pesquisa: minerar a linguagem literal do cliente, e onde ela está
+8. ⬜ A pergunta de entrevista que traz o gatilho, e por que pergunta genérica não serve
+9. ⬜ Objeções em ordem de peso — as 3 a 7 que realmente travam a venda
+10. ⬜ Os cinco níveis de consciência: inconsciente → totalmente consciente, e a copy de cada um
+11. ⬜ Sofisticação de mercado: os cinco estágios, e por que promessa maior não resolve do 3 em diante
+12. ⬜ Oferta: resultado desejado, probabilidade percebida, tempo e esforço — e redução de risco
 
-### Fase 3 — As peças que mais importam
-9. ⬜ Headline: a única linha cujo trabalho é fazer ler a próxima
-10. ⬜ Os 10 tipos de hook (credibilidade, medo, curiosidade, contra-narrativa, identidade...)
-11. ⬜ Call to action: por que "clique aqui" converte pior que ação específica
-12. ⬜ Objeção: prever e neutralizar antes que o leitor pense nela
+### Fase 3 — Anatomia e frameworks
+13. ⬜ A espinha de toda peça: headline, lead, corpo, mecanismo, prova, objeção, oferta, CTA
+14. ⬜ Headline: as quatro funções, os ingredientes, e o método do volume
+15. ⬜ Os tipos de hook (credibilidade, medo, curiosidade, contra-narrativa, identidade)
+16. ⬜ AIDA, PAS, BAB, 4 Ps e StoryBrand — qual usar, e quando nenhum serve
+17. ⬜ Mecanismo: em mercado sofisticado, é a seção que faz a venda
+18. ⬜ Persuasão e seus limites — e por que escassez falsa converte hoje e destrói a marca depois
+19. ⬜ CTA: um só, claro, com atrito mínimo
 
-### Fase 4 — Prática e edição
-13. ⬜ Escrever o rascunho rápido, editar devagar — as duas fases não se misturam
-14. ⬜ Teste A/B de copy: o que testar primeiro (headline > oferta > corpo)
-15. ⬜ Ler em voz alta: o teste mais barato pra achar frase que trava
-16. ⬜ Cortar: por que o segundo rascunho é sempre menor que o primeiro
+### Fase 4 — Canal, edição e medição
+20. ⬜ Copy por canal: anúncio, página de venda e VSL, e-mail e WhatsApp
+21. ⬜ B2B, ticket alto e serviço local: múltiplos decisores, ciclo longo e risco de carreira
+22. ⬜ Ângulo é mais importante que texto — varie ângulo antes de variar palavra
+23. ⬜ Clareza, ritmo e o protocolo de edição
+24. ⬜ Cortar: por que o segundo rascunho é sempre menor que o primeiro
+25. ⬜ O que medir por etapa, e o erro de otimizar o meio do funil piorando o fim
+26. ⬜ Teste A/B: volume suficiente, uma variável por vez, e coisas grandes primeiro
+
+### Fase 5 — IA aplicada à copy
+27. ⬜ Onde a IA é forte em copy (volume de pesquisa, geração divergente, crítica adversarial) e onde é perigosa
+28. ⬜ O workflow: IA nas pontas — análise e crítica —, você no meio, na decisão e na escrita
+29. ⬜ Prompt de copy: contexto de negócio, público, exemplos de voz, restrições e tarefa única
+30. ⬜ Sistema de contexto persistente: dossiê de marca, dossiê de público, banco de provas, swipe file anotado, registro de testes
+31. ⬜ Matar o texto com cara de IA: os sinais, e a correção que resolve a maior parte (especificidade)
+32. ⬜ Escala sem virar spam — e por que muitas variantes com pouco volume ensinam ruído
+33. ⬜ Claim inventado: o risco número um, e o protocolo de verificação antes de publicar
 
 ## Conceitos com página (fora da numeração da grade)
 - [[fud-competitivo]] — medo real + categoria concorrente desqualificada + autoridade própria
   como contraste; apoio ao tópico 10 (hooks) e 12 (objeção)
 
-## Material complementar (externo — acervo Notion)
-
-> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
-> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
-> Catálogo completo do acervo: [[acervo-cursos-notion]].
-
-**[Curso — Copywriting + IA aplicada à copy](https://app.notion.com/p/3b5a16ed6e5f81ab9a4fed8924f14ddf)** — 21 módulos em 3 partes.
-
-| Módulos do curso | Tópicos desta grade |
-|---|---|
-| M0–M1 — o que copy é, hierarquia de impacto, pesquisa e voz literal do cliente | Fase 1 (1–2) |
-| M3–M4 — oferta, anatomia da peça (headline, lead, corpo, mecanismo, prova, objeção, CTA) | Fase 1 (3–4) e Fase 3 (11–12) |
-| M7 — AIDA, PAS, BAB, 4 Ps, StoryBrand, e quando não usar nenhum | Fase 2 (5–8) |
-| M5 — headlines: as quatro funções, ingredientes, padrões, método das 20–30 | Fase 3 (9–10) |
-| M8–M9 — clareza, ritmo, protocolo de edição, o que medir por etapa, teste A/B | Fase 4 (13–16) |
-| M10–M13 — copy por canal: anúncio, página e VSL, e-mail e WhatsApp, B2B e serviço local | **sem tópico na grade** |
-| M14–M20 — **a Parte 3 inteira: IA aplicada a copy** | **sem tópico na grade** — ver abaixo |
-
-**Duas lacunas que o material expõe.**
-
-1. **Níveis de consciência e sofisticação de mercado (Eugene Schwartz).** O curso chama isso de
-   "o conceito mais importante do curso inteiro", e a grade não tem nenhum tópico sobre ele.
-   Cinco níveis (inconsciente → totalmente consciente) e cinco estágios de sofisticação — é o
-   que decide qual copy serve a qual público. O tópico 13 de [[mapa-marketing]] toca no assunto
-   ("estratégia de conteúdo ligada a estágio de consciência"), mas o dono natural é aqui.
-
-2. **IA aplicada a copy.** Sete módulos sobre workflow (IA nas pontas — análise e crítica —,
-   você no meio), engenharia de prompt, sistema de contexto persistente (dossiê de marca, de
-   público, banco de provas), como matar texto com cara de IA, escala sem virar spam, e riscos
-   legais. A grade não prevê nada disso, e [[mapa-marketing]] tem a Fase 5 de IA mas voltada a
-   campanha, não a texto.
-
-Ambas ficam registradas como candidatas a tópico — decisão do Tiago.
-
-**A regra que o curso repete e que combina com o vault:** IA multiplica competência, não
-substitui. Quem sabe copy usa IA e produz cinco vezes mais; quem não sabe produz cinco vezes
-mais texto ruim com mais confiança. É a mesma tese de [[operador-centauro]].
-
-**O que o curso não entrega:** nenhum benchmark de CTR, conversão ou custo por lead, nenhuma
-especificação de plataforma, nenhum template pronto — "template pronto já está saturado no seu
-mercado por definição".
-
 ## Nota sobre a grade
+
+**Ampliada em 2026-08-20.** Duas entradas mudam a disciplina de lugar: **níveis de
+consciência e sofisticação de mercado** na Fase 2 — sem isso, não há como decidir qual copy
+serve a qual público — e uma fase inteira de **IA aplicada à copy**, com workflow, contexto
+persistente e verificação de claim. Também entraram copy por canal e a hierarquia de impacto,
+que coloca o texto em último lugar na ordem de investigação.
+
 Grade desenhada em 2026-08-15 a partir de busca na web (regra `CLAUDE.md` §6). Ordem:
 fundamentos que não mudam (clareza, prova, especificidade) → frameworks estruturais →
 componentes táticos (headline, hook, CTA) → prática de edição, que é onde copy medíocre vira

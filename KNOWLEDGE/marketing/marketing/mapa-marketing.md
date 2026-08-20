@@ -33,34 +33,47 @@ esta ordem não é dogma, desvie quando houver motivo)_
 5. ⬜ Pesquisa de mercado e escuta do cliente (conecta com [[jobs-to-be-done]])
 6. ⬜ Marca: identidade, consistência e quando faz sentido reposicionar
 
-### Fase 2 — Canais e distribuição
-7. ⬜ O mapa de canais: orgânico, pago, próprio, ganho
-8. ⬜ SEO e busca — incluindo busca via IA e o que mudou
-9. ⬜ Mídia paga: leilão, segmentação, criativo e verba
-10. ⬜ Social e comunidades — plataforma nativa vs. conteúdo reciclado
-11. ⬜ Creators, parcerias e retail media
-12. ⬜ E-mail e canais próprios — o ativo que não depende de algoritmo
+### Fase 2 — Preço como ferramenta de marketing
+7. ⬜ Preço de referência: interna, externa e contextual — a única que você controla
+8. ⬜ Âncora: por que a ordem em que você apresenta as opções não é neutra
+9. ⬜ Efeito chamariz: a opção que existe para não ser escolhida, e a pergunta que ela troca
+10. ⬜ Combo e bundling: preço único desliga a comparação item a item
+11. ⬜ Visibilidade de preço: ser competitivo onde ele sabe de cor, ter margem onde ele não compara
+12. ⬜ Desconto: a conta que quase ninguém faz — e por que promoção permanente vira o preço novo
+13. ⬜ Dor de pagamento e forma de cobrar: taxa separada, embutida, ou grátis acima de um valor
+14. ⬜ O dígito final: convenção de mercado que sinaliza posicionamento, não lei da natureza
 
-### Fase 3 — Conteúdo e criativo
-13. ⬜ Estratégia de conteúdo ligada a estágio de consciência
-14. ⬜ Copy: promessa, prova, objeção, chamada
-15. ⬜ Criativo como variável de maior impacto na mídia paga
-16. ⬜ Teste de criativo: volume, iteração e leitura de resultado
-17. ⬜ Landing page e conversão
+### Fase 3 — Canais e distribuição
+15. ⬜ O mapa de canais: orgânico, pago, próprio, ganho
+16. ⬜ SEO e busca — incluindo busca via IA e o que mudou
+17. ⬜ Mídia paga: leilão, segmentação, criativo e verba
+18. ⬜ Social e comunidades — plataforma nativa vs. conteúdo reciclado
+19. ⬜ Creators, parcerias e retail media
+20. ⬜ E-mail e canais próprios — o ativo que não depende de algoritmo
 
-### Fase 4 — Dados, medição e decisão
-18. ⬜ Funil e jornada — métricas por estágio
-19. ⬜ CAC, LTV e payback — a matemática que decide o canal
-20. ⬜ Atribuição: last-click, incrementalidade e por que os números divergem
-21. ⬜ Teste A/B e significância — quando parar o teste
-22. ⬜ Analytics preditivo vs. descritivo
-23. ⬜ Dashboard: o que olhar diário, semanal e mensal
+### Fase 4 — Conteúdo e criativo
+21. ⬜ Estratégia de conteúdo ligada a estágio de consciência (dono: [[mapa-copywriting]])
+22. ⬜ Copy: promessa, prova, objeção, chamada
+23. ⬜ Criativo como variável de maior impacto na mídia paga
+24. ⬜ Ângulo antes de texto: testar cinco ângulos rende mais que cinco versões do mesmo
+25. ⬜ Copy por temperatura: frio pede dor e identificação, quente pede oferta explícita
+26. ⬜ Fadiga de criativo: todo anúncio decai, e ter reserva de ângulo é gestão de risco
+27. ⬜ Landing page e conversão
 
-### Fase 5 — IA aplicada a marketing
-24. 📖 [[ia-pesquisa-posicionamento-concorrencia]] — pesquisa e concorrência viram monitoramento contínuo
-25. 📖 [[ia-producao-de-conteudo-e-criativo]] — onde ajuda e onde degrada
-26. 📖 [[automacao-de-campanha-e-verba]] — humano define régua, IA aloca em tempo real
-27. 📖 [[julgamento-humano-obrigatorio-marketing]] — a aplicação de [[operador-centauro]] a marketing
+### Fase 5 — Dados, medição e decisão
+28. ⬜ Funil e jornada — métricas por estágio
+29. ⬜ CAC, LTV e payback — a matemática que decide o canal
+30. ⬜ Atribuição: last-click, incrementalidade e por que os números divergem
+31. ⬜ Teste A/B e significância — quando parar o teste
+32. ⬜ O erro de otimizar o meio do funil piorando o fim: custo por lead caindo com fechamento caindo junto
+33. ⬜ Analytics preditivo vs. descritivo
+34. ⬜ Dashboard: o que olhar diário, semanal e mensal
+
+### Fase 6 — IA aplicada a marketing
+35. 📖 [[ia-pesquisa-posicionamento-concorrencia]] — pesquisa e concorrência viram monitoramento contínuo
+36. 📖 [[ia-producao-de-conteudo-e-criativo]] — onde ajuda e onde degrada
+37. 📖 [[automacao-de-campanha-e-verba]] — humano define régua, IA aloca em tempo real
+38. 📖 [[julgamento-humano-obrigatorio-marketing]] — a aplicação de [[operador-centauro]] a marketing
 
 ## Conceitos com página
 - [[criacao-e-captura-de-demanda]] — marketing cria e captura demanda a partir do job real,
@@ -78,40 +91,13 @@ esta ordem não é dogma, desvie quando houver motivo)_
   de canal, não de demanda; remédio é abrir canal, não subir verba. Apoia os itens 7-12 da
   Fase 2 e nasceu de captura do Tiago em 2026-08-20, fora do desenho original da grade
 
-## Material complementar (externo — acervo Notion)
-
-> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
-> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
-> Catálogo completo do acervo: [[acervo-cursos-notion]].
-
-Dois materiais do acervo tocam esta grade, e nenhum é "de marketing" no nome — por isso ficam
-registrados aqui explicitamente.
-
-**[Curso — Precificação Psicológica e Elasticidade](https://app.notion.com/p/3ada16ed6e5f816a88aee456b07085da)** — 10 módulos.
-Está catalogado em [[mapa-financas]], mas metade dele é marketing: preço de referência
-(interna, externa, contextual), **âncora**, efeito do dígito à esquerda, **chamariz (decoy)**,
-combo, dor de pagamento e **visibilidade de preço** — a ideia de ser competitivo no item cujo
-preço o cliente sabe de cor e ter margem no item que ele nunca comparou.
-
-**Preço não está na grade de marketing.** Nem posicionamento de preço, nem promoção, nem
-desconto. É uma lacuna real: o tópico 4 (proposta de valor) encosta no assunto e para. Fica
-registrado como candidato — decisão do Tiago.
-
-**A conta que o material entrega e que serve direto ao tópico 19 (CAC, LTV, payback):** com
-margem de contribuição baixa, desconto é veneno aritmético. Em 18% de margem, 10% de desconto
-exige quase dobrar o volume só para empatar; a margem zera em 20,7% de desconto. E a assimetria
-é o achado prático: subir o preço 10% permite perder um terço dos clientes sem piorar o
-resultado do mês.
-
-**[Curso — Copywriting + IA aplicada à copy](https://app.notion.com/p/3b5a16ed6e5f81ab9a4fed8924f14ddf)**
-— dono é [[mapa-copywriting]], mas os módulos 2 (níveis de consciência), 10 (anúncios: ângulo
-antes de texto, copy por temperatura, fadiga de criativo) e 9 (o que medir por etapa do funil)
-servem aos tópicos 13–16 e 18 desta grade.
-
-> Nenhum dos dois é fonte do `RAW/`. Sobre a Fase 5 (IA aplicada a marketing), o curso de copy
-> avisa o que este vault já registra: tática de plataforma envelhece em semanas.
-
 ## Nota sobre a grade
+
+**Ampliada em 2026-08-20** com uma fase nova de **preço** — referência, âncora, chamariz,
+combo, visibilidade de preço, a conta do desconto e dor de pagamento. Preço não aparecia em
+lugar nenhum da grade anterior, o que era uma lacuna grande para uma disciplina que trata de
+captura de valor. Entraram também ângulo, temperatura e fadiga de criativo na fase de conteúdo.
+
 Grade desenhada em 2026-08-14 a partir de busca na web (regra `CLAUDE.md` §6). Marketing é
 das áreas que mais envelhece — a Fase 5 e os tópicos de busca/atribuição da Fase 2 e 4 devem
 ser rechecados antes de estudar, não assumidos. Fases 1 e 3 são as mais estáveis.

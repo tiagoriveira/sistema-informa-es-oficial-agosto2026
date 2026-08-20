@@ -19,70 +19,69 @@ esta ordem não é dogma, desvie quando houver motivo)_
 2. ⬜ Estratégia vs. meta vs. plano vs. tática — a confusão mais cara
 3. ⬜ Diagnóstico → política norteadora → ação coerente (kernel de Rumelt)
 4. ⬜ Má estratégia: como reconhecer objetivo fofo disfarçado de direção
+5. ⬜ As três viabilidades — desejável, possível, sustentável — e por que se contradizem
 
-### Fase 2 — Onde competir
-5. ⬜ Definir o mercado — e por que a definição já é decisão estratégica
-6. ⬜ Cinco forças: estrutura setorial e quem captura o lucro
-7. ⬜ Concorrência real vs. concorrência declarada (conecta com [[jobs-to-be-done]])
-8. ⬜ Segmentação estratégica: onde vale competir e onde não
-9. ⬜ Oceano azul — criar espaço em vez de disputar
+### Fase 2 — Existe negócio aqui?
+6. ⬜ Validação: o que um teste prova e o que ele não prova
+7. ⬜ MVP e Lean Startup: o método e onde ele falha
+8. ⬜ Product-market fit é sinal comportamental, não declarado
+9. ⬜ Modelo de negócio como mapa de hipóteses, não como plano
+10. ⬜ Unit economics: CAC, LTV, payback — e onde o número mente
+11. ⬜ Caixa, runway e a morte por crescimento
+12. ⬜ Retorno sobre capital: a métrica final, acima de margem
 
-### Fase 3 — Como vencer: vantagem competitiva
-10. ⬜ Vantagem competitiva: o que é sustentável e o que é temporário
-11. ⬜ Fossos (moats): rede, escala, custo de troca, marca, patente
-12. ⬜ Custo vs. diferenciação — e o risco de ficar no meio
-13. ⬜ Recursos e capacidades: a visão de dentro para fora
-14. ⬜ Modelo de negócio: como o valor é criado, entregue e capturado
+### Fase 3 — Onde competir
+13. ⬜ Definir o mercado — e por que a definição já é decisão estratégica
+14. ⬜ Cinco forças: estrutura setorial e quem captura o lucro
+15. ⬜ Os cinco níveis de concorrente: direto, indireto, substituto, informal e o não consumo
+16. ⬜ Método de campo: perguntar o que a pessoa já fez, nunca se ela compraria
+17. ⬜ Participação de mercado assumida: todo plano que divide a demanda pela população inteira supõe monopólio
+18. ⬜ Segmentação estratégica: onde vale competir e onde não
+19. ⬜ Reação competitiva: o concorrente não fica parado assistindo
 
-### Fase 4 — Decidir sob incerteza
-15. ⬜ Cenários e planejamento sob incerteza
-16. ⬜ Aposta assimétrica: perda limitada, ganho aberto
-17. ⬜ Decisão reversível vs. irreversível — e a velocidade certa para cada uma
-18. ⬜ Vieses na decisão estratégica: âncora, sunk cost, excesso de confiança
-19. ⬜ Second-order thinking (conecta com o mapa de sistemas)
+### Fase 4 — Por que a margem some, e o que a protege
+20. ⬜ O mecanismo da comoditização
+21. ⬜ Diferenciação real × diferenciação declarada
+22. ⬜ Oceano azul: a ferramenta e o problema dela
+23. ⬜ Vantagem competitiva: o que sustenta e o que expira
+24. ⬜ Fosso × os quatro impostores — produto melhor, execução, tecnologia e time bom não são fossos
+25. ⬜ As sete potências: escala, efeito de rede, contra-posicionamento, custo de troca, marca, recurso encurralado, poder de processo
+26. ⬜ Contra-posicionamento: o fosso que o incumbente vê e não copia
+27. ⬜ Efeitos de rede: os tipos, e a lei que não é lei
+28. ⬜ Defensibilidade quando a execução vira commodity
+29. ⬜ Custo vs. diferenciação — e o risco de ficar no meio
 
-### Fase 5 — Da estratégia à execução
-20. ⬜ Traduzir estratégia em poucos objetivos verificáveis
-21. ⬜ Alocação de recurso como a decisão estratégica real
-22. ⬜ Métrica estratégica vs. métrica operacional
-23. ⬜ Quando mudar de rota: sinal vs. ruído, e o custo de pivotar tarde
+### Fase 5 — Modelo de negócio e capital
+30. ⬜ As seis lentes financeiras: capital inicial, margem, recorrência, escala, ciclo de caixa, risco de ruína
+31. ⬜ O catálogo de modelos e o ponto de quebra de cada um — transacional, serviço, serviço produtizado, assinatura, marketplace, aluguel de ativo, licenciamento, produto digital, publicidade, distribuição, base instalada e consumíveis
+32. ⬜ Os três trade-offs sem saída: capital × barreira, escala × margem, previsibilidade × velocidade de retorno
+33. ⬜ Segredos: o que você sabe que quase ninguém sabe
+34. ⬜ Categoria: criar mercado ou competir num existente
+35. ⬜ Timing: por que cedo demais mata tanto quanto tarde demais
+36. ⬜ Distribuição é estratégia, não marketing
+37. ⬜ Bootstrapping × capital de risco, e a matemática do fundo que produz o conselho
+38. ⬜ Diluição, cap table, instrumentos e controle
 
-## Material complementar (externo — acervo Notion)
-
-> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
-> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
-> Catálogo completo do acervo: [[acervo-cursos-notion]].
-
-Três materiais do acervo cobrem boa parte desta grade, com o material de fossos sendo o mais
-denso do acervo inteiro (31 módulos).
-
-| Material | Módulos | Tópicos desta grade |
-|---|---|---|
-| [Viabilidade, Estratégia e Fossos](https://app.notion.com/p/3b8a16ed6e5f8148adacdc526380f925) | 31 | 9 (oceano azul e o problema dele), 10–12 (vantagem, fossos, comoditização), 14 (modelo de negócio), 16 (aposta assimétrica), 21 (alocação de recurso). Traz ainda timing, categoria, distribuição e a camada inteira de capital de risco |
-| [Modelos de Negócio sob a Lente Financeira](https://app.notion.com/p/3b3a16ed6e5f8174ab9ce62fc04b2aa4) | 8 | 14 (modelo de negócio) — catálogo de 11 modelos com ponto de quebra de cada um |
-| [Análise de Concorrência](https://app.notion.com/p/3ada16ed6e5f8194bc5fc3711a0d35be) | 9 | 5–7 (definir mercado, cinco forças, concorrência real × declarada) |
-
-**As sete potências (Hamilton Helmer)** são o núcleo do material de fossos e uma versão mais
-rigorosa do tópico 11 desta grade — a lista genérica "rede, escala, custo de troca, marca,
-patente" vira: escala, efeito de rede, contra-posicionamento, custo de troca, marca, recurso
-encurralado e poder de processo. O **contra-posicionamento** é o que a grade não tem e que mais
-muda a análise: o fosso que o incumbente **vê e não copia**, porque copiar destruiria o próprio
-negócio dele.
-
-**Três correções que o material faz, e que valem numa sessão:**
-- **Moat × impostor.** Produto melhor, execução, tecnologia e time bom não são fossos — são
-  vantagens que expiram. O Módulo 12 lista os quatro impostores.
-- **Participação de mercado assumida.** O material de concorrência mostra numericamente o que
-  acontece quando um plano divide o mercado com um concorrente: a exigência por domicílio
-  **dobra**. Todo teste de teto de mercado que divide a demanda pela população inteira está
-  assumindo monopólio sem dizer.
-- **Barreira de entrada baixa reorganiza prioridade.** Se a única barreira durável é hábito e
-  confiança, os primeiros meses valem mais do que a receita deles sugere.
-
-**Ponte:** o Módulo 4 do [curso de Economia](https://app.notion.com/p/3b3a16ed6e5f81ba8ac0d6cfc74afe85)
-traz a organização industrial que sustenta as Cinco Forças — o mecanismo por trás do tópico 6.
+### Fase 6 — Decidir sob incerteza e executar
+39. ⬜ Cenários e planejamento sob incerteza
+40. ⬜ Aposta assimétrica: perda limitada, ganho aberto
+41. ⬜ Decisão reversível vs. irreversível — e a velocidade certa para cada uma
+42. ⬜ Vieses na decisão estratégica: âncora, custo afundado, excesso de confiança
+43. ⬜ Second-order thinking (conecta com [[mapa-fundamentos-sistemas-gestao]])
+44. ⬜ Traduzir estratégia em poucos objetivos verificáveis
+45. ⬜ Alocação de recurso como a decisão estratégica real
+46. ⬜ Métrica estratégica vs. métrica operacional
+47. ⬜ Quando mudar de rota: sinal vs. ruído, e o custo de pivotar tarde
 
 ## Nota sobre a grade
+
+**Ampliada em 2026-08-20.** Entraram duas fases novas: viabilidade (existe negócio aqui —
+validação, PMF, unit economics, runway, retorno sobre capital) e modelo de negócio e capital
+(as seis lentes, o catálogo de modelos, timing, distribuição, bootstrapping × capital de
+risco, diluição). A fase de fossos foi refeita em torno das sete potências, com o contraste
+entre fosso e os quatro impostores — produto melhor, execução, tecnologia e time bom não são
+fossos, são vantagens que expiram.
+
 Grade desenhada em 2026-08-14. Estrutura clássica de estratégia (onde competir → como vencer →
 como executar), que é estável há décadas — por isso não precisou de checagem de atualidade
 pesada. Os exemplos é que envelhecem, não o arcabouço. Conecta de propósito com

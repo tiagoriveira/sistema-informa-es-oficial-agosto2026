@@ -41,56 +41,49 @@ esta ordem não é dogma, desvie quando houver motivo)_
 15. ⬜ Inflação e retorno real — o único retorno que conta
 16. ⬜ Previdência e independência financeira: a matemática do 4%
 
-### Fase 4 — Finanças de negócio: os três demonstrativos
-17. ⬜ DRE — de receita a lucro, linha por linha
-18. ⬜ Fluxo de caixa vs. lucro — por que empresa lucrativa quebra
-19. ⬜ Balanço patrimonial — ativo, passivo e patrimônio líquido
-20. ⬜ Capital de giro e ciclo financeiro
+### Fase 4 — Margem, preço e ponto de equilíbrio
+17. ⬜ Planejamento reverso: partir da retirada desejada, não da sobra do mês
+18. ⬜ Custo fixo × variável no negócio — por que a diferença decide o destino num mês ruim
+19. ⬜ CMV e a armadilha do markup: markup incide sobre o custo, margem sobre a venda
+20. ⬜ Margem de contribuição e a fórmula-mãe: (custo fixo + lucro desejado) ÷ margem por venda
+21. ⬜ Ponto de equilíbrio e margem de segurança
+22. ⬜ Ticket médio, frequência e número de clientes — as três únicas alavancas de faturamento
+23. ⬜ Mix de produtos: produto isca × produto margem, margem ponderada e a regra do combo
+24. ⬜ Elasticidade e a conta do desconto — quanto volume extra ele exige, e a assimetria para cima
+25. ⬜ Alíquota nominal × alíquota efetiva, e o custo tributário de crescer
+26. ⬜ Teto de mercado: a planilha sempre fecha, o mercado não
+27. ⬜ Análise de sensibilidade: qual premissa, se errada, derruba o plano
 
-### Fase 5 — Decisão financeira em negócio
-21. ⬜ Custo fixo, variável e ponto de equilíbrio
-22. ⬜ Margem de contribuição e precificação
-23. ⬜ Unit economics: CAC, LTV, payback (conecta com o mapa de marketing)
-24. ⬜ Valor do dinheiro no tempo, VPL e TIR
-25. ⬜ Noções de valuation e captação
+### Fase 5 — Caixa: o dinheiro preso na operação
+28. ⬜ Regime de competência × regime de caixa — duas perguntas diferentes
+29. ⬜ Ciclo financeiro (PME + PMR − PMP) e o que significa ciclo negativo
+30. ⬜ Capital de giro: o dinheiro que é seu e você não pode usar — e por que crescer consome caixa
+31. ⬜ Projeção mês a mês: a estrutura, e o saldo acumulado como a linha que decide tudo
+32. ⬜ Rampagem: o buraco de caixa que só aparece quando se projeta o mês 1, não o mês maduro
+33. ⬜ Sazonalidade: por que a média mensal descreve um mês que nunca acontece
+34. ⬜ Estoque: giro, cobertura, curva ABC por margem, ruptura, ponto de pedido e perdas
+35. ⬜ Investimento inicial ≠ capital necessário: as quatro parcelas, payback e caixa mínimo
 
-## Material complementar (externo — acervo Notion)
-
-> Não é fonte do `RAW/`. Material gerado por IA no Notion do Tiago, com aviso epistêmico
-> próprio em cada módulo. Complemento rotulado, não autoridade (`CLAUDE.md` §6).
-> Catálogo completo do acervo: [[acervo-cursos-notion]].
-
-Seis materiais do acervo, encadeados de propósito: margem → caixa → valor → preço → estoque →
-DRE. Eles cobrem quase toda a **Fase 4 e a Fase 5** desta grade, e nada das Fases 1–3 (finanças
-pessoais) — a lacuna é real e está declarada.
-
-| Material | Módulos | Tópicos desta grade |
-|---|---|---|
-| [Gestão Financeira na Prática](https://app.notion.com/p/3aca16ed6e5f815e9c87fa7ae4592859) | 12 | 21 (custo fixo/variável, ponto de equilíbrio) e 22 (margem de contribuição, precificação). Traz também markup ≠ margem, mix isca/margem e teto de mercado, que a grade não tem |
-| [Fluxo de Caixa Projetado](https://app.notion.com/p/3ada16ed6e5f8105b59dd3a4b843650b) | 9 | 18 (fluxo de caixa vs. lucro) e 20 (capital de giro e ciclo financeiro) |
-| [DRE](https://app.notion.com/p/3ada16ed6e5f811aa2dfec03ebb19a6f) | 8 | 17 (DRE linha por linha) e 19 (as três demonstrações; balanço fica só de passagem) |
-| [Valuation e Valor no Tempo](https://app.notion.com/p/3ada16ed6e5f81169aa9fefb2ebad5f4) | 10 | 24 (VPL e TIR) e 25 (valuation e captação) |
-| [Precificação Psicológica e Elasticidade](https://app.notion.com/p/3ada16ed6e5f816a88aee456b07085da) | 10 | 22 (precificação) — e serve também a [[mapa-marketing]] |
-| [Gestão de Estoque](https://app.notion.com/p/3ada16ed6e5f81668e8fce30cd1e4291) | 8 | 20 (capital de giro) — é onde o PME é de fato decidido. **Sem tópico próprio na grade** |
-
-**Três coisas que valem ser puxadas primeiro numa sessão:**
-- **Markup não é margem.** Quem coloca 30% sobre o custo achando que tem 30% de margem tem 23%.
-  Conversão: margem = markup ÷ (1 + markup).
-- **A conta do desconto.** Com margem de contribuição de 18%, um desconto de 10% exige quase
-  **dobrar** o volume só para empatar — e a assimetria é o achado: subir o preço 10% permite
-  perder um terço dos clientes sem piorar.
-- **Depreciação é o custo que nem a margem de contribuição nem o fluxo de caixa enxergam.** Só
-  a DRE mostra, e é o que separa "paga as contas" de "paga a reposição do que usa".
-
-**Não reaproveitar os números.** Todos os exemplos vêm de um mesmo caso (conveniência com
-delivery em cidade pequena) cujas premissas foram **inventadas a pedido, sem cotação real**. A
-mecânica é reutilizável; os números não.
-
-**Faltando no acervo (e na grade):** tudo de finanças pessoais das Fases 1–3 — reserva,
-liquidez, renda fixa e variável, diversificação, previdência. O acervo é inteiramente de
-finanças de negócio.
+### Fase 6 — Ler o negócio inteiro e decidir
+36. ⬜ DRE: a cascata de receita bruta a lucro líquido, e o que cada nível revela
+37. ⬜ CMV × compras, e receita bruta × líquida — onde a DRE se separa do caixa
+38. ⬜ Depreciação: o custo real que nem a margem de contribuição nem o caixa enxergam
+39. ⬜ DRE contábil × gerencial, balanço, e as quatro combinações de lucro e caixa
+40. ⬜ Valor presente e taxa de desconto — a premissa mais poderosa e mais arbitrária
+41. ⬜ VPL: por que um negócio pode dar lucro contábil e destruir valor
+42. ⬜ TIR e suas três armadilhas; payback simples × descontado
+43. ⬜ Valor terminal e múltiplos — onde valuation vira opinião com decimais
+44. ⬜ Unit economics: CAC, LTV, payback e retorno sobre capital (conecta com [[mapa-marketing]])
+45. ⬜ Pró-labore × lucro: a diferença entre comprar um emprego e fazer um investimento
 
 ## Nota sobre a grade
+
+**Ampliada em 2026-08-20.** As três primeiras fases (finanças pessoais) ficaram intactas. A
+parte de negócio foi reescrita e triplicou: margem de contribuição e planejamento reverso
+ganharam fase própria, caixa e estoque ganharam outra, e a leitura do negócio inteiro (DRE,
+depreciação, VPL, TIR, valor terminal, múltiplos) fechou a última. A ordem é deliberada —
+margem decide, caixa sobrevive, DRE presta contas, valuation compara.
+
 Grade desenhada em 2026-08-14, ordem pessoal → corporativo conforme sua escolha. Progressão:
 controlar → proteger → investir → ler negócio → decidir em negócio. Contexto brasileiro nas
 Fases 2-3 (Tesouro, CDI, FGC) — esses instrumentos e limites mudam, recheque antes de usar

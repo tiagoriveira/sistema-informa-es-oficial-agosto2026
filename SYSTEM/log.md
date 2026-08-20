@@ -1035,3 +1035,14 @@ Disciplinas novas: [[mapa-product-management]] (negocios), [[mapa-escrita-e-pens
 e [[mapa-influencia-persuasao-oratoria]] (comunicacao), com LEARNER vazio. Sequência pedagógica
 declarada nos hubs `negocios` e `comunicacao` (invariante 13). Nenhuma página de conceito e
 nenhuma avaliação — material catalogado não é conhecimento.
+
+## [2026-08-20] system | grades ampliadas em 13 disciplinas + 3 disciplinas novas
+Conteúdo absorvido direto nas grades curriculares, sem referência externa. Ampliadas: economia
+(17→38), financas (25→45), visao-estrategica-negocios (23→47), copywriting (16→33), marketing
+(27→38, com fase nova de preço), fundamentos-sistemas-gestao (30→40), produtividade-biohacking
+(12→34), ingles (30→42), logica-e-epistemologia (16→39), poder-e-dinamica-social (13→33),
+seducao-e-comunidade-pua (16→36), neurociencia-esportiva (27→41), product-discovery (18→22).
+Criadas [[mapa-product-management]], [[mapa-escrita-e-pensamento-estruturado]] e
+[[mapa-influencia-persuasao-oratoria]] com LEARNER vazio. Total: 743 → 1.035 tópicos.
+`RECURSOS/acervo-cursos-notion.md` removido — o conteúdo dele passou a viver nas grades.
+Nenhuma página de conceito, nenhuma avaliação: grade é plano, não progresso.
