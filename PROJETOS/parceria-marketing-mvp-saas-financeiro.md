@@ -205,5 +205,49 @@ entre profissionais.
 hoje, de verdade — o dono da empresa ou um contador/consultor terceirizado? Se o founder não
 souber responder com certeza, isso entra no escopo de discovery, não pode ser assumido.
 
+## Notas relacionadas
+- [[flywheel-ecossistema-marketing-saas-financeiro]] (2026-08-21) — aplicação do conceito de
+  flywheel ao papel do Tiago como investidor + prestador de marketing no mesmo ecossistema;
+  liga com a bifurcação de ICP acima. Nota separada, gerada em sessão de estudo de
+  [[mapa-visao-estrategica-negocios]].
+
+## Solicitação de contexto de produto via repositório (2026-08-21)
+Ideia do Tiago: pedir ao founder que a equipe técnica aponte uma ferramenta de IA (Claude Code
+ou equivalente) pro repositório do produto e gere um arquivo `.md` de contexto de
+produto/negócio — não documentação técnica — pra servir de base de aprofundamento antes de
+planejar o que fazer. Resolve parte do gap "prova de uso real" e "mapa produto→job" já listado
+neste arquivo, sem depender só da memória verbal do founder.
+
+Texto final da solicitação (a enviar ao founder):
+
+> Pedido: apontem o Claude Code (ou ferramenta equivalente) pro repositório do produto e gerem
+> um arquivo `.md` com as especificações do produto, incluindo **versão do produto e data em
+> que o arquivo foi gerado** no topo do documento — serve de corte no tempo, pra saber se uma
+> leitura minha ainda é válida ou já ficou velha.
+>
+> Conteúdo:
+> 1. Visão geral do produto — o que ele faz hoje, em linguagem de usuário final
+> 2. Funcionalidades por perfil/segmento de usuário, se houver segmentação de uso
+> 3. Fluxo principal de uso — do onboarding até o resultado entregue
+> 4. Tipo de dado financeiro tratado, em alto nível
+> 5. Integrações existentes (banco, open finance, ERP etc.), se houver
+> 6. Estado atual — o que está em produção
+> 7. Backlog / roadmap — o que está planejado ou em desenvolvimento, com prazo estimado se existir
+> 8. Situação jurídica/compliance — LGPD, termos de uso, política de dado, contratos de
+>    parceria relevantes (ex.: com contadores), se existirem
+> 9. A IA pode complementar com pontos relevantes não listados acima, com exceção de
+>    informações técnicas de implementação (arquitetura interna, stack, código)
+>
+> Excluir explicitamente: credenciais, chaves de API, dado real de usuário/cliente, e detalhe
+> de infraestrutura que não muda a leitura de produto/negócio. Regenerar sempre que houver
+> mudança relevante de produto (não a cada commit); output final passa por revisão humana antes
+> de chegar até mim, por conta do item 4/8.
+
+**Pendente:** solicitação ainda não enviada ao founder / arquivo `.md` ainda não recebido.
+Quando chegar, vira material de apoio da reunião 1 (anexar e revisar aqui).
+
 ## Próxima ação
 Alinhar com o founder os pontos da seção acima antes de aceitar qualquer verba ou prazo.
+Enviar a solicitação de contexto de produto (seção acima) e aguardar o `.md` de retorno.
+Perguntas de [[Reunião 1 com o founder perguntas]] seguem sem resposta do founder — reunião
+ainda não aconteceu.

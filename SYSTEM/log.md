@@ -1092,3 +1092,23 @@ citada como não verificada em vez de repetida.
 Pasta `fase-3-pecas-que-mais-importam/` renomeada para `fase-3-anatomia-e-frameworks/`,
 alinhando ao nome atual da fase. Vault: 98 → 131 páginas, 4 conceitos com evidência real
 (inalterado).
+
+## [2026-08-21] system | invariante 17 — regra escrita não é teto de iniciativa
+
+`CLAUDE.md` §2 ganhou item 17, a pedido do Tiago: a IA pode sugerir boa prática ainda não
+formalizada no arquivo, ou sinalizar regra existente que ache datada/incompleta/contraditória
+— sempre como proposta, nunca como mudança unilateral. Checado FAQ/ARQUITETURA (invariante 9):
+nada desatualizado.
+
+## [2026-08-21] update | parceria-marketing-mvp-saas-financeiro
+
+Sessão de preparação da reunião 1 com o founder. Registrado no próprio arquivo do projeto
+(`PROJETOS/parceria-marketing-mvp-saas-financeiro.md`): texto final da solicitação pra equipe
+técnica gerar `.md` de contexto de produto via Claude Code apontado ao repositório (versão,
+funcionalidades por segmento, fluxo de uso, dado financeiro tratado, integrações, estado
+atual, backlog/roadmap, jurídico/compliance, exclusões de dado sensível). Perguntas da reunião
+1 estruturadas em `Reunião 1 com o founder perguntas.md`, apoiadas em nota crua de
+`Transcrição Manual  - reunião 20-08-26.md` (ainda em destilação pelo Tiago, não fechada).
+
+**Pendente:** solicitação ainda não enviada ao founder; `.md` de contexto de produto ainda não
+recebido; reunião 1 ainda não aconteceu, nenhuma pergunta respondida.

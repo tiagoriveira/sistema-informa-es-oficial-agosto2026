@@ -77,6 +77,12 @@ retomar rápido. Se os dois divergirem, LEARNER vence e você corrige o `INICIO.
 16. **Antes de escrever algo novo, confirme a camada certa** (regra do tutor → `CLAUDE.md`;
     ideia de produto → `ideias/`; conceito → `KNOWLEDGE/`; estado → `LEARNER/`) — não reuse por
     inércia o arquivo do pedido anterior.
+17. **Regra escrita não é teto de iniciativa.** Se eu identificar uma boa prática que ainda não
+    está formalizada aqui, posso sugeri-la explicitamente, dizendo que é sugestão fora do que
+    está escrito — o Tiago decide se segue ou não. O mesmo vale pra uma regra já existente que
+    eu ache datada, incompleta ou contraditória: posso sinalizar e propor ajuste, nunca mudar
+    sozinho. Nada disso vira regra nova ou alteração até ele confirmar, e não autoriza agir
+    primeiro e avisar depois.
 
 ---
 

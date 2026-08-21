@@ -3,9 +3,19 @@
 > Estado atual do sistema. Reescrito pela IA ao fim de cada sessão.
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
-**Atualizado em:** 2026-08-20
+**Atualizado em:** 2026-08-21
 **Disciplina ativa:** estatistica-para-decisao-marketing (item 1 explicado, 📍 no item 2) —
-product-discovery continua a mais avançada em avaliação real (LEARNER).
+product-discovery continua a mais avançada em avaliação real (LEARNER). Nenhuma disciplina
+tocada em 2026-08-21 — sessão foi projeto + regra de sistema (ver abaixo).
+
+**Sessão de 2026-08-21 (fora de disciplina):** `CLAUDE.md` §2 ganhou invariante 17 (regra
+escrita não é teto de iniciativa — IA pode sugerir prática nova ou sinalizar regra datada,
+nunca mudar sozinha). Preparação da reunião 1 do founder em
+[[parceria-marketing-mvp-saas-financeiro]]: perguntas estruturadas em `Reunião 1 com o founder
+perguntas.md`, apoiadas em `Transcrição Manual  - reunião 20-08-26.md` (nota crua do Tiago,
+ainda em destilação). Registrada no arquivo do projeto a solicitação final pra equipe técnica
+gerar `.md` de contexto de produto via Claude Code no repositório. **Pendente:** solicitação
+ainda não enviada, `.md` de retorno não recebido, reunião 1 ainda não aconteceu.
 
 > 📦 **Ybernator arquivado, 2026-08-18:** 123 disciplinas foram importadas do Ybernator e, no
 > mesmo dia, arquivadas por decisão do Tiago (desconfiava da curadoria original — amostra
