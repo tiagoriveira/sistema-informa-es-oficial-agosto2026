@@ -1046,3 +1046,27 @@ Criadas [[mapa-product-management]], [[mapa-escrita-e-pensamento-estruturado]] e
 [[mapa-influencia-persuasao-oratoria]] com LEARNER vazio. Total: 743 → 1.035 tópicos.
 `RECURSOS/acervo-cursos-notion.md` removido — o conteúdo dele passou a viver nas grades.
 Nenhuma página de conceito, nenhuma avaliação: grade é plano, não progresso.
+
+## [2026-08-20] ingest | colheita do arquivo do Ybernator — marketing
+Os quatro mapas de marketing em `ARQUIVADOS/ybernator/marketing/` (marketing-tecnico 20,
+marketing-growth 19, marketing-conteudo 18, marketing-ia 16 = 73 tópicos) foram cruzados com as
+disciplinas ativas. **50 tópicos sem dono** viraram 51 páginas de conceito escritas; 19 já
+tinham dono no vault e 4 foram podados (organograma especulativo, nicho de alta rotatividade, e
+dois já cobertos em producao-de-conteudo e copywriting).
+
+Disciplinas novas no hub `marketing`, ambas **sem ordem sugerida** (itens agrupados por tema,
+sem `📍`): [[mapa-marketing-tecnico]] (18 itens) e [[mapa-growth-e-retencao]] (15 itens).
+Os outros 18 itens entraram em [[mapa-marketing]] (Fase 3 e Fases 6-7 novas, 38 → 48 tópicos) e
+[[mapa-producao-de-conteudo]] (Fases 6-7 novas, 23 → 31).
+
+Checagem de atualidade por bloco temático antes de escrever (`CLAUDE.md` §6) — e ela mudou o
+conteúdo em pelo menos quatro pontos que teriam saído errados de memória: o cookie de terceiro
+**não** foi descontinuado e o conjunto de APIs que ia substituí-lo é que foi encerrado; o guia
+brasileiro de publicidade por influenciadores foi revisto em 2026 e passou a incluir afiliados;
+orientação a rastreador de IA entrou no checklist técnico de SEO; e o panorama de ferramentas de
+automação passou a distinguir passo de IA em fluxo linear de laço de agente.
+
+Débito de LINT zerado: os cinco conceitos de marketing com página e sem bloco no LEARNER.
+`ARQUIVADOS/` permanece intacto — colheita não é promoção de disciplina.
+Vault: 40 → 42 disciplinas, 1.035 → 1.086 tópicos, 47 → 98 páginas, **4 conceitos com evidência
+real (inalterado)**.

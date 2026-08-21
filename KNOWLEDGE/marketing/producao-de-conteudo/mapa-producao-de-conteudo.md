@@ -63,6 +63,18 @@ esta ordem não é dogma, desvie quando houver motivo)_
 - [[pipeline-de-repurposing]] — um conceito, três formatos, sem repetir pesquisa
 - [[mecanica-por-plataforma]] — o sinal-chave de cada rede, tabela comparativa
 
+### Fase 6 — Formatos de ativo próprio
+24. 📖 [[funil-de-conteudo]] — topo, meio e fundo fazem trabalhos diferentes
+25. 📖 [[storytelling-de-marca]] — estrutura narrativa a serviço de uma ideia, não de um enredo
+26. 📖 [[newsletter-como-midia-propria]] — o único canal em que a lista é sua
+27. 📖 [[entrevista-e-podcast-de-marca]] — o formato que produz material e relação ao mesmo tempo
+
+### Fase 7 — Audiência e comunidade
+28. 📖 [[seo-de-conteudo-e-autoridade-topica]] — de palavra-chave para autoridade em um tema
+29. 📖 [[conteudo-gerado-pelo-usuario]] — prova social que você não escreveu
+30. 📖 [[operacao-de-comunidade]] — do grupo silencioso aos primeiros membros ativos
+31. 📖 [[personal-branding-como-canal]] — quando a pessoa é o canal de distribuição
+
 ## Nota sobre a grade
 
 Grade desenhada em 2026-08-15 a partir de busca na web (regra `CLAUDE.md` §6) — disciplina

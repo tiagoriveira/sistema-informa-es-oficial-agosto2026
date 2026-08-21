@@ -1,100 +1,101 @@
 ---
 tipo: estado
-disciplina: marketing
+disciplina: growth-e-retencao
 atualizado: 2026-08-20
 ---
 
-# Estado — Marketing
+# Estado — Growth e Retenção
 
-> Disciplina registrada em 2026-08-13. Sem fontes em `RAW/` — modo exploração
-> (ver `SYSTEM/FAQ.md`). Nenhum conceito avaliado ainda.
+> Sem fontes em `RAW/` — modo exploração (ver `SYSTEM/FAQ.md`). Grade em [[mapa-growth-e-retencao]].
+>
+> Todos os conceitos abaixo estão `nao_iniciado`: existe página escrita, não existe avaliação.
+> O `📖` no mapa marca conteúdo disponível, não domínio.
 
-## [[problema-de-distribuicao-vs-demanda]]
-estado: nao_iniciado
-
-Página criada em 2026-08-20 a partir de captura própria (episódio Plano Perfeito #12). Nunca
-explicado em sessão nem avaliado — invariante 1: página arquivada não é evidência.
-
-## [[criacao-e-captura-de-demanda]]
-- Estado: nao_iniciado
-- Explicado em 2026-08-17, nunca avaliado. Registrado aqui em 2026-08-20, fechando o débito
-  de LINT que apontava página em `KNOWLEDGE/` sem bloco no LEARNER.
-
-## [[ia-pesquisa-posicionamento-concorrencia]]
-- Estado: nao_iniciado
-- Explicado em 2026-08-17, nunca avaliado. Registrado aqui em 2026-08-20, fechando o débito
-  de LINT que apontava página em `KNOWLEDGE/` sem bloco no LEARNER.
-
-## [[ia-producao-de-conteudo-e-criativo]]
-- Estado: nao_iniciado
-- Explicado em 2026-08-17, nunca avaliado. Registrado aqui em 2026-08-20, fechando o débito
-  de LINT que apontava página em `KNOWLEDGE/` sem bloco no LEARNER.
-
-## [[automacao-de-campanha-e-verba]]
-- Estado: nao_iniciado
-- Explicado em 2026-08-17, nunca avaliado. Registrado aqui em 2026-08-20, fechando o débito
-  de LINT que apontava página em `KNOWLEDGE/` sem bloco no LEARNER.
-
-## [[julgamento-humano-obrigatorio-marketing]]
-- Estado: nao_iniciado
-- Explicado em 2026-08-17, nunca avaliado. Registrado aqui em 2026-08-20, fechando o débito
-  de LINT que apontava página em `KNOWLEDGE/` sem bloco no LEARNER.
-
-## [[marketing-de-influencia-e-co-marketing]]
+## [[growth-hacking-e-loop-viral]]
 - Estado: nao_iniciado
 - Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
   avaliada. Invariante 1: página arquivada não é evidência.
 
 
-## [[marketing-de-afiliados]]
+## [[coeficiente-viral-k-factor]]
 - Estado: nao_iniciado
 - Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
   avaliada. Invariante 1: página arquivada não é evidência.
 
 
-## [[agente-autonomo-de-marketing]]
+## [[product-led-growth]]
 - Estado: nao_iniciado
 - Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
   avaliada. Invariante 1: página arquivada não é evidência.
 
 
-## [[answer-engine-optimization]]
+## [[go-to-market-em-novo-mercado]]
 - Estado: nao_iniciado
 - Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
   avaliada. Invariante 1: página arquivada não é evidência.
 
 
-## [[first-party-data]]
+## [[onboarding-e-ativacao]]
 - Estado: nao_iniciado
 - Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
   avaliada. Invariante 1: página arquivada não é evidência.
 
 
-## [[hiperpersonalizacao-em-escala]]
+## [[iceberg-da-retencao]]
 - Estado: nao_iniciado
 - Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
   avaliada. Invariante 1: página arquivada não é evidência.
 
 
-## [[otimizacao-dinamica-de-criativo]]
+## [[loop-de-retencao-e-habito]]
 - Estado: nao_iniciado
 - Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
   avaliada. Invariante 1: página arquivada não é evidência.
 
 
-## [[churn-preditivo]]
+## [[analise-de-coorte]]
 - Estado: nao_iniciado
 - Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
   avaliada. Invariante 1: página arquivada não é evidência.
 
 
-## [[chatbot-de-conversao]]
+## [[north-star-metric]]
 - Estado: nao_iniciado
 - Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
   avaliada. Invariante 1: página arquivada não é evidência.
 
 
-## [[direito-autoral-em-conteudo-de-ia]]
+## [[priorizacao-de-experimento-ice]]
+- Estado: nao_iniciado
+- Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
+  avaliada. Invariante 1: página arquivada não é evidência.
+
+
+## [[okr-de-marketing]]
+- Estado: nao_iniciado
+- Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
+  avaliada. Invariante 1: página arquivada não é evidência.
+
+
+## [[revops]]
+- Estado: nao_iniciado
+- Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
+  avaliada. Invariante 1: página arquivada não é evidência.
+
+
+## [[community-led-growth]]
+- Estado: nao_iniciado
+- Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
+  avaliada. Invariante 1: página arquivada não é evidência.
+
+
+## [[pricing-como-canal-de-growth]]
+- Estado: nao_iniciado
+- Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
+  avaliada. Invariante 1: página arquivada não é evidência.
+
+
+## [[account-based-marketing]]
 - Estado: nao_iniciado
 - Página escrita em 2026-08-20 e disponível para consulta; nunca explicada em sessão nem
   avaliada. Invariante 1: página arquivada não é evidência.

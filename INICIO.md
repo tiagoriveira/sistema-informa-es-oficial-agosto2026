@@ -31,6 +31,19 @@ expandida e reordenada, somando 218 tópicos novos, e três disciplinas foram cr
 Nenhuma página de conceito foi escrita e nenhum conceito foi avaliado — **grade é plano, não
 progresso**. O que mudou foi a cobertura do currículo, não o que o Tiago sabe.
 
+**Ainda em 2026-08-20 — colheita do arquivo do Ybernator (marketing):** os quatro mapas de
+marketing parados em `ARQUIVADOS/ybernator/marketing/` (73 tópicos) foram cruzados com as
+disciplinas ativas. 50 tópicos sem dono viraram **51 páginas de conceito escritas**; 19 já
+tinham dono e 4 foram podados. Duas disciplinas novas no hub `marketing`:
+[[mapa-marketing-tecnico]] (18 itens, camada de execução) e [[mapa-growth-e-retencao]]
+(15 itens, crescimento como sistema) — as duas **sem ordem sugerida**, para consulta por
+problema. Os outros 18 itens entraram em [[mapa-marketing]] e [[mapa-producao-de-conteudo]].
+Todos os itens novos estão `📖` (página disponível, nunca avaliada) e `nao_iniciado` no LEARNER.
+O material de `ARQUIVADOS/` permanece intacto.
+
+**Débito de LINT zerado nesta sessão:** os cinco conceitos de marketing com página e sem bloco
+no `LEARNER/estado-marketing.md` foram registrados.
+
 ---
 
 ## Revisões vencidas
@@ -78,6 +91,10 @@ Depois, avaliar o que só foi explicado e nunca testado:
   [[ia-producao-de-conteudo-e-criativo]], [[automacao-de-campanha-e-verba]],
   [[julgamento-humano-obrigatorio-marketing]] (este último já tem 1 evidência via
   [[operador-centauro]], mas nenhum conceito *de marketing* propriamente avaliado ainda)
+- **hub marketing (51, novos em 2026-08-20)**: as 18 páginas de [[mapa-marketing-tecnico]], as
+  15 de [[mapa-growth-e-retencao]], 10 em [[mapa-marketing]] e 8 em
+  [[mapa-producao-de-conteudo]]. São `📖` no sentido mais fraco possível — página escrita e
+  nunca lida em sessão. A fila de avaliação do hub marketing passou de 5 para 56 conceitos.
 
 **Pendente fora de disciplina:** resolvido em 2026-08-15 — hub `psicologia` e hub
 `dinamicas-sociais` criados, com a disciplina "Comportamento Masculino e Realismo" incluída.
@@ -154,10 +171,12 @@ e isso é um débito de LINT aberto.
 | gestao-sistemas | obsidian | 5 fases / 27 tópicos | 1 | 0 | 2026-08-15 |
 | gestao-sistemas | produtividade-biohacking | 7 fases / 34 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-de-tempo | 4 fases / 14 tópicos | 0 | 0 | — |
-| marketing | marketing | 6 fases / 38 tópicos | 5 | 0 | 2026-08-17 |
-| marketing | estatistica-para-decisao-marketing | 4 fases / 16 tópicos | 0 | 0 | 2026-08-20 |
-| marketing | producao-de-conteudo | 5 fases / 23 tópicos | 2 | 0 | 2026-08-15 |
-| marketing | copywriting | 5 fases / 33 tópicos | 0 | 0 | — |
+| marketing ① | marketing | 7 fases / 48 tópicos | 16 | 0 | 2026-08-17 |
+| marketing ② | copywriting | 5 fases / 33 tópicos | 1 | 0 | — |
+| marketing ③ | producao-de-conteudo | 7 fases / 31 tópicos | 10 | 0 | 2026-08-15 |
+| marketing ④ | **marketing-tecnico** _(nova)_ | 18 itens, sem ordem | 18 | 0 | — |
+| marketing ⑤ | estatistica-para-decisao-marketing | 4 fases / 16 tópicos | 0 | 0 | 2026-08-20 |
+| marketing ⑥ | **growth-e-retencao** _(nova)_ | 15 itens, sem ordem | 15 | 0 | — |
 | financas | financas | 6 fases / 45 tópicos | 0 | 0 | — |
 | comunicacao ① | **escrita-e-pensamento-estruturado** _(nova)_ | 6 fases / 29 tópicos | 0 | 0 | — |
 | comunicacao ② | **influencia-persuasao-oratoria** _(nova)_ | 5 fases / 24 tópicos | 0 | 0 | — |
@@ -180,15 +199,14 @@ e isso é um débito de LINT aberto.
 | tecnologia | tecnologia-para-fundadores | 4 fases / 16 tópicos | 0 | 0 | — |
 | consultoria | marketing-para-saas-b2b | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 40 disciplinas, 1.035 tópicos planejados, 47 páginas escritas (contagem real em
+**Realidade:** 42 disciplinas, 1.086 tópicos planejados, 98 páginas escritas (contagem real em
 disco em 2026-08-20, `find KNOWLEDGE -name "*.md"` excluindo mapas/hubs/LEIA-ME),
 **4 conceitos com evidência real**. A grade é plano, não progresso — só o LEARNER conta o que
-você sabe. As grades cresceram 40% em 2026-08-20 e o número de conceitos avaliados continua
-igual: a distância entre plano e progresso aumentou, não diminuiu.
+você sabe. As páginas escritas dobraram em 2026-08-20 e o número de **conceitos com evidência
+real continua 4**: a distância entre material disponível e conhecimento verificado aumentou, não
+diminuiu. Página escrita é matéria-prima, não domínio.
 
 **Débito de LINT aberto (2026-08-20):**
-- cinco conceitos de marketing com página em `KNOWLEDGE/` nunca entraram no
-  `LEARNER/estado-marketing.md` — detalhe registrado no topo daquele arquivo;
 - as grades ampliadas e as três novas **não foram checadas na web** — as anteriores tinham a
   checagem registrada na nota de cada mapa, estas não. Rechecar antes de tratá-las como
   currículo fechado;

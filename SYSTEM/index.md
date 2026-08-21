@@ -173,8 +173,13 @@ prioridade) — irmã de [[mapa-produtividade-biohacking]]. Sem conceito com pá
 
 ### 📣 marketing
 
-**[[mapa-marketing]]** — Marketing · [[estado-marketing]]
-Grade: 6 fases, 38 tópicos.
+**Sequência recomendada** (definida em 2026-08-20, ao criar marketing-tecnico e
+growth-e-retencao): o mapa geral → a mensagem → o ativo publicado → a execução e a medição →
+ler o número que a execução produz → o sistema que faz crescer e reter.
+
+**1. [[mapa-marketing]]** — Marketing · [[estado-marketing]]
+Grade: 7 fases, 48 tópicos. Fundamentos, preço, canais, conteúdo, medição, IA na operação, e
+dado/personalização/risco.
 - [[criacao-e-captura-de-demanda]] — marketing cria e captura demanda a partir do job real do
   cliente; propaganda é só uma ferramenta dentro disso, conecta com [[jobs-to-be-done]]
 - [[ia-pesquisa-posicionamento-concorrencia]] — IA transforma pesquisa de concorrência em
@@ -186,25 +191,59 @@ Grade: 6 fases, 38 tópicos.
 - [[julgamento-humano-obrigatorio-marketing]] — aplica [[operador-centauro]] às três anteriores;
   distingue oráculo (falta de critério) de centauro reverso (desconfiança do critério)
 - [[problema-de-distribuicao-vs-demanda]] — recompra alta com crescimento travado é gargalo de
-  canal, não de demanda; remédio é abrir canal, não subir verba (fora da grade)
+  canal, não de demanda (fora da grade)
+- [[marketing-de-influencia-e-co-marketing]] · [[marketing-de-afiliados]] — os dois canais de
+  audiência emprestada, com a regra brasileira de identificação publicitária revisada em 2026
+- [[agente-autonomo-de-marketing]] · [[answer-engine-optimization]] · [[first-party-data]] ·
+  [[hiperpersonalizacao-em-escala]] · [[otimizacao-dinamica-de-criativo]] · [[churn-preditivo]] ·
+  [[chatbot-de-conversao]] · [[direito-autoral-em-conteudo-de-ia]] — as Fases 6 e 7
 
-**[[mapa-estatistica-para-decisao-marketing]]** — Estatística para Decisão em Marketing ·
+**2. [[mapa-copywriting]]** — Copywriting · [[estado-copywriting]]
+Grade: 5 fases, 33 tópicos. A frase que persuade — irmã de
+[[mapa-producao-de-conteudo]], não a mesma coisa.
+- [[fud-competitivo]] — medo real + categoria concorrente desqualificada + autoridade própria
+
+**3. [[mapa-producao-de-conteudo]]** — Produção de Conteúdo · [[estado-producao-de-conteudo]]
+Grade: 7 fases, 31 tópicos. O ofício de virar conceito em post por plataforma — irmã de
+[[mapa-marketing]], não a mesma coisa.
+- [[pipeline-de-repurposing]] — um conceito, três formatos, sem repetir pesquisa
+- [[mecanica-por-plataforma]] — sinal-chave de cada rede
+- [[funil-de-conteudo]] · [[storytelling-de-marca]] · [[newsletter-como-midia-propria]] ·
+  [[entrevista-e-podcast-de-marca]] — formatos de ativo próprio (Fase 6)
+- [[seo-de-conteudo-e-autoridade-topica]] · [[conteudo-gerado-pelo-usuario]] ·
+  [[operacao-de-comunidade]] · [[personal-branding-como-canal]] — audiência e comunidade (Fase 7)
+
+**4. [[mapa-marketing-tecnico]]** — Marketing Técnico · [[estado-marketing-tecnico]]
+_(disciplina nova, 2026-08-20)_ 18 itens em 4 blocos temáticos, **sem ordem sugerida** —
+disciplina de consulta. A camada de execução: rastreamento e medição, plataformas de anúncio,
+site e conversão, base de dados e automação. Todos os 18 com página escrita (`📖`), nenhum
+avaliado. É a área do vault que envelhece mais rápido.
+- [[rastreamento-de-eventos-e-pixel]] · [[medicao-do-lado-do-servidor]] · [[analytics-de-evento]] ·
+  [[fim-do-cookie-de-terceiro]] · [[auditoria-tecnica-de-conversao]]
+- [[arquitetura-de-campanha-em-ads]] · [[estrategia-de-lance]] ·
+  [[remarketing-e-audiencia-personalizada]] · [[midia-programatica-e-curadoria]] · [[dark-social]]
+- [[cro-na-pratica]] · [[seo-tecnico]] · [[metricas-de-qualificacao-de-lead]]
+- [[crm-como-base-de-marketing]] · [[nutricao-de-leads]] ·
+  [[marketing-automation-fluxo-e-gatilho]] · [[automacao-de-fluxo-entre-ferramentas]] ·
+  [[scraping-para-inteligencia-competitiva]]
+
+**5. [[mapa-estatistica-para-decisao-marketing]]** — Estatística para Decisão em Marketing ·
 [[estado-estatistica-para-decisao-marketing]]
 Grade: 4 fases, 16 tópicos (checada na web em 2026-08-20). Criada a partir de autoavaliação do
 Tiago — ler/interpretar dado é o ponto fraco declarado em marketing. Separada de
 [[mapa-dados-estatistica-e-ia-ml]] (aquela é técnica/ML, esta é decisão de negócio). Sem
 conceito com página ainda.
 
-**[[mapa-producao-de-conteudo]]** — Produção de Conteúdo · [[estado-producao-de-conteudo]]
-Grade: 5 fases, 23 tópicos (checada na web em 2026-08-15). O ofício de virar conceito em post
-por plataforma — irmã de [[mapa-marketing]], não a mesma coisa.
-- [[pipeline-de-repurposing]] — um conceito, três formatos, sem repetir pesquisa
-- [[mecanica-por-plataforma]] — sinal-chave de cada rede (Instagram/TikTok/Shorts/LinkedIn/Threads-X)
-
-**[[mapa-copywriting]]** — Copywriting · [[estado-copywriting]]
-Grade: 5 fases, 33 tópicos. A frase que persuade — irmã de
-[[mapa-producao-de-conteudo]], não a mesma coisa.
-- [[fud-competitivo]] — medo real + categoria concorrente desqualificada + autoridade própria
+**6. [[mapa-growth-e-retencao]]** — Growth e Retenção · [[estado-growth-e-retencao]]
+_(disciplina nova, 2026-08-20)_ 15 itens em 4 blocos temáticos, **sem ordem sugerida**.
+Crescimento como sistema: loop em vez de funil, ativação e retenção em vez de só aquisição.
+Todos com página escrita (`📖`), nenhum avaliado.
+- [[growth-hacking-e-loop-viral]] · [[coeficiente-viral-k-factor]] · [[product-led-growth]] ·
+  [[go-to-market-em-novo-mercado]]
+- [[onboarding-e-ativacao]] · [[iceberg-da-retencao]] · [[loop-de-retencao-e-habito]] ·
+  [[analise-de-coorte]]
+- [[north-star-metric]] · [[priorizacao-de-experimento-ice]] · [[okr-de-marketing]] · [[revops]]
+- [[community-led-growth]] · [[pricing-como-canal-de-growth]] · [[account-based-marketing]]
 
 ### 🧠 psicologia (hub novo, 2026-08-15)
 
