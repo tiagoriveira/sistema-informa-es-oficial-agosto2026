@@ -44,6 +44,13 @@ O material de `ARQUIVADOS/` permanece intacto.
 **Débito de LINT zerado nesta sessão:** os cinco conceitos de marketing com página e sem bloco
 no `LEARNER/estado-marketing.md` foram registrados.
 
+**Ainda em 2026-08-20 — copywriting inteiro escrito:** os 33 tópicos da grade de
+[[mapa-copywriting]] ganharam página. As Fases 4 e 5 foram rechecadas na web antes de escrever
+(exigências de remetente de e-mail em volume, consentimento e modelo aprovado no WhatsApp,
+confiabilidade dos detectores de texto de IA). Todos `📖` e `nao_iniciado` — é a primeira
+disciplina do vault com **cobertura completa de página e zero avaliação**, o que a torna o
+melhor candidato para uma sessão de TEACH que finalmente produza evidência.
+
 ---
 
 ## Revisões vencidas
@@ -91,10 +98,10 @@ Depois, avaliar o que só foi explicado e nunca testado:
   [[ia-producao-de-conteudo-e-criativo]], [[automacao-de-campanha-e-verba]],
   [[julgamento-humano-obrigatorio-marketing]] (este último já tem 1 evidência via
   [[operador-centauro]], mas nenhum conceito *de marketing* propriamente avaliado ainda)
-- **hub marketing (51, novos em 2026-08-20)**: as 18 páginas de [[mapa-marketing-tecnico]], as
-  15 de [[mapa-growth-e-retencao]], 10 em [[mapa-marketing]] e 8 em
-  [[mapa-producao-de-conteudo]]. São `📖` no sentido mais fraco possível — página escrita e
-  nunca lida em sessão. A fila de avaliação do hub marketing passou de 5 para 56 conceitos.
+- **hub marketing (84, novos em 2026-08-20)**: as 18 páginas de [[mapa-marketing-tecnico]], as
+  15 de [[mapa-growth-e-retencao]], as **33 de [[mapa-copywriting]]**, 10 em [[mapa-marketing]] e
+  8 em [[mapa-producao-de-conteudo]]. São `📖` no sentido mais fraco possível — página escrita e
+  nunca lida em sessão. A fila de avaliação do hub marketing passou de 5 para 89 conceitos.
 
 **Pendente fora de disciplina:** resolvido em 2026-08-15 — hub `psicologia` e hub
 `dinamicas-sociais` criados, com a disciplina "Comportamento Masculino e Realismo" incluída.
@@ -172,7 +179,7 @@ e isso é um débito de LINT aberto.
 | gestao-sistemas | produtividade-biohacking | 7 fases / 34 tópicos | 0 | 0 | — |
 | gestao-sistemas | gestao-de-tempo | 4 fases / 14 tópicos | 0 | 0 | — |
 | marketing ① | marketing | 7 fases / 48 tópicos | 16 | 0 | 2026-08-17 |
-| marketing ② | copywriting | 5 fases / 33 tópicos | 1 | 0 | — |
+| marketing ② | copywriting | 5 fases / 33 tópicos | 34 | 0 | — |
 | marketing ③ | producao-de-conteudo | 7 fases / 31 tópicos | 10 | 0 | 2026-08-15 |
 | marketing ④ | **marketing-tecnico** _(nova)_ | 18 itens, sem ordem | 18 | 0 | — |
 | marketing ⑤ | estatistica-para-decisao-marketing | 4 fases / 16 tópicos | 0 | 0 | 2026-08-20 |
@@ -199,7 +206,7 @@ e isso é um débito de LINT aberto.
 | tecnologia | tecnologia-para-fundadores | 4 fases / 16 tópicos | 0 | 0 | — |
 | consultoria | marketing-para-saas-b2b | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 42 disciplinas, 1.086 tópicos planejados, 98 páginas escritas (contagem real em
+**Realidade:** 42 disciplinas, 1.086 tópicos planejados, 131 páginas escritas (contagem real em
 disco em 2026-08-20, `find KNOWLEDGE -name "*.md"` excluindo mapas/hubs/LEIA-ME),
 **4 conceitos com evidência real**. A grade é plano, não progresso — só o LEARNER conta o que
 você sabe. As páginas escritas dobraram em 2026-08-20 e o número de **conceitos com evidência

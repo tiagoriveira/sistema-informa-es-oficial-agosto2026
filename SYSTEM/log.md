@@ -1070,3 +1070,25 @@ Débito de LINT zerado: os cinco conceitos de marketing com página e sem bloco 
 `ARQUIVADOS/` permanece intacto — colheita não é promoção de disciplina.
 Vault: 40 → 42 disciplinas, 1.035 → 1.086 tópicos, 47 → 98 páginas, **4 conceitos com evidência
 real (inalterado)**.
+
+## [2026-08-20] ingest | copywriting — 33 paginas, disciplina com cobertura completa
+Todos os 33 tópicos da grade de [[mapa-copywriting]] ganharam página de conceito. Primeira
+disciplina do vault com **cobertura completa**: nenhum item `⬜`, todos `📖` e `nao_iniciado`
+no LEARNER.
+
+Checagem de atualidade nas Fases 4 e 5 antes de escrever (`CLAUDE.md` §6), e ela corrigiu três
+pontos que sairiam desatualizados: as exigências atuais para remetente de e-mail em volume
+(autenticação, descadastro em um clique no cabeçalho, teto de reclamação de spam, com rejeição
+definitiva para quem não cumpre); as regras de consentimento registrado e modelo aprovado para
+mensagem ativa no WhatsApp; e a confiabilidade dos detectores de texto de IA — erram bastante,
+despencam em texto híbrido e penalizam desproporcionalmente autor não nativo e escrita formal
+bem estruturada, o que os torna imprestáveis como prova.
+
+Fases 1 a 3 são fundamento de resposta direta (Schwartz, Cialdini, Caples, Ogilvy, Hopkins),
+estável há décadas — autores e obras existem, ano e edição **não verificados** e marcados como
+tal. A estatística famosa atribuída a Ogilvy sobre leitores de headline foi deliberadamente
+citada como não verificada em vez de repetida.
+
+Pasta `fase-3-pecas-que-mais-importam/` renomeada para `fase-3-anatomia-e-frameworks/`,
+alinhando ao nome atual da fase. Vault: 98 → 131 páginas, 4 conceitos com evidência real
+(inalterado).

@@ -199,9 +199,23 @@ dado/personalização/risco.
   [[chatbot-de-conversao]] · [[direito-autoral-em-conteudo-de-ia]] — as Fases 6 e 7
 
 **2. [[mapa-copywriting]]** — Copywriting · [[estado-copywriting]]
-Grade: 5 fases, 33 tópicos. A frase que persuade — irmã de
-[[mapa-producao-de-conteudo]], não a mesma coisa.
-- [[fud-competitivo]] — medo real + categoria concorrente desqualificada + autoridade própria
+Grade: 5 fases, 33 tópicos, **todos com página escrita** (2026-08-20). A frase que persuade —
+irmã de [[mapa-producao-de-conteudo]], não a mesma coisa.
+- *Fundamentos:* [[copy-como-venda-por-escrito]] · [[hierarquia-de-impacto-em-copy]] ·
+  [[copy-canaliza-desejo-existente]] · [[clareza-e-especificidade]] ·
+  [[beneficio-vs-caracteristica]] · [[hierarquia-de-prova]]
+- *Pesquisa, consciência e oferta:* [[pesquisa-de-linguagem-do-cliente]] ·
+  [[entrevista-de-copy-o-gatilho]] · [[mapeamento-de-objecoes]] · [[niveis-de-consciencia]] ·
+  [[sofisticacao-de-mercado]] · [[anatomia-da-oferta]]
+- *Anatomia e frameworks:* [[anatomia-da-peca-de-copy]] · [[headline]] · [[tipos-de-hook]] ·
+  [[frameworks-de-copy]] · [[mecanismo-unico]] · [[persuasao-e-seus-limites]] ·
+  [[chamada-para-acao]] · [[fud-competitivo]] (fora da grade)
+- *Canal, edição e medição:* [[copy-por-canal]] · [[copy-b2b-e-servico-local]] ·
+  [[angulo-de-copy]] · [[ritmo-e-protocolo-de-edicao]] · [[cortar-o-rascunho]] ·
+  [[medir-copy-por-etapa]] · [[teste-ab-de-copy]]
+- *IA aplicada à copy:* [[forcas-e-riscos-da-ia-em-copy]] · [[workflow-de-copy-com-ia]] ·
+  [[prompt-de-copy]] · [[contexto-persistente-de-copy]] · [[texto-com-cara-de-ia]] ·
+  [[escala-de-copy-sem-spam]] · [[claim-inventado-e-verificacao]]
 
 **3. [[mapa-producao-de-conteudo]]** — Produção de Conteúdo · [[estado-producao-de-conteudo]]
 Grade: 7 fases, 31 tópicos. O ofício de virar conceito em post por plataforma — irmã de
