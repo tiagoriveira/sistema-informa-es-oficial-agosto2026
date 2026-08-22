@@ -3,10 +3,21 @@
 > Estado atual do sistema. Reescrito pela IA ao fim de cada sessão.
 > É um **cache derivado** de `LEARNER/` — em caso de conflito, o LEARNER está certo.
 
-**Atualizado em:** 2026-08-21
+**Atualizado em:** 2026-08-22
 **Disciplina ativa:** estatistica-para-decisao-marketing (item 1 explicado, 📍 no item 2) —
-product-discovery continua a mais avançada em avaliação real (LEARNER). Nenhuma disciplina
-tocada em 2026-08-21 — sessão foi projeto + regra de sistema (ver abaixo).
+product-discovery continua a mais avançada em avaliação real (LEARNER). gestao-de-tempo teve as
+14 páginas escritas em 2026-08-22 (ver abaixo), mas isso é INGEST, não sessão de estudo — nenhum
+conceito avaliado ainda, `📖` em todos.
+
+**Sessão de 2026-08-22 — gestao-de-tempo escrita inteira:** as 14 páginas da grade de
+[[mapa-gestao-de-tempo]] (4 fases) foram criadas de uma vez, a pedido do Tiago, seguindo o
+mesmo padrão de [[mapa-copywriting]] e [[mapa-marketing-tecnico]]. Verificação web corrigiu duas
+atribuições populares erradas: a Matriz de Eisenhower é formalização de Stephen Covey (1989),
+não do próprio Eisenhower (que só citou a distinção urgente/importante, sem desenhar matriz); e
+"coma o sapo" não tem origem verificada em Mark Twain — popularizada por Brian Tracy. Detalhe
+em cada página, seção "Conhecimento externo". `LEARNER/estado-gestao-de-tempo.md` e
+`SYSTEM/index.md` atualizados. Todos os 14 conceitos `nao_iniciado` — página escrita não é
+domínio (invariante 1).
 
 **Sessão de 2026-08-21 (fora de disciplina):** `CLAUDE.md` §2 ganhou invariante 17 (regra
 escrita não é teto de iniciativa — IA pode sugerir prática nova ou sinalizar regra datada,
@@ -187,7 +198,7 @@ e isso é um débito de LINT aberto.
 | gestao-sistemas | gestao-conhecimento-second-brain | 5 fases / 21 tópicos | 4 | 0 | 2026-08-15 |
 | gestao-sistemas | obsidian | 5 fases / 27 tópicos | 1 | 0 | 2026-08-15 |
 | gestao-sistemas | produtividade-biohacking | 7 fases / 34 tópicos | 0 | 0 | — |
-| gestao-sistemas | gestao-de-tempo | 4 fases / 14 tópicos | 0 | 0 | — |
+| gestao-sistemas | gestao-de-tempo | 4 fases / 14 tópicos | 14 | 0 | 2026-08-22 |
 | marketing ① | marketing | 7 fases / 48 tópicos | 16 | 0 | 2026-08-17 |
 | marketing ② | copywriting | 5 fases / 33 tópicos | 34 | 0 | — |
 | marketing ③ | producao-de-conteudo | 7 fases / 31 tópicos | 10 | 0 | 2026-08-15 |
@@ -216,12 +227,10 @@ e isso é um débito de LINT aberto.
 | tecnologia | tecnologia-para-fundadores | 4 fases / 16 tópicos | 0 | 0 | — |
 | consultoria | marketing-para-saas-b2b | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 42 disciplinas, 1.086 tópicos planejados, 131 páginas escritas (contagem real em
-disco em 2026-08-20, `find KNOWLEDGE -name "*.md"` excluindo mapas/hubs/LEIA-ME),
-**4 conceitos com evidência real**. A grade é plano, não progresso — só o LEARNER conta o que
-você sabe. As páginas escritas dobraram em 2026-08-20 e o número de **conceitos com evidência
-real continua 4**: a distância entre material disponível e conhecimento verificado aumentou, não
-diminuiu. Página escrita é matéria-prima, não domínio.
+**Realidade:** 42 disciplinas, 1.086 tópicos planejados, 145 páginas escritas (131 em
+2026-08-20 + 14 de gestao-de-tempo em 2026-08-22, contagem manual — recontagem em disco
+pendente), **4 conceitos com evidência real**. A grade é plano, não progresso — só o LEARNER
+conta o que você sabe. Página escrita é matéria-prima, não domínio.
 
 **Débito de LINT aberto (2026-08-20):**
 - as grades ampliadas e as três novas **não foram checadas na web** — as anteriores tinham a

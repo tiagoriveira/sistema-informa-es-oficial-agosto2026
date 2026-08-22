@@ -169,7 +169,22 @@ Grade: 7 fases, 34 tópicos. O corpo (sono, energia) — irmã de
 
 **[[mapa-gestao-de-tempo]]** — Gestão de Tempo · [[estado-gestao-de-tempo]]
 Grade: 4 fases, 14 tópicos (checada na web em 2026-08-15). A estrutura (calendário,
-prioridade) — irmã de [[mapa-produtividade-biohacking]]. Sem conceito com página ainda.
+prioridade) — irmã de [[mapa-produtividade-biohacking]]. **14 páginas escritas em 2026-08-22**,
+todas `📖`, zero avaliadas.
+- [[matriz-eisenhower]] — urgente ≠ importante; a matriz 2×2 é de Covey (1989), não Eisenhower
+- [[pareto-aplicado-a-tarefas]] — poucas tarefas concentram a maior parte do resultado
+- [[coma-o-sapo]] — fazer primeiro a tarefa mais evitada, enquanto a energia está intacta
+- [[custo-invisivel-de-dizer-sim-a-tudo]] — todo aceite é um "não" implícito a outra coisa
+- [[time-blocking]] — reservar horário fixo pra tarefa específica, não só listar
+- [[deep-work]] — blocos protegidos de foco pra trabalho cognitivamente exigente
+- [[custo-de-trocar-de-tarefa]] — switch cost + resíduo de atenção, por que multitarefa rende menos
+- [[buffer-na-agenda]] — folga deliberada pra agenda não quebrar no primeiro imprevisto
+- [[gestao-de-energia-vs-gestao-de-tempo]] — hora não vale o mesmo o dia inteiro
+- [[tarefa-exigente-no-pico-de-energia]] — tarefa exigente no pico, administrativa no vale
+- [[pausa-como-parte-do-sistema]] — pausa recupera a capacidade que o trabalho consome
+- [[sistema-demais-quebra-primeiro]] — empilhar técnica demais é o que derruba o sistema
+- [[revisao-semanal]] — o hábito que corrige o sistema antes dele degradar em silêncio
+- [[quando-abandonar-uma-tecnica]] — técnica que parou de mudar decisão virou ritual vazio
 
 ### 📣 marketing
 

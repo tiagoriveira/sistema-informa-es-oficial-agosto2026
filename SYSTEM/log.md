@@ -1112,3 +1112,11 @@ atual, backlog/roadmap, jurídico/compliance, exclusões de dado sensível). Per
 
 **Pendente:** solicitação ainda não enviada ao founder; `.md` de contexto de produto ainda não
 recebido; reunião 1 ainda não aconteceu, nenhuma pergunta respondida.
+
+## [2026-08-22] ingest | gestao-de-tempo
+
+As 14 páginas da grade de [[mapa-gestao-de-tempo]] foram escritas (4 fases completas), a pedido
+do Tiago. Duas atribuições populares corrigidas na verificação web: Matriz de Eisenhower é
+formalização de Covey (1989), não do próprio Eisenhower; "coma o sapo" não tem origem
+verificada em Mark Twain. `LEARNER/estado-gestao-de-tempo.md` e `SYSTEM/index.md` atualizados —
+todos os 14 conceitos `nao_iniciado`, nenhum avaliado em sessão ainda.
