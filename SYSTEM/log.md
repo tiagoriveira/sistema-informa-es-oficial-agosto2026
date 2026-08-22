@@ -1120,3 +1120,50 @@ do Tiago. Duas atribuições populares corrigidas na verificação web: Matriz d
 formalização de Covey (1989), não do próprio Eisenhower; "coma o sapo" não tem origem
 verificada em Mark Twain. `LEARNER/estado-gestao-de-tempo.md` e `SYSTEM/index.md` atualizados —
 todos os 14 conceitos `nao_iniciado`, nenhum avaliado em sessão ainda.
+
+## [2026-08-22] ingest | toggle "Levar essas notas pra o obsidian" (Notion)
+
+Trazido todo o conteúdo do toggle apontado pelo Tiago em
+`Sistema de gestão pessoal Tiago` (Notion), mais as páginas mencionadas/linkadas dentro dele
+(confirmado com o Tiago via pergunta: trazer os dois grupos). ~15 itens heterogêneos,
+triados por PARA:
+
+- **Filosofia** (Epicteto, biblioteca estoica, Descartes, filosofias além do Ikigai) — por
+  decisão explícita do Tiago, trazido pra este vault em vez do `vault-conhecimento-ia`, como
+  conteúdo gerado por IA → `RECURSOS/transcricoes/` (3 itens) e raiz de `RECURSOS/` (1 item,
+  síntese curta).
+- **KNOWLEDGE** — 2 páginas novas em [[mapa-gestao-conhecimento-second-brain]]
+  ([[emergencia-por-conexao]], preenche item 13; [[formas-de-escrita-para-organizar-pensamentos]],
+  fora da grade) e 2 em [[mapa-psicologia]] ([[dissonancia-cognitiva]],
+  [[vies-de-sobrevivencia]], ambas fora da grade). Todos `nao_iniciado`.
+- **Enriquecimento de conceito existente** (sem página nova) — exemplo de narrativa-pelo-job
+  somado a [[consistencia-job-narrativa-produto]]; estatística de mortalidade de ideias no
+  Discovery somada a [[riscos-de-descoberta]].
+- **RECURSOS/transcricoes/** — artigo de terceiro sobre Elon Musk e viés de sobrevivência;
+  trecho + resposta de IA sobre Cap. 15 de *Trabalhe 4 Horas por Semana*.
+- **RECURSOS/notas-pessoais/** — 2 notas literais do Tiago (ansiedade de crescimento/FOMO;
+  negócios não sozinho + overload de informação).
+- **`ideias/`** — 2 lembretes em maturação (Peterson+Girard; pedir fontes primárias à IA).
+- **`RECURSOS/Videos e cursos que estou acompanhando.md`** — 2 links novos + 1 vídeo marcado
+  pra assistir (checkbox).
+
+`SYSTEM/index.md` atualizado nas quatro disciplinas tocadas. Não usado `INBOX/` (regra
+`CLAUDE.md` invariante 12) — todo item foi direto ao destino PARA final.
+
+**Correção no mesmo dia:** os arquivos de `RECURSOS/transcricoes/` e o de `RECURSOS/` raiz
+tinham sido escritos como resumo/paráfrase, não como cópia literal — o Tiago pegou o caso mais
+grave (artigo do Elon Musk, condensado de ~2.500 palavras pra ~500). Reescritos como texto
+literal, sem corte: os 5 arquivos originais + 2 novos que faltavam (exemplo de zettelkasten com
+as 3 respostas de IA; nota de Jobs to Be Done) + 1 versão raw de "Formas de escrita" (a página
+KNOWLEDGE correspondente continua como síntese, agora linkando a fonte bruta). Página KNOWLEDGE
+de dissonância cognitiva ganhou bloco de "Nota original" com a citação literal que faltava.
+
+## [2026-08-22] update | frameworks-de-pensamento (colheita seletiva do Ybernator)
+
+Grade de [[mapa-frameworks-de-pensamento]] ampliada de 36 para 43 tópicos, cruzando com 6
+disciplinas em `ARQUIVADOS/ybernator/` a pedido do Tiago. Critério estrito: só entrou o que é
+framework nomeado e reaplicável (7 itens novos — Navalha de Ockham, raciocínio contrafactual,
+exploração vs. explotação, antifragilidade, contabilidade mental, skin in the game, nudge/
+arquitetura de escolha). Bias catalogado, lógica formal, epistemologia acadêmica e neurociência
+de percepção ficaram de fora — as 6 pastas do Ybernator continuam arquivadas, intactas, sem
+promoção. Nenhuma página de conceito escrita ainda — só ampliação de grade.

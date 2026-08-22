@@ -2,7 +2,7 @@
 tipo: mapa
 disciplina: frameworks-de-pensamento
 hub: filosofia
-atualizado: 2026-08-16
+atualizado: 2026-08-22
 ---
 
 # Mapa — Frameworks de Pensamento
@@ -43,38 +43,47 @@ esta ordem não é dogma, desvie quando houver motivo)_
 10. ⬜ MECE e árvore de decisão: cortar o problema sem sobrepor nem deixar buraco
 11. ⬜ Analogia e transferência: quando comparar ilumina e quando contrabandeia erro
 12. ⬜ Enquadramento (framing): a mesma escolha muda de resposta com a moldura
+13. ⬜ Navalha de Ockham: entre explicações que dão conta do fato, prefira a mais simples
+14. ⬜ Raciocínio contrafactual ("e se?"): testar a causa mudando só uma variável por vez
 
 ### Fase 3 — Pensar sob incerteza
-13. ⬜ Probabilístico vs. determinístico: raciocinar em distribuição, não em ponto único
-14. ⬜ Taxa-base: o erro de ignorar a frequência com que a coisa acontece no mundo
-15. ⬜ Raciocínio bayesiano: atualizar a crença na medida da evidência nova
-16. ⬜ Valor esperado e assimetria: perda limitada com ganho aberto (e o inverso)
-17. ⬜ Processo vs. resultado: decisão boa pode dar errado (o erro de "resulting")
-18. ⬜ Calibração: sua confiança de 80% acerta 80% das vezes?
+15. ⬜ Probabilístico vs. determinístico: raciocinar em distribuição, não em ponto único
+16. ⬜ Taxa-base: o erro de ignorar a frequência com que a coisa acontece no mundo
+17. ⬜ Raciocínio bayesiano: atualizar a crença na medida da evidência nova
+18. ⬜ Valor esperado e assimetria: perda limitada com ganho aberto (e o inverso)
+19. ⬜ Processo vs. resultado: decisão boa pode dar errado (o erro de "resulting")
+20. ⬜ Calibração: sua confiança de 80% acerta 80% das vezes?
+21. ⬜ Exploração vs. explotação: quando vale mais testar opção nova do que otimizar a que já funciona
 
 ### Fase 4 — Sistemas, tempo e consequências
-19. ⬜ Efeitos de segunda ordem: "e depois disso, o que acontece?"
-20. ⬜ Loops de feedback: reforço (bola de neve) vs. equilíbrio (termostato)
-21. ⬜ Estoque e fluxo: por que a taxa engana e o acúmulo é que decide
-22. ⬜ Gargalo e restrição: o sistema anda na velocidade do elo mais lento
-23. ⬜ Não-linearidade, limiar e ponto de virada — quando o pequeno vira grande de repente
-24. ⬜ Incentivo e Lei de Goodhart: a métrica vira alvo e para de medir
+22. ⬜ Efeitos de segunda ordem: "e depois disso, o que acontece?"
+23. ⬜ Loops de feedback: reforço (bola de neve) vs. equilíbrio (termostato)
+24. ⬜ Estoque e fluxo: por que a taxa engana e o acúmulo é que decide
+25. ⬜ Gargalo e restrição: o sistema anda na velocidade do elo mais lento
+26. ⬜ Não-linearidade, limiar e ponto de virada — quando o pequeno vira grande de repente
+27. ⬜ Incentivo e Lei de Goodhart: a métrica vira alvo e para de medir
+28. ⬜ Robusto, resiliente, antifrágil: três respostas diferentes ao mesmo choque (Taleb)
 
 ### Fase 5 — Onde o próprio pensamento falha
-25. ⬜ Viés de confirmação e raciocínio motivado: procurar o que confirma o que já se quer
-26. ⬜ Ancoragem, disponibilidade e representatividade (heurísticas de Kahneman e Tversky)
-27. ⬜ Sistema 1 e Sistema 2: quando a intuição serve e quando ela atropela
-28. ⬜ Custo afundado e aversão à perda: por que é tão difícil largar o que não funciona
-29. ⬜ Excesso de confiança e ilusão de profundidade explicativa (achar que entende o mecanismo)
-30. ⬜ Ruído vs. viés: dois erros diferentes, com correções diferentes
+29. ⬜ Viés de confirmação e raciocínio motivado: procurar o que confirma o que já se quer
+30. ⬜ Ancoragem, disponibilidade e representatividade (heurísticas de Kahneman e Tversky)
+31. ⬜ Sistema 1 e Sistema 2: quando a intuição serve e quando ela atropela
+32. ⬜ Custo afundado e aversão à perda: por que é tão difícil largar o que não funciona
+33. ⬜ Excesso de confiança e ilusão de profundidade explicativa (achar que entende o mecanismo)
+34. ⬜ Ruído vs. viés: dois erros diferentes, com correções diferentes
+35. ⬜ Contabilidade mental: por que o mesmo real vale diferente dependendo do "envelope" onde
+    ele está (Thaler)
 
 ### Fase 6 — Aplicar: decidir, registrar, revisar
-31. ⬜ Decisão reversível vs. irreversível: a velocidade certa depende do custo do erro
-32. ⬜ Pre-mortem e red team: procurar o próprio erro antes que ele apareça sozinho
-33. ⬜ Diário de decisão: registrar o raciocínio na data, não a lembrança dele depois
-34. ⬜ Cerca de Chesterton e heurísticas simples que batem o modelo complexo
-35. ⬜ Steelman: reconstruir a posição contrária na versão mais forte antes de responder
-36. ⬜ Montar o seu latticework: os 10-20 modelos que você de fato usa
+36. ⬜ Decisão reversível vs. irreversível: a velocidade certa depende do custo do erro
+37. ⬜ Pre-mortem e red team: procurar o próprio erro antes que ele apareça sozinho
+38. ⬜ Diário de decisão: registrar o raciocínio na data, não a lembrança dele depois
+39. ⬜ Cerca de Chesterton e heurísticas simples que batem o modelo complexo
+40. ⬜ Steelman: reconstruir a posição contrária na versão mais forte antes de responder
+41. ⬜ Montar o seu latticework: os 10-20 modelos que você de fato usa
+42. ⬜ Skin in the game: por que conselho de quem não arca com o próprio erro pesa menos (Taleb)
+43. ⬜ Nudge e arquitetura de escolha: desenhar o ambiente onde a decisão acontece, não só a
+    decisão em si (Thaler & Sunstein)
 
 ## Nota sobre a grade
 Grade desenhada em 2026-08-16 a partir de busca na web (regra `CLAUDE.md` §6). A ordem vai do
@@ -82,6 +91,25 @@ Grade desenhada em 2026-08-16 a partir de busca na web (regra `CLAUDE.md` §6). 
 incerteza**, depois **ver o sistema e o tempo**, depois **auditar o próprio raciocínio**, e
 fecha em **prática de decisão**. Os vieses ficam na Fase 5, não na 1, de propósito: saber o nome
 do viés antes de ter um método de decisão vira colecionismo de termo, não melhora escolha.
+
+**Ampliada em 2026-08-22, de 36 para 43 tópicos**, cruzando com 6 disciplinas arquivadas em
+`ARQUIVADOS/ybernator/` (`filosofia/epistemologia-aplicada`, `filosofia/falacias-argumentacao`,
+`filosofia/logica-argumentacao`, `negocios/musk-primeiros-principios`,
+`psicologia/economia-comportamental`, `dinamicas-sociais/pragmatismo-aplicado`) a pedido do
+Tiago. O critério de corte foi estrito: só entrou o que é **framework** de verdade — uma
+ferramenta nomeada e reaplicável para decompor ou decidir — não bias catalogado, não lógica
+formal, não epistemologia acadêmica, não neurociência de percepção. Isso descartou a maior parte
+dos ~155 tópicos brutos das 6 disciplinas: a maioria já estava coberta por item existente com
+outro nome (ex.: "Mapas vs. Território" do pragmatismo-aplicado = item 1; "Heurísticas de
+Kahneman" da epistemologia-aplicada = itens 30-31; "Lógica Bayesiana" da lógica-argumentacao =
+item 17), ou é conteúdo que pertence à disciplina irmã [[mapa-logica-e-epistemologia]] (lógica
+formal, falácias, teoria do conhecimento acadêmica) e não foi tocado aqui. **7 itens novos**
+entraram por não terem equivalente na grade nem em outra disciplina do vault: Navalha de Ockham
+e raciocínio contrafactual (decompor); exploração vs. explotação (incerteza); antifragilidade de
+Taleb (sistemas); contabilidade mental de Thaler (onde o pensamento falha); skin in the game de
+Taleb e nudge de Thaler/Sunstein (aplicar). **As 6 pastas do Ybernator continuam arquivadas,
+intactas** — a colheita foi seletiva, não uma promoção de disciplina inteira (procedimento
+diferente do usado para o hub `marketing` em 2026-08-20).
 
 Área **estável** — quase nada aqui envelhece por ano (Munger, Kahneman, Tversky, teoria de
 sistemas). O que mais muda é a Fase 3, onde a literatura de calibração e previsão continua ativa.

@@ -77,8 +77,10 @@ Grade: 7 fases, 39 tópicos. A ferramenta de avaliar argumento —
 irmã de [[mapa-historia-da-filosofia]], não a mesma coisa. Sem conceito com página ainda.
 
 **3. [[mapa-frameworks-de-pensamento]]** — Frameworks de Pensamento · [[estado-frameworks-de-pensamento]]
-Grade: 6 fases, 36 tópicos (checada na web em 2026-08-16). Modelos mentais e decisão sob
-incerteza — lógica avalia argumento pronto, aqui escolhe-se a lente pra atacar problema novo.
+Grade: 6 fases, 43 tópicos (checada na web em 2026-08-16; +7 em 2026-08-22, colheita seletiva
+do Ybernator — só framework de verdade, não bias/lógica formal/epistemologia acadêmica). Modelos
+mentais e decisão sob incerteza — lógica avalia argumento pronto, aqui escolhe-se a lente pra
+atacar problema novo. Sem conceito com página ainda.
 Maior grade do vault, por pedido explícito de cobertura máxima. Sem conceito com página ainda.
 
 ### 💼 negocios
@@ -93,7 +95,9 @@ falhas → macro → as escolas em disputa, comportamental e aplicação. Sem co
 
 **2. [[mapa-visao-estrategica-negocios]]** — Visão Estratégica · [[estado-visao-estrategica-negocios]]
 Grade: 6 fases, 47 tópicos. O que é estratégia → existe negócio aqui → onde competir → fossos
-e as sete potências → modelo de negócio e capital → decidir e executar. Sem conceito com página.
+e as sete potências → modelo de negócio e capital → decidir e executar.
+- [[flywheel]] — loop autorreforçante vs. cross-sell/funil linear; explicado em 2026-08-21 e
+  aplicado pelo Tiago ao próprio ecossistema de investimento/marketing (fora da grade)
 
 **3. [[mapa-teoria-dos-jogos-e-estrategia]]** — Teoria dos Jogos e Estratégia ·
 [[estado-teoria-dos-jogos-e-estrategia]]
@@ -153,6 +157,9 @@ Grade: 5 fases, 21 tópicos (checada na web em 2026-08-14).
 - [[ciclo-code]] — cada etapa obriga a informação a mudar de forma
 - [[captura-seletiva]] — ressonância como filtro de entrada
 - [[nota-efemera-vs-permanente]] — a janela de 24-48h e por que ela existe
+- [[emergencia-por-conexao]] — a resposta nasce do encaixe entre notas, não de uma nota só
+- [[formas-de-escrita-para-organizar-pensamentos]] — 10 técnicas e o problema que cada uma
+  ataca (fora da grade)
 
 **[[mapa-obsidian]]** — Obsidian · [[estado-obsidian]]
 Grade: 5 fases, 27 tópicos (checada na web em 2026-08-15). A **ferramenta**; o método fica em
@@ -278,7 +285,10 @@ Todos com página escrita (`📖`), nenhum avaliado.
 
 **[[mapa-psicologia]]** — Psicologia · [[estado-psicologia]]
 Grade: 4 fases, 14 tópicos (checada na web em 2026-08-15). Resolve pendência de 2026-08-15
-("hub da área da mente"). Sem conceito com página ainda.
+("hub da área da mente").
+- [[dissonancia-cognitiva]] — desconforto de agir contra o que se pensa/sente (fora da grade)
+- [[vies-de-sobrevivencia]] — julgar método pelo sucesso visível, ignorando quem falhou em
+  silêncio (fora da grade)
 
 ### 🤝 dinamicas-sociais (hub novo, 2026-08-15)
 

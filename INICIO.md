@@ -9,6 +9,16 @@ product-discovery continua a mais avançada em avaliação real (LEARNER). gesta
 14 páginas escritas em 2026-08-22 (ver abaixo), mas isso é INGEST, não sessão de estudo — nenhum
 conceito avaliado ainda, `📖` em todos.
 
+**Ainda em 2026-08-22 — frameworks-de-pensamento, colheita seletiva do Ybernator:** grade
+ampliada de 36 para 43 tópicos, cruzando com 6 disciplinas arquivadas (`epistemologia-aplicada`,
+`falacias-argumentacao`, `logica-argumentacao`, `musk-primeiros-principios`,
+`economia-comportamental`, `pragmatismo-aplicado`). Critério estrito, a pedido do Tiago: só
+framework nomeado e reaplicável entrou (Navalha de Ockham, raciocínio contrafactual, exploração
+vs. explotação, antifragilidade, contabilidade mental, skin in the game, nudge/arquitetura de
+escolha) — bias catalogado, lógica formal e epistemologia acadêmica ficaram de fora, e as 6
+pastas do Ybernator continuam arquivadas, sem promoção. Nenhuma página escrita ainda —
+só grade. Ver `mapa-frameworks-de-pensamento.md`, "Nota sobre a grade".
+
 **Sessão de 2026-08-22 — gestao-de-tempo escrita inteira:** as 14 páginas da grade de
 [[mapa-gestao-de-tempo]] (4 fases) foram criadas de uma vez, a pedido do Tiago, seguindo o
 mesmo padrão de [[mapa-copywriting]] e [[mapa-marketing-tecnico]]. Verificação web corrigiu duas
@@ -210,7 +220,7 @@ e isso é um débito de LINT aberto.
 | comunicacao ② | **influencia-persuasao-oratoria** _(nova)_ | 5 fases / 24 tópicos | 0 | 0 | — |
 | comunicacao ③ | ingles | 6 fases / 42 tópicos | 0 | 0 | — |
 | filosofia | logica-e-epistemologia | 7 fases / 39 tópicos | 0 | 0 | — |
-| filosofia | frameworks-de-pensamento | 6 fases / 36 tópicos | 0 | 0 | — |
+| filosofia | frameworks-de-pensamento | 6 fases / 43 tópicos | 0 | 0 | — |
 | psicologia | psicologia | 4 fases / 14 tópicos | 0 | 0 | — |
 | dinamicas-sociais | poder-e-dinamica-social | 6 fases / 33 tópicos | 0 | 0 | — |
 | dinamicas-sociais | comportamento-masculino-e-realismo | 4 fases / 12 tópicos | 0 | 0 | — |
@@ -227,7 +237,7 @@ e isso é um débito de LINT aberto.
 | tecnologia | tecnologia-para-fundadores | 4 fases / 16 tópicos | 0 | 0 | — |
 | consultoria | marketing-para-saas-b2b | 4 fases / 16 tópicos | 0 | 0 | — |
 
-**Realidade:** 42 disciplinas, 1.086 tópicos planejados, 145 páginas escritas (131 em
+**Realidade:** 42 disciplinas, 1.093 tópicos planejados, 145 páginas escritas (131 em
 2026-08-20 + 14 de gestao-de-tempo em 2026-08-22, contagem manual — recontagem em disco
 pendente), **4 conceitos com evidência real**. A grade é plano, não progresso — só o LEARNER
 conta o que você sabe. Página escrita é matéria-prima, não domínio.
