@@ -19,6 +19,7 @@ Sistema-de-estudos-tiago-agosto-2026/
 │
 ├── CLAUDE.md                  ← constituição. Carregada automaticamente pelo Claude Code
 ├── INICIO.md                  ← estado atual + porta de entrada (humano e IA)
+├── TAREFAS.md                 ← home única de tarefa do dia a dia (2026-08-22)
 │
 ├── RAW/                       ← fontes originais. Imutável. Só o Tiago escreve
 │   └── <disciplina>/
@@ -92,6 +93,7 @@ central do desenho — sem ela o sistema morre por peso próprio no segundo ano.
 | o assunto | `KNOWLEDGE/` | reconstruível a partir de RAW |
 | o aluno | `LEARNER/` | reconstruível a partir de SESSIONS |
 | o que aconteceu | `SESSIONS/` + `log.md` | — |
+| tarefa do dia a dia | `TAREFAS.md` | — (arquivo único, não deriva de outro lugar) |
 | pensamento cru do Tiago | `INBOX/` | — (não é fonte, não é KNOWLEDGE) |
 | ideias em maturação | `ideias/` | — (não são projeto nem referência externa) |
 | pensamento triado do Tiago | `PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/` | — (não é fonte, não é KNOWLEDGE; método PARA) |
@@ -438,6 +440,7 @@ objetivo para reavaliar em "Melhorias futuras".
 | 20 | Proibição de elogio automático (`CLAUDE.md` §8) | "quase isso!" em resposta errada corrompe o modelo e o aprendizado |
 | 21 | Git ativo desde 2026-08-13 | remoto: `github.com/tiagoriveira/sistema-informa-es-oficial-agosto2026`; commit + push automáticos ao fim da sessão desde 2026-08-14 (comando manual no FAQ, se preferir) |
 | 22 | Cinco templates em `_templates/` | funcionam com o plugin Templater, ou como copiar e colar |
+| 23 | `TAREFAS.md` na raiz (2026-08-22) | 4 arquivos de tarefa soltos e paralelos causavam context switching; consolidados numa home única — ver `CLAUDE.md` §1 e §3 |
 
 ---
 

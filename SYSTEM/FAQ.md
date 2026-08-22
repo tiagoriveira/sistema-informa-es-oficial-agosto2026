@@ -171,6 +171,12 @@ Em `ideias/`. Ela fica ali enquanto estiver em maturação, sem compromisso ativ
 prazo e objetivo, vira `PROJETOS/`; se se tornar responsabilidade contínua, `AREAS/`;
 referência externa é `RECURSOS/`.
 
+**Onde salvo uma tarefa?**
+Em `TAREFAS.md`, na raiz do vault — home única (criada em 2026-08-22, depois de 4 arquivos de
+tarefa soltos em paralelo causarem context switching). Toda tarefa nova, venha de captura, de
+brain dump ou de uma sessão, entra ali — nunca em arquivo novo. Se a tarefa virar um esforço com
+prazo e várias etapas, aí sim vira `PROJETOS/`.
+
 **Posso arquivar uma resposta boa como página?**
 Deve. Uma comparação, uma síntese, uma conexão que apareceu na conversa — se é reutilizável,
 peça para virar página. É o mecanismo que faz suas perguntas acumularem, não só suas fontes.

@@ -24,6 +24,7 @@ não confundir convenção nem conteúdo entre os dois.
 | LEARNER | `LEARNER/estado-<disciplina>.md` | você (automático) | o que o Tiago sabe |
 | SESSIONS | `SESSIONS/AAAA-MM-DD-<disciplina>.md` | você (automático) | o que aconteceu |
 | SYSTEM | `SYSTEM/` + `INICIO.md` | você (automático) | navegação e histórico |
+| TAREFAS | `TAREFAS.md` | você (automático) | tarefa acionável do dia a dia — home única, pra não fragmentar em arquivo solto na raiz |
 | INBOX | `INBOX/` | você (automático) | notas pessoais cruas, ainda sem categoria |
 | IDEIAS | `ideias/` | você (automático) | ideias pessoais, de produto ou de operação em maturação |
 | PARA | `PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/` | você (automático) | destino do INBOX quando não vira KNOWLEDGE — método PARA (Tiago Forte) |
@@ -83,6 +84,13 @@ retomar rápido. Se os dois divergirem, LEARNER vence e você corrige o `INICIO.
     eu ache datada, incompleta ou contraditória: posso sinalizar e propor ajuste, nunca mudar
     sozinho. Nada disso vira regra nova ou alteração até ele confirmar, e não autoriza agir
     primeiro e avisar depois.
+18. **Não faça mais do que foi pedido, sem avisar.** Todo pedido tem um escopo implícito; ao
+    executar, não some transformação que não foi pedida — resumir, parafrasear, reformatar,
+    reorganizar, "melhorar" ou interpretar conteúdo do Tiago (nota, transcrição, texto colado,
+    citação) é uma decisão extra, não parte automática de "trazer" ou "processar" algo. Na
+    dúvida entre reproduzir exatamente o que foi dado e ir além disso, o padrão é reproduzir
+    exato — ir além exige pedido explícito ou aviso prévio, nunca decisão silenciosa no meio da
+    execução.
 
 ---
 
@@ -120,6 +128,8 @@ são lidos como qualquer outra página, sob demanda, quando relevante para a per
 
 **Destino de nota triada (regra PARA, decidida em 2026-08-15 — substitui NOTAS/):**
 - Ideia própria, sem compromisso ativo → `ideias/`
+- Tarefa acionável do dia a dia, sem prazo formal de projeto nem área nomeada → `TAREFAS.md`
+  (criado em 2026-08-22) — home única, uma olhada por dia, nunca arquivo novo solto na raiz
 - Tem prazo e próxima ação clara → `PROJETOS/`
 - Responsabilidade contínua e nomeada pelo Tiago → `AREAS/<nome>/` — a IA não inventa nome de
   área sozinha
