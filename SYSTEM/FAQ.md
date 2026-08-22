@@ -294,10 +294,11 @@ O OneDrive já sincroniza. Para algo importante de verdade, Git + um remoto priv
 
 **O que é o `CONEXOES.md`?**
 Arquivo dedicado só a isso: uma rotina agendada roda sozinha, 1x por dia (9h UTC / 6h em São
-Paulo), na nuvem — não no seu computador — varre o vault procurando página órfã, conceito citado
-sem página própria, e nota recente com pouco link de saída, e escreve o achado ali.
-**Nunca edita nenhum outro arquivo** — é sugestão pra você revisar, não decisão automática.
-Detalhe técnico completo em `SYSTEM/ARQUITETURA.md`, seção "Automação agendada".
+Paulo), na nuvem — não no seu computador — e **pensa em cima das suas notas**: cruza o estado
+atual dos projetos, tarefas e capturas com os conceitos do vault e registra 3-6
+conexões/insights de qualquer tipo (hipótese de projeto, ideia nova, ponte entre disciplinas,
+padrão recorrente, tarefa fora de ordem). **Nunca edita nenhum outro arquivo** — é sugestão pra
+você revisar, não decisão automática. Detalhe em `SYSTEM/ARQUITETURA.md`, "Automação agendada".
 
 **Por que às vezes a sugestão só aparece depois que eu já abri uma conversa com você?**
 A rotina só enxerga o repositório git, não a pasta do OneDrive direto. Ela escreve e sobe pro

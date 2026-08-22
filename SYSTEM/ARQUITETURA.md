@@ -457,18 +457,24 @@ diário pra revisão humana, não edição direta e silenciosa.
 **O que existe:** uma rotina (`RemoteTrigger`, id `trig_01LV4SNWBnq2mbdYzP3VDJ9w`) que sobe um
 agente Claude Code isolado **na nuvem da Anthropic**, todo dia às 9h UTC (6h em São Paulo).
 
-**Mecanismo, passo a passo:**
+**Mecanismo, passo a passo** (reformulado em 2026-08-22, no mesmo dia — a primeira versão era
+varredura estrutural de link/órfã, o Tiago corrigiu: ele queria a IA **pensando** sobre o
+conteúdo, não checando a geometria dos links):
 1. A sessão na nuvem clona o repositório GitHub (`tiagoriveira/sistema-informa-es-oficial-agosto2026`)
    — não tem acesso ao disco local nem ao OneDrive.
-2. Varre `KNOWLEDGE/`, `RECURSOS/`, `ideias/`, `PROJETOS/`, `AREAS/` e a raiz, procurando três
-   coisas: página órfã (sem `[[link]]` apontando pra ela), conceito citado em 2+ páginas sem ter
-   página própria, e nota modificada nos últimos 2 dias com `## Relacionado` ausente ou fraco
-   (<2 links).
-3. Escreve os achados (máx. 8 itens) em `CONEXOES.md` — arquivo dedicado só a isso, separado do
-   `TAREFAS.md` (2026-08-22: estava misturado dentro do `TAREFAS.md` a princípio, o Tiago pediu
-   pra separar — arquivo com um propósito só é mais fácil de achar e ler) —
-   **substituindo** o conteúdo da rodada anterior, nunca acumulando.
-4. `git commit` + `git push` pro GitHub.
+2. Lê, nessa ordem econômica: `TAREFAS.md` (o que ele está tentando fazer agora), `PROJETOS/`
+   inteiro (bloqueios e perguntas em aberto), `ideias/`, `INICIO.md`, arquivos da raiz
+   modificados nos últimos ~3 dias, e de `KNOWLEDGE/` só o que conectar com isso (via grep).
+3. Produz 3-6 conexões/insights de **qualquer tipo** — hipótese estratégica de projeto, ideia
+   nova combinando duas notas, ponte entre disciplinas, padrão recorrente nas capturas, tarefa
+   fora de ordem, ideia dormindo em `ideias/` que responde pergunta aberta. Critérios: específico
+   ao estado atual das notas, nunca genérico; conexão forçada é pior que nenhuma; não repete o
+   que as notas já registram explicitamente; sempre como sugestão, nunca certeza.
+4. Escreve em `CONEXOES.md` — arquivo dedicado só a isso, separado do `TAREFAS.md` (2026-08-22:
+   estava misturado dentro do `TAREFAS.md` a princípio, o Tiago pediu pra separar — arquivo com
+   um propósito só é mais fácil de achar e ler) — **substituindo** o conteúdo da rodada anterior,
+   nunca acumulando.
+5. `git commit` + `git push` pro GitHub.
 
 **Por que o resultado só aparece no vault local depois de um `git pull`:** a rotina só enxerga o
 git remoto, não a pasta OneDrive. O Claude Code lê `git pull` no início de toda sessão

@@ -1189,3 +1189,14 @@ notas quando ele nao esta por perto + reinferencia do post arquivado sobre Karpa
 Run manual de teste: ~2min40s, achou 4 sugestoes reais e descartou sozinha 1 falso
 positivo (KNOWLEDGE/LEIA-ME.md). Documentado em ARQUITETURA.md ("Automacao agendada")
 e FAQ.md.
+
+## [2026-08-22] system | rotina agendada reformulada: de varredura de link pra "pensador de conexoes"
+
+O Tiago corrigiu o desenho: ele nao queria checagem estrutural (orfa/link), queria a IA
+pensando sobre o CONTEUDO -- cruzar estado atual de projetos/tarefas/capturas com conceitos
+do vault e propor hipoteses (ex.: "CAC alto no projeto X talvez seja o job mal definido,
+ver jobs-to-be-done"). Rotina atualizada (mesmo id), escopo ampliado pra qualquer tipo de
+conexao. Primeira rodada no novo formato escrita ao vivo em sessao como demonstracao --
+5 conexoes reais em CONEXOES.md (bloqueador comum dos 2 projetos, tarefa fora de ordem,
+CRM-IA como resposta ao "que servico oferecer", campanhas ativas como lab de discovery,
+ikigai vs. meta de R$25k). ARQUITETURA.md e FAQ.md sincronizados.
