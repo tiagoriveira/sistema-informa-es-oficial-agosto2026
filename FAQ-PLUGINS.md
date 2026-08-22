@@ -93,8 +93,51 @@ Parse date" (paleta de comando), ou configure o autocomplete pra sugerir enquant
 
 **Dataview** e plugin de embedding/similaridade entre notas (tipo "Open Connections") — ambos
 recomendados por comentário no post do Threads (`tiagoribeiro.rs1`, 2026-08-21/22), mas **não
-instalados**, porque já existe decisão registrada e justificada em `SYSTEM/ARQUITETURA.md` #12 e
-#13: a IA (eu) não lê o resultado de uma query Dataview, só o código dela — uma tabela de
-revisão pendente gerada por Dataview ficaria invisível pra mim, que sou justamente quem precisa
-dela. Isso não é dogma (`CLAUDE.md` invariante 15) — se quiser revisitar essa decisão
-especificamente, é só pedir.
+instalados**. Não é dogma (`CLAUDE.md` invariante 15) — é uma recomendação revisável, registrada
+aqui com o raciocínio completo pra não se perder, discutida em 2026-08-22.
+
+### Dataview, em termos simples
+Dataview deixa você escrever uma **pergunta** dentro de uma nota (tipo busca de banco de dados)
+e ele monta uma tabela **ao vivo**, escaneando outras notas — sem copiar e colar, atualiza
+sozinha conforme o vault muda. Analogia: é a diferença entre lista de compras escrita à mão
+(envelhece assim que você usa um item) e uma tela mostrando "o que tem na geladeira agora".
+
+### Onde funcionaria hoje, sem mexer em nada
+Toda página de conceito já tem frontmatter estruturado (`tipo:`, `criado:`, `fontes:`). Dataview
+lê frontmatter bem — uma query real que já rodaria:
+```dataview
+TABLE disciplina, criado
+FROM "KNOWLEDGE"
+WHERE tipo = "conceito" AND fontes = []
+```
+Isso mostraria, ao vivo, toda página marcada como "conhecimento externo" (sem fonte sua) — útil
+pra auditar rápido sem pedir pra mim.
+
+### Onde não funcionaria, do jeito que o vault está hoje
+A pergunta mais óbvia que todo mundo quer — "o que tá vencido pra revisar?" — não dá, porque
+`estado`, `nível` e `revisar:` vivem em **texto corrido** dentro de cada bloco do
+`LEARNER/estado-<disciplina>.md`, não em campo estruturado. Dataview não lê prosa, lê campo.
+Pra essa query funcionar, cada conceito precisaria virar arquivo próprio com
+`revisar:: 2026-08-25` no frontmatter — o que desfaz a mudança #1 de `ARQUITETURA.md`: quando o
+LEARNER era um arquivo por conceito, as dimensões do mesmo conceito viviam espalhadas e podiam
+se contradizer entre si. Reestruturar de volta troca "nunca diverge de si mesmo" por "dashboard
+bonito".
+
+### Prós e contras
+
+**A favor:**
+- Zero risco — é só visual, humano; se não gostar, para de usar, nada quebra.
+- Já dá pra testar hoje em cima do que já é estruturado (`KNOWLEDGE`), sem mexer em `LEARNER`.
+- Painel na hora, sem precisar perguntar pra mim.
+
+**Contra:**
+- Eu **não leio o resultado da tabela** — só o código da pergunta. Decisão tomada olhando uma
+  tabela desatualizada/quebrada, e eu não saberia, porque pra mim ela nem existe.
+- A query mais desejada (revisão vencida) não funciona sem reestruturar `LEARNER`.
+- Campo com nome errado quebra a query em silêncio — tabela vazia, sem erro claro.
+
+### Recomendação (não decisão)
+Vale testar nas perguntas que já funcionam de graça (frontmatter de `KNOWLEDGE`), não
+reestruturar `LEARNER` pra caçar a query de revisão — o custo dessa reestruturação já foi pago
+uma vez e a razão pra evitar continua valendo. `ARQUITETURA.md` #12 e #13 documentam a decisão
+original; esta seção é a expansão prática dela.
