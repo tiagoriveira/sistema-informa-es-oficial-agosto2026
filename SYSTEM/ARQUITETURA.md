@@ -20,6 +20,7 @@ Sistema-de-estudos-tiago-agosto-2026/
 ├── CLAUDE.md                  ← constituição. Carregada automaticamente pelo Claude Code
 ├── INICIO.md                  ← estado atual + porta de entrada (humano e IA)
 ├── TAREFAS.md                 ← home única de tarefa e captura rápida do dia a dia (2026-08-22)
+├── CONEXOES.md                 ← só o relatório da rotina agendada (2026-08-22, separado do TAREFAS.md pra não misturar)
 │
 ├── RAW/                       ← fontes originais. Imutável. Só o Tiago escreve
 │   └── <disciplina>/
@@ -94,6 +95,7 @@ central do desenho — sem ela o sistema morre por peso próprio no segundo ano.
 | o aluno | `LEARNER/` | reconstruível a partir de SESSIONS |
 | o que aconteceu | `SESSIONS/` + `log.md` | — |
 | tarefa do dia a dia | `TAREFAS.md` | — (arquivo único, não deriva de outro lugar) |
+| sugestão de conexão automática | `CONEXOES.md` | — (regenerado a cada rodada da rotina agendada, não acumula) |
 | pensamento cru do Tiago | `INBOX/` | — (não é fonte, não é KNOWLEDGE) |
 | ideias em maturação | `ideias/` | — (não são projeto nem referência externa) |
 | pensamento triado do Tiago | `PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/` | — (não é fonte, não é KNOWLEDGE; método PARA) |
@@ -462,9 +464,10 @@ agente Claude Code isolado **na nuvem da Anthropic**, todo dia às 9h UTC (6h em
    coisas: página órfã (sem `[[link]]` apontando pra ela), conceito citado em 2+ páginas sem ter
    página própria, e nota modificada nos últimos 2 dias com `## Relacionado` ausente ou fraco
    (<2 links).
-3. Escreve os achados (máx. 8 itens) numa seção fixa do `TAREFAS.md` —
-   `## Conexões sugeridas pela IA (revisão automática)` — **substituindo** o conteúdo da rodada
-   anterior, nunca acumulando.
+3. Escreve os achados (máx. 8 itens) em `CONEXOES.md` — arquivo dedicado só a isso, separado do
+   `TAREFAS.md` (2026-08-22: estava misturado dentro do `TAREFAS.md` a princípio, o Tiago pediu
+   pra separar — arquivo com um propósito só é mais fácil de achar e ler) —
+   **substituindo** o conteúdo da rodada anterior, nunca acumulando.
 4. `git commit` + `git push` pro GitHub.
 
 **Por que o resultado só aparece no vault local depois de um `git pull`:** a rotina só enxerga o
@@ -472,8 +475,8 @@ git remoto, não a pasta OneDrive. O Claude Code lê `git pull` no início de to
 (`CLAUDE.md` §3), então na prática o Tiago nunca precisa lembrar de puxar manualmente — a próxima
 conversa já traz o resultado do dia.
 
-**Limites de propósito, escritos no prompt da rotina:** só edita a seção específica do
-`TAREFAS.md`; nunca cria, edita ou apaga página em `KNOWLEDGE/`; nunca decide sozinha se uma
+**Limites de propósito, escritos no prompt da rotina:** só edita `CONEXOES.md` (nenhum outro
+arquivo, especialmente não `TAREFAS.md`); nunca cria, edita ou apaga página em `KNOWLEDGE/`; nunca decide sozinha se uma
 sugestão é válida — só propõe. Testada ao vivo em 2026-08-22 (run manual, ~2min40s de ponta a
 ponta): achou e descartou sozinha 1 falso positivo (`KNOWLEDGE/LEIA-ME.md`, README de
 infraestrutura, não conceito órfão de verdade) antes de aceitar os 4 achados finais — mostra

@@ -25,6 +25,7 @@ não confundir convenção nem conteúdo entre os dois.
 | SESSIONS | `SESSIONS/AAAA-MM-DD-<disciplina>.md` | você (automático) | o que aconteceu |
 | SYSTEM | `SYSTEM/` + `INICIO.md` | você (automático) | navegação e histórico |
 | TAREFAS | `TAREFAS.md` | você (automático) | tarefa e captura rápida do dia a dia — home única, pra não fragmentar em arquivo solto na raiz |
+| CONEXOES | `CONEXOES.md` | rotina agendada (automático) | só o relatório diário da varredura de conexão — arquivo dedicado, nunca misturado com TAREFAS.md |
 | INBOX | `INBOX/` | você (automático) | notas pessoais cruas, ainda sem categoria |
 | IDEIAS | `ideias/` | você (automático) | ideias pessoais, de produto ou de operação em maturação |
 | PARA | `PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/` | você (automático) | destino do INBOX quando não vira KNOWLEDGE — método PARA (Tiago Forte) |

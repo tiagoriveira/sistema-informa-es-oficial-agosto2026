@@ -292,11 +292,11 @@ real de mudanças, sincronizado. Se quiser fazer manual em algum momento, o coma
 **Backup?**
 O OneDrive já sincroniza. Para algo importante de verdade, Git + um remoto privado.
 
-**O que é a seção "Conexões sugeridas pela IA" que aparece no `TAREFAS.md`?**
-É gerada por uma rotina agendada que roda sozinha, 1x por dia (9h UTC / 6h em São Paulo), na
-nuvem — não no seu computador. Ela varre o vault procurando página órfã, conceito citado sem
-página própria, e nota recente com pouco link de saída, e escreve o achado nessa seção. Ela
-**nunca edita nada além dessa seção** — é sugestão pra você revisar, não decisão automática.
+**O que é o `CONEXOES.md`?**
+Arquivo dedicado só a isso: uma rotina agendada roda sozinha, 1x por dia (9h UTC / 6h em São
+Paulo), na nuvem — não no seu computador — varre o vault procurando página órfã, conceito citado
+sem página própria, e nota recente com pouco link de saída, e escreve o achado ali.
+**Nunca edita nenhum outro arquivo** — é sugestão pra você revisar, não decisão automática.
 Detalhe técnico completo em `SYSTEM/ARQUITETURA.md`, seção "Automação agendada".
 
 **Por que às vezes a sugestão só aparece depois que eu já abri uma conversa com você?**
