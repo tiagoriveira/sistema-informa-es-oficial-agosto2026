@@ -25,8 +25,7 @@ raiz do vault). Aguardando sua confirmação pra apagar os originais (nada foi a
 - [ ] Focar em equilibrar a mente — reduzir celular/redes sociais, ler de forma mais consciente
 
 ## Backlog / sem data
-- [ ] Discorrer sobre a filosofia de "um passo de cada vez" pra evitar paralisia por
-      análise/ruminação — hipótese: micro-recompensa no caminho pode ser o gatilho que falta
+
 - [ ] Aplicar mais, pensar/estudar menos
 - [ ] Ver quais plugins do Obsidian valem a pena (inclusive os recomendados no Threads)
 - [ ] Assistir curso do Denner — 1 parte é suficiente
@@ -47,3 +46,8 @@ _(fica aqui até a próxima limpeza da seção, só pra dar a satisfação — d
       Vale do Silicio (marketing, negocios, IA)]] (Musk e Thiel não têm fonte primária ativa,
       sinalizado na página; entraram Karpathy, Paul Graham, Sam Altman, Andreessen, Balaji,
       Lenny Rachitsky, Andrew Chen, Simon Willison)
+- [x] Discovery no próprio comercial: é boa prática, pra quê? — discorrido em 2026-08-22, ver
+      [[Ideia que tive conversando com o Bruno]]
+- [x] Discorrer sobre "um passo de cada vez" contra paralisia por análise — discorrido em
+      2026-08-22, ver [[Discorrer sobre a filosofia de um 'passo de cada vez' pra evitar
+      paralisia por analise]] (ativação comportamental + princípio do progresso, de Amabile)
