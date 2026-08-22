@@ -1177,3 +1177,15 @@ Criado FAQ-PLUGINS.md na raiz (uso de cada plugin), RECURSOS/Como usar Spaced Re
 para aprender ingles.md (workflow completo) e KNOWLEDGE/comunicacao/ingles/flashcards/
 exemplo-frases-coletadas.md (baralho de exemplo). mapa-ingles.md atualizado linkando os
 dois. TAREFAS.md: 2 itens do backlog marcados como feitos.
+
+## [2026-08-22] system | rotina agendada de varredura de conexao (Karpathy loop)
+
+Criada e testada ao vivo a primeira automacao autonoma do sistema: RemoteTrigger
+trig_01LV4SNWBnq2mbdYzP3VDJ9w, roda 1x/dia (9h UTC) na nuvem, varre KNOWLEDGE/RECURSOS/
+ideias/PROJETOS/AREAS procurando pagina orfa, conceito sem pagina e nota com pouco link,
+e escreve sugestao numa secao fixa do TAREFAS.md (substitui, nao acumula, nunca edita
+mais nada). Origem: comentario do Tiago no Threads sobre a IA "continuar pensando" nas
+notas quando ele nao esta por perto + reinferencia do post arquivado sobre Karpathy.
+Run manual de teste: ~2min40s, achou 4 sugestoes reais e descartou sozinha 1 falso
+positivo (KNOWLEDGE/LEIA-ME.md). Documentado em ARQUITETURA.md ("Automacao agendada")
+e FAQ.md.

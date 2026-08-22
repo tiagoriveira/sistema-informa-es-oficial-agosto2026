@@ -441,6 +441,50 @@ objetivo para reavaliar em "Melhorias futuras".
 | 21 | Git ativo desde 2026-08-13 | remoto: `github.com/tiagoriveira/sistema-informa-es-oficial-agosto2026`; commit + push automáticos ao fim da sessão desde 2026-08-14 (comando manual no FAQ, se preferir) |
 | 22 | Cinco templates em `_templates/` | funcionam com o plugin Templater, ou como copiar e colar |
 | 23 | `TAREFAS.md` na raiz (2026-08-22) | 4 arquivos de tarefa soltos e paralelos causavam context switching; consolidados numa home única — ver `CLAUDE.md` §1 e §3. Escopo ampliado no mesmo dia pra também servir de captura rápida, não só tarefa |
+| 24 | Rotina agendada de "varredura de conexão" (2026-08-22) | Primeiro componente autônomo do sistema — roda 1x/dia na nuvem (Anthropic), fora de qualquer conversa. Ver seção "Automação agendada" abaixo |
+
+---
+
+### Automação agendada (2026-08-22)
+
+**Origem:** o Tiago comentou num post do Threads sobre querer que a IA "continue pensando em
+cima das notas" mesmo quando ele não está numa conversa. Um post arquivado sobre o método
+Karpathy (`ARQUIVADOS/Post X - ...`), reinferido no mesmo dia, validou o formato: relatório
+diário pra revisão humana, não edição direta e silenciosa.
+
+**O que existe:** uma rotina (`RemoteTrigger`, id `trig_01LV4SNWBnq2mbdYzP3VDJ9w`) que sobe um
+agente Claude Code isolado **na nuvem da Anthropic**, todo dia às 9h UTC (6h em São Paulo).
+
+**Mecanismo, passo a passo:**
+1. A sessão na nuvem clona o repositório GitHub (`tiagoriveira/sistema-informa-es-oficial-agosto2026`)
+   — não tem acesso ao disco local nem ao OneDrive.
+2. Varre `KNOWLEDGE/`, `RECURSOS/`, `ideias/`, `PROJETOS/`, `AREAS/` e a raiz, procurando três
+   coisas: página órfã (sem `[[link]]` apontando pra ela), conceito citado em 2+ páginas sem ter
+   página própria, e nota modificada nos últimos 2 dias com `## Relacionado` ausente ou fraco
+   (<2 links).
+3. Escreve os achados (máx. 8 itens) numa seção fixa do `TAREFAS.md` —
+   `## Conexões sugeridas pela IA (revisão automática)` — **substituindo** o conteúdo da rodada
+   anterior, nunca acumulando.
+4. `git commit` + `git push` pro GitHub.
+
+**Por que o resultado só aparece no vault local depois de um `git pull`:** a rotina só enxerga o
+git remoto, não a pasta OneDrive. O Claude Code lê `git pull` no início de toda sessão
+(`CLAUDE.md` §3), então na prática o Tiago nunca precisa lembrar de puxar manualmente — a próxima
+conversa já traz o resultado do dia.
+
+**Limites de propósito, escritos no prompt da rotina:** só edita a seção específica do
+`TAREFAS.md`; nunca cria, edita ou apaga página em `KNOWLEDGE/`; nunca decide sozinha se uma
+sugestão é válida — só propõe. Testada ao vivo em 2026-08-22 (run manual, ~2min40s de ponta a
+ponta): achou e descartou sozinha 1 falso positivo (`KNOWLEDGE/LEIA-ME.md`, README de
+infraestrutura, não conceito órfão de verdade) antes de aceitar os 4 achados finais — mostra
+julgamento além de grep cego, mas não é garantia contra falso positivo em geral.
+
+**Trade-off aceito conscientemente:** a rotina não tem memória de execuções passadas além do que
+está no git — não sabe se uma sugestão já foi vista e ignorada. Isso é aceitável porque cada
+rodada é um retrato do estado atual (item resolvido some sozinho na próxima rodada), não um
+histórico crescente.
+
+**Gerenciamento:** pausar, editar ou apagar só em [claude.ai/code/routines](https://claude.ai/code/routines) — a API de criação não permite apagar.
 
 ---
 

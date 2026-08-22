@@ -19,6 +19,15 @@ escolha) — bias catalogado, lógica formal e epistemologia acadêmica ficaram 
 pastas do Ybernator continuam arquivadas, sem promoção. Nenhuma página escrita ainda —
 só grade. Ver `mapa-frameworks-de-pensamento.md`, "Nota sobre a grade".
 
+**Ainda em 2026-08-22 — TAREFAS.md, plugins do Obsidian, rotina agendada:** `TAREFAS.md` criado
+como home única de tarefa e captura rápida (consolidou 4 arquivos soltos), depois processados
+vários `#taskia`/`#taskia1-3` capturados nele. Instalados os plugins Spaced Repetition,
+Templater, Tag Wrangler, QuickAdd e Natural Language Dates (`FAQ-PLUGINS.md`), com workflow de
+flashcard pra inglês em [[Como usar Spaced Repetition para aprender inglês]]. Criada e testada
+ao vivo a primeira automação autônoma do sistema: rotina agendada (`RemoteTrigger`,
+1x/dia, 9h UTC) que varre o vault e sugere conexão perdida numa seção fixa do `TAREFAS.md`, sem
+editar mais nada — ver `ARQUITETURA.md`, "Automação agendada", e `FAQ.md`.
+
 **Sessão de 2026-08-22 — gestao-de-tempo escrita inteira:** as 14 páginas da grade de
 [[mapa-gestao-de-tempo]] (4 fases) foram criadas de uma vez, a pedido do Tiago, seguindo o
 mesmo padrão de [[mapa-copywriting]] e [[mapa-marketing-tecnico]]. Verificação web corrigiu duas

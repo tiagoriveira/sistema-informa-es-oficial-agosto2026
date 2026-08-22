@@ -292,6 +292,22 @@ real de mudanças, sincronizado. Se quiser fazer manual em algum momento, o coma
 **Backup?**
 O OneDrive já sincroniza. Para algo importante de verdade, Git + um remoto privado.
 
+**O que é a seção "Conexões sugeridas pela IA" que aparece no `TAREFAS.md`?**
+É gerada por uma rotina agendada que roda sozinha, 1x por dia (9h UTC / 6h em São Paulo), na
+nuvem — não no seu computador. Ela varre o vault procurando página órfã, conceito citado sem
+página própria, e nota recente com pouco link de saída, e escreve o achado nessa seção. Ela
+**nunca edita nada além dessa seção** — é sugestão pra você revisar, não decisão automática.
+Detalhe técnico completo em `SYSTEM/ARQUITETURA.md`, seção "Automação agendada".
+
+**Por que às vezes a sugestão só aparece depois que eu já abri uma conversa com você?**
+A rotina só enxerga o repositório git, não a pasta do OneDrive direto. Ela escreve e sobe pro
+GitHub; o resultado chega no seu vault local no próximo `git pull` — que eu já faço sozinho no
+início de toda sessão. Então na prática você não precisa lembrar de nada.
+
+**Posso pausar ou mudar o horário dessa rotina?**
+Só em [claude.ai/code/routines](https://claude.ai/code/routines) — não dá pra apagar por API,
+só por lá.
+
 **O vault cresceu e a IA está lenta ou perdida.**
 Gatilhos objetivos em [[ARQUITETURA]] §5: LEARNER acima de ~300 linhas → dividir por tema;
 `index.md` acima de ~300 linhas → considerar busca local.
