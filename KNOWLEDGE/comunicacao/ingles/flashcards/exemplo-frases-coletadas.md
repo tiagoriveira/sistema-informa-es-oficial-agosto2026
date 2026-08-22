@@ -2,6 +2,8 @@
 tags: flashcards
 ---
 
+#flashcards
+
 # Exemplo de baralho — frases coletadas (não lista de vocabulário pronta)
 
 > Cartões de exemplo pra você ver o formato do plugin **Spaced Repetition**
@@ -25,6 +27,14 @@ The campaign is finally gaining traction — o que "gaining traction" significa?
 
 She was straight up with me about the budget cuts — o que "straight up" significa?::Direta, sem rodeios — registro informal.
 
+Can you ballpark how much this campaign will cost?::"Ballpark" (aqui como verbo) — dar uma estimativa aproximada, sem precisão. "Give me a ballpark figure" é a versão mais comum como substantivo.
+
+Let's table this discussion until we have more data.::"To table" em inglês americano significa **adiar/pausar** um assunto — cuidado, é o oposto do sentido mais comum em português de "colocar na mesa para discutir".
+
+We're spread too thin this quarter — o que "spread thin" significa?::Time/recurso sobrecarregado, tentando cobrir coisa demais ao mesmo tempo, com qualidade caindo em cada uma.
+
+I'll follow up with you offline about the pricing details.::"Offline" aqui não é sobre internet — significa "fora dessa reunião/conversa em grupo", num canal separado e mais privado.
+
 ## Cartão de linha única reversa (`Pergunta:::Resposta` — gera nos dois sentidos)
 
 "Não dou a mínima pro prazo":::I couldn't care less about the deadline
@@ -45,7 +55,10 @@ já está ==gaining traction== e ele quer decidir se aumenta o orçamento.
 ## Como usar esse arquivo
 1. Instale e ative o plugin **Spaced Repetition** (já está, ver `FAQ-PLUGINS.md`).
 2. Abra a paleta de comando → "Review flashcards" (ou o ícone de cartão na barra lateral).
-3. Esse arquivo tem a tag `#flashcards` no frontmatter, que é a tag padrão que o plugin escaneia
-   — ele já aparece na fila de revisão sem configuração extra.
+3. Esse arquivo tem a tag `#flashcards` (frontmatter **e** inline no corpo — o inline é o mais
+   confiável) — é a tag padrão configurada no plugin (`flashcardTags` em
+   `.obsidian/plugins/obsidian-spaced-repetition/data.json`). Se o Obsidian já estava aberto
+   quando o arquivo foi criado, pode não ter reindexado sozinho — feche e reabra o Obsidian
+   (ou "Reload app without saving" na paleta de comando) se a revisão continuar vazia.
 4. Quando você tiver suas próprias frases coletadas, adiciona nesse mesmo arquivo ou cria um
    novo com a mesma tag — não precisa ser um arquivo só.
