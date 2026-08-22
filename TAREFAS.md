@@ -19,6 +19,13 @@ _(joga aqui qualquer coisa — pensamento solto, ideia de passagem, algo que voc
 processar depois. Sem julgamento de formato, sem precisar decidir agora se é tarefa, ideia ou
 nota. Organização/triagem acontece depois, quando alguém — você ou eu — vier limpar essa seção.)_
 
+## Conexoes sugeridas pela IA (revisao automatica)
+_(gerado automaticamente em 2026-08-22 -- substituido a cada rodada, nao acumula. Revise e apague o que nao interessar.)_
+- [conceito sem pagina] "Eugene Schwartz" / livro *Breakthrough Advertising* citado (em negrito, sem link) em 2 paginas de copywriting -- `KNOWLEDGE/marketing/copywriting/fase-2-pesquisa-consciencia-e-oferta/niveis-de-consciencia.md` e `sofisticacao-de-mercado.md` -- candidato a pagina de fonte (nao existe pasta `fontes/` em copywriting ainda)
+- [pouco link] `KNOWLEDGE/comunicacao/ingles/flashcards/exemplo-frases-coletadas.md` -- modificado nos ultimos 2 dias, sem secao `## Relacionado`
+- [pouco link] `KNOWLEDGE/marketing/marketing/fase-6-ia-aplicada-a-marketing/automacao-de-campanha-e-verba.md` -- `## Relacionado` com so 1 link (`[[operador-centauro]]`)
+- [pouco link] `KNOWLEDGE/marketing/marketing/fase-6-ia-aplicada-a-marketing/ia-pesquisa-posicionamento-concorrencia.md` -- `## Relacionado` com so 1 link (`[[criacao-e-captura-de-demanda]]`)
+
 ## Hoje / mais urgente
 - [ ] À noite, comprar o celular
 - [ ] Criar campanha na Rede de Display para o Binhos Dog
