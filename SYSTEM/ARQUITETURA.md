@@ -19,7 +19,7 @@ Sistema-de-estudos-tiago-agosto-2026/
 │
 ├── CLAUDE.md                  ← constituição. Carregada automaticamente pelo Claude Code
 ├── INICIO.md                  ← estado atual + porta de entrada (humano e IA)
-├── TAREFAS.md                 ← home única de tarefa do dia a dia (2026-08-22)
+├── TAREFAS.md                 ← home única de tarefa e captura rápida do dia a dia (2026-08-22)
 │
 ├── RAW/                       ← fontes originais. Imutável. Só o Tiago escreve
 │   └── <disciplina>/
@@ -440,7 +440,7 @@ objetivo para reavaliar em "Melhorias futuras".
 | 20 | Proibição de elogio automático (`CLAUDE.md` §8) | "quase isso!" em resposta errada corrompe o modelo e o aprendizado |
 | 21 | Git ativo desde 2026-08-13 | remoto: `github.com/tiagoriveira/sistema-informa-es-oficial-agosto2026`; commit + push automáticos ao fim da sessão desde 2026-08-14 (comando manual no FAQ, se preferir) |
 | 22 | Cinco templates em `_templates/` | funcionam com o plugin Templater, ou como copiar e colar |
-| 23 | `TAREFAS.md` na raiz (2026-08-22) | 4 arquivos de tarefa soltos e paralelos causavam context switching; consolidados numa home única — ver `CLAUDE.md` §1 e §3 |
+| 23 | `TAREFAS.md` na raiz (2026-08-22) | 4 arquivos de tarefa soltos e paralelos causavam context switching; consolidados numa home única — ver `CLAUDE.md` §1 e §3. Escopo ampliado no mesmo dia pra também servir de captura rápida, não só tarefa |
 
 ---
 

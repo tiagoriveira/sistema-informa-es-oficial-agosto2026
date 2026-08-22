@@ -59,6 +59,9 @@ esta ordem não é dogma, desvie quando houver motivo)_
 - [[consistencia-job-narrativa-produto]] — princípio original do Tiago (2026-08-20): job
   definido pelo resultado vira régua pra narrativa, posicionamento e produto — qualquer peça
   que contradiz o job quebra a promessa, não só o produto
+- [[primeiros-principios-5-porques-e-o-job-do-cliente]] — conexão original do Tiago
+  (2026-08-22): primeiros princípios é o axioma/desejo raiz, 5 porquês é o método pra escavar
+  até ele num caso concreto, JTBD é o vocabulário pro que se encontra lá embaixo
 
 ## Perguntas em aberto
 - Desenhar um teste barato na hora ainda é lacuna do aluno (ver LEARNER) — lacuna de

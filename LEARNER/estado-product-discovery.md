@@ -84,3 +84,9 @@ estado: nao_iniciado
 
 Explicado em modo passivo em 2026-08-20 (conceito original do Tiago, não da IA), nunca
 avaliado.
+
+## [[primeiros-principios-5-porques-e-o-job-do-cliente]]
+estado: nao_iniciado
+
+Explicado em modo passivo em 2026-08-22 (conexão original do Tiago entre primeiros princípios,
+5 porquês e JTBD, elaborada pela IA), nunca avaliado.

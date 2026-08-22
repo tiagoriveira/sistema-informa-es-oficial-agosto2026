@@ -24,7 +24,7 @@ não confundir convenção nem conteúdo entre os dois.
 | LEARNER | `LEARNER/estado-<disciplina>.md` | você (automático) | o que o Tiago sabe |
 | SESSIONS | `SESSIONS/AAAA-MM-DD-<disciplina>.md` | você (automático) | o que aconteceu |
 | SYSTEM | `SYSTEM/` + `INICIO.md` | você (automático) | navegação e histórico |
-| TAREFAS | `TAREFAS.md` | você (automático) | tarefa acionável do dia a dia — home única, pra não fragmentar em arquivo solto na raiz |
+| TAREFAS | `TAREFAS.md` | você (automático) | tarefa e captura rápida do dia a dia — home única, pra não fragmentar em arquivo solto na raiz |
 | INBOX | `INBOX/` | você (automático) | notas pessoais cruas, ainda sem categoria |
 | IDEIAS | `ideias/` | você (automático) | ideias pessoais, de produto ou de operação em maturação |
 | PARA | `PROJETOS/` `AREAS/` `RECURSOS/` `ARQUIVADOS/` | você (automático) | destino do INBOX quando não vira KNOWLEDGE — método PARA (Tiago Forte) |
@@ -128,8 +128,10 @@ são lidos como qualquer outra página, sob demanda, quando relevante para a per
 
 **Destino de nota triada (regra PARA, decidida em 2026-08-15 — substitui NOTAS/):**
 - Ideia própria, sem compromisso ativo → `ideias/`
-- Tarefa acionável do dia a dia, sem prazo formal de projeto nem área nomeada → `TAREFAS.md`
-  (criado em 2026-08-22) — home única, uma olhada por dia, nunca arquivo novo solto na raiz
+- Tarefa acionável, ou nota/pensamento solto sem categoria clara ainda → `TAREFAS.md` (criado
+  em 2026-08-22, escopo ampliado no mesmo dia pra captura rápida) — home única, uma olhada por
+  dia, nunca arquivo novo solto na raiz. Nota crua e longa (braindump extenso, texto colado)
+  continua podendo ir pro `INBOX/`; a diferença é que agora nada **obriga** isso
 - Tem prazo e próxima ação clara → `PROJETOS/`
 - Responsabilidade contínua e nomeada pelo Tiago → `AREAS/<nome>/` — a IA não inventa nome de
   área sozinha
