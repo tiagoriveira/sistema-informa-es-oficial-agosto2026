@@ -56,3 +56,22 @@ nota "morta" é ausência de links de saída na nota, não a ferramenta — diag
 não por app. Único aproveitamento real: refinar o LINT do `CLAUDE.md` §4 pra medir densidade
 de link de saída por página, não só existência de link. Não virou conceito em KNOWLEDGE — sem
 fonte primária pra citar.
+
+## Reinferência em 2026-08-22 — conexão que faltou da primeira vez
+
+A atribuição a Karpathy continua sem fonte verificável — isso não muda. Mas a última frase do
+post, ignorada na primeira leitura, é diretamente acionável, independente de quem disse:
+
+> "Comece com uma configuração automatizada de Obsidian + Claude: deixe que a IA extraia
+> conteúdo automaticamente, encontre conexões e gere relatórios diários para você."
+
+Isso conecta com uma ideia do Tiago que ficou sem resposta numa sessão anterior — o comentário
+dele num post do Threads sobre "a ia continuar pensando em cima de suas notas e fazer conexões
+automáticas quando você não estiver por perto" (registrado em [[TAREFAS]]). O post valida a
+forma específica: **relatório diário pra revisão humana, não edição direta e silenciosa do
+vault** — bate com a cautela já registrada de "sugerir, não escrever sozinha" por causa do
+risco de conexão inventada. Não é evidência de que o método é do Karpathy; é evidência de que a
+ideia de "IA que roda agendada e relata conexão nova" é um padrão razoável, com ou sem ele.
+
+**Continua arquivado** — post em si não vira fonte de KNOWLEDGE (mesmo problema de atribuição de
+sempre), mas o padrão acionável está registrado aqui pra não se perder de novo.
