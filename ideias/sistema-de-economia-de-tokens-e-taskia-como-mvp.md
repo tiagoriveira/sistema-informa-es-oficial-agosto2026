@@ -75,6 +75,23 @@ dado — só que do tipo "esse não é o job".
 | `[[link]]` em vez de reexplicar | Aponta pra uma nota que já existe em vez de recontar o contexto de novo | Velocidade + economia ao mesmo tempo — mas só funciona se a nota já tiver o contexto certo, então também testa se o vault está organizado o suficiente pra isso valer a pena |
 | `#feito` | Você mesmo marca que já resolveu algo por fora, pra eu não gastar turno perguntando ou reprocessando | Economia de token pura — único item da lista que ataca só a hipótese 1 |
 
+## Exemplo de uso de cada um
+
+- **`#taskiaN`** — "1. revisa o texto da campanha do Binhos Dog #taskia1 / 2. checa se o brief
+  bate com o público que a gente definiu #taskia2"
+- **`#agora`** — "esquece o resto por enquanto, só isso: qual o próximo passo do projeto do
+  Bruno #agora"
+- **`#curto`** — "o que é overfitting #curto" (resposta esperada: 2-3 linhas, sem exemplo nem
+  aplicação — só a definição)
+- **`#discorra`** — "por que o copy de vendas não pode ser só benefício, sem prova social
+  #discorra" (resposta esperada: mecanismo, exemplo, aplicação, do jeito que já fiz nas notas
+  anteriores)
+- **`[[link]]` em vez de reexplicar** — "aplica o que tá em [[matriz-eisenhower]] nessa lista de
+  tarefa que eu colei aqui embaixo" (em vez de reexplicar o que é urgente vs. importante toda
+  vez que quiser usar o critério)
+- **`#feito`** — "já resolvi a campanha do Binhos Dog sozinho #feito, tira da lista" (você me
+  avisa em vez de eu perguntar status ou reprocessar o item)
+
 ## O que observar depois de usar por uma ou duas semanas
 - Qual desses você usa **sem lembrar que está testando** — isso pesa mais que qualquer um que
   você usa por disciplina/força de hábito.
