@@ -37,11 +37,32 @@ nota. Organização/triagem acontece depois, quando alguém — você ou eu — 
 - [ ] O que vamos precisar utilizar das disciplinas existentes nos projetos em questão? — ver
       [[parceria-marketing-mvp-saas-financeiro]] e [[flywheel-ecossistema-marketing-saas-financeiro]]
 - [ ] Focar em equilibrar a mente — reduzir celular/redes sociais, ler de forma mais consciente
+- [ ] Reflexõa trabalhe 4 horas semana: Em trabalhe 4 horas por semana ele diz sobre ter um modelo e um negóicio que sirva ao fundador e não ter um fundador que sirva ao travalho, isso sgnifica você se adentrar em projetos que irá consumir o seu tempo, te desgatar e prejudicar o seu bem estar, logo minhas iniativas é pertinente ter esse principio como sendo fundamental - alinhar isso ao meu [[Meu perfil pessoal e ikigai]] como sendo algo que eu valorizo. Se conecta com algumas das minhas conexões sobre [[Livro seneca]]
+
+
 
 ## Backlog / sem data
 
 - [ ] Aplicar mais, pensar/estudar menos
-- [ ] Ver quais plugins do Obsidian valem a pena (inclusive os recomendados no Threads)
+- [ ] Ver quais plugins do Obsidian valem a pena — candidatos que apareceram no post do
+      Threads (`tiagoribeiro.rs1`, comentário de `@luangoulart`): **Dataview** e **Open
+      Connections** (embedding/similaridade entre notas) já têm decisão registrada em
+      `SYSTEM/ARQUITETURA.md` #12 e #13 — "não usar", com motivo escrito (a IA não lê o
+      resultado de uma query Dataview, só o código dela; embeddings não compensam nessa escala
+      do vault). Vale só revisitar se esse motivo tiver deixado de fazer sentido, não adotar
+      direto por recomendação externa. **Templater** já é compatível/opcional (`_templates/`,
+      ARQUITETURA #22) — nada a decidir. Validação de fora: o conselho do mesmo comentário pra
+      gerar checklist/prova a partir de síntese própria, não de documento extenso, já é
+      exatamente a regra de citação obrigatória do `CLAUDE.md` §6 — confirma o que já existe,
+      não muda nada.
+- [ ] Decidir: testar plugin de Flashcards/SRS no Obsidian ("Anki Flashcards", sugestão de
+      `@ingles365dias` no mesmo post) como complemento — ou substituto — da escada de revisão
+      que já existe embutida no LEARNER (`CLAUDE.md` §5, níveis 1-5, 1/3/7/16/35 dias)? São dois
+      sistemas de repetição espaçada fazendo o mesmo trabalho de jeitos diferentes — vale
+      decidir antes de rodar os dois em paralelo sem querer. Prompt pronto que ele sugeriu, se
+      quiser testar: "Quero estudar usando SRS. Me guie num passo-a-passo para eu criar e
+      instalar o plugin de Flashcards no Obsidian. Me ajude também a criar Flashcards desse
+      assunto (…). Faça-me follow-up questions. Não tome nenhuma decisão sem me consultar."
 - [ ] Assistir curso do Denner — 1 parte é suficiente
 - [ ] Procurar práticas atuais de marketing pra SaaS no LinkedIn
 - [ ] Ler sobre [[flywheel]]
