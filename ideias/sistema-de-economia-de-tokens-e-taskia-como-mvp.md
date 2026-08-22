@@ -59,6 +59,30 @@ métrica errada.
 ## Relacionado
 [[operador-centauro]] · [[TAREFAS]]
 
+## Dicas de MVP manual pra testar no dia a dia (2026-08-22)
+
+Mesmo espírito do `#taskia`: nenhuma dessas exige build nenhum, é só um jeito de escrever que
+você testa por uso. Cada uma ataca uma hipótese de job diferente — o que você acabar usando
+sem pensar, sem forçar, é o dado real. O que você tentar usar e abandonar em 2 dias também é
+dado — só que do tipo "esse não é o job".
+
+| Padrão | Como usar | Hipótese de job que testa |
+|---|---|---|
+| `#taskiaN` (já validado) | Numerar vários pedidos separados na mesma mensagem/captura, pra eu processar cada um discretamente sem misturar contexto | Velocidade de acionabilidade — várias intenções batchadas sem precisar de várias idas e vindas |
+| `#agora` | Marca o item que eu devo agir **nessa resposta**, ignorando o resto da lista por enquanto | Velocidade — sinaliza prioridade sem precisar reexplicar por que é urgente |
+| `#curto` | Pede resposta direta, sem elaboração — o oposto do "discorra" que você já usa naturalmente | Economia de token — testa se controlar profundidade pelo input, não pelo output, economiza de verdade |
+| `#discorra` (já usa, informal) | Pede o tratamento completo — mecanismo, exemplo, aplicação | Contraste com `#curto`: se você usa "discorra" com frequência muito maior que "#curto", o job não é economizar token, é profundidade sob demanda |
+| `[[link]]` em vez de reexplicar | Aponta pra uma nota que já existe em vez de recontar o contexto de novo | Velocidade + economia ao mesmo tempo — mas só funciona se a nota já tiver o contexto certo, então também testa se o vault está organizado o suficiente pra isso valer a pena |
+| `#feito` | Você mesmo marca que já resolveu algo por fora, pra eu não gastar turno perguntando ou reprocessando | Economia de token pura — único item da lista que ataca só a hipótese 1 |
+
+## O que observar depois de usar por uma ou duas semanas
+- Qual desses você usa **sem lembrar que está testando** — isso pesa mais que qualquer um que
+  você usa por disciplina/força de hábito.
+- Se `#curto` for raro e `#discorra` for comum, a hipótese 1 (economia de token) provavelmente
+  cai — você prefere gastar token por profundidade, então o job real é outra coisa.
+- Se `#agora` e `#taskiaN` forem os mais usados, a hipótese 2 (velocidade de acionabilidade) fica
+  mais forte — o que você quer é reduzir a distância entre pensar e agir, não o custo em si.
+
 ## Status — em aberto
 Sem validação nenhuma ainda. Decisão de continuar só observando o `#taskia` manual, ou formalizar
 como feature, fica em aberto — esta nota existe só pra não perder o pensamento.
