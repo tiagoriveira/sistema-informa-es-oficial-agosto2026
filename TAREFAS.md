@@ -44,25 +44,6 @@ nota. Organização/triagem acontece depois, quando alguém — você ou eu — 
 ## Backlog / sem data
 
 - [ ] Aplicar mais, pensar/estudar menos
-- [ ] Ver quais plugins do Obsidian valem a pena — candidatos que apareceram no post do
-      Threads (`tiagoribeiro.rs1`, comentário de `@luangoulart`): **Dataview** e **Open
-      Connections** (embedding/similaridade entre notas) já têm decisão registrada em
-      `SYSTEM/ARQUITETURA.md` #12 e #13 — "não usar", com motivo escrito (a IA não lê o
-      resultado de uma query Dataview, só o código dela; embeddings não compensam nessa escala
-      do vault). Vale só revisitar se esse motivo tiver deixado de fazer sentido, não adotar
-      direto por recomendação externa. **Templater** já é compatível/opcional (`_templates/`,
-      ARQUITETURA #22) — nada a decidir. Validação de fora: o conselho do mesmo comentário pra
-      gerar checklist/prova a partir de síntese própria, não de documento extenso, já é
-      exatamente a regra de citação obrigatória do `CLAUDE.md` §6 — confirma o que já existe,
-      não muda nada.
-- [ ] Decidir: testar plugin de Flashcards/SRS no Obsidian ("Anki Flashcards", sugestão de
-      `@ingles365dias` no mesmo post) como complemento — ou substituto — da escada de revisão
-      que já existe embutida no LEARNER (`CLAUDE.md` §5, níveis 1-5, 1/3/7/16/35 dias)? São dois
-      sistemas de repetição espaçada fazendo o mesmo trabalho de jeitos diferentes — vale
-      decidir antes de rodar os dois em paralelo sem querer. Prompt pronto que ele sugeriu, se
-      quiser testar: "Quero estudar usando SRS. Me guie num passo-a-passo para eu criar e
-      instalar o plugin de Flashcards no Obsidian. Me ajude também a criar Flashcards desse
-      assunto (…). Faça-me follow-up questions. Não tome nenhuma decisão sem me consultar."
 - [ ] Assistir curso do Denner — 1 parte é suficiente
 - [ ] Procurar práticas atuais de marketing pra SaaS no LinkedIn
 - [ ] Ler sobre [[flywheel]]
@@ -93,3 +74,9 @@ _(fica aqui até a próxima limpeza da seção, só pra dar a satisfação — d
 - [x] `#taskia3` — ideia de sistema de economia de tokens, com o `#taskia` como MVP não
       intencional — feito em 2026-08-22, ver
       [[sistema-de-economia-de-tokens-e-taskia-como-mvp]]
+- [x] Plugins do Obsidian recomendados no Threads, decididos e instalados — feito em
+      2026-08-22: `Spaced Repetition`, `Templater`, `Tag Wrangler`, `QuickAdd`,
+      `Natural Language Dates`. Dataview e embedding ficaram de fora, por decisão já registrada
+      (ARQUITETURA #12/#13). Ver [[FAQ-PLUGINS]] (uso de cada um) e
+      [[Como usar Spaced Repetition para aprender inglês]] (workflow completo + exemplo em
+      [[exemplo-frases-coletadas]])

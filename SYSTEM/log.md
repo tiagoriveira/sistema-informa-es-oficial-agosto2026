@@ -1167,3 +1167,13 @@ exploração vs. explotação, antifragilidade, contabilidade mental, skin in th
 arquitetura de escolha). Bias catalogado, lógica formal, epistemologia acadêmica e neurociência
 de percepção ficaram de fora — as 6 pastas do Ybernator continuam arquivadas, intactas, sem
 promoção. Nenhuma página de conceito escrita ainda — só ampliação de grade.
+
+## [2026-08-22] system | plugins do Obsidian + workflow de flashcards para ingles
+
+Instalados e verificados: Spaced Repetition, Templater, Tag Wrangler, QuickAdd, Natural
+Language Dates (todos recomendados em comentarios de um post no Threads). Dataview e
+plugin de embedding ficaram de fora, por decisao ja registrada em ARQUITETURA #12/#13.
+Criado FAQ-PLUGINS.md na raiz (uso de cada plugin), RECURSOS/Como usar Spaced Repetition
+para aprender ingles.md (workflow completo) e KNOWLEDGE/comunicacao/ingles/flashcards/
+exemplo-frases-coletadas.md (baralho de exemplo). mapa-ingles.md atualizado linkando os
+dois. TAREFAS.md: 2 itens do backlog marcados como feitos.

@@ -15,8 +15,10 @@ Idioma não segue bem o modelo "página de conceito com ideia central em uma fra
 disciplinas:
 - **Regra gramatical reutilizável** (ex: present perfect, phrasal verbs) → vira página de
   conceito normal.
-- **Vocabulário** → não vira página por palavra; agrupa em lista temática dentro de uma
-  página, ou fica só como evidência no LEARNER.
+- **Vocabulário** → não vira página por palavra nem lista temática pronta; vira cartão de
+  repetição espaçada, um por frase coletada de uso real — ver
+  [[Como usar Spaced Repetition para aprender inglês]] (registrado em 2026-08-22, depois de
+  instalar o plugin `obsidian-spaced-repetition`) e exemplo em [[exemplo-frases-coletadas]].
 - **Prática de uso** (conversação, escrita) → não é "conceito"; a avaliação registra o que
   saiu certo/errado no LEARNER, sem página em KNOWLEDGE.
 
