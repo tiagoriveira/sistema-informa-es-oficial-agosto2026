@@ -28,7 +28,10 @@ nota. Organização/triagem acontece depois, quando alguém — você ou eu — 
 - [ ] Criar doc de Como falar com as ias com simbolos ? ex: "_O símbolo padrão da matemática para "é diferente de" é o **`≠`** (==um sinal de igual com um corte diagonal==). Ele indica que dois valores ou expressões não são iguais. Exemplo: 5 ≠ 3 (cinco é diferente de três)" etc... - objetivo é para ter mais fluencia ao conversar com as ias e elas terem um processo de inferencia melhor e errar menos #taskia 
 - [ ] #taskia no arquivo [[Transcrição video - Curso Marketing com IA Fernando Miranda (0 a 44min)]] ele menciona sobre ia não ser boa pra copy ou algo do tipo porq tem algumas nuances q ela não pega e fica por parte do humano entrar, o q ele quisdizer ?
 - [ ] Um dos principios do meu ikigai é ter qualidade de tempo e valorizo muito os principios que o seneca recomenda seguir no livro a brevidade da vida, então não gosto de perder tempo com coisas futeis ou apenas por vaidade pra impressionar, eu não posso viver em função de outros e sim função a desejos intrinsecos, eu tambem tenho como principio primeiro pensar pelo problema e depois preparar a solução ( jobs to be done e primeiros principios ) - tambem valorizo a filosofia do sem esforço,se eu estiver me esfoirmçando demais pode ter algo errado. até então esse é um dos meus principios, então modelos de negócios e meus projetos e iniciativas devem ter como base essas premiss - alinhha com meu ikigai ? com meu perfil ? notas relacionadas: [[Reflexõa trabalhe 4 horas semana]] [[ikigai]] [[Meu perfil pessoal e ikigai]] #taskia4
-
+- [ ] trascrever esses 3 videos:
+- [ ] 1.  [(3) AULA 3 · qua 12/08 - Cardápio Digital Magnético: o destino que faz o tráfego dar lucro - YouTube](https://www.youtube.com/watch?v=Kyl9o3tBybM&list=PLLlOzr8fxFfE) - 2. https://www.youtube.com/watch?v=g-SeAG-0fDY 3. https://www.youtube.com/watch?v=pYmB_qO66XY #taskia 
+- [ ] G-T3H41V396R
+- [ ] [Visão geral - Binho's Dog - Google Ads](https://ads.google.com/aw/overview?ocid=8488881267&euid=629243238&__u=8171099062&uscid=8488881267&__c=5900630683&authuser=3) Link google ads centro
 ## Essa semana
 - [ ] Ter uma semana organizada pra produzir mais e melhor
 - [ ] O que vamos precisar utilizar das disciplinas existentes nos projetos em questão? — ver
@@ -44,8 +47,9 @@ nota. Organização/triagem acontece depois, quando alguém — você ou eu — 
 - [ ] Ler sobre [[flywheel]]
 
 
-## Pra dar uma olhada (referência, não é tarefa) 
-
+## Pra dar uma olhada (referência, não é tarefa)
+- [SaaS isn't dead, but it's getting harder — r/SaaS](https://www.reddit.com/r/SaaS/comments/1vry2tu/saas_isnt_dead_but_i_honestly_think_its_getting/)
+- [Reel salvo do Instagram](https://www.instagram.com/reels/DcTdLfYAJ53/)
 
 ## Feito recentemente
 _(fica aqui até a próxima limpeza da seção, só pra dar a satisfação — depois some)_
